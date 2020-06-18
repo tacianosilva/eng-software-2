@@ -7,6 +7,9 @@ Também teremos informações sobre os projetos e equipes.
 
 Acesse o index.html para mais destalhes sobre a disciplina.
 
+## Projetos da Disciplina
+
+
 ## Informações
 
 * Descrição das [Tarefas](docs/tarefas.md)
