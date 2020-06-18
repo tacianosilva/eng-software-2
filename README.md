@@ -3,7 +3,9 @@
 Site para a Disciplina Engenharia de Software II - 2020.5
 
 Neste site teremos as páginas dos alunos da disciplina e exemplos de uso de html5, css e javascript. 
-Também teremos informações sobre os projetos e equipes. Acesse o index.html para mais destalhes sobre a disciplina.
+Também teremos informações sobre os projetos e equipes. 
+
+Acesse o index.html para mais destalhes sobre a disciplina.
 
 ## Informações
 
