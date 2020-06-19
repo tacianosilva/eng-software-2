@@ -25,6 +25,8 @@ O framework utilizado será o Angular, ele é um framework javascript usado para
 O IDE utilizado será o Visual Studio Code, ele é bem conhecido por ser leve no começo, e ir se adequando a necessidade do programador, dando suporte a várias linguagens e frameworks diferentes usando de alguns plugins instaláveis na própria IDE. Algumas de suas funcionalidades básicas para desenvolvimento são: Uma ferramenta de debug de JavaScript, TypeScript e suporte a projetos em Node.js, como também um suporte a Git, mostrando histórico de arquivos, comparação de ramos, sem contar o suporte a Git que existe na sua biblioteca de extensões.
 
 
+Tutorial CRUD em Node.js: https://www.youtube.com/watch?v=4fWWn2Pe2Mk
+
 
 
 
