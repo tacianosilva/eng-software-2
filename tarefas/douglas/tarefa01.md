@@ -46,3 +46,21 @@ Os repositorios no GitHub funcionam como uma arvore. Ou seja, o começo de um re
 **Pull Request** é uma forma de enviar o projeto, onde o GitHub automaticamente irá analisar o commit da sua branch e comparar com o que ja estava. Assim, ele terá certeza que é uma atualização e ajudará a ter um controle de versão mais eficiente.
 
 
+## Débito Técnico
+
+**Débito técnico**, é um conceito no desenvolvimento de software que representa o custo implícito de uma implementação/solução pensada somente no agora, em vez de usar uma abordagem com melhor qualidade porém que levaria mais tempo. Pode ser comparado com uma dívida financeira, quando você se afoga com os juros e termina sem ter como pagar. Ou seja, com essa analogia, nos afogamos com nosso código e se torna mais dificil manter manutenibilidade. 
+
+### Motivos do surgimento de um débito técnico
+
+* Prazos fora da realidade
+* Falta de conhecimento técnico
+* Escolha de tecnologia inadequada
+* Passar do tempo
+* Falta de uma metodologia de desenvolvimento iterativa (sem feedback e teste do cliente)
+
+### Tipos de Débito Técnico:
+
+* Imprudente intencional: “Sabemos do problemas mas não vamos resolver!”
+* Imprudente não intencional: “Trabalhar com uma nova linguagem de programação”
+* Consciente intencional: “Temos um prazo X, precisamos entregar com esse problemas, depois corrigimos”
+* Consciente não intencional: “Agora que entregamos o projeto sabemos como deveríamos ter feito.”
