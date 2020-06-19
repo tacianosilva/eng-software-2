@@ -9,3 +9,10 @@ douglasbaltazar1@gmail.com
 ## GymHero
 
 O Gym Hero promete oferecer serviços aos Administradores de Academia, tendo toda o aparato para administrar por completo um estabelecimento.
+
+## Equipe
+
+* Douglas Pacelli Maia Baltazar
+* Everton Ankelys Fernandes Bezerra
+* Fernando José dos Santos
+* José Rubens de Oliveira Junior 
