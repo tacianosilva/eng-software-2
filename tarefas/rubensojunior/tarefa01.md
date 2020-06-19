@@ -25,4 +25,4 @@ Node.js (Express.js) - Ao contrário do que muitos pensam, Node.js não é um fr
 
 ## Ambiente de Desenvolvimento
 
-O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. Funciona em diversos sistemas operacionais, como o Windows e Linux. Possui diversas funções interessantes para os desenvolvedores como realce de sintaxe, complementação inteligente do código, snippets e refatoração de código. Além disso, o VS Code ainda conta com suporte à plugins criados pela comunidade, fazendo com que se torne ainda mais completo.
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. Funciona em diversos sistemas operacionais, como o Windows e Linux. Possui diversas funções interessantes para os desenvolvedores como realce de sintaxe, complementação inteligente do código, snippets, git incorporado e refatoração de código. Além disso, o VS Code ainda conta com suporte à plugins criados pela comunidade, fazendo com que se torne ainda mais completo.
