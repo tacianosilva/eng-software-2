@@ -20,4 +20,8 @@ Tiago José Vieira de Oliveira
 
 A linguagem utilizada será Javascript, ela é muito usada juntamente com HTML e CSS, para fazer paginas web, já tive um primeiro contato com tal tecnologia, no entanto, faz muito tempo e terei que estudá-la.
 
+O framework utilizado será o Angular, ele é um framework javascript usado para a criação de SPA's (Single Page Aplications) para que quando o usuário receba os arquivos da pagina web, ele não precise receber novas páginas do servidor (É como se elas já fossem salvar na sua máquina no momento que você entra no site). Nunca utilizei essa tecnología e planejo estudá-la para fazer este projeto.
+
+
+
 
