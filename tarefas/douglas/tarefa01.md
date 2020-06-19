@@ -24,3 +24,7 @@ A linguagem que será utilizada no sistema será JavaScript, por meio dos framew
 ## ReactJS
 
 O ReactJS faz com que a criação de UIs interativas sejam uma tarefa muito mais facil. O React também pode ser renderizado no servidor, usando Node, e ser usado para criar aplicações mobile, através do React Native.
+
+## VSCode
+
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows. É uma versão mais simplificada do VirtualStudio. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
