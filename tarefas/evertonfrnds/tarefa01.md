@@ -34,3 +34,9 @@ O Visual Studio Code é um editor de código-fonte gratuito criado pela Microsof
 
 [Crud NodeJS + Express](https://blog.geekhunter.com.br/criar-crud-nodejs/)
 
+## Branches e Pull request
+
+Branches: Em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
+Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+Pull request: O Pull Request sinaliza a finalização de alguma feature ou etapa do desenvolvimento. Consiste em enviar para o repositório principal alterações no desenvolvimento do código. Esta operação deve ser feita somente com a certeza que o código alterado não representou riscos as demais funcionalidades.
