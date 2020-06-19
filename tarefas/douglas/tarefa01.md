@@ -33,7 +33,7 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 ## CRUD
 
-[CRUD de Produtos com ReactJS] (https://www.youtube.com/watch?v=enxpq9EYyew)
+[CRUD de Produtos com ReactJS](https://www.youtube.com/watch?v=enxpq9EYyew)
 
 ## Branch's e Pull's Requests
 
