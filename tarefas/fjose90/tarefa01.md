@@ -20,6 +20,10 @@
 
 # 3. Linguagem e Tecnologias usadas
 Vamos usar o javascript para fazer o sistema, utilizando o React que é uma das formas mais modernas de se criar aplicações web! Os criadores definem o React como uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário.
-SERVIDOR Node.js que é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente para os servidores!
+1. SERVIDOR Node.js que é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente para os servidores!
+2. IDE nós usamos o VSCODE que permite o uso de várias extensões e muito produtivo.
+3. DEBUG o  VSCODE tem as ferramentas de debug que precisamos, ela pode ser instalada através de extensão.
+  
+
 
  
