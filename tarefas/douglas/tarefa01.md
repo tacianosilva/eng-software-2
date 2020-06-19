@@ -20,3 +20,7 @@ O Gym Hero promete oferecer serviços aos Administradores de Academia, tendo tod
 ## Linguagem
 
 A linguagem que será utilizada no sistema será JavaScript, por meio dos frameworks ReactJS e NodeJS. Não tenho o domínio geral da linguagem, mas já era uma linguagem que estava estudando no período da quarentena e agora tenho oportunidade de melhorar ainda mais o conhecimento já pré adquirido.
+
+## ReactJS
+
+O ReactJS faz com que a criação de UIs interativas sejam uma tarefa muito mais facil. O React também pode ser renderizado no servidor, usando Node, e ser usado para criar aplicações mobile, através do React Native.
