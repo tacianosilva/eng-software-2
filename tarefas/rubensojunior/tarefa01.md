@@ -26,3 +26,15 @@ Node.js (Express.js) - Ao contrário do que muitos pensam, Node.js não é um fr
 ## Ambiente de Desenvolvimento
 
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. Funciona em diversos sistemas operacionais, como o Windows e Linux. Possui diversas funções interessantes para os desenvolvedores como realce de sintaxe, complementação inteligente do código, snippets, git incorporado e refatoração de código. Além disso, o VS Code ainda conta com suporte à plugins criados pela comunidade, fazendo com que se torne ainda mais completo.
+
+# Branches e Pull Request
+
+Branch - Trata-se de uma ramificação no git. É um ponteiro para as alterações feitas nos arquivos dos projetos. Muitos desenvolvedores utilizam branches para alterar o código livremente sem modificar o branch master, que é a principal ramificação do projeto. Alterações no branch master pode ocasionar problemas, como a quebra do código e bugs indesejados, portanto, utilizar ramificações se torna uma alternativa segura para o desenvolvimento contínuo. Além disso, é possível criar diversas versões do software utilizando essa importante função do git.
+
+Pull Request - O Pull Request sinaliza a finalização de alguma feature ou etapa do desenvolvimento. Consiste em enviar para o repositório principal alterações no desenvolvimento do código. Esta operação deve ser feita somente com a certeza que o código alterado não representou riscos as demais funcionalidades.
+
+# Débito técnico
+
+Débito técnico é um conceito de desenvolvimento de software que consiste na representação do custo implícito de uma implementação pensada somente no agora, ignorando possíveis modificações trabalhosas no futuro. Quando desenvolmemos software de qualidade precisamos seguir uma série de boas práticas, pois quando ignoramos essas práticas podemos perder muito mais tempo durante o crescimento da aplicação. O débito técnico acumula-se quando ignorado, e existe diversas práticas que o ocasionam como: prazos fora da realidade, falta de conhecimento técnico, escolha de tecnologia errada, código duplicado, cobertura de testes inadequada e etc.
+
+# Links Úteis
