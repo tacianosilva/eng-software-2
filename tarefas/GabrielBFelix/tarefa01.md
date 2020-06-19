@@ -27,9 +27,5 @@ O IDE utilizado será o Visual Studio Code, ele é bem conhecido por ser leve no
 
 Tutorial CRUD em Node.js: https://www.youtube.com/watch?v=4fWWn2Pe2Mk
 
-
-
-
-
-
-
+    Primeiro, explicando "Branches", digamos que um repositório tenha apenas a branch "master", master sendo um apontador que aponta para o commit mais recente do projeto, no momento em que o comando "git branch x" é usado, outro apontador é criado, apontando para o commit em que você está no momento (Nesse caso, o mesmo commit do master, pois ele é a única outra branch que existe), agora com essas duas branches criadas, você pode fazer um commit estando na branch master, fazendo com que a branch master avançe em 1 commit, no entanto, a branch "x" (criada no comando "git branch x") vai continuar apontando para o commit passado, assim, essas duas branches podem apontar para dois commits diferente, servindo para fazer duas funcionalidades diferentes, ao mesmo tempo, por dois programadores diferentes, fazendo com que o trabalho e o esforço seja dividido. 
+    Agora explicando o git pull, o "git pull" vai pegar as ultimas mudanças de uma branch de um repositório remoto, então, se existe dois programadores trabalhando em uma branch, vamos chama-los de "X" e "Y', consideremos que o programador X deu um "git push", empurrando suas mudanças para o repositório remoto, para que o repositório local do programador Y receba essas mudanças, o programador Y terá que dar um "git pull" fazendo com que o seu repositório local fosse atualizado com as mudanças mais recentes do repositório remoto (mudanças essas tendo sido enviadas pelo programador "X").
