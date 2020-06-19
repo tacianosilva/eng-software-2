@@ -39,3 +39,7 @@ Branches: Em tradução literal, significa “ramo”. No mundo da programação
 Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
 
 Pull request: O Pull Request sinaliza a finalização de alguma feature ou etapa do desenvolvimento. Consiste em enviar para o repositório principal alterações no desenvolvimento do código. Esta operação deve ser feita somente com a certeza que o código alterado não representou riscos as demais funcionalidades.
+
+## Débito técnico
+
+Débito técnico é um conceito de desenvolvimento de software que consiste na representação do custo implícito de uma implementação pensada somente no agora, ignorando possíveis modificações trabalhosas no futuro. Quando desenvolmemos software de qualidade precisamos seguir uma série de boas práticas, pois quando ignoramos essas práticas podemos perder muito mais tempo durante o crescimento da aplicação. O débito técnico acumula-se quando ignorado, e existe diversas práticas que o ocasionam como: prazos fora da realidade, falta de conhecimento técnico, escolha de tecnologia errada, código duplicado, cobertura de testes inadequada e etc.
