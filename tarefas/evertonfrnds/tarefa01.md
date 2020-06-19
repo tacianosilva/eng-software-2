@@ -29,3 +29,8 @@ Node.js (Express.js) - Ao contrário do que muitos pensam, Node.js não é um fr
 
 Visual Studio Code: 
 O Visual Studio Code é um editor de código-fonte gratuito criado pela Microsoft para Windows, Linux e macOS. Os recursos incluem suporte para depuração, destaque de sintaxe, conclusão inteligente de código, trechos, refatoração de código e Git incorporado.
+
+## Links
+
+[Crud NodeJS + Express](https://blog.geekhunter.com.br/criar-crud-nodejs/)
+
