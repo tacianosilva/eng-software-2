@@ -23,9 +23,9 @@ A equipe se chama JUREMASTEC SOCIAL, com os seguintes integrantes:
 
 ## Tecnologias
 
-ReactJS - ReactJS é uma biblioteca JavaScript para criação de interfaces gráficas no ambiente web. Foi desenvolvida pelo Facebook para resolver alguns problemas pontuais que outros frameworks/bibliotecas não resolviam. Através dela é possível criar Single Page Applications (SPA) complexas. Para desenvolver em React é possível utilizar JavaScript ou TypeScript. Essa biblioteca não utiliza HTML diretamente na construção de suas interfaces, e sim, JSX - forma alternativa de escrever HTML utilizando JavaScript. Para estilização das páginas utiliza-se CSS.
+- ReactJS - ReactJS é uma biblioteca JavaScript para criação de interfaces gráficas no ambiente web. Foi desenvolvida pelo Facebook para resolver alguns problemas pontuais que outros frameworks/bibliotecas não resolviam. Através dela é possível criar Single Page Applications (SPA) complexas. Para desenvolver em React é possível utilizar JavaScript ou TypeScript. Essa biblioteca não utiliza HTML diretamente na construção de suas interfaces, e sim, JSX - forma alternativa de escrever HTML utilizando JavaScript. Para estilização das páginas utiliza-se CSS.
 
-Node.js (Express.js) - Ao contrário do que muitos pensam, Node.js não é um framework, na verdade trata-se de um interpretador de JavaScript. O Node.js permite que desenvolvedores escrevam código para o backend da aplicação. No mercado existem vários frameworks para o Node.js, no caso do projeto em questão será utilizado o Express.js, que fornece uma estrutura bastante interessante para construção de APIs.
+- Node.js (Express.js) - Ao contrário do que muitos pensam, Node.js não é um framework, na verdade trata-se de um interpretador de JavaScript. O Node.js permite que desenvolvedores escrevam código para o backend da aplicação. No mercado existem vários frameworks para o Node.js, no caso do projeto em questão será utilizado o Express.js, que fornece uma estrutura bastante interessante para construção de APIs.
 
 ## Ambiente de Desenvolvimento
 
@@ -33,9 +33,9 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. 
 
 # Branches e Pull Request
 
-Branch - Trata-se de uma ramificação no git. É um ponteiro para as alterações feitas nos arquivos dos projetos. Muitos desenvolvedores utilizam branches para alterar o código livremente sem modificar o branch master, que é a principal ramificação do projeto. Alterações no branch master pode ocasionar problemas, como a quebra do código e bugs indesejados, portanto, utilizar ramificações se torna uma alternativa segura para o desenvolvimento contínuo. Além disso, é possível criar diversas versões do software utilizando essa importante função do git.
+- Branch - Trata-se de uma ramificação no git. É um ponteiro para as alterações feitas nos arquivos dos projetos. Muitos desenvolvedores utilizam branches para alterar o código livremente sem modificar o branch master, que é a principal ramificação do projeto. Alterações no branch master pode ocasionar problemas, como a quebra do código e bugs indesejados, portanto, utilizar ramificações se torna uma alternativa segura para o desenvolvimento contínuo. Além disso, é possível criar diversas versões do software utilizando essa importante função do git.
 
-Pull Request - O Pull Request sinaliza a finalização de alguma feature ou etapa do desenvolvimento. Consiste em enviar para o repositório principal alterações no desenvolvimento do código. Esta operação deve ser feita somente com a certeza que o código alterado não representou riscos as demais funcionalidades.
+- Pull Request - O Pull Request sinaliza a finalização de alguma feature ou etapa do desenvolvimento. Consiste em enviar para o repositório principal alterações no desenvolvimento do código. Esta operação deve ser feita somente com a certeza que o código alterado não representou riscos as demais funcionalidades.
 
 # Débito técnico
 
