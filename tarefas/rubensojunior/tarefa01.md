@@ -37,4 +37,7 @@ Pull Request - O Pull Request sinaliza a finalização de alguma feature ou etap
 
 Débito técnico é um conceito de desenvolvimento de software que consiste na representação do custo implícito de uma implementação pensada somente no agora, ignorando possíveis modificações trabalhosas no futuro. Quando desenvolmemos software de qualidade precisamos seguir uma série de boas práticas, pois quando ignoramos essas práticas podemos perder muito mais tempo durante o crescimento da aplicação. O débito técnico acumula-se quando ignorado, e existe diversas práticas que o ocasionam como: prazos fora da realidade, falta de conhecimento técnico, escolha de tecnologia errada, código duplicado, cobertura de testes inadequada e etc.
 
-# Links Úteis
+# Links Úteis de tutoriais
+
+[ReactJS](https://www.youtube.com/watch?v=ghEdUzwRsHo)
+[Express.js](https://www.youtube.com/watch?v=pgHcWAh9sFA&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
