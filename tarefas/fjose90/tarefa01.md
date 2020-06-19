@@ -23,7 +23,10 @@ Vamos usar o javascript para fazer o sistema, utilizando o React que é uma das 
 1. SERVIDOR Node.js que é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente para os servidores!
 2. IDE nós usamos o VSCODE que permite o uso de várias extensões e muito produtivo.
 3. DEBUG o  VSCODE tem as ferramentas de debug que precisamos, ela pode ser instalada através de extensão.
-  
+ 
+# 4. Link de CRUDS
+https://www.youtube.com/watch?v=S66rHpyU-Eg
+https://www.youtube.com/watch?v=HZkN0LfC5dM
 
 
  
