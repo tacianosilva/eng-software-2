@@ -1,8 +1,8 @@
 # Tarefa 01 - 2020.5 - Git e GitHub com Markdown
 
-Douglas Pacelli Maia Baltazar
-douglasbaltazar ( https://github.com/douglasbaltazar/ )
-douglasbaltazar1@gmail.com
+**Douglas Pacelli Maia Baltazar**
+**douglasbaltazar ( <https://github.com/douglasbaltazar/> )**
+**douglasbaltazar1@gmail.com**
 
 # Projeto da Disciplina Engenharia de Software II
 
@@ -31,4 +31,12 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 ## CRUD
 
-CRUD de Produtos com ReactJS ( https://www.youtube.com/watch?v=enxpq9EYyew )
+[CRUD de Produtos com ReactJS] (https://www.youtube.com/watch?v=enxpq9EYyew)
+
+## Branch's e Pull's Requests
+
+### Branchs:
+
+**Branch** 
+
+### Pull's Requests:
