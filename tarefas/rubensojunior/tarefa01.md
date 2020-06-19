@@ -8,14 +8,18 @@
 
 ## Sobre
 
-À definir
+O projeto consiste em um sistema web para gerenciamento de academias, onde o gerente poderá cadastrar-se para ter acesso às funcionalidades do software.
 
 ## Equipe
 
-Douglas Pacelli Maia Baltazar
-Everton Ankelys Fernandes Bezerra
-Fernando
-José Rubens de Oliveira Junior
+A equipe se chama JUREMASTEC SOCIAL, com os seguintes integrantes:
+
+|               Nome                |      Usuário (Github)      |              Email               |
+| :-------------------------------: | :------------------------: | :------------------------------: |
+|   Douglas Pacelli Maia Baltazar   | github.com/douglasbaltazar |    douglasbaltazar1@gmail.com    |
+| Everton Ankelys Fernandes Bezerra |  github.com/evertonfrnds   |    evertonfernand23@gmail.com    |
+|     Fernando José dos Santos      |     github.com/fjose90     | fernando.jose.santos@hotmail.com |
+|  José Rubens de Oliveira Junior   |  github.com/rubensojunior  |     rubensojunior6@gmail.com     |
 
 ## Tecnologias
 
@@ -39,5 +43,5 @@ Débito técnico é um conceito de desenvolvimento de software que consiste na r
 
 # Links Úteis de tutoriais
 
-[ReactJS](https://www.youtube.com/watch?v=ghEdUzwRsHo)
-[Express.js](https://www.youtube.com/watch?v=pgHcWAh9sFA&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
+- [ReactJS](https://www.youtube.com/watch?v=ghEdUzwRsHo)
+- [Express.js](https://www.youtube.com/watch?v=pgHcWAh9sFA&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
