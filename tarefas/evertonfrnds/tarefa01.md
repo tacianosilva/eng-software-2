@@ -8,8 +8,7 @@
 
 ## Sobre
 
-...
-
+O projeto consiste em um sistema web para gerenciamento de academias, onde o gerente poderá cadastrar-se para ter acesso às funcionalidades do software.
 ## Equipe
 
 | Equipe  |
