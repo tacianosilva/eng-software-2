@@ -46,6 +46,7 @@ As pull requests permitem que você informe outras pessoas sobre as alterações
 
 # 6. Débito Técnico
 Débito técnico é quando você escolhe implementar uma funcionalidade – ou parte dela – com código de qualidade inferior para ganhar mais tempo. O débito técnico ajuda o produto a chegar antes ao mercado, mas cria um monstro para o futuro: a baixa qualidade do código acaba dificultando e atrasando as mudanças que certamente serão feitas.
+O primeiro cuidado é não confundir débito técnico com bagunça. Criar arquiteturas ruins e fazer código sujo por desconhecimento não é o mesmo que escolher conscientemente um caminho mais rápido.
 Outro ponto crucial é o uso de testes automatizados. Sem testes você não terá segurança para refatorar o código no futuro – e nem vai saber se ele está funcionando no presente. Nunca pule os testes! Repito, nunca pule os testes! Eles vão evitar muitas horas extras e noites em claro
 
 [Débito técnico em uma startup: quando, como e por que? Acesso em 19 de junho de 2020](http://shipit.resultadosdigitais.com.br/blog/debito-tecnico-em-uma-startup-quando-como-e-porque/)
