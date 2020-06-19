@@ -28,5 +28,12 @@ Vamos usar o javascript para fazer o sistema, utilizando o React que é uma das 
 https://www.youtube.com/watch?v=S66rHpyU-Eg
 https://www.youtube.com/watch?v=HZkN0LfC5dM
 
+# 5. Pesquisa git e github
+Os branches (ramos) podem ser usados para: s
+- Desenvolver recursos
+- Corrigir erros
+- Testar novas ideias com segurança
 
- 
+Você deve ter acesso de gravação em um repositório para criar um branch, abrir uma pull request ou excluir e restaurar branches em uma pull request. Nos repositórios em que você tem acesso de proprietário ou administrador, é possível alterar o branch padrão.
+
+As pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez push para um branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
