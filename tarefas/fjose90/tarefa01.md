@@ -17,3 +17,9 @@
 | Douglas Pacelli Maia Baltazar     | douglasbaltazar1@gmail.com       | github.com/douglasbaltazar |
 | Fernando José dos Santos          | fernando.jose.santos@hotmail.com | github.com/fjose90         |
 | José Rubens de Oliveira Junior    | rubensojunior6@gmail.com         | github.com/rubensojunior   |
+
+# 3. Linguagem e Tecnologias usadas
+Vamos usar o javascript para fazer o sistema, utilizando o React que é uma das formas mais modernas de se criar aplicações web! Os criadores definem o React como uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário.
+SERVIDOR Node.js que é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente para os servidores!
+
+ 
