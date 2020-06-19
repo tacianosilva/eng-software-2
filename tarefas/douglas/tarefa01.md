@@ -28,3 +28,7 @@ O ReactJS faz com que a criação de UIs interativas sejam uma tarefa muito mais
 ## VSCode
 
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows. É uma versão mais simplificada do VirtualStudio. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+## CRUD
+
+CRUD de Produtos com ReactJS ( https://www.youtube.com/watch?v=enxpq9EYyew )
