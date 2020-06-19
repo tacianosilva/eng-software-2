@@ -16,3 +16,7 @@ O Gym Hero promete oferecer serviços aos Administradores de Academia, tendo tod
 * Everton Ankelys Fernandes Bezerra
 * Fernando José dos Santos
 * José Rubens de Oliveira Junior 
+
+## Linguagem
+
+A linguagem que será utilizada no sistema será JavaScript, por meio dos frameworks ReactJS e NodeJS. Não tenho o domínio geral da linguagem, mas já era uma linguagem que estava estudando no período da quarentena e agora tenho oportunidade de melhorar ainda mais o conhecimento já pré adquirido.
