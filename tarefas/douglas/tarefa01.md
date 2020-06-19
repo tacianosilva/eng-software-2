@@ -1,7 +1,9 @@
 # Tarefa 01 - 2020.5 - Git e GitHub com Markdown
 
 **Douglas Pacelli Maia Baltazar**
+
 **douglasbaltazar ( <https://github.com/douglasbaltazar/> )**
+
 **douglasbaltazar1@gmail.com**
 
 # Projeto da Disciplina Engenharia de Software II
@@ -64,3 +66,4 @@ Os repositorios no GitHub funcionam como uma arvore. Ou seja, o começo de um re
 * Imprudente não intencional: “Trabalhar com uma nova linguagem de programação”
 * Consciente intencional: “Temos um prazo X, precisamos entregar com esse problemas, depois corrigimos”
 * Consciente não intencional: “Agora que entregamos o projeto sabemos como deveríamos ter feito.”
+
