@@ -14,3 +14,12 @@ A ferramenta estará disponível para ser utilizada tanto por organizadores de e
 
 A ferramenta conterá também afiliação com outras empresas, como o PayPal, que possibilitem a venda de ingressos pela ferramenta e garanta a confiabilidade e segurança dos usuários com o sistema. O Event Manager contribui de modo decisivo para melhorar a qualidade do processo de gerenciamento de eventos como plataforma virtual de uma empresa.
 ### Equipe: [Ewertonslv](https://github.com/Ewertonslv), [arthurmdros](https://github.com/arthurmdros), [kaelsilva](https://github.com/kaelsilva), [eduviictor](https://github.com/eduviictor), [cadu-brito](https://github.com/cadu-brito).
+### Tecnologias da aplicação:
+- Front-End: React.js
+
+Biblioteca do JavaScript utilizada para construir interfaces de usuário. Possui uma ótima performance em relação aos seus comandos. Sendo uma biblioteca de código aberto ela pode ser caractegorizada como o “V” no padrão MVC (Model-View-Controller). 
+- Back-End: Node.js
+
+Ambiente de execução Javascript, capaz de criar aplicações em JavaScript. Tem como vantagens a leveza, produtividade da equipe e flexibilidade.  
+
+Em ambas possuindo nivel de domínio baixo. 
