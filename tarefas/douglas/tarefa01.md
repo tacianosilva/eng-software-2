@@ -37,6 +37,12 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 
 ### Branchs:
 
-**Branch** 
+**Branch** tem significado literal de "ramo". Ou seja, é uma ramificação do projeto.
+
+Os repositorios no GitHub funcionam como uma arvore. Ou seja, o começo de um repo é o branch master, literalmente o tronco do projeto. E as subpastas serão as proximas branches, ou seja os ramos que o projeto toma.
 
 ### Pull's Requests:
+
+**Pull Request** é uma forma de enviar o projeto, onde o GitHub automaticamente irá analisar o commit da sua branch e comparar com o que ja estava. Assim, ele terá certeza que é uma atualização e ajudará a ter um controle de versão mais eficiente.
+
+
