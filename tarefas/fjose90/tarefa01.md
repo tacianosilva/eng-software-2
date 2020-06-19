@@ -6,7 +6,7 @@
 
 
 # 1. GymHero
- O projeto da disciplina é um sistema web que tem como objetivo administrar uma **academia**, onde o gerente poderá cadastrar se no sistema e ter acesso aos serviços disponibilizado pelo o sistema.
+ O projeto da disciplina é um sistema web que tem como objetivo administrar uma **academia**, onde o gerente poderá cadastrar se no sistema e ter acesso aos serviços disponibilizados pelo o sistema.
 
  # 2. EQUIPE
  Nossa Equipe se chama JUREMASTEC SOCIAL e é composto por:
@@ -20,12 +20,13 @@
 
 # 3. Linguagem e Tecnologias usadas
 Vamos usar o javascript para fazer o sistema, utilizando o React que é uma das formas mais modernas de se criar aplicações web! Os criadores definem o React como uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário.
-1. SERVIDOR Node.js que é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente para os servidores!
-2. IDE nós usamos o VSCODE que permite o uso de várias extensões e muito produtivo.
-3. DEBUG o  VSCODE tem as ferramentas de debug que precisamos e utiliza o git pra o controle de versão, ela pode ser instalada através de extensão.
+1. SERVIDOR -> Node.js que é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente para os servidores!
+2. IDE -> nós usamos o VSCODE que permite o uso de várias extensões e muito produtivo.
+3. DEBUG -> o  VSCODE tem as ferramentas de debug que precisamos e utiliza o git pra o controle de versão, ela pode ser instalada através de extensão.
  
 # 4. Link de CRUDS
 https://www.youtube.com/watch?v=S66rHpyU-Eg
+
 https://www.youtube.com/watch?v=HZkN0LfC5dM
 
 # 5. Pesquisa git e github
