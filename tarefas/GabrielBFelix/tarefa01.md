@@ -18,6 +18,6 @@ Gabriel Batista Félix
 Guilherme Felipe de Oliveira Medeiros
 Tiago José Vieira de Oliveira
 
-A linguagem utilizada será Javascript, já tive um primeiro contato com tal tecnologia, no entanto, faz muito tempo e terei que estudá-la.
+A linguagem utilizada será Javascript, ela é muito usada juntamente com HTML e CSS, para fazer paginas web, já tive um primeiro contato com tal tecnologia, no entanto, faz muito tempo e terei que estudá-la.
 
 
