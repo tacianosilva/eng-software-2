@@ -45,3 +45,4 @@ Débito técnico é um conceito de desenvolvimento de software que consiste na r
 
 - [ReactJS](https://www.youtube.com/watch?v=ghEdUzwRsHo)
 - [Express.js](https://www.youtube.com/watch?v=pgHcWAh9sFA&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
+- [MERN Stack](https://www.youtube.com/watch?v=7CqJlxBYj-M)
