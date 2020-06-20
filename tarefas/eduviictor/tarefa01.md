@@ -28,3 +28,7 @@ React é uma biblioteca JavaScript para construção de interfaces de usuário.
 ## Visual Studio Code
 
 O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que roda na sua área de trabalho e está disponível para Windows, macOS e Linux. Ele vem com suporte interno para JavaScript, TypeScript e Node.js e possui um rico ecossistema de extensões para outros idiomas (como C ++, C #, Java, Python, PHP, Go) e tempos de execução (como .NET e Unity).
+
+## Link de tutorial
+
+[ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs)
