@@ -32,3 +32,11 @@ O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que roda 
 ## Link de tutorial
 
 [ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs)
+
+## Branches
+
+Uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+## Pull Request
+
+Quando subimos nossas atualizações para o repositório, na nossa branch irá aparecer no GitHub um botão com a seguinte informação: Compare & pull request. Ao clicar nele, o próprio GitHub automaticamente analisa o commit da sua branch com o commit mais recente da master, para verificar se há conflitos (informações diferentes numa mesma linha do código). Se não houver conflito, o github informará. E então é só concluir o pedido de pull request. Um outro desenvolvedor desse projeto (geralmente é definido entre a própria equipe quem fará isso) irá analisar e aceitar o seu pull request, ou pedir para que você faça alterações. Quando tudo estiver certo, sua parte do código fará parte também da branch master, ou seja, estará na versão final do projeto!
