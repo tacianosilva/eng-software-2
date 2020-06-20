@@ -16,3 +16,7 @@ Event Manager é solução web para entregar praticidade, organização e acessi
 * [eduviictor](https://github.com/eduviictor)
 * [Ewertonslv](https://github.com/Ewertonslv)
 * [kaelsilva](https://github.com/kaelsilva)
+
+## Javascript
+
+JavaScript é uma das linguagens de programação mais populares e usadas no mundo. Com ela, é possível construir páginas dinâmicas, desenvolver aplicativos para smartphones e até jogos eletrônicos. Trabalho com essa linguagem a 1 ano tanto no frontend quanto no backend.
