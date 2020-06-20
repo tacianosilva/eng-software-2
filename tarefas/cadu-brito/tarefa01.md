@@ -32,8 +32,15 @@ Dentro do conjunto de tecnologias que o grupo escolheu e que se identifica mais 
 
 ---
 ## Referências:
-* [Rocketseat](https://rocketseat.com.br)
+* [Rocketseat](https://rocketseat.com.br/starter/curso-gratuito-nodejs)
 * [Sobre o Node.js](https://nodejs.org/en/about/#about-node-js)
 * [Sobre o React.js](https://reactjs.org/)
 * [Sobre o JavaScript](https://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
 * [Dependências JavaScript](https://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/)
+
+---
+## Resumo:
+
+Débito técnico é um conceito no desenvolvimento de software que representa o custo implícito de uma implementação ou solução pensada somente no agora, em vez de usar uma abordagem com melhor qualidade porém que levaria mais tempo. Ele pode ser comparado a uma dívida financeira, que, quando você não a quitar, vai pagando os juros ao longo do tempo, acarretando ainda mais dificuldade em pagá-la. Em termos de software, o débito técnico cria a dificuldade de manutenção de código, gerando ainda mais atrasos e mudanças no produto final. Entre os principais motivos do surgimento do débito técnico estão: prazos fora da realidade, falta de conhecimento técnico, escolha de tecnologia inadequada, e a falta de metodologia de desenvolvimento iterativa. Existem muitas metodologias que tratam ou que pelo menos tentam combater o débito entre elas kaban, Scrum deixando sempre uns pontos de folga no final de cada iteração ou sprint para correção do mesmo.
+
+palavras-chave: divida , qualidade, tempo.
