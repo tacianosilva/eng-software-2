@@ -16,4 +16,10 @@ Na página [Documentação](docs/docs.md) temos os detalhes do projeto e a lista
 
 ### Minha Equipe:
 [Kael](https://github.com/kaelsilva) , [Eduardo](https://github.com/eduviictor) , [Ewerton](https://github.com/Ewertonslv) e [Arthur](https://github.com/arthurmdros).
+
+---
+
+## Sobre a linguagem de programação que será utilizado no projeto:  
+Utilizaremos no projeto basicamente Javascript, que é uma linguagem ja nativa da web, possui uma orientação a objetos eu diria até que evoluida no termo de uso, dificil de se acostumar mais em relação a outras eu diria que ela é vem focada em produtividade e de certo modo os codigos ficam menores.
+
 ---
