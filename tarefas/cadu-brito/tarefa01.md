@@ -29,3 +29,11 @@ Dentro do conjunto de tecnologias que o grupo escolheu e que se identifica mais 
 ---
 ## Sobre IDE:
 É o vs Code , possui as mesmas ferramentas que outras IDS's aqueles sistema de brakpoint, um debugador console, possui integração de plugins de varios utilitarios : git , docker , melhoria de interface ,suporte de varias linguagens etc...
+
+---
+## Referências:
+* [Rocketseat](https://rocketseat.com.br)
+* [Sobre o Node.js](https://nodejs.org/en/about/#about-node-js)
+* [Sobre o React.js](https://reactjs.org/)
+* [Sobre o JavaScript](https://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
+* [Dependências JavaScript](https://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/)
