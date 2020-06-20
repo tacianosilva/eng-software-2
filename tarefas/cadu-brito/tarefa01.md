@@ -14,4 +14,6 @@ O sistema **Event-Manager** terá o cadastro de eventos (festa, espetáculo, com
 
 Na página [Documentação](docs/docs.md) temos os detalhes do projeto e a lista de documentos.
 
+### Minha Equipe:
+[Kael](https://github.com/kaelsilva) , [Eduardo](https://github.com/eduviictor) , [Ewerton](https://github.com/Ewertonslv) e [Arthur](https://github.com/arthurmdros).
 ---
