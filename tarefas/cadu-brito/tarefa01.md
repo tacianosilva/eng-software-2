@@ -23,3 +23,7 @@ Na página [Documentação](docs/docs.md) temos os detalhes do projeto e a lista
 Utilizaremos no projeto basicamente Javascript, que é uma linguagem ja nativa da web, possui uma orientação a objetos eu diria até que evoluida no termo de uso, dificil de se acostumar mais em relação a outras eu diria que ela é vem focada em produtividade e de certo modo os codigos ficam menores.
 
 ---
+## Sobre framework:
+Dentro do conjunto de tecnologias que o grupo escolheu e que se identifica mais como framework é o express: ele cuida de toda parte de rota dos nossos projetos, conecção, da suporte a outras bibliotecas, resumindo é uma ferramenta com muitas funções que facilitam o desenvolvimento. 
+
+---
