@@ -27,3 +27,5 @@ Utilizaremos no projeto basicamente Javascript, que é uma linguagem ja nativa d
 Dentro do conjunto de tecnologias que o grupo escolheu e que se identifica mais como framework é o express: ele cuida de toda parte de rota dos nossos projetos, conecção, da suporte a outras bibliotecas, resumindo é uma ferramenta com muitas funções que facilitam o desenvolvimento. 
 
 ---
+## Sobre IDE:
+É o vs Code , possui as mesmas ferramentas que outras IDS's aqueles sistema de brakpoint, um debugador console, possui integração de plugins de varios utilitarios : git , docker , melhoria de interface ,suporte de varias linguagens etc...
