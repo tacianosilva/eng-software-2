@@ -61,3 +61,12 @@ Meu dominio sobre essa linguagem é quase nula, já que tive pouca experiência 
 ## Gerando um CRUD em React <h2>
 
 <https://www.youtube.com/watch?v=S66rHpyU-Eg>
+
+## Branches e Pull Request <h2>
+
+*Branch* ao pé da letra significa *ramo*. *Branches* são ramificações a qual o projeto faz parte, sendo o *master* a principal ramificação de desenvolvimento. Cada *branch* é independente da outra, sendo qualquer alteração feito em uma das *branches* não alterando qualquer outra.
+
+&nbsp;
+Pull Request é a forma de mandar as alterações feitas em uma *branch* que se fez *push* para outra, informando aos outros colaboradores. Também é uma forma de mandar as alterações feitas de um repositorio *forkado* para o original.
+
+&nbsp;
