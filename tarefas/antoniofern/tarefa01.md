@@ -40,3 +40,7 @@ Visual Studio Code - É um editor de código fonte leve, dando suporte a várias
 Debug - O Visual Studio Code possui ferramentas de depuração nativa dando suporte as linguagens Javascript, Typescript, C, C++, Python e outras derivadas do Javascript.
 
 Controle de versão - O Visual Studio Code possui integração com o git, mostrando quais arquivos foram alterados, comparar ramos de código, além de mostrar o histórico do arquivo que foi alterado, fora todas suas outras extensões oferecidas no marketplace da IDE que dão suporte ao git.
+
+## Link para criar CRUD
+
+https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
