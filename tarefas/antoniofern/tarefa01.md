@@ -26,3 +26,9 @@ Tiago José Vieira de Oliveira
 A linguagem utilizada será Javascript utilizada para criação de aplicativos focados pra utilização em browser.
 
 Domínio: Médio
+
+## Frameworks
+
+ExpressJS - É um framework utilizado para node.js, oferecendo uma coleção de recursos para desenvolvimento do backend de aplicativos móveis e web.
+
+ReactJS - É uma bibliotca Javascript com foco em UI (User Interface), visando facilitar a manutenção e criação das views do app.
