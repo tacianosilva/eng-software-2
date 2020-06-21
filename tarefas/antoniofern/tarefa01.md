@@ -20,3 +20,9 @@ Evandir Linhares de Andrade Filho
 Gabriel Batista Félix
 Guilherme Felipe de Oliveira Medeiros
 Tiago José Vieira de Oliveira
+
+## Linguaguem utilizada
+
+A linguagem utilizada será Javascript utilizada para criação de aplicativos focados pra utilização em browser.
+
+Domínio: Médio
