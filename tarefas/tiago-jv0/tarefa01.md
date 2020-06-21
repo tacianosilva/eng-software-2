@@ -27,3 +27,11 @@ Frameworks :
 Express - Express é um framework de tamanho mímino e flexivel para criação de Node.js apps, ele providencia um robusto conjunto de ferramentas para criação  de web e mobile apps.
 
 React - React é uma biblioteca front-end que tem o objetivo de facilitar a criação de elementos UI por meio da componentização deles.
+
+IDE que vai ser utilizada :
+
+Vs Code - O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que roda na sua área de trabalho e está disponível para Windows, macOS e Linux. Ele vem com suporte interno para JavaScript, TypeScript e Node.js e possui um rico ecossistema de extensões para outros idiomas (como C ++, C #, Java, Python, PHP, Go) e tempos de execução (como .NET e Unity)
+
+Debug - O editor de código do Visual Studio possui suporte de depuração interno para o untime do Node.js. Pode depurar JavaScript, TypeScript e muitos outras linguagens que são transpilados para JavaScript. A configuração de um projeto para a depuração do Node.js. geralmente é simples, com o VS Code fornecendo snippets e trechos apropriados de configuração de inicialização.
+
+Suporte a controle de versão - O Visual Studio Code possui controle de origem integrado e inclui suporte Git na caixa. Muitos outros provedores de controle de versão estão disponíveis por meio de extensões no VS Code Marketplace.
