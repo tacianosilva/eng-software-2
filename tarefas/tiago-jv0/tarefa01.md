@@ -4,11 +4,13 @@
 ##  tiago-jv0
 ##  tiago_jvo@outlook.com
 
+## Projeto
+
 Titulo do projeto : Ebook
 
 Descrição do projeto : Esse é um projeto de um e-commerce de livro, onde os usuários poderão vender livros, assim como comprá-los, os próprios usuários serão vendedores e os consumidores dentro do e-commerce
 
-Equipe: 
+## Equipe: 
 Antonio Fernandes Junior
 Darlan Gabriel de Medeiros Macedo
 Evandir Linhares de Andrade Filho
@@ -16,19 +18,19 @@ Gabriel Batista Félix
 Guilherme Felipe de Oliveira Medeiros
 Tiago José Vieira de Oliveira
 
-Linguagem utilizada : 
+## Linguagem utilizada : 
 
 Javascript - Javascript é uma linguagem single-threaded com non-blocking I/O e que serve para a criação de web apps (no browser) ou criação do backend das aplicações (com o runtime Nodejs) 
 
 Meu Domínio: Acredito que seja avançado
 
-Frameworks :
+## Frameworks :
 
 Express - Express é um framework de tamanho mímino e flexivel para criação de Node.js apps, ele providencia um robusto conjunto de ferramentas para criação  de web e mobile apps.
 
 React - React é uma biblioteca front-end que tem o objetivo de facilitar a criação de elementos UI por meio da componentização deles.
 
-IDE que vai ser utilizada :
+## IDE que vai ser utilizada :
 
 Vs Code - O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que roda na sua área de trabalho e está disponível para Windows, macOS e Linux. Ele vem com suporte interno para JavaScript, TypeScript e Node.js e possui um rico ecossistema de extensões para outros idiomas (como C ++, C #, Java, Python, PHP, Go) e tempos de execução (como .NET e Unity)
 
@@ -41,3 +43,9 @@ Links para realizar um CRUD :
 https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
 
 https://dev.to/nidaslife23/crud-operations-in-express-nodejs-and-mongodb-3fog
+
+## Git :
+
+Git Branches : - Uma branch é essencialmente um conjunto exclusivo de alterações de código com um nome exclusivo. Cada repositório pode ter uma ou mais branches. O branch principal - aquele em que todas as alterações acabam sendo mescladas novamente e é chamado de master. Esta é a versão oficial de trabalho do seu projeto e a que você vê quando visita o repositório do projeto em github.com/yourname/projectname.
+
+Pull request - pull requests permitem que você conte aos outros sobre as alterações enviadas para um repositório do GitHub. Depois que uma solicitação de recebimento é enviada, as partes interessadas podem revisar o conjunto de alterações, discutir possíveis modificações e até enviar confirmações de acompanhamento, se necessário.
