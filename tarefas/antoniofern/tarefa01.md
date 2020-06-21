@@ -50,3 +50,9 @@ https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mo
 Uma branch é basicamento um ponteiro para o commit que vai ser realizado, é lá onde todas as alterações no código serão feitas. Cada repositório pode ter uma ou mais branchs. Ao criar um repositório ele virá ja com a branch master que será a versão oficial de trabalho do seu projeto.
 
 Pull request é uma solicitação sobre alterações ou melhorias no código, quando um pull request é feito o dono do repositório irá analisar suas melhorias ou alterações feitas permitindo assim discutir possíveis modificações que possa ser feita no projeto.
+
+## Débito técnico
+
+Débito técnico é quando você escolhe implementar uma funcionalidade – ou parte dela – com código de qualidade inferior para ganhar mais tempo. O débito técnico ajuda o produto a chegar antes ao mercado, mas cria um monstro para o futuro: a baixa qualidade do código acaba dificultando e atrasando as mudanças que certamente serão feitas.
+
+Acredito que fazer isso seja uma má prática a ser evitada, pois isso pode acarretar muitos bugs futuros para a aplicação assim quase á tornando impossível de ser utilizada ou não cumprindo todas as funções desejadas. Em casos mais graves pode até acarretar falhas de segurançã na aplicação.
