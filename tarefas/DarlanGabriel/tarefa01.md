@@ -70,3 +70,7 @@ Meu dominio sobre essa linguagem é quase nula, já que tive pouca experiência 
 Pull Request é a forma de mandar as alterações feitas em uma *branch* que se fez *push* para outra, informando aos outros colaboradores. Também é uma forma de mandar as alterações feitas de um repositorio *forkado* para o original.
 
 &nbsp;
+
+## O que é debito tecnico? <h2>
+  
+  Debito tecnico seria os prejuizos futuros, principalmente no tempo de desenvolvimento, que resultaria de soluções pensadas no agora. É um conceito no desenvolvimento de software que retrata a dificuldade de manutenção que causariam dificuldades maiores nos resultados do projeto final. 
