@@ -47,7 +47,7 @@ TIAGO JOSE VIEIRA DE OLIVEIRA
 &nbsp;
 Meu dominio sobre essa linguagem é quase nula, já que tive pouca experiência em desenvolvimento em relação a essa linguagem.
 
-## Framework React
+## Framework React <h2>
 
   React faz com que a criação de UIs interativas seja uma tarefa fácil. Crie views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam.
 
@@ -57,3 +57,7 @@ Meu dominio sobre essa linguagem é quase nula, já que tive pouca experiência 
   O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele também é customizável, fazendo com que os usuários possam mudar o tema do editor, teclas de atalho e preferências. 
 
 &nbsp;
+
+## Gerando um CRUD em React <h2>
+
+<https://www.youtube.com/watch?v=S66rHpyU-Eg>
