@@ -44,3 +44,9 @@ Controle de versão - O Visual Studio Code possui integração com o git, mostra
 ## Link para criar CRUD
 
 https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
+
+## Git
+
+Uma branch é basicamento um ponteiro para o commit que vai ser realizado, é lá onde todas as alterações no código serão feitas. Cada repositório pode ter uma ou mais branchs. Ao criar um repositório ele virá ja com a branch master que será a versão oficial de trabalho do seu projeto.
+
+Pull request é uma solicitação sobre alterações ou melhorias no código, quando um pull request é feito o dono do repositório irá analisar suas melhorias ou alterações feitas permitindo assim discutir possíveis modificações que possa ser feita no projeto.
