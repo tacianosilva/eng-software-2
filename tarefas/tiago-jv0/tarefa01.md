@@ -49,3 +49,9 @@ https://dev.to/nidaslife23/crud-operations-in-express-nodejs-and-mongodb-3fog
 Git Branches : - Uma branch é essencialmente um conjunto exclusivo de alterações de código com um nome exclusivo. Cada repositório pode ter uma ou mais branches. O branch principal - aquele em que todas as alterações acabam sendo mescladas novamente e é chamado de master. Esta é a versão oficial de trabalho do seu projeto e a que você vê quando visita o repositório do projeto em github.com/yourname/projectname.
 
 Pull request - pull requests permitem que você conte aos outros sobre as alterações enviadas para um repositório do GitHub. Depois que uma solicitação de recebimento é enviada, as partes interessadas podem revisar o conjunto de alterações, discutir possíveis modificações e até enviar confirmações de acompanhamento, se necessário.
+
+## Débito técnico
+
+Débito técnico é quando você escolhe implementar uma funcionalidade – ou parte dela – com código de qualidade inferior para ganhar mais tempo. O débito técnico ajuda o produto a chegar antes ao mercado, mas cria um monstro para o futuro: a baixa qualidade do código acaba dificultando e atrasando as mudanças que certamente serão feitas.
+
+Minha opnião : isso é uma má prática que deve ser evitada, porém que os donos de aplicações ainda vêem um trade-off nessa prática, já que quanto mais tempo você demora para criar uma nova funcionalidade, mais recurso você está gastando e essa funcionalidade pode ser algo que os usuários finais nem considerem importante para o projeto, fazendo assim que ocorra um risco de ter gasto tempo e recurso atoa.  
