@@ -18,7 +18,7 @@ que todos tenham acesso a plataforma.
 
 &nbsp;
 
-## Equipe de Desenvolvimento
+## Equipe de Desenvolvimento <h2>
 
 &nbsp;
 ANTONIO FERNANDES JUNIOR
@@ -39,3 +39,10 @@ GUILHERME FELIPE DE OLIVEIRA MEDEIROS
 TIAGO JOSE VIEIRA DE OLIVEIRA
 
 &nbsp;
+
+## JavaScript <h2>
+
+JavaScript (às vezes abreviado para JS) é uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web, mas usada também em vários outros ambientes sem browser, tais como node.js,  Apache CouchDB e Adobe Acrobat. O JavaScript é uma linguagem baseada em protótipos, multi-paradigma e dinâmica, suportando estilos de orientação a objetos, imperativos e declarativos.
+
+&nbsp;
+Meu dominou sobre essa linguagem é quase nula, já que tive pouca experiência em desenvolvimento em relação a essa linguagem.
