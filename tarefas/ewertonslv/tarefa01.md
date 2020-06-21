@@ -5,7 +5,8 @@
 - E-mail: ewertoncom297@gmail.com
 
 
-## Projeto da eisciplina engenharia de software II
+## Projeto da disciplina engenharia de software II
+### Equipe: [Ewertonslv](https://github.com/Ewertonslv), [arthurmdros](https://github.com/arthurmdros), [kaelsilva](https://github.com/kaelsilva), [eduviictor](https://github.com/eduviictor), [cadu-brito](https://github.com/cadu-brito).
 ### Titulo: Event Manager  
 ### Descrição geral do sistema: 
 O sistema Event Manager é uma ferramenta para o processo de gerenciamento de eventos. Fornece uma maneira intuitiva e eficiente para definir eventos adequados ao público-alvo. Um evento é um acontecimento (festa, espetáculo, comemoração, solenidade etc.) organizado por especialistas, com objetivos institucionais, comunitários ou promocionais.
@@ -13,7 +14,7 @@ O sistema Event Manager é uma ferramenta para o processo de gerenciamento de ev
 A ferramenta estará disponível para ser utilizada tanto por organizadores de evento quanto para clientes que desejam participar do evento. Utilizando a ferramenta, o usuário cliente poderá buscar eventos, adquirir ingressos do evento e receber notificações sobre possíveis eventos que estão de acordo com o seu interesse ou proximidade da sua cidade. Utilizando a ferramenta, o usuário organizador de eventos poderá cadastrar novos eventos ou criar eventos a partir de outros já existentes. Além disso, poderá alterar, remover e consultar eventos já criados. Tais eventos geraram relatórios para o seu organizador que serão enviados via e-mail ou gerar um arquivo PDF que podem ser visualizados sem utilizar a ferramenta.
 
 A ferramenta conterá também afiliação com outras empresas, como o PayPal, que possibilitem a venda de ingressos pela ferramenta e garanta a confiabilidade e segurança dos usuários com o sistema. O Event Manager contribui de modo decisivo para melhorar a qualidade do processo de gerenciamento de eventos como plataforma virtual de uma empresa.
-### Equipe: [Ewertonslv](https://github.com/Ewertonslv), [arthurmdros](https://github.com/arthurmdros), [kaelsilva](https://github.com/kaelsilva), [eduviictor](https://github.com/eduviictor), [cadu-brito](https://github.com/cadu-brito).
+
 ### Tecnologias da aplicação:
 - Front-End: React.js
 
@@ -23,6 +24,14 @@ Biblioteca do JavaScript utilizada para construir interfaces de usuário. Possui
 Ambiente de execução Javascript, capaz de criar aplicações em JavaScript. Tem como vantagens a leveza, produtividade da equipe e flexibilidade.  
 
 Em ambas possuindo nivel de domínio baixo. 
+
+### Visual studio code
+Trata-se de um editor de código leve, multiplatafoma, gratuito e open source. Mantido pela Microsoft, essa ferramenta conta com suporte a várias linguagens, extensões, integração com Git, debug, terminal integrado, entre outros recursos. 
+- Debug e Release
+
+Debug e Release são as configurações de compilação internas do Visual Studio. Você usa a configuração de compilação de depuração para depuração e a configuração de versão para a distribuição de versão final.
+Na configuração de depuração, um programa é compilado com informações de depuração simbólicas completas e sem otimização. A otimização complica a depuração, porque a relação entre o código fonte e as instruções geradas é mais complexa. A configuração de versão de um programa não tem informações de depuração simbólicas e é totalmente otimizada.
+Por padrão, Visual Studio Code usa a configuração de compilação de depuração
 
 ### Link com tutorial (CRUD):
 https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
