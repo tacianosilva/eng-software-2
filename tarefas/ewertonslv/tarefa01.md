@@ -23,3 +23,6 @@ Biblioteca do JavaScript utilizada para construir interfaces de usuário. Possui
 Ambiente de execução Javascript, capaz de criar aplicações em JavaScript. Tem como vantagens a leveza, produtividade da equipe e flexibilidade.  
 
 Em ambas possuindo nivel de domínio baixo. 
+
+### Link com tutorial (CRUD):
+https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
