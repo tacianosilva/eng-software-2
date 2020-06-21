@@ -45,4 +45,10 @@ TIAGO JOSE VIEIRA DE OLIVEIRA
 JavaScript (às vezes abreviado para JS) é uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web, mas usada também em vários outros ambientes sem browser, tais como node.js,  Apache CouchDB e Adobe Acrobat. O JavaScript é uma linguagem baseada em protótipos, multi-paradigma e dinâmica, suportando estilos de orientação a objetos, imperativos e declarativos.
 
 &nbsp;
-Meu dominou sobre essa linguagem é quase nula, já que tive pouca experiência em desenvolvimento em relação a essa linguagem.
+Meu dominio sobre essa linguagem é quase nula, já que tive pouca experiência em desenvolvimento em relação a essa linguagem.
+
+## Framework React
+
+React faz com que a criação de UIs interativas seja uma tarefa fácil. Crie views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam.
+
+&nbsp;
