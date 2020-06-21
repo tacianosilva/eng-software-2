@@ -32,3 +32,11 @@ Domínio: Médio
 ExpressJS - É um framework utilizado para node.js, oferecendo uma coleção de recursos para desenvolvimento do backend de aplicativos móveis e web.
 
 ReactJS - É uma bibliotca Javascript com foco em UI (User Interface), visando facilitar a manutenção e criação das views do app.
+
+## IDE a ser utilizada
+
+Visual Studio Code - É um editor de código fonte leve, dando suporte a várias linguagens e frameworks através dos plugins que podem ser instalados através da loja que vem integrada a IDE
+
+Debug - O Visual Studio Code possui ferramentas de depuração nativa dando suporte as linguagens Javascript, Typescript, C, C++, Python e outras derivadas do Javascript.
+
+Controle de versão - O Visual Studio Code possui integração com o git, mostrando quais arquivos foram alterados, comparar ramos de código, além de mostrar o histórico do arquivo que foi alterado, fora todas suas outras extensões oferecidas no marketplace da IDE que dão suporte ao git.
