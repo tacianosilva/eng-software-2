@@ -33,6 +33,15 @@ Debug e Release são as configurações de compilação internas do Visual Studi
 Na configuração de depuração, um programa é compilado com informações de depuração simbólicas completas e sem otimização. A otimização complica a depuração, porque a relação entre o código fonte e as instruções geradas é mais complexa. A configuração de versão de um programa não tem informações de depuração simbólicas e é totalmente otimizada.
 Por padrão, Visual Studio Code usa a configuração de compilação de depuração
 
+### Framework express
+É o framework web mais popular, e é a biblioteca subjacente para uma série de outros frameworks populares de Nodes. Fornece mecanismos para:
+
+1. Gerencia as requisições de diferentes requisições e rotas e URLs.
+2. Combinar com mecanismos de renderização de "view" para gerar respostas inserindo dados em modelos.
+3. Definir as configurações comuns da aplicação web, como a porta a ser usada para conexão e a localização dos modelos que são usados para renderizar a resposta.
+4. Adicionar em qualquer ponto da requisição um "middleware" para interceptar processar ou pré-processar e tratamentar à mesma.
+
+Equanto o Express é bastante minimalista, os desenvolvedores criam pacotes de middleware para resolver quase todos os problemas no desenvolvimento web. Há bibliotecas para trabalhar com cookies, sessões, login de usuários, parametros de URL, dados em requisições POST, cabeçalho de segurança e entre tantos outros.
 ### Link com tutorial (CRUD):
 https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
 
@@ -43,6 +52,7 @@ Uma ramificação no git é um ponteiro para as alterações feitas nos arquivos
 - Como funciona o pull request?
 
 É um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma funcionalidade qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal. Além disso, podem ser discutidas as alterações em um fórum para possíveis aperfeiçoamentos da funcionalidade em questão.
+
 ### Débito Técnico
 - O que é?
 
