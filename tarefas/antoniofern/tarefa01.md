@@ -55,4 +55,4 @@ Pull request é uma solicitação sobre alterações ou melhorias no código, qu
 
 Débito técnico é quando você escolhe implementar uma funcionalidade – ou parte dela – com código de qualidade inferior para ganhar mais tempo. O débito técnico ajuda o produto a chegar antes ao mercado, mas cria um monstro para o futuro: a baixa qualidade do código acaba dificultando e atrasando as mudanças que certamente serão feitas.
 
-Acredito que fazer isso seja uma má prática a ser evitada, pois isso pode acarretar muitos bugs futuros para a aplicação assim quase á tornando impossível de ser utilizada ou não cumprindo todas as funções desejadas. Em casos mais graves pode até acarretar falhas de segurançã na aplicação.
+Acredito que fazer isso seja uma má prática a ser evitada, pois isso pode acarretar muitos bugs futuros para a aplicação assim quase á tornando impossível de ser utilizada ou não cumprindo todas as funções desejadas. Em casos mais graves pode até acarretar falhas de segurança na aplicação.
