@@ -36,6 +36,13 @@ Por padrão, Visual Studio Code usa a configuração de compilação de depuraç
 ### Link com tutorial (CRUD):
 https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
 
+### Branches e pull request
+- O que é um branch
+
+Uma ramificação no git é um ponteiro para as alterações feitas nos arquivos do projeto. É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos do projeto principal. Depois de concluir a atualização dos códigos da ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de master.
+- Como funciona o pull request?
+
+É um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma funcionalidade qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal. Além disso, podem ser discutidas as alterações em um fórum para possíveis aperfeiçoamentos da funcionalidade em questão.
 ### Débito Técnico
 - O que é?
 
