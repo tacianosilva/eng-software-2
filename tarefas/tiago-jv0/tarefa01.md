@@ -35,3 +35,9 @@ Vs Code - O Visual Studio Code é um editor de código-fonte leve, mas poderoso,
 Debug - O editor de código do Visual Studio possui suporte de depuração interno para o untime do Node.js. Pode depurar JavaScript, TypeScript e muitos outras linguagens que são transpilados para JavaScript. A configuração de um projeto para a depuração do Node.js. geralmente é simples, com o VS Code fornecendo snippets e trechos apropriados de configuração de inicialização.
 
 Suporte a controle de versão - O Visual Studio Code possui controle de origem integrado e inclui suporte Git na caixa. Muitos outros provedores de controle de versão estão disponíveis por meio de extensões no VS Code Marketplace.
+
+Links para realizar um CRUD :
+
+https://medium.com/baixada-nerd/criando-um-crud-completo-com-nodejs-express-e-mongodb-parte-1-3-6c8389d7147d
+
+https://dev.to/nidaslife23/crud-operations-in-express-nodejs-and-mongodb-3fog
