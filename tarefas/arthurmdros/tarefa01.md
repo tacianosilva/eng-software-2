@@ -43,3 +43,8 @@ Quanto ao controle de versão, o VsCode possui controle de versão integrado e i
 ## CRUD
 
 No [SkyLab](https://skylab.rocketseat.com.br/) há um curso completo sobre JavaScritp desde o básico até o uso dos frameworks disponíveis que são Node, React e React Native. Para utilizar-se dos recursos do curso basta somente logar-se com uma conta de email ou com seu próprio github.
+
+
+## Branches e Pull Requests
+
+Um Branch trata-se de uma ramificação do seu projeto. No GitHub, os seus repositórios possuem uma tratativa de possuir ramificações (os branches), que seriam cópias do projeto naquela versão, para que outros programadores do projeto possam desenvolver com base na parte principal do projeto que se chama de Branch Master. O uso de branchs acaba por ser uma boa prática, pelo simples fato de não ocorrer conflitos no projeto principal, por exemplo, como os branchs são ramificações do projeto cada desenvolvedor irá realizar suas implementações no seu branch e ao finalizar ocorre um outro processo que será o de unir as atualizações nas ramificações para o projeto principal. Esse processo é chamado de Pull Request e o próprio GitHub compará a versão do projeto principal (Branch Master) com as atualizações vindas dos branchs dos outros desenvolvedores, caso não ocorra nenhum conflito de versão as ramificações serão incluídas no Branch Master.
