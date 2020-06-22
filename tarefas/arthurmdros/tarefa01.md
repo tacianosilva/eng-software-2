@@ -38,3 +38,8 @@ Uma IDE desenvolvida pela Microsoft que possui ferramentas de suporte a depuraç
 Quanto a sua ferramenta de debug do código, o VSCode apresenta um depurador embutido que ajuda no processo de edição, compilação e depuração. A ferramenta apresenta suporte a depuração para o Node.js em tempo de execução e pode depurar JavaScript, texto datilografado, ou qualquer outra língua semelhante. No caso de precisar depurar outras linguagens deve-se recorrer ao uso de extensões de debuggers adicionais que ficam no marketplace da IDE. Isso ocorre pelo fato da IDE ter sido desenvolvida baseado no Electron, uma framework que é usada para desenvolver aplicativos Node.js.
 
 Quanto ao controle de versão, o VsCode possui controle de versão integrado e inclui suporte GitHub. Outros provedores de controle de origem ficam disponíveis por meio de extensões no Marketplace da IDE. Porém, a tratativa de suporte para outros controles de versão adicionais será a mesma do GitHub, como eu so utilizei do GitHub o suporte oferecido permite uma facilidade de uso para aqueles usuários que não possuem tanta familiaridade com os CMD e os comandos do GitHub. A própria IDE faz todo o processo de versão entre add, commits, push, pull request, verificar status de alteração, entre outros, bastando somente o próprio usuário selecionar o que fazer.
+
+
+## CRUD
+
+No [SkyLab](https://skylab.rocketseat.com.br/) há um curso completo sobre JavaScritp desde o básico até o uso dos frameworks disponíveis que são Node, React e React Native. Para utilizar-se dos recursos do curso basta somente logar-se com uma conta de email ou com seu próprio github.
