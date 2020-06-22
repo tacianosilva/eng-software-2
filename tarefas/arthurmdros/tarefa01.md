@@ -48,3 +48,8 @@ No [SkyLab](https://skylab.rocketseat.com.br/) há um curso completo sobre JavaS
 ## Branches e Pull Requests
 
 Um Branch trata-se de uma ramificação do seu projeto. No GitHub, os seus repositórios possuem uma tratativa de possuir ramificações (os branches), que seriam cópias do projeto naquela versão, para que outros programadores do projeto possam desenvolver com base na parte principal do projeto que se chama de Branch Master. O uso de branchs acaba por ser uma boa prática, pelo simples fato de não ocorrer conflitos no projeto principal, por exemplo, como os branchs são ramificações do projeto cada desenvolvedor irá realizar suas implementações no seu branch e ao finalizar ocorre um outro processo que será o de unir as atualizações nas ramificações para o projeto principal. Esse processo é chamado de Pull Request e o próprio GitHub compará a versão do projeto principal (Branch Master) com as atualizações vindas dos branchs dos outros desenvolvedores, caso não ocorra nenhum conflito de versão as ramificações serão incluídas no Branch Master.
+
+## Débito Técnico
+
+Nos ambientes de desenvolvimento de software o débito técnico trata-se de implementar-se uma funcionalidade do software com soluções simples e facéis, ao invés de usar abrodagens melhores que levariam tempo. Isso ajuda no processo de finalização do produto, porém
+por apresentar um código de baixa qualidade acaba por ocasionar atrasos e dificultando atualizações que serão feitas futuramente. 
