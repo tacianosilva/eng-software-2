@@ -11,3 +11,9 @@ Abaixo apresentamos o modelo conceitual usando o **YUML**.
  ![Modelo UML](yuml/monitoria-modelo.png)
 
 O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md)
+
+### Descrição das Entidades
+
+## Modelo de Dados
+
+### Dicionário de Dados
