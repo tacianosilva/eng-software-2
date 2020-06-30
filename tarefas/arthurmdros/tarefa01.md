@@ -53,3 +53,20 @@ Um Branch trata-se de uma ramificação do seu projeto. No GitHub, os seus repos
 
 Nos ambientes de desenvolvimento de software o débito técnico trata-se de implementar-se uma funcionalidade do software com soluções simples e facéis, ao invés de usar abrodagens melhores que levariam tempo. Isso ajuda no processo de finalização do produto, porém
 por apresentar um código de baixa qualidade acaba por ocasionar atrasos e dificultando atualizações que serão feitas futuramente. 
+
+
+## Referências
+
+https://nodejs.org/en/about/
+
+https://pt-br.reactjs.org/
+
+https://becode.com.br/frameworks-e-bibliotecas-javascript-que-voce-deveria-conhecer/
+
+https://code.visualstudio.com/docs
+
+https://code.visualstudio.com/docs/editor/intellisense
+
+https://code.visualstudio.com/docs/editor/debugging
+
+https://code.visualstudio.com/docs/editor/github
