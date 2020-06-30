@@ -12,7 +12,8 @@ Acesse o index.html para mais destalhes sobre a disciplina.
 
 ## Informações
 
-* Descrição das [Tarefas](docs/tarefas.md)
+* Descrição das [Tarefas - Plano de Iteração](docs/tarefas.md)
+* Página principal da [Documentação](docs/docs.md)
 * Página com resumo de [Comandos Git](docs/github.md).
 * Página com [Guia de Uso do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown).
 
