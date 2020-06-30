@@ -11,7 +11,7 @@
 O sistema Event Manager é uma ferramenta para o processo de gerenciamento de eventos. Fornece uma maneira intuitiva e eficiente para definir eventos adequados ao público-alvo. A ferramenta estará disponível para ser utilizada tanto por organizadores de evento quanto para clientes que desejam participar do evento. Utilizando a ferramenta, o usuário cliente poderá buscar eventos, adquirir ingressos e receber notificações sobre possíveis eventos que estão de acordo com o seu interesse.
 
 ## Equipe
-   - [arthurmdros](https://nodejs.org/en/download/)
+   - [arthurmdros](https://github.com/arthurmdros)
    + [eduviictor](https://github.com/eduviictor)
    - [cadu-brito](https://github.com/cadu-brito)
    + [kaelsilva](https://github.com/kaelsilva)
