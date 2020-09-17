@@ -6,11 +6,12 @@ Este plano de iteração será usando como exemplo da disciplina Engenharia de S
 
 Iteração | Data início | Data Final | Apresentação | Gerente
 -------- | ----------- | ---------- | ------------ | -------
-It1      | 19/06/2020  | 24/06/2020 | 26/06/2020   | Gerente 1
-It2      | 24/06/2020  | 02/07/2020 | 03/07/2020   | Gerente 2
-It3      | 02/07/2020  | 09/07/2020 | 10/07/2020   | Gerente 3
-It4      | 09/07/2020  | 16/07/2020 | 17/07/2020   | Gerente 4
-It5      | 16/07/2020  | 23/07/2020 | 24/07/2020   | Gerente 5
+It1      | 17/09/2020  | 26/09/2020 | 25/09/2020   | Gerente 1
+It2      | 27/09/2020  | 10/10/2020 | 09/10/2020   | Gerente 2
+It3      | 11/10/2020  | 24/10/2020 | 23/10/2020   | Gerente 3
+It4      | 25/10/2020  | 07/11/2020 | 06/11/2020   | Gerente 4
+It5      | 08/11/2020  | 21/11/2020 | 20/11/2020   | Gerente 5
+It6      | 22/11/2020  | 05/12/2020 | 04/12/2020   | Gerente 6
 
 * Observação 1: Cada Iteração de ser cadastrada como Milestones no GitHub.
 * Observação 2: Use este repositório como Modelo.
