@@ -4,14 +4,14 @@ Este plano de iteração será usando como exemplo da disciplina Engenharia de S
 
 ## Calendário da Iterações
 
-Iteração | Data início | Data Final | Apresentação | Gerente
--------- | ----------- | ---------- | ------------ | -------
-It1      | 17/09/2020  | 26/09/2020 | 25/09/2020   | Gerente 1
-It2      | 27/09/2020  | 10/10/2020 | 09/10/2020   | Gerente 2
-It3      | 11/10/2020  | 24/10/2020 | 23/10/2020   | Gerente 3
-It4      | 25/10/2020  | 07/11/2020 | 06/11/2020   | Gerente 4
-It5      | 08/11/2020  | 21/11/2020 | 20/11/2020   | Gerente 5
-It6      | 22/11/2020  | 05/12/2020 | 04/12/2020   | Gerente 6
+Iteração | Data início | Data Final | Apresentação | Gerente   | Detalhes
+-------- | ----------- | ---------- | ------------ | -------   | -------
+It1      | 17/09/2020  | 26/09/2020 | 25/09/2020   | Gerente 1 | Criar Documento de Visão, Modelos e Plano de Iteração e Release, Detalhar US00
+It2      | 27/09/2020  | 10/10/2020 | 09/10/2020   | Gerente 2 | Implementar US00, Detalhar US01, US02
+It3      | 11/10/2020  | 24/10/2020 | 23/10/2020   | Gerente 3 | Implementar US01, US02, Detalhar US03, US04, Testar US00
+It4      | 25/10/2020  | 07/11/2020 | 06/11/2020   | Gerente 4 |
+It5      | 08/11/2020  | 21/11/2020 | 20/11/2020   | Gerente 5 |
+It6      | 22/11/2020  | 05/12/2020 | 04/12/2020   | Gerente 6 |
 
 * Observação 1: Cada Iteração de ser cadastrada como Milestones no GitHub.
 * Observação 2: Use este repositório como Modelo.
@@ -20,7 +20,7 @@ It6      | 22/11/2020  | 05/12/2020 | 04/12/2020   | Gerente 6
 
 ### T01 - Iteração 1 - Planejamento
 
-A Iteração 1 começou dia 19/06/2020 e vai até 24/06/2020. As atividades dessa tarefa são:
+A Iteração 1 começou dia 17/09/2020 e vai até 26/09/2020. As atividades dessa tarefa são:
 
 * Criar repositório do projeto no GitHub com .gitignore para a linguagem do projeto;
 * Definir tecnologia do projeto e colocar no README.md do repositório;
