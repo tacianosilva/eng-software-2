@@ -3,3 +3,7 @@
 - Nome: Jhonatas Israel da Costa Laurentino
 - Usuário GitHub: [Jhonatas Laurentino](https://github.com/jhonatasisraelcl)
 - E-mail: <costajhonatas9@gmail.com>
+
+# Descrição do projeto
+E-commerce para pequenos empreendedores da região seridoense
+
