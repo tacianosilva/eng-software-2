@@ -19,5 +19,5 @@
   
 
 # Descrição do projeto
-E-commerce para pequenos empreendedores da região seridoense
+>> E-commerce para pequenos empreendedores da região seridoense
 
