@@ -4,4 +4,7 @@ José Erildo, @JoseErildo, joseerildo007@gmail.com
 # Três Frentes Eccomerce
 ### Projeto que tem como base a criação de um sistema eccomerce.
 
-Equipe
+* Equipe
+  1. Amaro Porfiro
+  2. Jhonatas Israel
+  3. José Erildo
