@@ -12,9 +12,11 @@ José Erildo, @JoseErildo, joseerildo007@gmail.com
 * ### Linguagem  
 Nosso software será desenvolvido sem auxilio de framework, dessa forma, utilizaremos JavaScript para compor nosso resultado, tendo a equipe um domínio intermediário sobre a linguagem.
 
-* ### IDE
+* ### IDE  
    * Editor texto Visual Code. Através da instalação de extensões será realizado debugs e controle de versão, como por exemplo:
 
-Busque pelo menos um link de Tutorial para fazer um CRUD na tecnologia escolhida.
+* ### Tutorial CRUD  
+https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+
 Pesquise e fale um pouco sobre branches e pull request (merge request) usando git e github.
 Pesquise sobre débito técnico e faça um resumo.*/
