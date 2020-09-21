@@ -47,4 +47,10 @@ Curso: [Curso em Video](https://www.cursoemvideo.com/course/javascript/)
 >indivíduo que puder fazer push no repositório base receberá uma notificações de e-mail e verá a nova pull 
 >request no respectivo painel na próxima vez que se conectar.
 
+### Pull Request:
+>As pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez push 
+>para um branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir 
+>e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que 
+>as alterações sofram merge no branch base.
+
 
