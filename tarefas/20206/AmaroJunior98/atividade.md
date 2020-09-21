@@ -26,3 +26,8 @@ Jhonatas Laurentino, José Erildo, Amaro Júnior e Marcelo Raí.
 ## Framework:
 Nosso sistema não fará uso de framework.
 
+## IDE:
+>Iremos utilizar o Visual Studio Code como editor de texto que faz uso de extensões para usar adicionar
+>ferramentas como de debug e de controle de versão como por exemplo se eu prescisar do java e apenas
+>precisar fazer uso do compilador da linguagem eu tenho disponivel na biblioteca!
+
