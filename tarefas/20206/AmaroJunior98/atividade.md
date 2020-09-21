@@ -16,4 +16,11 @@ E-mail: [Amaro Júnior](porfirioamarojr@gmail.com)
 # Equipe:
 Jhonatas Laurentino, José Erildo, Amaro Júnior e Marcelo Raí.
 
+# Linguagem de Programação: 
+>Todos os componentes do grupo tem dominio intermediario de JavaScript, atualmente uma das 
+>linguagens mais usadas para desenvolvimento de web sites, além de ser atualizada e contar com vários 
+>recursos que facilitam na hora da códificação, além disso existe muitos frameworks de desenvolvimento
+>baseados na linguagem, oque não séra um grande problema caso seja necessária a migração/reconstrução 
+>do projeto em um framework.
+
 
