@@ -31,3 +31,6 @@ Nosso sistema não fará uso de framework.
 >ferramentas como de debug e de controle de versão como por exemplo se eu prescisar do java e apenas
 >precisar fazer uso do compilador da linguagem eu tenho disponivel na biblioteca!
 
+##Curso da Linguagem:
+Curso: [Curso em Video](https://www.cursoemvideo.com/course/javascript/)
+
