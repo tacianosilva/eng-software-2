@@ -40,4 +40,11 @@ Curso: [Curso em Video](https://www.cursoemvideo.com/course/javascript/)
 >mas cria um monstro para o futuro. A baixa qualidade do código acaba dificultando e atrasando as 
 >mudanças que certamente serão feitas.
 
+## Branches e pull request:
+### Branches:
+>Branch base é onde as alterações devem ser aplicadas, o branch head contém o que você deseja que seja 
+>aplicado. Quando você muda o repositório base, também muda as notificações para a pull request. Cada 
+>indivíduo que puder fazer push no repositório base receberá uma notificações de e-mail e verá a nova pull 
+>request no respectivo painel na próxima vez que se conectar.
+
 
