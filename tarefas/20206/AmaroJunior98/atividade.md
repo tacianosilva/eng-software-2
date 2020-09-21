@@ -31,6 +31,13 @@ Nosso sistema não fará uso de framework.
 >ferramentas como de debug e de controle de versão como por exemplo se eu prescisar do java e apenas
 >precisar fazer uso do compilador da linguagem eu tenho disponivel na biblioteca!
 
-##Curso da Linguagem:
+## Curso da Linguagem:
 Curso: [Curso em Video](https://www.cursoemvideo.com/course/javascript/)
+
+## Débito Técnico:
+>Débito técnico é quando você escolhe implementar uma funcionalidadeo ou parte dela, com código de
+>qualidade inferior para ganhar mais tempo. O débito técnico ajuda o produto a chegar antes ao mercado, 
+>mas cria um monstro para o futuro. A baixa qualidade do código acaba dificultando e atrasando as 
+>mudanças que certamente serão feitas.
+
 
