@@ -30,10 +30,13 @@ Iremos utilizar o Visual Studio Code como editor de texto, que faz uso de extens
 ## Definições importantes
 * Branch
 
-**Branch**, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
 
 * Pull request
 
 Quando subimos nossas atualizações para o repositório, na nossa branch irá aparecer no GitHub um botão. Ao clicar nele, o próprio GitHub automaticamente analisa o commit da sua branch com o commit mais recente da master, para verificar se há conflitos (informações diferentes numa mesma linha do código). E então é só concluir o pedido de pull request. Um outro desenvolvedor desse projeto (geralmente é definido entre a própria equipe quem fará isso) irá analisar e aceitar o seu pull request, ou pedir para que você faça alterações. Quando tudo estiver certo, sua parte do código fará parte também da branch master, ou seja, estará na versão final do projeto!
 
 [Link de referência](https://medium.com/reprogramabr/entendendo-sobre-branch-e-pull-request-516aea4e364f)
+
+## Débito técnico:
+Débito técnico é quando você escolhe implementar uma funcionalidadeo ou parte dela, com código de qualidade inferior para ganhar mais tempo. O débito técnico ajuda o produto a chegar antes ao mercado, mas cria um monstro para o futuro. A baixa qualidade do código acaba dificultando e atrasando as mudanças que certamente serão feitas.
