@@ -17,3 +17,6 @@ Jhonatas Laurentino, José Erildo, Amaro Júnior e Marcelo Raí.
 
 ## Linguagem de programação:
 Todos os componentes do grupo tem domínio intermediário de JavaScript, atualmente uma das linguagens mais usadas para desenvolvimento de Websites, além de ser atualizada e contar com vários recursos que facilitam na hora da codificação, além disso existem muitos frameworks de desenvolvimento baseados na linguagem, o que não séra um grande problema caso seja necessária a migração/reconstrução do projeto em um framework.
+
+## Framework:
+Nosso sistema não fará uso de framework.
