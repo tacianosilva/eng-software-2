@@ -23,3 +23,6 @@ Nosso sistema não fará uso de framework.
 
 ## IDE:
 Iremos utilizar o Visual Studio Code como editor de texto, que faz uso de extensões para adicionar ferramentas como de debug e de controle de versão, como por exemplo se eu prescisar do Java e apenas precisar fazer uso do compilador da linguagem, eu tenho disponível na biblioteca!
+
+## Curso da linguagem:
+[Link externo](https://www.cursoemvideo.com/course/javascript/)
