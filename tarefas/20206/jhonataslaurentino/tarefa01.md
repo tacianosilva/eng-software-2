@@ -32,8 +32,10 @@ Ele é um framework que foi criado pelo Facebook e ganhou popularidade em um cur
 ## Ambiente de Desenvolvimento
 O ambiente de desenvolvimento que foi escolhido foi o Visual Studio Code. Ele é um editor de código-fonte desenvolvido pela Microsoft que funciona em diversos sistemas operacionais, como o Windows e Linux. Ele fornece aos desenvolvedores diversas funções como realce de sintaxe, complementação inteligente do código, snippets, git incorporado e refatoração de código. Além disso, o VS Code ainda conta com suporte à plugins criados pela comunidade, fazendo com que se torne ainda mais completo.
 
-Como indicação para a galera e também como 
-Paulo Augusto Ponciano [Jhonatas Laurentino](https://www.youtube.com/watch?v=2V3UKBdIcZY )
+## Tutorial e indicações
+Como indicação para a galera e também como tutorial que a equipe vai seguir estou indicando o canal do Paulo Augusto Ponciano com os vídeos [CRUD Completo com HTML, CSS e JavaScript - Parte 01](https://www.youtube.com/watch?v=Ihwvv_LvGrc) e [CRUD Completo com HTML, CSS e JavaScript - Parte 02](https://www.youtube.com/watch?v=Jny6UH98mPk) onde ele ensina a construir uma tela CRUD completa usando HTML5, CSS3 e JavaScript, com frameworks como Bootstrap, JQuery e outras mais, e armazenando as informações nos cookies do navegador. 
+Também indicamos um curso introdutorio desenvolvido pela galera do Curso em Video, este curso é voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos que vão desde o conhecimento da linguagem até o uso de funções, com duração total de 40h (que valem mais que dinheiro) e gratuito, sem falar que no final ainda rola um certificado!
+[Curso de JavaScript](https://www.cursoemvideo.com/course/javascript/) 
 
 # Branches e Pull Request
 
