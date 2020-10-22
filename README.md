@@ -1,14 +1,8 @@
-# eng-software-20205
+# Engenharia de Software II (Repositório Exemplo)
 
-Site para a Disciplina Engenharia de Software II - 2020.5
+Repositório para a Disciplina Engenharia de Software II.
 
-Neste site teremos as páginas dos alunos da disciplina e exemplos de uso de html5, css e javascript. 
-Também teremos informações sobre os projetos e equipes. 
-
-Acesse o index.html para mais destalhes sobre a disciplina.
-
-## Projetos da Disciplina
-
+Neste repositório teremos a lista de tarefas para a disciplina e os modelos de documentação com exemplos. Descrevemos o Plano de Iteração (Cronograma) e as atividades em cada uma.
 
 ## Informações
 
@@ -16,6 +10,10 @@ Acesse o index.html para mais destalhes sobre a disciplina.
 * Página principal da [Documentação](docs/docs.md)
 * Página com resumo de [Comandos Git](docs/github.md).
 * Página com [Guia de Uso do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown).
+
+## Projetos da Disciplina
+
+Lista de Projetos no período 2020.6.
 
 ## Página de demonstração do poder do CSS
 
