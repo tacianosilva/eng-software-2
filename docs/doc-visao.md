@@ -43,6 +43,16 @@ RF005 - Manter o cadastro de Horários de Aula | Um horário tem: um dia de sema
 RF006 - Manter o cadastro de professores | um professor tem: matrícula, nome, e-mail, telefone e o departamento | Administrador |
 RF007 - Manter cadastro de Turmas | Uma turma tem: código, professor, sala e horários (horário da turma). Uma turma é de um componente curricular. Uma turma tem um ou mais professores. Uma turma tem uma ou mais salas. Uma turma tem vários horários de aulas. | Chefes e Coordenadores |
 
+### Modelo Conceitual
+
+Abaixo apresentamos o modelo conceitual usando o **YUML**.
+
+ ![Modelo UML](yuml/monitoria-modelo.png)
+
+O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md). O detalhamento dos modelos conceitual e de dados do projeto estão no [Documento de Modelos](doc-modelos.md).
+
+#### Descrição das Entidades
+
 ## Lista de Requisitos Não-Funcionais
 
 Requisito                                 | Descrição   |
