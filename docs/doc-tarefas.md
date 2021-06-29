@@ -14,19 +14,26 @@ No processo de desenvolvimento que utilizamos da disciplina, inspirados no XP e 
   * atualização do planejamento, implementação, testes e implantação;
   * demais iterações sempre finalizando com um MVP.
 
-
 ### T01 - Iteração 1 - Planejamento
 
-A Iteração 1 começou dia 17/09/2020 e vai até 26/09/2020. As atividades dessa tarefa são:
+As atividades da **Iteração 1** são:
 
-* Criar repositório do projeto no GitHub com .gitignore para a linguagem do projeto;
-* Definir tecnologia do projeto e colocar no README.md do repositório;
-* Postar o link de tutoriais com a tecnologia do seu projeto no fórum do sigaa e colocar no README.md;
-* Criação do **Documento de Visão** no formato Markdown, crie um diretório "docs no repositório;
-  * Deve conter *lista de requisitos funcionais*, *requisitos não funcionais*, *perfil de usuários* e *tabela de riscos*;
-* Criação do **Documento de Modelos** com o Modelo Conceitual, Modelo de Dados e o Dicionário de Dados, no formato Markdown, coloque no diretório "docs" do repositório;
-* Coloque links para a documentação no README.md do repositório;
-* Colocar Estrutura inicial do Projeto no repositório;
+* **Criar repositório** do projeto no GitHub com `.gitignore` para a linguagem do projeto;
+* **Definir tecnologia** do projeto e colocar no `README.md` do repositório;
+* **Postar o link de tutoriais** com a tecnologia do seu projeto no fórum do sigaa e colocar no `README.md`. Postar no Discord os links dos tutoriais nos respectivos canais.
+* Criação do **Documento de Visão** no formato Markdown, crie um diretório *"docs"* no repositório ([Modelo aqui!](../docs/doc-visao.md));
+    * Deve conter **lista de requisitos funcionais, requisitos não funcionais, perfil de usuários e tabela de riscos**;
+    * **Aloque entidades por membro** da equipe para fazer o levantamento dos requisitos funcionais (aloque duas ou três por membro da equipe);
+* Criação do **Documento de Modelos** com o Modelo Conceitual usando *UML* ou o Modelo de Dados usando *MER*. Crie um **Dicionário de Dados**, no formato Markdown, coloque no diretório *"docs"* do repositório ([Modelo aqui!](../docs/doc-modelos.md));
+* Criação de um **Plano de Release e Iteração** para o Projeto ([Modelo aqui!](../docs/doc-iteracao.md));
+* Criar e colocar **Estrutura inicial do Projeto** no repositório;
+* Criação de um **User Story (US)** base para o Projeto;
+    * Deve ser feito o **Detalhamento do US00** (User Story base);
+    * Deve ser feita a **Implementação do US00**;
+    * Versão inicial do **Documento de User Stories** ([Modelo aqui!](../docs/doc-userstories.md));
+* Coloque **links para a documentação** no README.md do repositório;
+
+O gerente deve enviar nesta tarefa o link do repositório e o link dos dois documentos que devem estar no mesmo repositório.
 
 Nesta iteração temos atividades diferentes para dois perfis **Gerentes** e **Analistas**:
 
