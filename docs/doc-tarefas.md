@@ -64,22 +64,27 @@ O gerente deve enviar nesta tarefa o link do repositório e o link dos dois docu
 
 ### T02 - Iteração 2 - Inicialização
 
-A Iteração 2 começou dia 24/06/2020 e vai até 02/07/2020. As atividades dessa tarefa são:
+As atividades da **Iteração 2** são:
 
 * Atualização do **Documento de Visão**, pode adicionar requisitos funcionais, se necessário;
-* Atualização do **Documento Lista de User Stories** com a lista de User Stories, pode adicionar *User Stories* se necessário. coloque no diretório "docs" do repositório;
+* Atualização do **Documento User Stories** com a lista de User Stories, pode adicionar *User Stories* se necessário.
   * Deve ser detalhado pelo menos **mais dois User Stories**;
-  * Um User Store pode ser formado de um ou mais requisitos funcionais;
-  * Implementar o User Story *base*;
-* Criar modelo (imagem) da Arquitetura Geral do Sistema e descreva cada parte da arquitetura
- (não é o documento Arquitetural completo);
-  * [Modelo aqui!](https://docs.google.com/document/d/1i80vPaInPi5lSpI7rk4QExnO86iEmrsHBfmYRy6RDSM/edit?usp=sharing);
-* Criar documento com a Contagem de Ponto de Função, coloque no diretório "docs" do repositório
-  * [Modelo aqui!](https://docs.google.com/document/d/1s4bMbrpQt9RF6tymXvI0HHfQO14hMyL08UxmX1eH82s/edit?usp=sharing);
+  * Deve ser implementado pelo menos **dois User Stories**;
+  * Um User Story pode ser formado de um ou mais requisitos funcionais;
+  * Um dos User Stories a ser implementado é o User Story *base* definido na Iteração anterior;
+* Criar o **Documento da Arquitetura** apenas com o modelo (imagem) da *Arquitetura Geral do Sistema* e descreva cada parte desta arquitetura;
+  * Ainda não precisa ser o Documento Arquitetural completo, mas a arquitetura geral do sistemas deste a tela até a base de dados;
+  * [Modelo em Markdown](doc-arquitetura.md)
+  * [Modelo do Google Docs](https://docs.google.com/document/d/1i80vPaInPi5lSpI7rk4QExnO86iEmrsHBfmYRy6RDSM/edit?usp=sharing);
+* Criar **Documento do Tamanho Funcional** com *Análise de Pontos de Função - APF*;
+  * [Modelo em Markdown](doc-apf.md)
+  * [Modelo do Google Docs](https://docs.google.com/document/d/1s4bMbrpQt9RF6tymXvI0HHfQO14hMyL08UxmX1eH82s/edit?usp=sharing);
   * Faça a contagem indicativa do tamanho funcional do software;
-  * Faça a contagem detalhada do tamanho funcional dos User Stories (um User Story por membro da equipe);
-* Criar documento com o Termo de Abertura do Projeto, no google docs
-  * [Modelo Aqui!](https://docs.google.com/document/d/1xGwEppR2qmQ7H3EdevWBCWferzY3RuoZim_GEz6LZ90/edit?usp=sharing);
+  * Faça a contagem detalhada do tamanho funcional dos User Stories detalhados;
+* Criar documento com o **Termo de Abertura do Projeto - TAP**, no google docs
+  * O termo de abertura deve ser feito só no google drive.
+  * Pesquise modelos deste documento para comparar;
+  * [Modelo do Google Docs](https://docs.google.com/document/d/1xGwEppR2qmQ7H3EdevWBCWferzY3RuoZim_GEz6LZ90/edit?usp=sharing);
 
 #### Gerentes It02
 
@@ -87,7 +92,7 @@ A Iteração 2 começou dia 24/06/2020 e vai até 02/07/2020. As atividades dess
 * Definir e descrever as tarefas (issues) da Iteração 2 (milestones) e
 alocar as issues para cada membro da equipe;
 * Definir qual User Story cada membro da equipe vai especificar/detalhar;
-  * Detalhar ou Especificar um US é criar a descrição (estória do usuário) e os testes de aceitação);
+  * Detalhar ou Especificar um US é criar a descrição (estória do usuário) e os testes de aceitação;
 * Definir quem vai construir a Arquitetura Geral do Sistema que faz parte do **Documento Projeto Arquitetural** e o que cada membro da equipe vai preparar;
 * O gerente deve fazer a contagem indicativa do tamanho funcional de Projeto;
 * Definir quem vai fazer a contagem detalhada do tamanho funcional de cada User Story;
