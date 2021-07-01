@@ -51,6 +51,24 @@ Nesse ( [link](https://www.youtube.com/watch?v=mbQVVIqSxoI) ) você aprendera co
 
     E esse termo surge quando estamos desenvolvendo de forma rápida, geralmente acontece quando fazemos correções rápidas e momentâneas, sem fazer considerar uma solução mais adquada para o longo prazo. Diante disso temos que pensar no custo e risco, qual vai ser o custo que a empresa vai ter em manter esse débito técnico ou qual o tamanho do risco que ele pode sé tornar, podendo até prejudicar a empresa.
 
+#### Versionamento Semântico
+
+    Versionamento semântico ou Semantic Versioning é um conjunto de regras e requerimentos para atribuição de versão de software. Em outras palavras, é uma tentativa de resolução de um problema antigo conhecido como “inferno de dependências” ou dependency hell que nada mais é do que problemas e complicações ao lidar com pacotes de softwares.
+
+    Esse problema ocorre quando uma versão de software prejudica a segurança e integridade de uma nova versão impedindo assim que o projeto prossiga.
+
+    O versionamento semântico garante um controle da versão do código utilizando um grupo de números mantendo assim sua compatibilidade e integridade nas novas publicações conforme exemplo abaixo:
+
+    Versionamento semântico 1.0.0
+
+    – 1 (Major) – controle de compatibilidade. Informa que existem funcionalidades/códigos incompatíveis com as versões anteriores.
+
+    – 0 (Minor) – controle de funcionalidade. Informa que novas funcionalidades foram adicionadas ao código.
+
+    – 0 (Patch) – controle de correção de bugs. Informa que um ou mais erros foram identificados e corrigidos.
+
+    – Pré-release – versão candidata. É uma versão com algumas instabilidades pois pode ter incompatibilidades no pacote.
+
 
 
 
