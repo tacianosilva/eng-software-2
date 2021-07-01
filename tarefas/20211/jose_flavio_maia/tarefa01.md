@@ -40,7 +40,12 @@ Nossa equipe é composta por quatro integrantes:
 
 Nesse ( [link](https://www.youtube.com/watch?v=mbQVVIqSxoI) ) você aprendera como é facil fazer um crud utilizando o django, pois o django te entrega um back-end completo para você utilizar e nesse tutorial também mostrará como utilizar esse banco de dados.
 
+#### Contexto sobre Branches e Pull request
 
+    Branch é uma ramificação no git é um ponteiro para as alterações feitas nos arquivos do projeto. É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos do projeto principal. Depois de concluir a atualização dos códigos da ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de main.
+
+    A Pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez na sua branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch main.
+    Então basicamente é você avisando aos seus colegas de equipe que você fez alterações na sua branch e quer mesclar essa branch com a main, sendo que esse aviso é bom pq agora pode ser analisada essa branch antes de ser mesclada, se houver erros ou faltar algo, poderá ser corrigida e depois mesclada.
 
 
 
