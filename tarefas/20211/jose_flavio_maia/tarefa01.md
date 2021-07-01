@@ -36,6 +36,12 @@ Nossa equipe é composta por quatro integrantes:
     Nele encontramos varios plugins que ajudam no debug, mais isso depende do que você estar utilizando, se for python e django temos plugins especificos para eles e não é só um. Mas para executar codigo sempre é bom o velho Code Runner.
     Já para o versionamento, utilizaremos o famoso Git, que no VScode se integra muito bem, pois tendo ali um terminal na palma da mão pra fazer os adds e commits.
 
+#### Tutorial
+
+Nesse ( [link](https://www.youtube.com/watch?v=mbQVVIqSxoI) ) você aprendera como é facil fazer um crud utilizando o django, pois o django te entrega um back-end completo para você utilizar e nesse tutorial também mostrará como utilizar esse banco de dados.
+
+
+
 
 
 
