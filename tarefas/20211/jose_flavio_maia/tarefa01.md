@@ -47,6 +47,12 @@ Nesse ( [link](https://www.youtube.com/watch?v=mbQVVIqSxoI) ) você aprendera co
     A Pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez na sua branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch main.
     Então basicamente é você avisando aos seus colegas de equipe que você fez alterações na sua branch e quer mesclar essa branch com a main, sendo que esse aviso é bom pq agora pode ser analisada essa branch antes de ser mesclada, se houver erros ou faltar algo, poderá ser corrigida e depois mesclada.
 
+#### Débito Técnico
+
+    E esse termo surge quando estamos desenvolvendo de forma rápida, geralmente acontece quando fazemos correções rápidas e momentâneas, sem fazer considerar uma solução mais adquada para o longo prazo. Diante disso temos que pensar no custo e risco, qual vai ser o custo que a empresa vai ter em manter esse débito técnico ou qual o tamanho do risco que ele pode sé tornar, podendo até prejudicar a empresa.
+
+
+
 
 
 
