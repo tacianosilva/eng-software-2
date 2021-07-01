@@ -17,6 +17,13 @@ Nossa equipe é composta por quatro integrantes:
 - José Flávio
 - Pedro Henrique
   
+### Tecnologias
+
+#### Linguagem
+
+    A linguagem de programação que utilizaremos é o Python que é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+    A equipe tem um bom entendimento sobre a linguagem, pois foi a primeira linguagem ensina no curso, além de ter sido utilizada em mais de uma diciplina.
+
 
 
 
