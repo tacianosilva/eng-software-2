@@ -30,6 +30,12 @@ Nossa equipe é composta por quatro integrantes:
     Foi criado originalmente como sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Tornou-se um projeto de código aberto e foi publicado sob a licença BSD em 2005.
     Além de ser robusto e vim com muitas funções embutidas e módulos prontos para se adaptarem à maioria dos casos de uso de aplicações web, muitas empresa cairam e sua graça, exemplo disso são a NASA, Disqus, Instagram, Spotify, Youtube.
 
+#### IDE
+
+    A IDE que utilizaremos é o VScode que é nada mais que um editor gratuito e multiplataforma criado pela Microsoft. Este IDE para desenvolvimento é open source e está disponível em múltiplos ambientes: Windows, Linux e MacOs.
+    Nele encontramos varios plugins que ajudam no debug, mais isso depende do que você estar utilizando, se for python e django temos plugins especificos para eles e não é só um. Mas para executar codigo sempre é bom o velho Code Runner.
+    Já para o versionamento, utilizaremos o famoso Git, que no VScode se integra muito bem, pois tendo ali um terminal na palma da mão pra fazer os adds e commits.
+
 
 
 
