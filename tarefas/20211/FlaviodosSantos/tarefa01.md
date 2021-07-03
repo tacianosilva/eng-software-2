@@ -68,3 +68,4 @@ Qualquer um pode criar uma extensão e publicar na loja. Desse modo, sempre há 
 
 [Guia basico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
+[Um pouco sobre branch e pull request](https://medium.com/reprogramabr/entendendo-sobre-branch-e-pull-request-516aea4e364f)
