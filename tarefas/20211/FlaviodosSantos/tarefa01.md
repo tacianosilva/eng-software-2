@@ -29,10 +29,19 @@ Django é uma estrutura da Web Python de alto nível que incentiva o desenvolvim
 #### Ridiculamente rápido.
 Django foi projetado para ajudar os desenvolvedores a levar os aplicativos do conceito à conclusão o mais rápido possível.
 
-### Tranquilamente seguro.
+#### Tranquilamente seguro.
 Django leva a segurança a sério e ajuda os desenvolvedores a evitar muitos erros comuns de segurança.
 
-### Extremamente escalável.
+#### Extremamente escalável.
 Alguns dos sites mais ocupados da Web aproveitam a capacidade do Django de escalar com rapidez e flexibilidade.
 
 ### Python
+
+Python é uma linguagem poderosa e divertida. Com ela você pode fazer diversas coisas como:
+
+. Construção de sistemas Web com Django, Flask, Pyramid, etc.
+. Análise de dados, Inteligência Artificial, Machine Learning e etc com Numpy, Pandas, Matplotlib, etc
+. Construção de aplicativos com Kivy e Pybee
+. Construção de sistemas desktop com Tkinter, WxPython, etc.
+
+Existem diversos cursos onlines onde você pode encontrar material. São cursos que você consegue aprender o básico da programação com Python como tipos de variáveis, como escrever funções, etc.
