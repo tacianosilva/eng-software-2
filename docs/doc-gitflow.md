@@ -25,7 +25,7 @@ No nosso projeto utilizamos apenas as branches:
 
 Neste momento não estamos utilizando branches de **develop** e **release**. Concordamos com a abordagem utilizada por Paulo Moura no seu post [Git-flow o anti-pattern mais querido da galera](https://tasafo.org/2019/01/18/git-flow-o-anti-pattern-mais-querido-da-galera/).
 
-## Passo a Passo para contribuir:
+## Passo a Passo para contribuir
 
 0. Faça o **Fork** do projeto no *GitHub*, se você não for membro do repositório;
 
@@ -43,26 +43,18 @@ git pull origin main
 git checkout -b feat/issueXX main
 ```
 
-4. **Atualize a feature branch** sempre que necessário, pois a **branch main** pode estar sendo atualizada. É uma boa prática manter a **feature branch** sempre atualizada. A primeira opção é usar **rebase** (branches recentes) ou o **merge**.
-| ---------- | ----------- |
-| 
+4. **Atualize a feature branch** sempre que necessário, pois a **branch main** pode estar sendo atualizada. É uma boa prática manter a **feature branch** sempre atualizada;
 ```console
 git checkout feat/issueXX
-git rebase -i master
-``` 
-|
-
-```console
-git checkout feat/issueXX
-git merge main
-``` 
-| ---------- | ----------- |
+git pull origin main
+```
+É possível usar `git pull --ff-only`, ou `git rebase -i main` (branches recentes) ou ainda `git merge --no-ff main`.
 
 5. Faça **commits no branch** indicando o id da *issue* no final da mensagem. Coloque mensagens curtas e significativas;
 ```console
 git commit -m "Minha mensagem curta e significativa #id"
 ```
-6. Faça **push do seu branch** para o repositório remoto, quando tiver resolvido a tarefa;
+6. Faça **push do seu branch** para o repositório remoto, quando tiver resolvido a tarefa; Repita o passo 4 antes, para deixar a sua **feature branch** atualizada.
 ```console
 git push origin feat/issueXX
 ```
