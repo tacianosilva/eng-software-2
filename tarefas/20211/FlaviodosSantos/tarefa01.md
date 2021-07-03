@@ -58,3 +58,13 @@ A princípio ele é uma ferramenta muito simples, mas ele possui uma loja de ext
 Ou seja, com essa enorme coleção de extensões, podemos adicionar diversas funcionalidades ao VS Code de forma bem simples. Dessa maneira, ele pode facilmente ser comparado a grandes IDEs pagas.
 
 Qualquer um pode criar uma extensão e publicar na loja. Desse modo, sempre há novas ferramentas que podem ser interessantes para alguém.
+
+
+## Tutoriais
+
+[Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
+
+[Curso Git e Github](https://youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+
+[Guia basico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
