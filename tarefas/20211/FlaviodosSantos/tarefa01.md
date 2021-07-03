@@ -45,3 +45,16 @@ Python é uma linguagem poderosa e divertida. Com ela você pode fazer diversas 
 * Construção de sistemas desktop com Tkinter, WxPython, etc.
 
 Existem diversos cursos onlines onde você pode encontrar material. São cursos que você consegue aprender o básico da programação com Python como tipos de variáveis, como escrever funções, etc.
+
+### IDE
+
+#### _VS Code_
+O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
+
+O VS Code é capaz de fazer muitas coisas que nos ajudam a trabalhar melhor.
+
+A princípio ele é uma ferramenta muito simples, mas ele possui uma loja de extensões imensa, e que continua crescendo.
+
+Ou seja, com essa enorme coleção de extensões, podemos adicionar diversas funcionalidades ao VS Code de forma bem simples. Dessa maneira, ele pode facilmente ser comparado a grandes IDEs pagas.
+
+Qualquer um pode criar uma extensão e publicar na loja. Desse modo, sempre há novas ferramentas que podem ser interessantes para alguém.
