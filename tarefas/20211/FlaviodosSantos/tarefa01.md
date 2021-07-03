@@ -72,3 +72,5 @@ Qualquer um pode criar uma extensão e publicar na loja. Desse modo, sempre há 
 
 [O que é debito tecnico](https://ezdevs.com.br/o-que-e-debito-tecnico-saiba-como-tratar/)
 
+[O que é versionamento semantico](https://imasters.com.br/codigo/versionamento-semantico-o-que-e-e-como-usar)
+
