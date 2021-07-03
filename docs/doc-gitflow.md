@@ -25,6 +25,59 @@ No nosso projeto utilizamos apenas as branches:
 
 Neste momento não estamos utilizando branches de **develop** e **release**. Concordamos com a abordagem utilizada por Paulo Moura no seu post [Git-flow o anti-pattern mais querido da galera](https://tasafo.org/2019/01/18/git-flow-o-anti-pattern-mais-querido-da-galera/).
 
+## Passo a Passo para contribuir:
+
+0. Faça o **Fork** do projeto no *GitHub*, se você não for membro do repositório;
+
+1. Faça o **Clone** do projeto (`git clone`);
+```console
+git clone https://github.com/username/projeto.git`
+```
+2. Verifique se o branch atual é o **branch main** (`git branch`) e sempre atualize o **branch main** antes de tudo (`git pull`);
+```console
+git branch
+git pull origin main
+```
+3. Crie um **novo branch**, ou seja, uma **feature branch** (`git checkout -b`) para trabalhar em funcionalidade (*feature*) ou em correção de bugs (*hotfix*) ou em documentação (*document*), etc. Use a nomeclatura **feat/issueXX**, **fix/bugYY** ou **doc/issueZZ**. Sempre estando inicialmente no **branch main**;
+```console
+git checkout -b feat/issueXX main
+```
+
+4. **Atualize a feature branch** sempre que necessário, pois a **branch main** pode estar sendo atualizada. É uma boa prática manter a **feature branch** sempre atualizada. A primeira opção é usar **rebase** (branches recentes) ou o **merge**.
+| ---------- | ----------- |
+| 
+```console
+git checkout feat/issueXX
+git rebase -i master
+``` 
+|
+
+```console
+git checkout feat/issueXX
+git merge main
+``` 
+| ---------- | ----------- |
+
+5. Faça **commits no branch** indicando o id da *issue* no final da mensagem. Coloque mensagens curtas e significativas;
+```console
+git commit -m "Minha mensagem curta e significativa #id"
+```
+6. Faça **push do seu branch** para o repositório remoto, quando tiver resolvido a tarefa;
+```console
+git push origin feat/issueXX
+```
+7. Crie um **pull request (PR)** do **seu branch** (*feat/issueXX*) para o **branch main** no *GitHub*;
+
+8. Aguarde a revisão do **pull request (PR)**. Caso precise de ajustes basta fazer **novos commits no branch**. O PR será automaticamente atualizado;
+
+9. Quando o **PR**  for aprovado pelo gerente ou líder, será feito o **merge do pull request**;
+```console
+git checkout main
+git merge feat/issueXX
+```
+
+**Obs.:** Todos esses comandos pode ser feitos na **IDE** e outros são realizados diretamente no **GitHub**. Qualquer dúvida é só perguntar!!! :nerd:
+
 ## Para saber mais
 
 * https://datasift.github.io/gitflow/IntroducingGitFlow.html
