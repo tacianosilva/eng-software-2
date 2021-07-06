@@ -16,4 +16,9 @@ O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md)
 
 ## Modelo de Dados
 
+## Modelo Entidade-Relacionamento
+Abaixo encontra-se o modelo Entidade-Relacionamento.
+
+![Modelo Entidade-Relacionamento](https://github.com/tacianosilva/eng-software-2/blob/doc/modelos/docs/Images/Modelo%20ER.png)
+
 ### Dicionário de Dados
