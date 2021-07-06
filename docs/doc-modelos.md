@@ -22,3 +22,14 @@ Abaixo encontra-se o modelo Entidade-Relacionamento.
 ![Modelo Entidade-Relacionamento](https://github.com/tacianosilva/eng-software-2/blob/doc/modelos/docs/Images/Modelo%20ER.png)
 
 ### Dicionário de Dados
+
+| ***Tabela*** | Nome |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| ***Descrição*** | Desc |
+| ***Observações*** | Obs |
+|  |  | ***Campos:*** |  |  |
+| ***Nome Atributo*** | ***Descrição*** | ***Tipo de Dado*** | ***Tamanho*** | ***Restrições*** |
+| Dado 1 | Desc | Integer |  | PK |
+| Dado 2 | Desc | Varchar | 20 | FK |
+
+
