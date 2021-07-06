@@ -1,0 +1,18 @@
+# Cálculo do Tamanho Funcional com APF
+
+## Contagem Indicativa (Ci)
+
+Na contagem indicativa só é necessário analisar os **ALIs** (Arquivos Lógicos Internos) com o valor de **35 PF** cada 
+e os **AIEs** (Arquivos de Interface Externa) com o valor de **15 PF** cada.
+
+| ALI/AIE          | Entidades Relacionadas    |  PF  |
+|------------------|---------------------------|------|
+| AIE Language     | Language                  |  15  |
+| AIE Genre        | Genre                     |  15  |
+| ALI User         | User e Group              |  35  |
+| ALI Library      | Library                   |  35  |
+| ALI Author       | Author                    |  35  |
+| ALI Book         | Book                      |  35  |
+| ALI BookInstance | BookInstance e LoanStatus |  35  |
+
+Tamanho Funcional **Ci = 205 PF** ( 133,25 PF < Ci <= 276,75 PF)
