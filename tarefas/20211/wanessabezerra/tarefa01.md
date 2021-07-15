@@ -12,11 +12,16 @@ O projeto Taskiano é um software de gestão de tarefas que visa a otimização 
 
 ## Equipe
 
-| Membro    | Papel                                      | E-mail                      | GitHub                                                   |
-| --------- | ------------------------------------------ | --------------------------- | -------------------------------------------------------- |
-| Adalberto | Gerente, Analista, Testador, Desenvolvedor | btow.m@hotmail.com          |[Clique aqui :octocat:](https://github.com/batbeto)       |
-| Lucas     | Gerente, Analista, Testador, Desenvolvedor | santoslucas9956@gmail.com   |[Clique aqui :octocat:](https://github.com/LucasSilva01)  |
-| Wanessa   | Gerente, Analista, Testador, Desenvolvedor | wanessaparelhas68@gmail.com |[Clique aqui :octocat:](https://github.com/wanessabezerra)|
-| Zaú       | Gerente, Analista, Testador, Desenvolvedor | zauhdf@gmail.com            |[Clique aqui :octocat:](https://github.com/ZauJulio)      |
+| Membro    | Papel                                      | E-mail                      | GitHub                                                     |
+| --------- | ------------------------------------------ | --------------------------- | ---------------------------------------------------------- |
+| Adalberto | Gerente, Analista, Testador, Desenvolvedor | btow.m@hotmail.com          | [Clique aqui :octocat:](https://github.com/batbeto)        |
+| Lucas     | Gerente, Analista, Testador, Desenvolvedor | santoslucas9956@gmail.com   | [Clique aqui :octocat:](https://github.com/LucasSilva01)   |
+| Wanessa   | Gerente, Analista, Testador, Desenvolvedor | wanessaparelhas68@gmail.com | [Clique aqui :octocat:](https://github.com/wanessabezerra) |
+| Zaú       | Gerente, Analista, Testador, Desenvolvedor | zauhdf@gmail.com            | [Clique aqui :octocat:](https://github.com/ZauJulio)       |
 
 #### Link do Repositório: [➡️Taskiano⬅️](https://github.com/wanessabezerra/Taskiano)
+
+## VSCode
+
+Estaremos utilizando o VSCode como IDE, o mesmo é um editor de código-fonte desenvolvido pela Microsoft, dedicado à otimização de linhas, fazendo com que os softwares sejam mais leves, eficientes e compatíveis com diferentes plataformas.
+Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
