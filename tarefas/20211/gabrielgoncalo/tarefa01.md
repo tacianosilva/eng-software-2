@@ -9,7 +9,7 @@
 ### BsIn
  O BsIn é uma aplicação web, que tem o objetivo de proporcionar aos estudantes do curso de BSI da UFRN-CERES informação sobre o curso, como curiosidades, dicas, tutoriais que ajudaram no seu percurso,informações dos eventos que ocorrem no curso, além das informações dos laboratorios do curso, seus membros e projetos abertos, dando a oportunidade de sé candidatar a tal projeto.
 
- #### Membros
+#### Membros
  - Flavio Roberto
  - Gabriel Gonçalo	
  - José Flávio
@@ -17,7 +17,7 @@
 
  https://github.com/JFmaia/BsIn
 
- ### Linguagem do projeto
+### Linguagem do projeto
  Utilizaremos python para o projeto, e minha experiencia com essa linguagem é bem básica, onde utilizei para aprender conceitos sobre a lógica da programação e também utilizei em um projeto de web, e acredito que os demais integrantes do projeto tenham a mesma experiencia.
 
 
@@ -27,3 +27,8 @@
 
 ### IDE
  Utilizaremos o vscode como IDE, o vscode é acoplado com o sistema git de controle de versão e tem sinalizações para bugs.
+
+### CRUD
+ O tutorial a baixo é de um CRUD de produtos, onde o video aponta desde o tutorial de instalação até a criação de todos os passos do CRUD.
+
+ https://www.youtube.com/watch?v=mbQVVIqSxoI
