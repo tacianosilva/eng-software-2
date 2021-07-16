@@ -32,3 +32,6 @@
  O tutorial a baixo é de um CRUD de produtos, onde o video aponta desde o tutorial de instalação até a criação de todos os passos do CRUD.
 
  https://www.youtube.com/watch?v=mbQVVIqSxoI
+
+### branches e pull request
+ Branches são utilizados para isolar o certo desemvolvimento do projeto sem prejudicar outras branches. Os pull request são feitos para fazer solicitações de colaboração em um repositório.
