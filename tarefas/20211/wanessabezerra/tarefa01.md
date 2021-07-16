@@ -42,6 +42,10 @@ O React será utilizado como front-end do Taskiano. O mesmo é uma biblioteca Ja
 Estaremos utilizando o VSCode como IDE, o mesmo é um editor de código-fonte desenvolvido pela Microsoft, dedicado à otimização de linhas, fazendo com que os softwares sejam mais leves, eficientes e compatíveis com diferentes plataformas.
 Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 
+## CRUD
+
+[Playlist](!https://youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
+
 ## Branches e Pull Request
 
 Os branches (ramos) permitem que você desenvolva recursos, corrija erros ou experimente com segurança novas ideias em uma área contida do seu repositório. Você então poderá trabalhar nesse novo branch isolado das mudanças que outras pessoas estão fazendo no repositório. Aliado a isso, os administradores do repositório podem habilitar, de modo adicional, várias outras configurações de branch protegido para aplicar vários fluxos de trabalho antes que um branch passe por um merge.
