@@ -21,6 +21,14 @@ O projeto Taskiano é um software de gestão de tarefas que visa a otimização 
 
 #### Link do Repositório: [➡️Taskiano⬅️](https://github.com/wanessabezerra/Taskiano)
 
+## Django e React
+
+ O Django será utilizado como back-end do Taskiano. O mesmo possui uma estrutura escrita em Python busca o desenvolvimento rápido, design limpo e pragmático.
+
+Django utiliza um padrão similar ao MVC (model-view-controller), porém aqui chamado de MTV (model-template-view), onde dividimos a aplicação em camadas ou partes, tornando o código mais organizado e legível.
+
+O React será utilizado como front-end do Taskiano. O mesmo é uma biblioteca JavaScript criada pelo Facebook para o desenvolvimento de aplicações front-end. Ele é baseado em componentes, o que permite o reaproveitamento de código e facilita a manutenção. No padrão de arquitetura MVC — Model View Control — ou Modelo Visão Controle, em português, ele é comparado ao desenvolvimento da camada View, que é a interface com o usuário (UI).
+
 ## VSCode
 
 Estaremos utilizando o VSCode como IDE, o mesmo é um editor de código-fonte desenvolvido pela Microsoft, dedicado à otimização de linhas, fazendo com que os softwares sejam mais leves, eficientes e compatíveis com diferentes plataformas.
