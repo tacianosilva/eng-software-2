@@ -21,6 +21,14 @@ O projeto Taskiano é um software de gestão de tarefas que visa a otimização 
 
 #### Link do Repositório: [➡️Taskiano⬅️](https://github.com/wanessabezerra/Taskiano)
 
+## Python e TypeScript
+
+A equipe possui afinidade com Python que é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens.
+
+A equipe também optou pela linguagem TypeScript que surgiu como um superset do JavaScript, adicionando a este funcionalidades que nativamente não estão disponíveis ou requerem grande esforço para utilização, como tipagem de dados e Orientação a Objetos.
+
+O meu conhecimento com Python é bem aprofundada já que a mais utilizada por mim durante o curso. Já a linguagem TypeScript não é tão aprofundado, mas espero aprender com o desenvolvimento do projeto.
+
 ## Django e React
 
  O Django será utilizado como back-end do Taskiano. O mesmo possui uma estrutura escrita em Python busca o desenvolvimento rápido, design limpo e pragmático.
