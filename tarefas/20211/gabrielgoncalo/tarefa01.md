@@ -36,5 +36,8 @@
 ### branches e pull request
  Branches são utilizados para isolar o certo desemvolvimento do projeto sem prejudicar outras branches. Os pull request são feitos para fazer solicitações de colaboração em um repositório.
 
- ### Débito crédito
+### Débito crédito
  Pelo que entendi, débito crédito é usando como meio de "tapa buraco", onde são feitas soluções para curto prazo mas que não solucionam o problema por completo.
+
+### versionamento semântico
+ Trata de um conjunto de regras para atribuição de versão de software.
