@@ -64,3 +64,7 @@ Pull Requests são um mecanismo de controle de alterações feitas no repositór
 ### Merge
 
 Os merges são feitos quando o desenvolvedor faz um Pull Request. O merge é feito quando o desenvolvedor confirma que a alteração feita no repositório foi feita com sucesso.
+
+### Débito técnico
+
+O débito técnico é uma etapa de controle de qualidade do código, que é feito a cada vez que o desenvolvedor faz uma alteração no repositório. O débito técnico é feito com o git diff. Sendo assim,a partir da observação da não conclusão das tarefas delegadas nesta iteração acarreta na sobre-carga dos membros destinados a realiza-las nas próximas iterações.
