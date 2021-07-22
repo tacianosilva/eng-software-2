@@ -45,3 +45,6 @@ Link -> [CRUD Django](https://data-flair.training/blogs/django-crud-example/)
 
 - Débito técnico é um conceito no desenvolvimento de software, pois representa os custos ocultos de implementação ou soluções que só agora são considerados, e não um método de melhor qualidade que exige mais tempo.
 
+## Sobre o versionamento semântico
+
+- O versionamento semântico hoje é um dos padrões de versionamento mais usados e conhecidos, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs.
