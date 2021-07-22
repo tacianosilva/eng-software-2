@@ -38,3 +38,7 @@ Será utilizado o framework Django, com o meta-framework Django Rest Framework n
 ### Debug&QA
 
 - SonarQube: O SonarQube é um software de código aberto que permite aos programadores de software criar e gerenciar os seus projetos. O SonarQube é uma ferramenta de código aberto que permite aos programadores de software criar e gerenciar os seus projetos.
+
+### Controle de versão
+
+- Git: O Git é um sistema de controle de versão distribuído, gratuito e open-source. Com ele é possível manter uma história de alterações de um projeto, e a partir dela, fazer o download de todas as alterações feitas no projeto.
