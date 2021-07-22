@@ -36,3 +36,7 @@ Será usado o Visual Studio Code como IDE, pois é algo que todos os integrantes
 ## Sobre o CRUD
 Link -> [CRUD Django](https://data-flair.training/blogs/django-crud-example/)
 - **Descrição**:  O link acima é de um site de treinamento que mostra como é projetado um aplicavo CRUD na estrutura Django, onde ele se inicia criando um ambiente virtual com a biblioteca virtualenv e instalando as demais dependências do sistema, ele mostra como são feitas funções de exibição, delete, update, entre as demais, mostra como é feita a configuração de URLs e por fim faz um pequeno resumo do trabalho feito. 
+
+## Sobre as branches e pull request
+
+- Uma branch é simplesmente uma ramificação do projeto original, enquanto um pull request é uma solicitação dos usuários para contribuir com suas alterações de volta ao repositório original do projeto.
