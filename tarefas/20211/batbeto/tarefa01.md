@@ -17,3 +17,16 @@ A equipe é composta pelos seguintes membros:
 - Zaú Júlio @zaujulio
 
 [Link para o repositório](https://github.com/wanessabezerra/Taskiano)
+
+
+## Sobre as linguagens de programação:
+
+ - Todos os integrantes do grupo já tem afinidade com grande parte das tecnologias que irão ser utilizadas no gerenciador de tarefas - Taskiano, serão utilizadas as seguintes linguagens de programação JS/TS e python.
+
+## Sobre as frameworks: 
+No projeto será utilizado React com NextJs no front-end e no back-end será Python com Django.
+
+- **NextsJS:** é uma estrutura de desenvolvimento de código aberto construída em Node.js, que oferece suporte a funções de aplicativo da web baseadas em React, como renderização do lado do servidor e geração de site estático.
+
+
+- **Django:** é um framework para desenvolvimento web rápido, escrito em Python, usando o modo model-template-view (MTV).
