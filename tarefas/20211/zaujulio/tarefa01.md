@@ -26,3 +26,7 @@ O projeto Taskiano é um software de gestão de tarefas que visa a otimização 
 - Python: A equipe demonstra conhecimento intermediário da linguagem, suas peculariedades, bibliotecas e frameworks. Previamente, todos os membros da equipe já utilizaram a linguagem.
 
 - Javascript/Typescrip: Os membros possuem conhecimento suficiente para construção e implementação de um sistema de gerenciamento de tarefas. Embora não possuam a experiência de programação com as linguagens em questão, os membros são capazes de compreender e trabalhar com o Javascript e Typescript. A equipe aprendeu a utilizar o Node.js com o Typescript, tirando proveito de suas funcionalidades.
+
+### Framework
+
+Será utilizado o framework Django, com o meta-framework Django Rest Framework no Back-end. Enquanto que utilizaremos Nextjs no Front-end.
