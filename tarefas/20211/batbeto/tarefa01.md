@@ -30,3 +30,9 @@ No projeto será utilizado React com NextJs no front-end e no back-end será Pyt
 
 
 - **Django:** é um framework para desenvolvimento web rápido, escrito em Python, usando o modo model-template-view (MTV).
+
+
+## Sobre a IDE:
+
+- Será usado o Visual Studio Code como IDE, pois é algo que todos os integrantes tem afinidade, a ferramenta de debug usada é o Sonar e o git é utilizado para controle de versão.
+
