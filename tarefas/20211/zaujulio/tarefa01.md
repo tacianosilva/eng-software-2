@@ -60,3 +60,7 @@ Branches são caminhos de um projeto que podem ser utilizados para o desenvolvim
 ### Pull Requests
 
 Pull Requests são um mecanismo de controle de alterações feitas no repositório de um projeto. Cada vez que você faz uma alteração no repositório, você cria um Pull Request. Através das Pull Requests, o desenvolvedor pode acompanhar o progresso do projeto e acompanhar as alterações feitas no repositório. É fundamental para o desenvolvimento de um projeto, é necessário que o desenvolvedor tenha um Pull Request cada vez que fizer uma alteração no repositório.
+
+### Merge
+
+Os merges são feitos quando o desenvolvedor faz um Pull Request. O merge é feito quando o desenvolvedor confirma que a alteração feita no repositório foi feita com sucesso.
