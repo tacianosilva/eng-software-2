@@ -56,3 +56,7 @@ Descrição: O tutorial a seguir descreve a criação de um aplicativo simples c
 ### Branchs
 
 Branches são caminhos de um projeto que podem ser utilizados para o desenvolvimento de um projeto. No git, cada branch tem um nome, e cada branch possui um histórico de alterações. Cada vez que você faz uma alteração no código, você cria uma nova branch.
+
+### Pull Requests
+
+Pull Requests são um mecanismo de controle de alterações feitas no repositório de um projeto. Cada vez que você faz uma alteração no repositório, você cria um Pull Request. Através das Pull Requests, o desenvolvedor pode acompanhar o progresso do projeto e acompanhar as alterações feitas no repositório. É fundamental para o desenvolvimento de um projeto, é necessário que o desenvolvedor tenha um Pull Request cada vez que fizer uma alteração no repositório.
