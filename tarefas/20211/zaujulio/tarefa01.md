@@ -68,3 +68,7 @@ Os merges são feitos quando o desenvolvedor faz um Pull Request. O merge é fei
 ### Débito técnico
 
 O débito técnico é uma etapa de controle de qualidade do código, que é feito a cada vez que o desenvolvedor faz uma alteração no repositório. O débito técnico é feito com o git diff. Sendo assim,a partir da observação da não conclusão das tarefas delegadas nesta iteração acarreta na sobre-carga dos membros destinados a realiza-las nas próximas iterações.
+
+### Versionamento Semântico
+
+O versionamento semântico é um processo de controle de versão que permite aos desenvolvedores criar um histórico de alterações do código. O histórico de alterações é uma lista de alterações feitas no código, e cada alteração possui um número, que é chamado de versão. A versão é uma identificação única do código.
