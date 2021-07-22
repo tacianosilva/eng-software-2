@@ -30,3 +30,7 @@ O projeto Taskiano é um software de gestão de tarefas que visa a otimização 
 ### Framework
 
 Será utilizado o framework Django, com o meta-framework Django Rest Framework no Back-end. Enquanto que utilizaremos Nextjs no Front-end.
+
+### IDE
+
+- VSCode: O VSCode é uma ferramenta de desenvolvimento de software, que permite ao desenvolvedor utilizar o código com uma interface visual e interativa, de forma rápida e fácil de se manter.
