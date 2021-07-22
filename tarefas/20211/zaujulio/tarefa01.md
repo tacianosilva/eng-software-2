@@ -42,3 +42,14 @@ Será utilizado o framework Django, com o meta-framework Django Rest Framework n
 ### Controle de versão
 
 - Git: O Git é um sistema de controle de versão distribuído, gratuito e open-source. Com ele é possível manter uma história de alterações de um projeto, e a partir dela, fazer o download de todas as alterações feitas no projeto.
+
+### Tutoriais
+
+- Nextjs: [Tutorial - Next.js](https://jasonwatmore.com/post/2021/04/20/next-js-10-crud-example-with-react-hook-form)
+
+Descrição: O tutorial a seguir exemplifica a criação de um aplicativo simples com Next.js, utilizando o framework React Hooks e o componente Form.
+
+- Django: [Tutorial - Django](https://dev.to/balt1794/django-rest-api-crud-tutorial-2894)
+
+Descrição: O tutorial a seguir descreve a criação de um aplicativo simples com Django, utilizando o framework Django Rest Framework. Com o Django, é possível criar um aplicativo simples, com uma API REST que permite ao usuário fazer requisições GET, PUT, POST e DELETE.
+
