@@ -31,7 +31,7 @@ No projeto será utilizado React com NextJs no front-end e no back-end será Pyt
 
 ## Sobre a IDE:
 
-Será usado o Visual Studio Code como IDE, pois é algo que todos os integrantes tem afinidade, a ferramenta de debug usada é o Sonar e o git é utilizado para controle de versão.
+- Será usado o Visual Studio Code como IDE, pois é algo que todos os integrantes tem afinidade, a ferramenta de debug usada é o Sonar e o git é utilizado para controle de versão.
 
 ## Sobre o CRUD
 Link -> [CRUD Django](https://data-flair.training/blogs/django-crud-example/)
@@ -40,3 +40,8 @@ Link -> [CRUD Django](https://data-flair.training/blogs/django-crud-example/)
 ## Sobre as branches e pull request
 
 - Uma branch é simplesmente uma ramificação do projeto original, enquanto um pull request é uma solicitação dos usuários para contribuir com suas alterações de volta ao repositório original do projeto.
+
+## Sobre o Débito Técnico
+
+- Débito técnico é um conceito no desenvolvimento de software, pois representa os custos ocultos de implementação ou soluções que só agora são considerados, e não um método de melhor qualidade que exige mais tempo.
+
