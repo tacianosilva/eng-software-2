@@ -34,3 +34,7 @@ Será utilizado o framework Django, com o meta-framework Django Rest Framework n
 ### IDE
 
 - VSCode: O VSCode é uma ferramenta de desenvolvimento de software, que permite ao desenvolvedor utilizar o código com uma interface visual e interativa, de forma rápida e fácil de se manter.
+
+### Debug&QA
+
+- SonarQube: O SonarQube é um software de código aberto que permite aos programadores de software criar e gerenciar os seus projetos. O SonarQube é uma ferramenta de código aberto que permite aos programadores de software criar e gerenciar os seus projetos.
