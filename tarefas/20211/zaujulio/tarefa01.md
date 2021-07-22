@@ -1,7 +1,7 @@
 # Tarefa 01 - Git e GitHub com Markdown
 
 - Nome: Zaú Júlio Araújo Galvão
-- Usuário: @zaujulio
+- Usuário: [@zaujulio](https://github.com/zaujulio)
 - E-mail: zauhdf@gmail.com
 
 ## Projeto
