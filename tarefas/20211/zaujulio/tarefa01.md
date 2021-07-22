@@ -53,3 +53,6 @@ Descrição: O tutorial a seguir exemplifica a criação de um aplicativo simple
 
 Descrição: O tutorial a seguir descreve a criação de um aplicativo simples com Django, utilizando o framework Django Rest Framework. Com o Django, é possível criar um aplicativo simples, com uma API REST que permite ao usuário fazer requisições GET, PUT, POST e DELETE.
 
+### Branchs
+
+Branches são caminhos de um projeto que podem ser utilizados para o desenvolvimento de um projeto. No git, cada branch tem um nome, e cada branch possui um histórico de alterações. Cada vez que você faz uma alteração no código, você cria uma nova branch.
