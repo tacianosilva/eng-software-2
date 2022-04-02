@@ -11,15 +11,17 @@ Neste repositório teremos a lista de tarefas para a disciplina e os modelos de 
 * Modelo do [Documento de Modelos](docs/doc-modelos.md)
 * Modelo do [Documento Lista de User Stories](docs/doc-userstories.md)
 
-## Semestre Letivo 2021.1
+## Cronograma dos Projetos por Período
 
+* BREVE!! Cronograma das [Iterações 2022.1](projetos/20221/iteracao.md)
+* BREVE!! Lista de [Projetos 2022.1](projetos/20211/iteracao.md)
 * Cronograma das [Iterações 2021.1](projetos/20211/iteracao.md)
 * Lista de [Projetos por Período](projetos/README.md)
 
 ## Informações
 
 * Página com resumo de [Comandos Git](docs/github.md)
-* Página com gitflow [Em construção](docs/gitflow.md)
+* Página com resumo do _nosso_ [GitFlow](docs/doc-gitflow.md)
 * Página com [Guia de Uso do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
 * Página de demonstração do poder do CSS
   * http://www.csszengarden.com/
