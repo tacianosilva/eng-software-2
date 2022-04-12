@@ -7,7 +7,8 @@ Este Plano de Iteração será usando na turma de Engenharia de Software II no p
 Iteração | Data início | Data Final | Apresentação | Gerente   | Detalhes
 -------- | ----------- | ---------- | ------------ | -------   | -------
 It0      | 12/04/2022  | 19/04/2022 | Sem apresentação | Sem Gerente | [Detalhes IT0](it0.md).
-It1      | 19/04/2022  | 03/05/2022 | 03/05/2022   | Gerente 1 | [Detalhes IT1](it1.md).
+It1      | 19/04/2022  | 03/05/2022 | 03/05/2022   | Gerente 1 | Criar Documento de Visão;<br/>Criar Documento de Modelos;<br/>Criar documento da Arquitetura;<br/>Definir gerente de cada Iteração;<br/>Criar Plano de Release;<br/>Detalhar User Story Base - US00;<br/>Definir Estrutura do Projeto de acordo com o US00;<br/>
+[Detalhes IT1](it1.md).
 It2      | 03/05/2022  | 17/05/2022 | 17/05/2022   | Gerente 2 | Implementar US00, Testar US00, Detalhar US01, Detalhar US02
 It3      | 16/07/2021  | 28/07/2021 | 29/07/2021   | Gerente 3 | Implementar US01, Testar US01, Implementar US02, Testar US02, Detalhar US03, US04, Deploy do Release (Implantação)
 It4      | 30/07/2021  | 11/08/2021 | 12/08/2021   | Gerente 4 | ....
