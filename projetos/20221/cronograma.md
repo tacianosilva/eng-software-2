@@ -4,15 +4,14 @@ Este Plano de Iteração será usando na turma de Engenharia de Software II no p
 
 ## Plano de Iterações
 
-Iteração | Data início | Data Final | Apresentação | Gerente   | Detalhes
+It | Início | Final | Apresentação | Gerente | Atividades e artefatos
 -------- | ----------- | ---------- | ------------ | -------   | -------
-It0      | 12/04/2022  | 19/04/2022 | Sem apresentação | Sem Gerente | [Detalhes IT0](it0.md).
-It1      | 19/04/2022  | 03/05/2022 | 03/05/2022   | Gerente 1 | Criar Documento de Visão;<br/>Criar Documento de Modelos;<br/>Criar documento da Arquitetura;<br/>Definir gerente de cada Iteração;<br/>Criar Plano de Release;<br/>Detalhar User Story Base - US00;<br/>Definir Estrutura do Projeto de acordo com o US00;<br/>
-[Detalhes IT1](it1.md).
-It2      | 03/05/2022  | 17/05/2022 | 17/05/2022   | Gerente 2 | Implementar US00, Testar US00, Detalhar US01, Detalhar US02
-It3      | 16/07/2021  | 28/07/2021 | 29/07/2021   | Gerente 3 | Implementar US01, Testar US01, Implementar US02, Testar US02, Detalhar US03, US04, Deploy do Release (Implantação)
-It4      | 30/07/2021  | 11/08/2021 | 12/08/2021   | Gerente 4 | ....
-It5      | 13/08/2021  | 25/08/2021 | 26/08/2021   | Gerente 5 | ....
+It0      | 12/04/2022  | 19/04/2022 | Sem apresentação | Sem Gerente | Atividades práticas individuais dos discentes durante todo o semestre.
+It1      | 19/04/2022  | 03/05/2022 | 03/05/2022   | Gerente 1 | Criar Documento de Visão;<br/>Criar Documento de Modelos;<br/>Criar documento da Arquitetura;<br/>Definir gerente de cada Iteração;<br/>Detalhar User Story Base - US00;<br/>Definir Estrutura do Projeto de acordo com o US00;<br>Implementar US00, Testar US00;<br>Detalhar User Stories (um por membro da equipe);<br/>[Detalhes IT1](it1.md).
+It2      | 03/05/2022  | 17/05/2022 | 17/05/2022   | Gerente 2 | Criar Plano de Release ([Exemplo](#plano-de-release));<br/>Detalhar novos User Stories;<br>Implementar User Stories da _It_ anterior;<br>Testar User Stories da _It_ anterior (Testes de Aceitação);<br>Deploy da Iteração (Implantação).
+It3      | 16/07/2021  | 28/07/2021 | 29/07/2021   | Gerente 3 | Detalhar novos User Stories;<br>Implementar User Stories da _It_ anterior;<br>Testar User Stories da _It_ anterior (Testes de Aceitação);<br>Deploy da Iteração (Implantação).
+It4      | 30/07/2021  | 11/08/2021 | 12/08/2021   | Gerente 4 | Detalhar novos User Stories;<br>Implementar User Stories da _It_ anterior;<br>Testar User Stories da _It_ anterior (Testes de Aceitação);<br>Deploy da Iteração (Implantação).
+It5      | 13/08/2021  | 25/08/2021 | 26/08/2021   | Gerente 5 | Detalhar novos User Stories;<br>Implementar User Stories da _It_ anterior;<br>Testar User Stories da _It_ anterior (Testes de Aceitação);<br>Deploy da Iteração (Implantação).
 It6      | 27/08/2021  | 08/09/2021 | 09/09/2021   | Gerente 6 | ....   
 
 * Observação 1: Cada Iteração de ser cadastrada como Milestones no GitHub.
