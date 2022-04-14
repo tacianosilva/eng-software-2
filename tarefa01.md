@@ -35,4 +35,11 @@ Branches são ramificações de um projeto em um controle de versionamento. Se s
 O pull request trata-se de um mecanismo usado por desenvolvedores para dizer que concluiram o desenvolvimento de uma feature.
 
 #Versionamento semântico
-Versionamento semântico é um conjunto de regras que visa definir como serão os números das versões de um projeto. 
+Versionamento semântico é um conjunto de regras que visa definir como serão os números das versões de um projeto.
+
+#Conventional commits
+Assim como o versionamento semântico para os números de versões, existem convenções para os comentários feitos no git. Geralmente eles seguem esse padrão:
+
+"Ação : descrição da ação"
+
+Com isso aprendi que tenho feito meus commits de modo errado a vida toda. 
