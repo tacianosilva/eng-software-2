@@ -20,3 +20,6 @@ https://github.com/gabrielazevedods/engenharia-de-software-II
 
 #A linguagem de programação e framework
 Django é um framework para web que utiliza a linguagem de programação Python. A equipe já desenvolveu projetos acadêmicos com a linguagem Python e está disposta a aprender mais sobre o framework Django.
+
+#A IDE
+O VS Code é um editor de código-fonte desenvolvido pela Microsoft. Possui uma ferramenta de debug, que é facilmente acionada no menu Run > Start Debbuging. A IDE também tem conexão com Git para ajudar no controle de versionamento.
