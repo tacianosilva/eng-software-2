@@ -32,4 +32,7 @@ Este tutorial explica brevemente do que se trata um CRUD, e detalha passo a pass
 #Branches e pull requests
 Branches são ramificações de um projeto em um controle de versionamento. Se separadas, cada branch pode ter suas próprias modificações.
 
-O pull request trata-se de um mecanismo usado por desenvolvedores para dizer que concluiram o desenvolvimento de uma feature. 
+O pull request trata-se de um mecanismo usado por desenvolvedores para dizer que concluiram o desenvolvimento de uma feature.
+
+#Versionamento semântico
+Versionamento semântico é um conjunto de regras que visa definir como serão os números das versões de um projeto. 
