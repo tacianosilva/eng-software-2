@@ -23,3 +23,8 @@ Django é um framework para web que utiliza a linguagem de programação Python.
 
 #A IDE
 O VS Code é um editor de código-fonte desenvolvido pela Microsoft. Possui uma ferramenta de debug, que é facilmente acionada no menu Run > Start Debbuging. A IDE também tem conexão com Git para ajudar no controle de versionamento.
+
+#Tutoriais de CRUD em Django
+https://data-flair.training/blogs/django-crud-example/#:~:text=CRUD%20stands%20for%20Create%2C%20Read,capable%20of%20performing%20these%20operations.&text=The%20ability%20of%20the%20application%20to%20read%20data%20from%20the%20database.
+
+Este tutorial explica brevemente do que se trata um CRUD, e detalha passo a passo a criação de um CRUD em Django, desde a criação do projeto até a página formada.
