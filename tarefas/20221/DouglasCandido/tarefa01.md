@@ -18,12 +18,19 @@ SABIDO é um aplicativo desenvolvido com o objetivo de ajudar os estudantes a or
 
 ### Equipe
 Danrley Daniel Moreira Sales / danrleydaniel
+
 Douglas Mateus Soares Cândido da Silva / douglascandido
+
 Edinalda Cristina Alves de Medeiros / edinaldaufrn
+
 Gabriel Azevedo dos Santos / gabrielazevedods
+
 Gabriel Gonçalo da Costa / gabrielgoncalo
+
 Lucas da Silva Santos / lucassilva01
 
 ### Link para o repositório do projeto
 https://github.com/gabrielazevedods/engenharia-de-software-II
+
+
 
