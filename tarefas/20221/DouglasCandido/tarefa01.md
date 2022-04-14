@@ -1,6 +1,6 @@
 # Tarefa 01 - Git e GitHub com Markdown
 
-### Seção 0: Aluno
+## Seção 0: Aluno
 
 Nome: Douglas Mateus Soares Cândido da Silva
 
