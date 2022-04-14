@@ -17,3 +17,6 @@ O projeto SABIDO é uma ferramenta que auxilia estudantes a organizarem suas tar
 
 ##Github do projeto
 https://github.com/gabrielazevedods/engenharia-de-software-II
+
+#A linguagem de programação e framework
+Django é um framework para web que utiliza a linguagem de programação Python. A equipe já desenvolveu projetos acadêmicos com a linguagem Python e está disposta a aprender mais sobre o framework Django.
