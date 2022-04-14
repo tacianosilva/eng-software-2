@@ -28,3 +28,8 @@ O VS Code é um editor de código-fonte desenvolvido pela Microsoft. Possui uma 
 https://data-flair.training/blogs/django-crud-example/#:~:text=CRUD%20stands%20for%20Create%2C%20Read,capable%20of%20performing%20these%20operations.&text=The%20ability%20of%20the%20application%20to%20read%20data%20from%20the%20database.
 
 Este tutorial explica brevemente do que se trata um CRUD, e detalha passo a passo a criação de um CRUD em Django, desde a criação do projeto até a página formada.
+
+#Branches e pull requests
+Branches são ramificações de um projeto em um controle de versionamento. Se separadas, cada branch pode ter suas próprias modificações.
+
+O pull request trata-se de um mecanismo usado por desenvolvedores para dizer que concluiram o desenvolvimento de uma feature. 
