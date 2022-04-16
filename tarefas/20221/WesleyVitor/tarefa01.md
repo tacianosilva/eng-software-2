@@ -43,3 +43,15 @@ JavaScript (às vezes abreviado para JS) é uma linguagem leve, interpretada e b
 | Rauan Meirelles | Iniciante     | 1 ano       |
 | Adson Matheus   | Iniciante     | 1 ano       |
 | Wesley Morais   | Intermediário | 1 ano       |
+
+### Framework:
+
+Na parte de Frontend iremos utilizar a biblioteca livre chamada ReactJS para construção de interfaces utilizando componentes que é mantida pela Meta. React pode ser usado como base em desenvolvimento single-page, mobile e server-rendered. React é baseado no gerenciamento de estados e renderização desses estados na DOM. No lado do Backend vamos utilizar o framework Express que será responsável de criar uma api rest conectando ao banco de dados usando o ORM Prisma.
+
+### Tecnologias
+
+Front-End: ReactJS
+
+Back-End: NodeJS, Express, Prisma, NodeMon e Concurrently
+
+Banco de dados: MySQL e Docker
