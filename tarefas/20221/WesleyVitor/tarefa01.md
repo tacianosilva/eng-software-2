@@ -84,3 +84,11 @@ Parte 2: https://youtu.be/5_9rvyT9cg4
 Parte 3: https://youtu.be/vzPsUWLprAw
 
 Descrição: No decorrer dos três vídeos, o autor demonstra a criação de um CRUD utilizando a biblioteca ReactJS no Front-End, e utilizando o Express, o NodeJS e o MySQL no Back-End. O autor cria desde o formulário de inputs, a configuração das rotas, a conexão com o banco e a ligação entre as camadas de Front-End e Back-End.
+
+### Branche:
+
+Em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch main, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+### Pull Request:
+
+Um pull-request foi projetado para ajudar a manter as alterações separadas do projeto principal, aumentar a comunicação interna (e potencialmente externa) e permitir uma depuração mais eficaz. Em primeiro lugar, os Pull Requests só funcionam quando um projeto é um único repositório público. Para fazer alterações em um único repositório, os usuários criam branches (partes separadas de código) para testar adições ou alterações. Uma vez que uma branch tenha sido revisada e aprovada, ela pode ser incorporada no restante do código usando um sistema de controle de versão distribuída (DVCS) para enviar as solicitações de Pull Request.
