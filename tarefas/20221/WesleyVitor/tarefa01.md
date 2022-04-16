@@ -96,3 +96,11 @@ Um pull-request foi projetado para ajudar a manter as alterações separadas do 
 ### Versionamento Semântico
 
 O Versionamento Semântico nada mais é do que um conjunto de regras e particularidades que mostram como os números das versões de um software foram desenvolvidos. Em outras palavras, a quantidade de mudanças pelas quais o software passou e quais alterações foram compatíveis ou incompatíveis com a versão anterior.
+
+### Conventional Commits
+
+O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:
+fix: commit que soluciona um problema, bug.
+feat: commit que inclui uma nova funcionalidade.
+docs: um commit que irá mudar algo na documentação do projeto.
+test: commit de testes.
