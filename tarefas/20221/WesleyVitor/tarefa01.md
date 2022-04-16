@@ -29,3 +29,17 @@ O produto deve dar suporte à gestão de clínica onde trabalha uma equipe de m�
 ### Link do repositório:
 
 https://github.com/joanmdrs/project-eng-2
+
+### Linguagem: Javascript
+
+JavaScript (às vezes abreviado para JS) é uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web, mas usada também em vários outros ambientes sem browser, tais como node.js, Apache CouchDB e Adobe Acrobat. O JavaScript é uma linguagem baseada em protótipos, multi-paradigma e dinâmica, suportando estilos de orientação a objetos, imperativos e declarativos (como por exemplo a programação funcional).
+
+### Domínio
+
+| Membro          | Domínio       | Experiência |
+| --------------- | ------------- | ----------- |
+| Allan Gabriel   | Intermediário | 1 ano       |
+| Joan Medeiros   | Intermediário | 1 ano       |
+| Rauan Meirelles | Iniciante     | 1 ano       |
+| Adson Matheus   | Iniciante     | 1 ano       |
+| Wesley Morais   | Intermediário | 1 ano       |
