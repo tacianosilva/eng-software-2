@@ -37,6 +37,12 @@ Wesley Morais   | Intermediário   |   1 ano
 
 Na parte de Frontend iremos utilizar a biblioteca livre chamada ReactJS para construção de interfaces utilizando componentes que é mantida pela Meta. React pode ser usado como base em desenvolvimento single-page, mobile e server-rendered. React é baseado no gerenciamento de estados e renderização desses estados na DOM. No lado do Backend vamos utilizar o framework Express que será responsável de criar uma api rest conectando ao banco de dados usando o ORM Prisma.
 
+## IDE utilizada 
+
+A IDE utilizada para o desenvolvimento do projeto será o Visual Studio Code, muito usada em todo o mundo e com bastantes extensões. Dentro do VSCode, existe uma guia para testes na qual é possível depurar o código, adicionar breakpoints e verificar se as funções estão corretas.
+Além disso, o VSCode possui integração com o GitHub, ou seja, é possível fazer commits, dar push, pull, merge, criar pull requests de dentro do software. É uma plataforma que oferece diversas vantagens e acelera o processo de desenvolvimento.
+
+
 
 
 
