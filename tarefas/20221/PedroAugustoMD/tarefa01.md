@@ -15,4 +15,8 @@
 
 ### IDE
 
-- VSCode: O VSCode é uma ferramenta de desenvolvimento de software, que permite trabalhar com diferentes linguagens, além de ser possível adicionar extensões que rodam em processos separados.
+* VSCode: O VSCode é uma ferramenta de desenvolvimento de software, que permite trabalhar com diferentes linguagens, além de ser possível adicionar extensões que rodam em processos separados. Ele também possui ferramentas para debug.
+
+### Git
+
+* Git é um sistema controle de versão distribuído gratuito e de código aberto, que permite analisar o histórico de alterações de um projeto.
