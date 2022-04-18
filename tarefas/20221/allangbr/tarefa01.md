@@ -71,7 +71,8 @@ Wesley Morais   | Intermediário | 1 ano
 
 ## Conventional Commits
 <p> O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:</p>
-1. fix: commit que soluciona um problema, bug;
-2. feat: commit que inclui uma nova funcionalidade;
-3. docs: um commit que irá mudar algo na documentação do projeto;
-4. test: commit de testes.
+
+- fix: commit que soluciona um problema, bug;
+- feat: commit que inclui uma nova funcionalidade;
+- docs: um commit que irá mudar algo na documentação do projeto;
+- test: commit de testes.
