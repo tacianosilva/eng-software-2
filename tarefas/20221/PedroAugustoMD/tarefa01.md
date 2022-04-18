@@ -30,3 +30,7 @@
 ### Git
 
 * Git é um sistema controle de versão distribuído gratuito e de código aberto, que permite analisar o histórico de alterações de um projeto.
+
+### Tutorial
+
+* [Tutorial Django](https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/): O link mostra um tutorial de CRUD utilizando a framework Django. Primeiro cria-se o modelo para a criação de instâncias da view e então com dois comandos é criada a base de dados do projeto. Após isso vem a implementação do CRUD em si.
