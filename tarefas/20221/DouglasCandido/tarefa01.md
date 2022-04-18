@@ -85,8 +85,23 @@ Trata-se de um conjunto de diretrizes e regras que definem como os números das 
 As regras estabelecem que a nomenclatura de uma nova versão do software deve ser estabelecida pela seguinte forma de três números separados por pontos finais: n.n.n, onde cada n é um número natural. O primeiro número se refere à versão Major (Maior) e simboliza que essa versão é teve mudanças drásticas no núcleo do código e é incompatível com as versões anteriores. O segundo número se refere à versão Minor (Menor) e destaca que novas funcionalidades foram adicionadas, porém elas são compatíveis com o código já existente. O terceiro e último número é o Patch (Correção) e é atualizado quando uma nova versão com o propósito de corrigir bugs é lançada, preservando a compatibilidade do código.
 
 
+## Seção 8: Conventional Commits 
 
+Se relaciona intimamente com o Versionamento Semântico por se tratar de um conjunto de regras e diretrizes sobre como escrever as mensagens dos commits, garantindo a padronização. As mensagens dos commits devem ser escritas obedecendo uma sintaxe: 
 
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+
+fix se relaciona com o número Patch do Versionamento Semântico, pois se trata de um commit com o objetivo de consertar algum bug.
+
+feat se relaciona com o número Minor do Versionamento Semântico, pois se trata do de um commit que simboliza o desenvolvimento de uma nova funcionalidade.
+
+BREAKING CHANGE é o texto que pode ser escrito em qualquer tipo de commit e simboliza que as mudanças trazidas por esse commit podem ou vão tornar o código incompatível com as versões anteriores, por isso esse tipo de sinalização está relacionada com o número Major do Versionamento Semântico.
+
+Existem outros tipos de commit, dependendo das políticas e particularidades escolhidas pelos próprios desenvolvedores do software.
 
 
 
