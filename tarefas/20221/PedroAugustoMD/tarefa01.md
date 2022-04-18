@@ -13,3 +13,6 @@
 * Jeison de Oliveira
 * Renildo Rabi
 
+### IDE
+
+- VSCode: O VSCode é uma ferramenta de desenvolvimento de software, que permite trabalhar com diferentes linguagens, além de ser possível adicionar extensões que rodam em processos separados.
