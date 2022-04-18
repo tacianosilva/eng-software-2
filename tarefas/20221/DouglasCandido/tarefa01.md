@@ -89,7 +89,7 @@ As regras estabelecem que a nomenclatura de uma nova versão do software deve se
 
 Se relaciona intimamente com o Versionamento Semântico por se tratar de um conjunto de regras e diretrizes sobre como escrever as mensagens dos commits, garantindo a padronização. As mensagens dos commits devem ser escritas obedecendo uma sintaxe: 
 
-<tipo>[escopo opcional]: <descrição>
+tipo [escopo opcional]: descrição
 
 [corpo opcional]
 
