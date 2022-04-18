@@ -60,7 +60,6 @@ Parte 3: https://youtu.be/vzPsUWLprAw
 ### Descrição
 No decorrer dos três vídeos, o autor demonstra a criação de um CRUD utilizando a biblioteca ReactJS no Front-End, e utilizando o Express, o NodeJS e o MySQL no Back-End. O autor cria desde o formulário de inputs, a configuração das rotas, a conexão com o banco  e a ligação entre as camadas de Front-End e Back-End. 
 
-<<<<<<< HEAD
 ## Branches e Pull Request 
 
 Branche: em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch main, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master. Em relação ao GitFlow, o mesmo é um modelo de conjunto de diretrizes que as equipes de desenvolvimento podem seguir para organizar as branches, e por esse motivo ele estabelece padrões de nomes e funções para cada tipo de branch, são eles: master, develop, feature/*, hotfix e release. 
@@ -71,10 +70,14 @@ Pull Request: Um pull-request  foi projetado para ajudar a manter as alteraçõe
 
 O Versionamento Semântico nada mais é do que um conjunto de regras e particularidades que mostram como os números das versões de um software foram desenvolvidos. Em outras palavras, a quantidade de mudanças pelas quais o software passou e quais alterações foram compatíveis ou incompatíveis com a versão anterior.
 
+## Conventional Commits
 
+O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:
 
-=======
->>>>>>> parent of 4483d17 (Adicionando o resumo sobre branches e pull request #93)
+1. fix: commit que soluciona um problema, bug.
+2. feat: commit que inclui uma nova funcionalidade.
+3. docs: um commit que irá mudar algo na documentação do projeto.
+4. test: commit de testes.
 
 
 
