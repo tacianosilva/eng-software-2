@@ -16,6 +16,9 @@
 * Jeison de Oliveira
 * Renildo Rabi
 
+### Linguagem
+
+* Python: Todos os integrantes já programaram com essa linguagem e possuem um certo domínio.
 ### IDE
 
 * VSCode: O VSCode é uma ferramenta de desenvolvimento de software, que permite trabalhar com diferentes linguagens, além de ser possível adicionar extensões que rodam em processos separados. Ele também possui ferramentas para debug.
