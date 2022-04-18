@@ -78,6 +78,14 @@ No Git, Branches são como ramos de uma árvore, pois ramificam o fluxo de imple
 
 A função Pull Request do Git é uma solicitação para mesclar e integrar as novas mudanças feitas em cópias (Clones) do repositório à arvore principal (Origin = Orígem) do repositório. Por exemplo: são mudanças que um programador responsável por uma funcionalidade que foi desenvolvida em um branch separado do Main (Principal) requisita ao gerente do branch Main para unir (Acoplar) o seu trecho de código que implementa tal nova funcionalidade ao código que está no branch Main, geralmente o núcleo principal do software (Com as funcionalidades principais que, normalmente, já foram testadas e consolidadas). 
 
+## Seção 7: Versionamento Semântico
+
+Trata-se de um conjunto de diretrizes e regras que definem como os números das versões de um software devem ser estabelecidos (Justamente para garantir o controle do desenvolvimento e a gestão de dependências), considerando se as novas alterações são compatíveis ou incompatíveis com as versões anteriores. 
+
+As regras estabelecem que a nomenclatura de uma nova versão do software deve ser estabelecida pela seguinte forma de três números separados por pontos finais: n.n.n, onde cada n é um número natural. O primeiro número se refere à versão Major (Maior) e simboliza que essa versão é teve mudanças drásticas no núcleo do código e é incompatível com as versões anteriores. O segundo número se refere à versão Minor (Menor) e destaca que novas funcionalidades foram adicionadas, porém elas são compatíveis com o código já existente. O terceiro e último número é o Patch (Correção) e é atualizado quando uma nova versão com o propósito de corrigir bugs é lançada, preservando a compatibilidade do código.
+
+
+
 
 
 
