@@ -66,7 +66,13 @@ O Django é um framework que busca fornecer ao programador um rápido desenvolvi
 
 A equipe decidiu utilizar a IDE Microsoft Visual Studio, pois utilizam-na rotineiramente para codificar tudo que precisam e em virtude da sua simplificidade e possibilidade de instalar diversas extensões que ajudam no desenvolvimento. Além disso, ela já possui integração com o git, possibilitando um ótimo controle de versionamento. Quanto à depuração, o Visual Studio possui uma excelente ferramenta já integrada, ela possibilita o programador acompanhar o fluxo de execução do código, bem como saber em que momento os valores das variáveis são alterados, destacar as linhas em que ocorreram os erros e apontar possíveis soluções. 
 
-## Seção 5: Tutorial que ensina a implementar funcionalidades CRUD na tecnologia escolhida:
+## Seção 5: Tutorial que ensina a implementar funcionalidades CRUD na tecnologia escolhida
+
+### Tutorial escolhido: https://www.youtube.com/watch?v=N6jzspc2kds
+
+Disponível no Youtube e feito pelo canal CodAffection, esse tutorial é bastante didático e ensina desde a instalação do Django até as funcionalidades CRUD com a implementação de um sistema que gerencia dados de empregados de uma empresa, além de também utilizar Bootstrap para melhorar a aparência dos templates.
+
+
 
 
 
