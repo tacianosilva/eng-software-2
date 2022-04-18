@@ -1,4 +1,4 @@
-# Engenharia de Software II (Repositório Exemplo)
+# Engenharia de Software II
 
 Repositório para a Disciplina Engenharia de Software II.
 
@@ -9,14 +9,17 @@ Neste repositório teremos a lista de tarefas para a disciplina e os modelos de 
 
 * Modelo do [Documento de Visão](docs/doc-visao.md)
 * Modelo do [Documento de Modelos](docs/doc-modelos.md)
-* Modelo do [Documento Lista de User Stories](docs/doc-userstories.md)
+* Modelo do [Documento de User Stories](docs/doc-userstories.md)
 
 ## Cronograma dos Projetos por Período
 
-* BREVE!! Cronograma das [Iterações 2022.1](projetos/20221/iteracao.md)
-* BREVE!! Lista de [Projetos 2022.1](projetos/20211/iteracao.md)
+No página [Projetos por Período](projetos/README.md) listamos os projetos realizados por grupos de alunos durante a disciplina de Engenharia de Software II.
+
+### Semestre Letivo 2022.1
+* Cronograma das [Iterações 2022.1](projetos/20221/cronograma.md)
+
+### Semestre Letivo 2021.1
 * Cronograma das [Iterações 2021.1](projetos/20211/iteracao.md)
-* Lista de [Projetos por Período](projetos/README.md)
 
 ## Informações
 
