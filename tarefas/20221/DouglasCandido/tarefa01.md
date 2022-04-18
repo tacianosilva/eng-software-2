@@ -72,6 +72,13 @@ A equipe decidiu utilizar a IDE Microsoft Visual Studio, pois utilizam-na rotine
 
 Disponível no Youtube e feito pelo canal CodAffection, esse tutorial é bastante didático e ensina desde a instalação do Django até as funcionalidades CRUD com a implementação de um sistema que gerencia dados de empregados de uma empresa, além de também utilizar Bootstrap para melhorar a aparência dos templates.
 
+## Seção 6: Branches e Pull Request
+
+No Git, Branches são como ramos de uma árvore, pois ramificam o fluxo de implementação das funcionalidades de um determinado projeto. Os Branches são criados justamente para que os programadores de um projeto de software possam desenvolver funcionalidades diferentes em paralelo, assim otimizando o processo de desenvolvimento e garantindo que a integridade do núcleo (Core) do código permaneça preservada, embora novas funcionalidades estejam sendo criadas. 
+
+A função Pull Request do Git é uma solicitação para mesclar e integrar as novas mudanças feitas em cópias (Clones) do repositório à arvore principal (Origin = Orígem) do repositório. Por exemplo: são mudanças que um programador responsável por uma funcionalidade que foi desenvolvida em um branch separado do Main (Principal) requisita ao gerente do branch Main para unir (Acoplar) o seu trecho de código que implementa tal nova funcionalidade ao código que está no branch Main, geralmente o núcleo principal do software (Com as funcionalidades principais que, normalmente, já foram testadas e consolidadas). 
+
+
 
 
 
