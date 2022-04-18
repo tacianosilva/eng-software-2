@@ -66,6 +66,9 @@ Branche: em tradução literal, significa “ramo”. No mundo da programação,
 
 Pull Request: Um pull-request  foi projetado para ajudar a manter as alterações separadas do projeto principal, aumentar a comunicação interna (e potencialmente externa) e permitir uma depuração mais eficaz. Em primeiro lugar, os Pull Requests só funcionam quando um projeto é um único repositório público. Para fazer alterações em um único repositório, os usuários criam branches (partes separadas de código) para testar adições ou alterações. Uma vez que uma branch tenha sido revisada e aprovada, ela pode ser incorporada no restante do código usando um sistema de controle de versão distribuída (DVCS) para enviar as solicitações de Pull Request. Com relação ao GitFlow, um pull request é criado pelos desenvolvedores de suas respectivas branches de recursos para mesclar código com a branch de desenvolvimento. Normalmente, uma solicitação pull é criada após a conclusão dos recursos, e esta solicitação pull é mesclada com a ramificação de desenvolvimento pelo revisor. 
 
+## Versionamento Semântico
+
+O Versionamento Semântico nada mais é do que um conjunto de regras e particularidades que mostram como os números das versões de um software foram desenvolvidos. Em outras palavras, a quantidade de mudanças pelas quais o software passou e quais alterações foram compatíveis ou incompatíveis com a versão anterior.
 
 
 
