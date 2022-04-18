@@ -5,6 +5,9 @@
 * pedro.augustohp02@gmail.com
 
 ## Projeto
+
+### Tema
+* Gestor Lab: Um sistema que atuará como gestor de laboratórios.
 ### Equipe
 * Pedro Augusto
 * Leonardo Dantas
