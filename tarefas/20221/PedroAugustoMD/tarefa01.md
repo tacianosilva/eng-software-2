@@ -34,3 +34,7 @@
 ### Tutorial
 
 * [Tutorial Django](https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/): O link mostra um tutorial de CRUD utilizando a framework Django. Primeiro cria-se o modelo para a criação de instâncias da view e então com dois comandos é criada a base de dados do projeto. Após isso vem a implementação do CRUD em si.
+
+### Branches
+
+* Branch é um ponteiro móvel para as alterações feitas no projeto. É possível divergir da linha principal de desenvolvimento e continua a trabalhar sem alterar o projeto principal.
