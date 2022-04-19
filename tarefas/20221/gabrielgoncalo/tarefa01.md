@@ -42,3 +42,9 @@
 ### branches e pull request
  Branches são utilizados para isolar o certo desemvolvimento do projeto sem prejudicar outras branches. Os pull request são feitos para fazer solicitações de colaboração em um repositório.
 
+### versionamento semântico
+ Trata-se de um conjunto de regras para atribuição de versão de software.
+
+### Conventional commits
+ É um tipo de padronização de commits dentro de um projeto, que tem o intuito de reduzir o tempo gasto em entender como e por que algo foi feito.
+
