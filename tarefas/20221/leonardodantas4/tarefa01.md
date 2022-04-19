@@ -11,3 +11,5 @@
 * **Link para o repositório**: *Ainda não existe repositório*
 
 - A linguagem de programação que será utilizada no projeto será **Python**, pois é uma linguagem Open-Source de propósito geral usado bastante em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. A equipe possui uma certa base de Python, já que já programaram pelo menos uma vez com essa linguagem.
+
+- O framework utilizado no projeto será o **Django**, pois é um framework web full stack open source (código aberto) baseado em Python, gratuito e de alto nível.
