@@ -3,8 +3,8 @@
 ## Nome: Rauan Meirelles Dantas de Araujo
 ## GitHub: [rauan-meirelles](https://github.com/rauan-meirelles)
 ## E-mail: rauan.meirelles95@gmail.com
-# Produto para gestão de clínica médica
- Descrição O produto deve dar suporte à gestão de clínica onde trabalha uma equipe de médicos. Será usado pelos recepcionistas para marcação de consultas e também pelos médicos, para registro do histórico dos pacientes. Deve ser controlada a recepção de resultados de exames que sejam enviados diretamente dos laboratórios para os médicos; por opção do médico, estes resultados podem ser entregues aos pacientes, ou guardados na clínica para consulta posterior.
+## Produto para gestão de clínica médica
+    Descrição: O produto deve dar suporte à gestão de clínica onde trabalha uma equipe de médicos. Será usado pelos recepcionistas para marcação de consultas e também pelos médicos, para registro do histórico dos pacientes. Deve ser controlada a recepção de resultados de exames que sejam enviados diretamente dos laboratórios para os médicos; por opção do médico, estes resultados podem ser entregues aos pacientes, ou guardados na clínica para consulta posterior.
 ## Equipe
 - [Adson Matheus Santos Brito](https://github.com/adson-matheus)
 - [Allan Gabriel Almeida Oliveira](https://github.com/allangbr)
@@ -12,3 +12,14 @@
 - [Rauan Meirelles Dantas De Araujo](https://github.com/rauan-meirelles)
 - [Wesley Vitor Silva De Morais](https://github.com/WesleyVitor)
 ## [Repositório do Projeto](https://github.com/joanmdrs/project-eng-2)
+
+## Linguagem usada e domínio da equipe
+    JavaScript: É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+    Membro          | Domínio         | Experiência
+    --------------- | --------------- | ---------------
+    Allan Gabriel   | Intermediário   |   1 ano
+    Joan Medeiros   | Intermediário   |   1 ano
+    Rauan Meirelles | Iniciante       |   1 ano
+    Adson Matheus   | Iniciante       |   1 ano
+    Wesley Morais   | Intermediário   |   1 ano
