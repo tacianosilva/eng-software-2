@@ -9,7 +9,7 @@ SABIDO: Student Appointment Book Integrated with Django On the fly
 O projeto SABIDO é uma ferramenta que auxilia estudantes a organizarem suas tarefas e rotinas.
 
 ## Equipe
- - Danrley Daniel Moreira Sales
+ - Danrley Daniel Moreira Sales (primeiro gerente)
  - Edinalda Cristina Alves de Medeiros
  - Gabriel Azevedo dos Santos
  - Gabriel Gonçalo da Costa
