@@ -46,3 +46,8 @@ Link: [CRUD Django](https://data-flair.training/blogs/django-crud-example/)
 ## Sobre as branches e pull request e git flow
 
 - Uma branch é simplesmente uma ramificação do projeto original, enquanto um pull request é uma solicitação dos usuários para contribuir com suas alterações de volta ao repositório original do projeto, já o git flow serve para gerenciar o fluxo de trabalho onde você trabalha na sua branch fazendo commits e indicando o tipo de commit que está sendo feito, otimizando assim o desenvolvimento que está sendo realizado de uma forma eficiente.
+
+#
+## Sobre o versionamento semântico
+
+- O versionamento semântico hoje é um dos padrões de versionamento mais usados e conhecidos, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs.
