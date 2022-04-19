@@ -28,7 +28,7 @@ SABIDO é um aplicativo desenvolvido com o objetivo de ajudar os estudantes a or
 
 [Gabriel Azevedo dos Santos / gabrielazevedods](https://github.com/gabrielazevedods)
 
-[Gabriel Gonçalo da Costa / gabrielgoncalo](https://github.com/gabrielconcalo)
+[Gabriel Gonçalo da Costa / gabrielgoncalo](https://github.com/gabrielgoncalo)
 
 [Lucas da Silva Santos / lucassilva01](https://github.com/lucassilva01)
 
