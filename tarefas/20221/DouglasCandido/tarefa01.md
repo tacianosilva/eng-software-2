@@ -20,7 +20,7 @@ SABIDO é um aplicativo desenvolvido com o objetivo de ajudar os estudantes a or
 
 ### Equipe
 
-Danrley Daniel Moreira Sales / danrleydaniel
+[Danrley Daniel Moreira Sales / danrleydaniel](https://github.com/danrleydaniel)  (Primeiro Gerente)
 
 Douglas Mateus Soares Cândido da Silva / douglascandido
 
