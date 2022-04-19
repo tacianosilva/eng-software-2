@@ -42,6 +42,6 @@ O **Versionamento Semântico** nada mais é do que um conjunto de regras e parti
 4. A versão de correção deve ser incrementada apenas se mantiver a compatibilidade ao introduzir correção de bugs.
 5. Uma versão de pré-lançamento pode ser indicada com uma série de identificadores separados por ponto. Ela indicará que a versão do app é instável e que poderá não satisfazer a todos os requisitos de compatibilidade pretendidos. Exemplos: 1.0.1, 1.0.1.1, 1.0.1.2.
 
-## Conventional Commits
+### Conventional Commits
 
 O **Conventional Commits** é uma convenção simples de mensagens de commit, que segue um conjunto de regras e que ajuda os projetos a terem um histórico de commit explícito e bem estruturado. Há vários benefícios em utilizar esse tipo de convenção, como por exemplo, poder automatizar a criação de CHANGELOGs, facilitar a entrada de novos Devs no projeto, assim como poder gerar relatórios e conseguir entender onde está se concentrando as horas do projeto (em refatoração de código, criação de features, mudança de estilos, ambiente de desenvolvimento, entre outros).
