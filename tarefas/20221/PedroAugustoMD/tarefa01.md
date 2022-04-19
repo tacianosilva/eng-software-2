@@ -16,7 +16,7 @@
 * Jeison de Oliveira
 * Renildo Rabi
 
-* [Repositório](https://github.com/Renildo15/Gestor-Lab)
+### [Repositório](https://github.com/Renildo15/Gestor-Lab)
 
 ### Linguagem
 
