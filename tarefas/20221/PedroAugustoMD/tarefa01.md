@@ -38,3 +38,7 @@
 ### Branches
 
 * Branch é um ponteiro móvel para as alterações feitas no projeto. É possível divergir da linha principal de desenvolvimento e continua a trabalhar sem alterar o projeto principal.
+
+### Pull Request
+
+* Pull request é uma forma de notificar o gerente do projeto sobre as alterações feitas para uma branch no repositório. Após o pull request o gerente poderá analisar as modificações e fazer um git pull para o repositório. Logo o pull request é uma requisição para que se faça um pull com as alterações feitas.
