@@ -19,7 +19,7 @@
 ### Link para um vídeo onde o autor explica brevemente como funciona o framework e mostra como criar um *CRUD* do zero: https://www.youtube.com/watch?v=mbQVVIqSxoI&list=WL&index=13&t=555s&ab_channel=GregoryPacheco
 
 
-### *Branch*, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore, Enquanto o **Pull request** é um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma feature qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal.
+### *Branch*, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore, Enquanto o *Pull request* é um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma feature qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal.
 
 ###  *Versionamento semântico* ou Semantic Versioning é um conjunto de regras e requerimentos para atribuição de versão de software.
 
