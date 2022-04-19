@@ -4,7 +4,7 @@
 ## GitHub: [rauan-meirelles](https://github.com/rauan-meirelles)
 ## E-mail: rauan.meirelles95@gmail.com
 ## Produto para gestão de clínica médica
-    Descrição: O produto deve dar suporte à gestão de clínica onde trabalha uma equipe de médicos. Será usado pelos recepcionistas para marcação de consultas e também pelos médicos, para registro do histórico dos pacientes. Deve ser controlada a recepção de resultados de exames que sejam enviados diretamente dos laboratórios para os médicos; por opção do médico, estes resultados podem ser entregues aos pacientes, ou guardados na clínica para consulta posterior.
+Descrição: O produto deve dar suporte à gestão de clínica onde trabalha uma equipe de médicos. Será usado pelos recepcionistas para marcação de consultas e também pelos médicos, para registro do histórico dos pacientes. Deve ser controlada a recepção de resultados de exames que sejam enviados diretamente dos laboratórios para os médicos; por opção do médico, estes resultados podem ser entregues aos pacientes, ou guardados na clínica para consulta posterior.
 ## Equipe
 - [Adson Matheus Santos Brito](https://github.com/adson-matheus)
 - [Allan Gabriel Almeida Oliveira](https://github.com/allangbr)
@@ -14,7 +14,7 @@
 ## [Repositório do Projeto](https://github.com/joanmdrs/project-eng-2)
 
 ## Linguagem usada e domínio da equipe
-    JavaScript: É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+JavaScript: É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
     Membro          | Domínio         | Experiência
     --------------- | --------------- | ---------------
@@ -26,13 +26,13 @@
 
 # Frameworks que serão utilizados
 ## Front-end
-    ReactJS: Biblioteca livre para construção de interfaces utilizando componentes que é mantida pela Meta.
-    React: É baseado no gerenciamento de estados e renderização desses estados na DOM (pode ser usado como base em desenvolvimento single-page, mobile e server-rendered.). 
+ReactJS: Biblioteca livre para construção de interfaces utilizando componentes que é mantida pela Meta.
+React: É baseado no gerenciamento de estados e renderização desses estados na DOM (pode ser usado como base em desenvolvimento single-page, mobile e server-rendered.). 
 ## Back-end
-    Express: Framework responsável pela criação de uma api rest conectando ao banco de dados usando o ORM Prisma.
+Express: Framework responsável pela criação de uma api rest conectando ao banco de dados usando o ORM Prisma.
 
 # IDE utilizada
-    Visual Studio Code: muito usada em todo o mundo e com bastantes extensões. É um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+Visual Studio Code: muito usada em todo o mundo e com bastantes extensões. É um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 
 # Tutoriais 
 
