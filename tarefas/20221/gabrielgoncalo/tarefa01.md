@@ -34,3 +34,8 @@
  ### IDE
  Utilizaremos o vscode como IDE, o vscode é acoplado com o sistema git de controle de versão e tem sinalizações para bugs.
 
+ ### CRUD
+ O tutorial a baixo é de um CRUD de produtos, onde o video aponta desde o tutorial de instalação até a criação de todos os passos do CRUD.
+
+ https://www.youtube.com/watch?v=mbQVVIqSxoI
+
