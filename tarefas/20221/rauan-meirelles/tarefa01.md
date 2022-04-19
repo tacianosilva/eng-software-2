@@ -23,3 +23,11 @@
     Rauan Meirelles | Iniciante       |   1 ano
     Adson Matheus   | Iniciante       |   1 ano
     Wesley Morais   | Intermediário   |   1 ano
+
+## Frameworks que serão utilizados
+# Front-end
+    ReactJS: Biblioteca livre para construção de interfaces utilizando componentes que é mantida pela Meta.
+    React: É baseado no gerenciamento de estados e renderização desses estados na DOM (pode ser usado como base em desenvolvimento single-page, mobile e server-rendered.). 
+# Back-end
+    Express: Framework responsável pela criação de uma api rest conectando ao banco de dados usando o ORM Prisma.
+    
