@@ -16,6 +16,8 @@
 * Jeison de Oliveira
 * Renildo Rabi
 
+* [Repositório](https://github.com/Renildo15/Gestor-Lab)
+
 ### Linguagem
 
 * Python: Todos os integrantes já programaram com essa linguagem e possuem um certo domínio.
