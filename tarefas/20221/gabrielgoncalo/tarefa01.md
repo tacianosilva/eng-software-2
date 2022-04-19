@@ -31,3 +31,6 @@
 ### Framework
  Utilizaremos o django como framework, onde tem um desenvolvimento rápido para web e escrito em python. O django utiliza o padão MTV que é model, template e view.
 
+ ### IDE
+ Utilizaremos o vscode como IDE, o vscode é acoplado com o sistema git de controle de versão e tem sinalizações para bugs.
+
