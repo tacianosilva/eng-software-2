@@ -31,3 +31,6 @@ O domínio da equipe sobre a linguagem é satisfatória, já sobre o framework a
 
 ## Framework utilizado no projeto
 A equipe utilizará o framework Django, que é escrito em Python. Django facilita o desenvolvimento fornecendo módulos prontos e que ajudam o desenvolvedor durante a escrita do projeto.
+
+## IDE utilizada no projeto
+Para desenvolvimento do projeto, a equipe utilizará o [Visual Studio Code](https://code.visualstudio.com/). O VSCode é um editor de código de código aberto desenvolvido pela Microsoft. A ferramenta possui um debugger integrado, que ajuda a debugar com facilidade e simplicidade o código escrito. Para versionamento, o VSCode tem uma ótima integração com Git E GitHub, além de possuir várias extensões que dão superpoderes ao Git, como o [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens).
