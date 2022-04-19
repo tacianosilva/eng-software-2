@@ -12,7 +12,7 @@ Descrição: O produto deve dar suporte à gestão de clínica onde trabalha uma
 
 * [Adson Matheus Santos Brito](https://github.com/adson-matheus)
 * [Allan Gabriel Almeida Oliveira](https://github.com/allangbr)
-* [Joan de Azevedo Medeiros](https://github.com/joanmdrs)
+* [Joan de Azevedo Medeiros](https://github.com/joanmdrs)(Primeiro Gerente)
 * [Rauan Meirelles Dantas De Araujo](https://github.com/rauan-meirelles)
 * [Wesley Vitor Silva De Morais](https://github.com/WesleyVitor)
 * [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=Repositório&color=#0e1116)](https://github.com/joanmdrs/project-eng-2)
