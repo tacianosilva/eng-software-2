@@ -39,3 +39,38 @@ Python é uma linguagem de programação de alto nível,[6] interpretada de scri
 * Framework usado: **Django**
 
 Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view (MTV). Foi criado originalmente como sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Tornou-se um projeto de código aberto e foi publicado sob a licença BSD em 2005. O nome Django foi inspirado no músico de jazz Django Reinhardt.
+
+* * *
+
+## IDE
+
+* IDE usada: **Visual Studio Code(VsCode)**
+
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele é customizável, permitindo que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.
+
+
+### DataTip
+
+O DataTip é de longe o mais utilizado, pela natureza da sua facilidade. Basta parar em um breakpoint, passar o mouse sobre alguma variável e ele estará lá para ajudar o programador.
+É possível dar um pin em um determinado valor. Extremamente útil durante o debug em loops.
+
+### QuickWatch dialog
+
+O DataTip certas vezes pode deixar a desejar, como em casos que a variável inspecionada possuir muitas propriedades. O mouse pode escorregar e involuntariamente fechar a janela. Para esses cenários o QuickWatch é perfeito. Uma janela é aberta com todos os detalhes das variaveis, facilitando a navegação, permitindo a alteração de variáveis e a partir da versão 2015 do Visual Studio também faz parse de expressões lambda.
+
+### Parallel Watch Window
+
+O objetivo é auxiliar o debug de processos que estão em paralelo. Ela identifica e monitora uma variável através de várias Threads. Além disso é possivel monitorar um valor especifico entre as threads através do suporte a Watch.
+Esta é uma ferramenta indispensável ao trabalhar com códigos em paralelo.
+
+### Locals Window
+
+A Locals Window exibe automaticamente uma lista de variáveis e seus valores, que estejam dentro do escopo do método. Ao parar em um breakpoint a janela Locals vai exibir o nome da variável juntamente com seu valor.
+Quando o objetivo é entender de maneira geral o que se passa dentro de um método essa ferramenta pode ser utilizada. Ao alterar o valor de alguma variável o Locals exibe em vermelho o novo valor. Esta ferramenta é util para debugar linha-a-linha e ter um panorama geral de quais variáveis estão sendo modificadas.
+
+* * *
+
+### Controle de Versões
+
+O Visual Studio Code integrou o gerenciamento de controle de origem (SCM) e inclui suporte ao Git pronto para uso. Muitos outros provedores de controle de origem estão disponíveis por meio de extensões no VS Code Marketplace.
+
