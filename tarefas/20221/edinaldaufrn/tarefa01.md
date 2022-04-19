@@ -21,5 +21,5 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 ##Primeiro Gerente do Projeto:
 <p>Danrley Daniel Moreira Sales 
 ## Link para o Repositório do Projeto: 
-<p>Link do repositório do Projeto:<https://github.com/edinaldaufrn/eng-software-2/blob/master/tarefas/20221/edinaldaufrn/tarefa01.md>
+Link do repositório do Projeto:<https://github.com/edinaldaufrn/eng-software-2/blob/master/tarefas/20221/edinaldaufrn/tarefa01.md>
 <p>
