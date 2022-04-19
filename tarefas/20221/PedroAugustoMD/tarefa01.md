@@ -46,3 +46,7 @@
 ### Versionamento Semântico
 
 * É um sistema que propõe um conjunto de regras e requisitos que ditam como os números das versões são atribuídos e incrementados. Ele utiliza o formato de versão X.Y.Z (Maior.Menor.Correção). Correção de falhas (bug fixes) que não afetam a API, incrementa a versão de Correção, adições/alterações compatíveis com as versões anteriores da API incrementa a versão Menor, e alterações incompatíveis com as versões anteriores da API incrementa a versão Maior.
+
+### Conventional Commits
+
+* É um conjunto de regras para utilizar nas mensagens de commit. Serve para criar um histórico de commit explícito, facilitando na criação de ferramentas automatizadas baseadas na especificação.
