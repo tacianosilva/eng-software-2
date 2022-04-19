@@ -82,3 +82,35 @@ O Visual Studio Code integrou o gerenciamento de controle de origem (SCM) e incl
 
 No primeiro video da playlist sobre o crud, foi apresentado a estrutura básica de um crud como:
 Inserir, editar e excluir. E também foi apresentado um pouco sobre template.
+
+* * *
+
+## Branches e Pull request 
+
+### Branch Main/Master
+Principal branch, contém associadas a ela as versões de publicação para facilitar o acesso e a busca por versões mais antigas. Também entendemos que é o espelho do programa que está no ar, já que o último código dessa branch deve sempre estar em produção. Além do mais, a única maneira de interagir com essa branch é através de uma Hotfix ou de uma nova Release.
+
+### Branch Develop
+É uma das principais branches e serve como uma linha com os últimos desenvolvimentos. Como visto na imagem, é uma cópia da branch principal contendo algumas funcionalidades que ainda não foram publicadas. Sendo assim, é a base para o desenvolvimento de novas features.
+
+### Branch Feature
+Uma das branches temporárias e auxiliares do nosso fluxo, sendo a branch que contém uma nova funcionalidade específica para a nossa aplicação. Nela temos a convenção do nome feature/nome_do_recurso que será utilizada no nosso fluxo de trabalho. Não podemos esquecer que toda nova Feature começa e termina obrigatoriamente a partir da develop.
+
+### Branch Hotfix
+Também é uma branch auxiliar e temporária, utilizada quando ocorre algum problema no ambiente de produção no qual a correção deve ser feita imediatamente. Conseguimos com isso solucionar o erro e fazer a mesclagem da solução para as branches main/master e develop para que não ocorra a perda do nosso código.
+
+### Branch Release
+Por fim, a branch de lançamento do nosso programa. Nela unimos o que está pronto em nossa branch de desenvolvimento e “jogamos” para a branch principal. No mais, é criado uma nova versão etiquetada no nosso projeto para que possamos ter um histórico completo do desenvolvimento.
+
+* * * *
+
+###Pull Request
+
+Ao  criar um pull request , você adiciona uma breve visão geral do seu recurso, seleciona o branch para o qual o código precisa ser mesclado e seleciona o responsável que o revisará.
+Uma vez criado, está aberto para discussão ou modificações.
+Às vezes, ocorrem conflitos após a criação de uma solicitação pull e você deve resolver esses conflitos. Possíveis causas de conflitos são discutidas posteriormente neste artigo.
+Normalmente, a pessoa designada revisa o código, mas não é obrigatório que apenas o responsável faça a revisão. Qualquer membro da equipe pode participar do processo de revisão e dar seu feedback ou discutir possíveis modificações no código.
+Quaisquer comentários ou modificações são adicionados na forma de comentários próximos à linha de código.
+O desenvolvedor resolve comentários e responde ao revisor.
+Esse processo continua até que todos os comentários sejam resolvidos.
+Depois que todas as discussões são resolvidas, o código é mesclado com a ramificação que foi selecionada quando a solicitação pull foi criada
