@@ -39,3 +39,6 @@
 
  https://www.youtube.com/watch?v=mbQVVIqSxoI
 
+### branches e pull request
+ Branches são utilizados para isolar o certo desemvolvimento do projeto sem prejudicar outras branches. Os pull request são feitos para fazer solicitações de colaboração em um repositório.
+
