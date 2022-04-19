@@ -74,3 +74,11 @@ Quando o objetivo é entender de maneira geral o que se passa dentro de um méto
 
 O Visual Studio Code integrou o gerenciamento de controle de origem (SCM) e inclui suporte ao Git pronto para uso. Muitos outros provedores de controle de origem estão disponíveis por meio de extensões no VS Code Marketplace.
 
+* * *
+
+## Tutorial CRUD
+
+* Link: https://youtube.com/playlist?list=PL8rp8Q_tOmSP9zycKLIHK-jTcBXzrj1_W
+
+No primeiro video da playlist sobre o crud, foi apresentado a estrutura básica de um crud como:
+Inserir, editar e excluir. E também foi apresentado um pouco sobre template.
