@@ -17,4 +17,6 @@
 ### A **IDE** que usarei será o **VScode**, é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Enquanto a **ferramenta de controle** será o **GitHub**, que é uma ferramenta de hopedagem de código com controle de versão.
 
 ### Link para um vídeo onde o autor explica brevemente como funciona o framework e mostra como criar um **CRUD** do zero: https://www.youtube.com/watch?v=mbQVVIqSxoI&list=WL&index=13&t=555s&ab_channel=GregoryPacheco
-<br/>
+
+
+### **Branch**, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto. Os repositórios no GitHub funcionam como uma árvore, Enquanto o **Pull request** é um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma feature qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal.
