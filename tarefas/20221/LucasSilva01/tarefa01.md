@@ -51,3 +51,30 @@ Link: [CRUD Django](https://data-flair.training/blogs/django-crud-example/)
 ## Sobre o versionamento semântico
 
 - O versionamento semântico hoje é um dos padrões de versionamento mais usados e conhecidos, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs.
+
+#
+
+## Sobre o Conventional Commits
+
+ - Se trata de um padrão que de escrita das mensagens que são passadas ao realizar commits, cada prefixo dita o tipo de commit que está sendo feito, ajudando a equipe a deixar mais claro essa mensagem para a equipe que está desenvolvendo, seguindo a seguinte estrutura: 
+
+ ```
+    <tipo>[escopo opcional]: <descrição>
+    [corpo opcional]
+    [rodapé(s) opcional(is)]
+
+ ```
+
+### O commit contém os seguintes elementos estruturais, para comunicar a intenção ao utilizador da sua biblioteca
+#
+- fix: um commit do tipo fix soluciona um problema na sua base de código (isso se correlaciona com PATCH do versionamento semântico).
+
+- feat: um commit do tipo feat inclui um novo recurso na sua base de código (isso se correlaciona com MINOR do versionamento semântico).
+
+- BREAKING CHANGE: um commit que contém no rodapé opcional o texto BREAKING CHANGE:, ou contém o símbolo ! depois do tipo/escopo, introduz uma modificação que quebra a compatibilidade da API (isso se correlaciona com MAJOR do versionamento semântico). Uma BREAKING CHANGE pode fazer parte de commits de qualquer tipo.
+
+- Outros tipos adicionais são permitidos além de fix: e feat:, por exemplo @commitlint/config-conventional (baseado na Convenção do Angular) recomenda-se build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, entre outros.
+
+- Outros rodapés diferentes de BREAKING CHANGE: <descrição> podem ser providos e seguem a convenção simular a git trailer format.
+
+Fonte -> https://www.conventionalcommits.org/pt-br/v1.0.0/
