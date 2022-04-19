@@ -16,16 +16,24 @@
 > Link para o repositório: https://github.com/Renildo15/Gestor-Lab 
 
 #### Será utilizada a linguagem de programação *Python*.
+![Python](https://www.python.org/static/img/psf-logo@2x.png)
 
 >O Python é uma linguagem de programação de alto nível utilizada em diferentes tipos de aplicações, como para o desenvolvimento web, em Machine Learning, no desenvolvimento de jogos e muito mais. 
 
 #### e o framework de desenvolvimento web, *Django*.
+![Django](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png)
 
 >Django é um framework web Python de alto nível que permite o rápido desenvolvimento de sites seguros e de fácil manutenção.
 
 > É gratuito e de código aberto, tem uma comunidade próspera e ativa, ótima documentação e muitas opções de suporte gratuito e pago. 
 
-#### Utizarei o VSCode neste projeto.
+#### Utizarei o *VSCode* neste projeto.
+![VSCode](https://miro.medium.com/max/1400/1*cn_XBD307E3lObHk511Qqg.png)
 
 >O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. 
+
+#### Tutorial de CRUD usando *Django*:
+
+>[>>>>*Link*<<<<](https://youtu.be/N6jzspc2kds)
+>Esse tutorial implementa operações de CRUD, utilizando também o PostgreSQL.
 
