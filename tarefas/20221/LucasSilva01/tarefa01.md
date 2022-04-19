@@ -18,9 +18,14 @@
 | Edinalda Cristina Alves de Medeiros | edinaldaufrn
 | Gabriel Azevedo dos Santos | gabrielazevedods
 | Gabriel Gonçalo da Costa | gabrielgoncalo
-| Lucas da Silva Santos | lucassilva01
+| Lucas da Silva Santos | LucasSilva01
 
 
 * Link do Repositório: [SABIDO](https://github.com/gabrielazevedods/engenharia-de-software-II)
+#
+## Sobre as linguagens de programação:
 
+ - Todos os integrantes do grupo já tem afinidade com grande parte das tecnologias que serão utilizadas no gerenciador de tarefas - SABIDO, serão utilizadas HTML, CSS e JavaScript para o Front-end, será utilizado o SGBD PostgreSQL para manter os dados.
+
+#
 
