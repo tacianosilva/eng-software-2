@@ -16,5 +16,12 @@
 > Link para o repositório: https://github.com/Renildo15/Gestor-Lab 
 
 #### Será utilizada a linguagem de programação *Python*.
+
 >O Python é uma linguagem de programação de alto nível utilizada em diferentes tipos de aplicações, como para o desenvolvimento web, em Machine Learning, no desenvolvimento de jogos e muito mais. 
+
+#### e o framework de desenvolvimento web, *Django*.
+
+>Django é um framework web Python de alto nível que permite o rápido desenvolvimento de sites seguros e de fácil manutenção.
+
+> É gratuito e de código aberto, tem uma comunidade próspera e ativa, ótima documentação e muitas opções de suporte gratuito e pago. 
 
