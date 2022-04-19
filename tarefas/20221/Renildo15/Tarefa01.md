@@ -104,7 +104,7 @@ Por fim, a branch de lançamento do nosso programa. Nela unimos o que está pron
 
 * * * *
 
-###Pull Request
+### Pull Request
 
 Ao  criar um pull request , você adiciona uma breve visão geral do seu recurso, seleciona o branch para o qual o código precisa ser mesclado e seleciona o responsável que o revisará.
 Uma vez criado, está aberto para discussão ou modificações.
@@ -114,3 +114,15 @@ Quaisquer comentários ou modificações são adicionados na forma de comentári
 O desenvolvedor resolve comentários e responde ao revisor.
 Esse processo continua até que todos os comentários sejam resolvidos.
 Depois que todas as discussões são resolvidas, o código é mesclado com a ramificação que foi selecionada quando a solicitação pull foi criada
+
+* * *
+
+## Versionamento Semântico
+
+Sem a aderência a algum tipo de especificação formal, os números de versão são essencialmente inúteis para gerenciamento de dependências. 
+Dando um nome e definições claras às ideias acima, fica fácil comunicar suas intenções aos usuários de seu software. 
+Uma vez que estas intenções estão claras, especificações de dependências flexíveis (mas não tão flexíveis) finalmente podem ser feitas. 
+Como CaminhaoBombeiros utiliza algumas funcionalidades que foram inicialmente introduzidas na versão 3.1.0, você pode especificar, com segurança, a dependência da Escada como maior ou igual a 3.1.0 porém menor que 4.0.0. 
+Agora, quando Escada versão 3.1.1 e 3.2.0 estiverem disponíveis, você poderá lança-los ao seu sistema de gerenciamento de pacote e saberá que eles serão compatíveis com os softwares dependentes existentes. 
+Como um desenvolvedor responsável você irá, é claro, querer certificar-se que qualquer atualização no pacote funcionará como anunciado. 
+O que você pode fazer é deixar o Versionamento Semântico lhe fornecer uma maneira sensata de lançar e atualizar pacotes sem precisar atualizar para novas versões de pacotes dependentes, salvando-lhe tempo e aborrecimento.
