@@ -24,4 +24,4 @@
 
 ### Tutorial de CRUD em Django
 
-[Clique Aqui](https://www.youtube.com/watch?v=SYr4cKavw-0) - Vídeo de como criar um CRUD em Django.
+[Link!](https://www.youtube.com/watch?v=SYr4cKavw-0) - Vídeo de como criar um CRUD em Django.
