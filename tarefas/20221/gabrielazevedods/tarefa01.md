@@ -27,4 +27,7 @@ SABIDO é um aplicativo desenvolvido com o objetivo de ajudar os estudantes a or
 
 ## Linguagens de programação utilizadas no projeto e domínio da equipe
 A linguagem utilizada para desenvolver o back-end do projeto será Python, atráves do framework Django. Para o front-end será utilizado HTML, CSS e Javascript. Para o banco de dados será utilizado o Postgresql.
-O domínio da equipe sobre a linguagem é satisfatória, já sobre o framework a equipe tem pouca experiência. 
+O domínio da equipe sobre a linguagem é satisfatória, já sobre o framework a equipe tem pouca experiência.
+
+## Framework utilizado no projeto
+A equipe utilizará o framework Django, que é escrito em Python. Django facilita o desenvolvimento fornecendo módulos prontos e que ajudam o desenvolvedor durante a escrita do projeto.
