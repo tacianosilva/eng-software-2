@@ -28,4 +28,6 @@
  - Todos os integrantes do grupo já tem afinidade com grande parte das tecnologias que serão utilizadas no gerenciador de tarefas - SABIDO, serão utilizadas HTML, CSS e JavaScript para o Front-end, será utilizado o SGBD PostgreSQL para manter os dados.
 
 #
+ ## Sobre o framework: 
 
+- **Django:** é um framework para desenvolvimento web rápido, escrito em Python, usando o modo model-template-view (MTV).
