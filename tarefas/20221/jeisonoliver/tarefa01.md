@@ -1,8 +1,7 @@
----
-# titulo: "Tarefa 01 - Git e GitHub com Markdown"
----
-### Nome: Jeison de Oliveira Azevedo
-### Github: jeisonoliver
-### email: jeisonjs42@gmail.com  
+# Tarefa 01 - Git e GitHub com Markdown
 
-<p> Titulo do Projeto: Gestor Lab </p>
+* Nome: **Jeison de Oliveira Azevedo**
+* Usúario: **https://github.com/jeisonoliver**
+* E-mail: **<jeisonjs42@gmail.com>**
+
+## Gestor Lab
