@@ -25,3 +25,6 @@
  #### Link do projeto
  https://github.com/gabrielazevedods/engenharia-de-software-II
 
+ ### Linguagem do projeto
+ Utilizaremos python para o projeto, e minha experiencia com essa linguagem é bem básica, onde utilizei para aprender conceitos sobre a lógica da programação e também utilizei em um projeto de web, e acredito que os demais integrantes do projeto tenham a mesma experiencia.
+
