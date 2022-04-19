@@ -30,3 +30,7 @@
     React: É baseado no gerenciamento de estados e renderização desses estados na DOM (pode ser usado como base em desenvolvimento single-page, mobile e server-rendered.). 
 ## Back-end
     Express: Framework responsável pela criação de uma api rest conectando ao banco de dados usando o ORM Prisma.
+
+# IDE utilizada
+    Visual Studio Code: muito usada em todo o mundo e com bastantes extensões. É um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+    
