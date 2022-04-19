@@ -73,7 +73,3 @@ Além disso, o versionamento semântico também possui regras que definem o que 
 * O software ganha novos recursos;
 * Alguns bugs são corrigidos no software;
 * Mudanças na API pública acontecem;
-
-## Conventional Commits
-
-O **Conventional Commits** é uma convenção simples de mensagens de commit, que segue um conjunto de regras e que ajuda os projetos a terem um histórico de commit explícito e bem estruturado. Há vários benefícios em utilizar esse tipo de convenção, como por exemplo, poder automatizar a criação de CHANGELOGs, facilitar a entrada de novos Devs no projeto, assim como poder gerar relatórios e conseguir entender onde está se concentrando as horas do projeto (em refatoração de código, criação de features, mudança de estilos, ambiente de desenvolvimento, entre outros).
