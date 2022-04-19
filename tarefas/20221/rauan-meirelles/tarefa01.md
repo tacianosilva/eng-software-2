@@ -33,4 +33,21 @@
 
 # IDE utilizada
     Visual Studio Code: muito usada em todo o mundo e com bastantes extensões. É um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
-    
+
+# Tutoriais 
+
+## Playlist I
+* Parte 1:  https://www.youtube.com/watch?v=T8mqZZ0r-RA
+* Parte 2: https://www.youtube.com/watch?v=3YrOOia3-mo&list=WL&index=26
+* Parte 3:  https://www.youtube.com/watch?v=_S2GKnFpdtE
+
+### Descrição
+Nos vídeos acima, o Pedro (dono do canal) faz a demonstração de como se fazer um CRUD utilizando ReactJS, NodeJS Express e MySQL. Dividindo o CRUD em 3 partes, sendo a parte um a criação e configuração do ambiente  de trabalho, a segunda parte consiste no desenvolvimento da parte de Create e Read, e a terceira parte o desenvolvimento do Update e Delete.
+
+## Playlist II
+* Parte 1: https://youtu.be/e0He6sCiQT8 
+* Parte 2: https://youtu.be/5_9rvyT9cg4
+* Parte 3: https://youtu.be/vzPsUWLprAw
+
+### Descrição
+No decorrer dos três vídeos, o autor demonstra a criação de um CRUD utilizando a biblioteca ReactJS no Front-End, e utilizando o Express, o NodeJS e o MySQL no Back-End. O autor cria desde o formulário de inputs, a configuração das rotas, a conexão com o banco  e a ligação entre as camadas de Front-End e Back-End. 
