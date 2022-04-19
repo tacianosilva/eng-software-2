@@ -22,15 +22,15 @@ SABIDO é um aplicativo desenvolvido com o objetivo de ajudar os estudantes a or
 
 [Danrley Daniel Moreira Sales / danrleydaniel](https://github.com/danrleydaniel)  (Primeiro Gerente)
 
-Douglas Mateus Soares Cândido da Silva / douglascandido
+[Douglas Mateus Soares Cândido da Silva / douglascandido](https://github.com/douglascandido)
 
-Edinalda Cristina Alves de Medeiros / edinaldaufrn
+[Edinalda Cristina Alves de Medeiros / edinaldaufrn](https://github.com/edinaldaufrn)
 
-Gabriel Azevedo dos Santos / gabrielazevedods
+[Gabriel Azevedo dos Santos / gabrielazevedods](https://github.com/gabrielazevedods)
 
-Gabriel Gonçalo da Costa / gabrielgoncalo
+[Gabriel Gonçalo da Costa / gabrielgoncalo](https://github.com/gabrielconcalo)
 
-Lucas da Silva Santos / lucassilva01
+[Lucas da Silva Santos / lucassilva01](https://github.com/lucassilva01)
 
 ### Link para o repositório do projeto
 
