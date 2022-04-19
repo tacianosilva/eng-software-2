@@ -21,3 +21,7 @@
 ### VSCode
 
 * A IDE que será utilizada no projeto será o **VSCode**, pois o mesmo é dedicado à otimização de linhas, fazendo com que os softwares sejam mais leves, eficientes e compatíveis com diferentes plataformas. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+### Tutorial de CRUD em Django
+
+[Clique Aqui](https://www.youtube.com/watch?v=SYr4cKavw-0) - Vídeo de como criar um CRUD em Django.
