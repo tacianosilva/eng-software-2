@@ -30,3 +30,14 @@
 
 * **Branches**: É uma ramificação do seu projeto. É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro, gerando uma nova ramificação garantindo que o código instável não seja mesclado nos arquivos do projeto principal. Depois de concluir a atualização dos códigos da ramificação, você pode mesclar a ramificação com a principal, geralmente chamada de master.
 * **Pull request**: É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório, de forma que facilite ser revisado e/ou discutido entre todos os membros da equipe.
+
+### Versionamento Semântico
+
+O **Versionamento Semântico** nada mais é do que um conjunto de regras e particularidades que mostram como os números das versões do aplicativo foram desenvolvidos. Em outras palavras, a quantidade de mudanças pelas quais o app passou e quais alterações foram compatíveis ou incompatíveis com a versão anterior. O desafio por trás de manter o sistema atualizado para os usuários é assegurar especificações claras sobre o aplicativo, do contrário os números são praticamente inúteis para o gerenciamento correto do software. 
+
+* Especificações do Versionamento Semântico:
+1. O aplicativo que usar o versionamento deve ter instruções e padrões de programação de fácil compreensão.
+2. A versão normal do app precisa estar no formato inteiro e os números não podem ser negativos. Também não pode haver zeros à esquerda e os valores sempre devem aumentar numericamente. Por exemplo: 1.1 -> 1.2 -> 1.3.
+3. Uma vez que um pacote for lançado, o conteúdo do aplicativo não deve ser alterado. Se existir a necessidade de qualquer modificação, o software precisa ser lançado com uma nova versão.
+4. A versão de correção deve ser incrementada apenas se mantiver a compatibilidade ao introduzir correção de bugs.
+5. Uma versão de pré-lançamento pode ser indicada com uma série de identificadores separados por ponto. Ela indicará que a versão do app é instável e que poderá não satisfazer a todos os requisitos de compatibilidade pretendidos. Exemplos: 1.0.1, 1.0.1.1, 1.0.1.2.
