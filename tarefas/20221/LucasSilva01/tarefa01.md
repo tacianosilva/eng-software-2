@@ -31,3 +31,8 @@
  ## Sobre o framework: 
 
 - **Django:** é um framework para desenvolvimento web rápido, escrito em Python, usando o modo model-template-view (MTV).
+
+#
+## Sobre a IDE:
+
+- Será usado o Visual Studio Code como IDE, pois é algo que todos os integrantes tem afinidade. Como o VS code já é integrado com o git e tem uma ótima ferramenta de depuração, acaba faciliatando o uso para todos os integrantes do grupo por isso optamos pelo mesmo.
