@@ -4,15 +4,17 @@
 ### GitHub: [rickEDU](https://github.com/rickEDU)
 ### Email: eduardo.h3nriqu3@gmail.com
 #
-## ** Informações do Projeto **
+## ** Informações do Projeto ** <br/>
 
 ### O título do projeto é "**Gestor Lab**"
 
 ### link para para o repositório : https://github.com/Renildo15/Gestor-Lab
-<br/>
+
 
 ### A linguagem que utilizaremos será o **Python** usando o framework **Django**, que é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Foi criado originalmente como sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Tornou-se um projeto de código aberto e foi publicado sob a licença BSD em 2005. <br/>Nossa experiência com Django é quase 0, mas iremos aprender a usar a tecnologia proposta.
-<br/>
+
 
 ### A **IDE** que usarei será o **VScode**, é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Enquanto a **ferramenta de controle** será o **GitHub**, que é uma ferramenta de hopedagem de código com controle de versão.
+
+### Link para um vídeo onde o autor explica brevemente como funciona o framework e mostra como criar um **CRUD** do zero: https://www.youtube.com/watch?v=mbQVVIqSxoI&list=WL&index=13&t=555s&ab_channel=GregoryPacheco
 <br/>
