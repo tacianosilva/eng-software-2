@@ -94,3 +94,7 @@ As pull requests permitem que você informe outras pessoas sobre as alterações
 ## Versionamento Semântico
 
 Resumidamente e de forma objetiva o versionamento semântico é um conjunto de regras e requerimentos para atribuição de versão de software. Em outras palavras, é uma tentativa de resolução de um problema antigo conhecido como inferno de dependências que nada mais é do que problemas e complicações ao lidar com pacotes de softwares.
+
+## Conventional Commits
+
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.
