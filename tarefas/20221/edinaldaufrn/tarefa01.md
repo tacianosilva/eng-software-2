@@ -36,6 +36,6 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 ![Danjo](C:\Users\edina\Downloads\Tarefa-Edinalda\eng-software-2)
 
 ## Seção 4: Falando um pouco da IDE que será utilizada. das ferramentas de debug e de controle de versão que ela tem integrada.
-<b> Teste 1
-<i> Teste 2
+<p> O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+<p> O Visual Studio Code é baseado no Electron, um framework que é usado para desenvolver aplicativos Node.js para o desktop.
 
