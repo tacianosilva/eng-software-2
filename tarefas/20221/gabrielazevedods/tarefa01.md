@@ -75,3 +75,22 @@ As especificações para o versionamento semântico deve ser regras.
 - Décima Primeira Regra – Precedência de versões  
 - Décima Segunda Regra - Precedência especificada
 
+## Conventional commits
+A mensagem do commit deve seguir o esquema a seguir: 
+<tipo> [escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[Rodapé opcional]
+
+O tipo pode ser:  
+- fix - correção de bugs  
+- feat - novas funcionalidades  
+- refactor - refatoração de código, mas sem alterações no funcionamento  
+- perf - refatorações especiais, que melhoram o desempenho 
+- style - commits que não afetam o código em si  
+- test - testes  
+- docs - documentação  
+- build - alteração nas ferramentas de dependências por exemplo  
+- ops - infraestrutura  
+- chore - vários commits  
