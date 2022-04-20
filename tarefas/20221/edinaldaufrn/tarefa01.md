@@ -39,3 +39,6 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 <p> O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 <p> O Visual Studio Code é baseado no Electron, um framework que é usado para desenvolver aplicativos Node.js para o desktop.
 
+## Seção 5: Link do Tutorial para fazer um CRUD em Django com VSCode:
+<p> O link está relacionado a um CRUD de login e senha do framework Django com a IDE VSCode que será usado no SABIDO
+<https://www.youtube.com/watch?v=ryIFjfbH91I>
