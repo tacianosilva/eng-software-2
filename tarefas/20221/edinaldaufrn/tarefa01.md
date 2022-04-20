@@ -40,5 +40,6 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 <p> O Visual Studio Code é baseado no Electron, um framework que é usado para desenvolver aplicativos Node.js para o desktop.
 
 ## Seção 5: Link do Tutorial para fazer um CRUD em Django com VSCode:
-<p> O link está relacionado a um CRUD de login e senha do framework Django com a IDE VSCode que será usado no SABIDO
-[video aula](https://www.youtube.com/watch?v=ryIFjfbH91I)
+<p> O link está relacionado a um CRUD de login e senha do framework Django com a IDE VSCode que será usado no SABIDO.
+<p>[video aula](https://www.youtube.com/watch?v=ryIFjfbH91I)
+## Seção 6
