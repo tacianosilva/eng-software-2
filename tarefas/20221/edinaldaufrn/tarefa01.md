@@ -31,3 +31,4 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 
 ## Seção 3: Sobre o framework que será utilizado no projeto.
 - Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Foi criado originalmente como sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Tornou-se um projeto de código aberto e foi publicado sob a licença BSD em 2005. Django utiliza o princípio DRY (Don't Repeat Yourself), onde faz com que o desenvolvedor aproveite ao máximo o código já feito, evitando a repetição.
+## Seção 4: Falando um pouco da IDE que será utilizada. das ferramentas de debug e de controle de versão que ela tem integrada.
