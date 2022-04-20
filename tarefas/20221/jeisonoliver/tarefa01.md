@@ -90,3 +90,7 @@ Um branch no Git é simplesmente um ponteiro móvel leve para um desses commits.
 **Pull Request**
 
 As pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez push para um branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
+
+## Versionamento Semântico
+
+Resumidamente e de forma objetiva o versionamento semântico é um conjunto de regras e requerimentos para atribuição de versão de software. Em outras palavras, é uma tentativa de resolução de um problema antigo conhecido como inferno de dependências que nada mais é do que problemas e complicações ao lidar com pacotes de softwares.
