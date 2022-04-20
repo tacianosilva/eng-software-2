@@ -44,4 +44,8 @@
 
 >**Pull Request** é como fazemos as requisições da junção das ramificações do nosso projeto (branches) na branch master, onde membros da equipe revisam as mudanças, discutem o que foi desenvolvido e definem se está apto para integrar as mudanças feitas nas branches no produto final.
 
+#### Versionamento semântico
 
+> **Versionamento semântico** é uma maneira de padronizar o versionamento de projetos de software. 
+
+>Criado para evitar o chamado “dependency hell”, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs, por exemplo.
