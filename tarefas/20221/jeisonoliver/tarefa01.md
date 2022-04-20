@@ -76,3 +76,8 @@ A Locals Window exibe automaticamente uma lista de variáveis e seus valores, qu
 
 Pode ser considerado um complemento da Locals Window, pois enquanto a Locals exibe todas as variáveis do escopo atual, a Watch filtra e exibe apenas as variáveis selecionadas.
 
+## Tutorial Ensinando a fazer o CRUD
+**Link: https://www.youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N**
+
+A playlist acima, conta com uma serie de videos, os quais ensinam como fazer um CRUD usando a linguagem de programação Python.
+
