@@ -34,3 +34,14 @@ A equipe utilizará o framework Django, que é escrito em Python. Django facilit
 
 ## IDE utilizada no projeto
 Para desenvolvimento do projeto, a equipe utilizará o [Visual Studio Code](https://code.visualstudio.com/). O VSCode é um editor de código de código aberto desenvolvido pela Microsoft. A ferramenta possui um debugger integrado, que ajuda a debugar com facilidade e simplicidade o código escrito. Para versionamento, o VSCode tem uma ótima integração com Git E GitHub, além de possuir várias extensões que dão superpoderes ao Git, como o [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens).
+
+## Link de tutorial usando a tecnologia escolhida
+https://youtu.be/mbQVVIqSxoI  
+Tutorial bem simples e direto ao ponto, perfeito para desenvolver um CRUD rápido usando Django
+
+## Branches e pull request
+- Branch  
+Como o nome sugere, é uma ramificação. Digamos que durante o desenvolvimento de um projeto de software, em dado momento, eu quero adicionar uma funcionalidade que pode ocasionar bugs indesejéveis, então ao invés de mandar os novos commits para a branch principal, podemos criar novas branches que atuarão como uma cópia da branch principal, porém tudo que for adicionado a ela não afetará a branch principal até que seja feito o merge. Usando o gitflow, podemos criar branches específicas para cada parte de desenvolvimento. Como a branch Main, que contém a versão principal do projeto; a Develop para ser a branch que irá ser adicionado as novas funcionalidades; a Feature, que contém novas funcionalidades em cima da branch Develop.
+
+- Pull request  
+Significa solicitação de puxar, em tradução livre. Quando se deseja integrar o conteúdo de uma branch para a branch principal, é solicitado um pull request para que o gerente do projeto aprove ou rejeite as novas alterações, para ai sim ocorrer o merge das branches. No gitflow isso ajuda muito a organizar e selecionar o que deve ser mergiado ou não, e manter o controle do versionamento para sempre garantir a qualidade do software.
