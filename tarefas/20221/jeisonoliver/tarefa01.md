@@ -81,3 +81,12 @@ Pode ser considerado um complemento da Locals Window, pois enquanto a Locals exi
 
 A playlist acima, conta com uma serie de videos, os quais ensinam como fazer um CRUD usando a linguagem de programação Python.
 
+## Branches e Pull Request
+
+**branches**
+
+Um branch no Git é simplesmente um ponteiro móvel leve para um desses commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Toda vez que você confirma, o ponteiro do branch master avança automaticamente.
+
+**Pull Request**
+
+As pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez push para um branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
