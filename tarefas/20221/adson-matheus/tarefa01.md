@@ -82,3 +82,10 @@ Com relação ao GitFlow, um pull request é criado pelos desenvolvedores de sua
 
 ## Versionamento Semântico
 O Versionamento Semântico nada mais é do que um conjunto de regras e particularidades que mostram como os números das versões de um software foram desenvolvidos. Em outras palavras, a quantidade de mudanças pelas quais o software passou e quais alterações foram compatíveis ou incompatíveis com a versão anterior.
+
+## Conventional Commits
+O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:
+1. fix: commit que soluciona um problema, bug.
+2. feat: commit que inclui uma nova funcionalidade.
+3. docs: um commit que irá mudar algo na documentação do projeto.
+4. test: commit de testes.
