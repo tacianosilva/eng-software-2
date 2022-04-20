@@ -20,6 +20,7 @@ Gabriel Gonçalo da Costa; Link:<https://github.com/gabrielgoncalo>
 Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 ## Primeiro Gerente do Projeto:
 <p>Danrley Daniel Moreira Sales 
+<P>
 ## Link para o Repositório do Projeto: 
 <p>[Link:](https://github.com/edinaldaufrn/eng-software-2/blob/master/tarefas/20221/edinaldaufrn/tarefa01.md)
 <p>
