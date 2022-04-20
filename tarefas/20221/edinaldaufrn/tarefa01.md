@@ -1,6 +1,6 @@
 # Tarefa 01 - Git e GitHub com Markdown
 ## Meus dados pessoais:
-- Nome: Edinalda Cristina 
+*- Nome:* Edinalda Cristina 
 - GitHub: edinaldaufrn
 - e-mail: edinaldacristam@gmail.com
 
