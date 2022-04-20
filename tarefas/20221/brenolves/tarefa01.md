@@ -35,5 +35,13 @@
 #### Tutorial de CRUD usando *Django*:
 
 >[>>>>*Link*<<<<](https://youtu.be/N6jzspc2kds)
+
 >Esse tutorial implementa operações de CRUD, utilizando também o PostgreSQL.
+
+#### Branch e Pull Request
+
+>**Branches** são ramificações do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master (ou main), que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+>**Pull Request** é como fazemos as requisições da junção das ramificações do nosso projeto (branches) na branch master, onde membros da equipe revisam as mudanças, discutem o que foi desenvolvido e definem se está apto para integrar as mudanças feitas nas branches no produto final.
+
 
