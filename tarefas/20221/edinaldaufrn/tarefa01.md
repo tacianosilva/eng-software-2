@@ -27,6 +27,5 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 <p>
 
 ## Seção 2: A linguagem de programação que será utilizada no projeto. Qual o domínio e experiência da equipe com a linguagem.
-- Ferramentas e linguagem utilizadas: 
 - A equipe optou por utilizar o framework Django para desenvolver o aplicativo SABIDO. Essa decisão foi tomada em virtude da experiência prévia, e amplamente satisfatório dos membros da equipe com a linguagem de programação Python: uma vez que os códigos utilizando no Django são escritos em Python. Assim como também erá utilizado HTML, CSS e JavaScript para o Front-end, e o SGBD PostgreSQL para manter os dados do aplicativo SABIDO.
 
