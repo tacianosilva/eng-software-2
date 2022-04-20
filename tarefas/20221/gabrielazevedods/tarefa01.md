@@ -45,3 +45,33 @@ Como o nome sugere, é uma ramificação. Digamos que durante o desenvolvimento 
 
 - Pull request  
 Significa solicitação de puxar, em tradução livre. Quando se deseja integrar o conteúdo de uma branch para a branch principal, é solicitado um pull request para que o gerente do projeto aprove ou rejeite as novas alterações, para ai sim ocorrer o merge das branches. No gitflow isso ajuda muito a organizar e selecionar o que deve ser mergiado ou não, e manter o controle do versionamento para sempre garantir a qualidade do software.
+
+## Versionamento semântico
+Versionamento semântico é um conjunto simples de regras e requerimentos para atribuição das versões de software. Podemos considerar um formato X.Y.Z (Major, Minor, Patch)
+
+Major: controle de compatibilidade
+Minor: controle de funcionalidade
+Patch: controle de correção de bugs
+
+Cada elemento deve ser incrementado em 1, deve ter um número único da versão.
+
+Patch deve ser incrementado apenas se estiver adicionando uma correção de algum bug, e mantém a compatibilidade com a versão anterior.
+
+Minor deve ser incrementado se estiver adicionando novas funcionalidades, mantendo a compatibilidade com a versão anterior. Quando a versão Minor for incrementada, a versão Patch deve ser redefinida para 0.
+
+Major deve ser incrementado quando houver alterações que não são compatíveis com a versão anterior já publicada, quando a versão Major for incrementada, tanto a versão minor quanto a versão Patch devem ser redefinidas para 0.
+
+As especificações para o versionamento semântico deve ser regras.  
+- Primeira Regra – API pública  
+- Segunda Regra – Formato do número de versão, seguindo o formato X.Y.Z.  
+- Terceira Regra – Versões imutáveis, para correções, modificações, novas funcionalidades - deverão ser lançadas em uma nova versão.  
+- Quarta Regra – Desenvolvimento inicial  
+- Quinta Regra – Versão 1.0.  
+- Sexta Regra – Versão de remendo ou patch version  
+- Sétima Regra – Versão secundária ou minor version  
+- Oitava Regra – Versão principal ou major version  
+- Nona Regra – Versão de pré-lançamento ou pré-release  
+- Décima Regra – Dados de build  
+- Décima Primeira Regra – Precedência de versões  
+- Décima Segunda Regra - Precedência especificada
+
