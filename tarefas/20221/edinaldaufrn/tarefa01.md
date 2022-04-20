@@ -10,6 +10,7 @@
 
 ## Descrição do projeto:
 <p>SABIDO é um aplicativo desenvolvido com o objetivo de ajudar os estudantes a organizarem suas tarefas e rotinas.
+
 ## Membros do Grupo e links para o repositório do projeto:
 - Danrley Daniel Moreira Sales; Link:<https://github.com/danrleydaniel>
 - Douglas Mateus Soares Cândido da Silva; Link:<https://github.com/douglascandido>
@@ -17,8 +18,9 @@
 - Gabriel Azevedo dos Santos; Link:<https://github.com/gabrielazevedods>
 - Gabriel Gonçalo da Costa; Link:<https://github.com/gabrielgoncalo>
 Lucas da Silva Santos; Link:<Lucas da Silva Santos >
+
 ## Primeiro Gerente do Projeto:
-<p>Danrley Daniel Moreira Sales 
+- Danrley Daniel Moreira Sales 
 <P>
 ## Link para o Repositório do Projeto: 
 <p>[Link:](https://github.com/edinaldaufrn/eng-software-2/blob/master/tarefas/20221/edinaldaufrn/tarefa01.md)
