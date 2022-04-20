@@ -14,7 +14,7 @@ A universidade que preparar um banco de dados para gravar os dados do Laboratór
 **Equipe:**
 
 * [Breno Alves](https://github.com/brenolves); 
-* [Eduardo Henrique](https://github.com/rickEDU);
+* [Eduardo Henrique](https://github.com/rickEDU) (Gerente);
 * [Renildo Rabi](https://github.com/Renildo15);
 * [Jeison Oliveira](https://github.com/jeisonoliver)
 * [Leonardo Dantas](https://github.com/leonardodantas4)
