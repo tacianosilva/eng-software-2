@@ -54,7 +54,7 @@ Front-End: ReactJS
 
 Back-End: NodeJS, Express, Prisma, NodeMon e Concurrently
 
-Banco de dados: MySQL e Docker
+Banco de dados: Postgres e Docker
 
 ### IDE utilizada
 
