@@ -1,12 +1,10 @@
 # Tarefa 01 - Git e GitHub com Markdown
+## Meus dados pessoais:
+Nome: Edinalda Cristina 
+GitHub: edinaldaufrn
+e-mail: edinaldacristam@gmail.com
 
-Edinalda Cristina 
-
-edinaldaufrn
-
-edinaldacristam@gmail.com
-
-# Seção 1: Título e descrição do seu projeto na disciplina. Equipe e Link para o repositório do projeto.
+## Seção 1: Título e descrição do seu projeto na disciplina. Equipe e Link para o repositório do projeto.
 ## Titulo:
 <p>SABIDO: Student Appointment Book Integrated with Django On the fly.
 ## Descrição do projeto:
