@@ -42,4 +42,5 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 ## Seção 5: Link do Tutorial para fazer um CRUD em Django com VSCode:
 <p> O link está relacionado a um CRUD de login e senha do framework Django com a IDE VSCode que será usado no SABIDO.
 <p>[video aula](https://www.youtube.com/watch?v=ryIFjfbH91I)
+
 ## Seção 6
