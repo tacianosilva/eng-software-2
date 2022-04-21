@@ -42,7 +42,9 @@ Configuração automática de bibliotecas Spring e de terceiros sempre que poss�
 Funcionalidades para ambiente de produção como métricas, health checks e configurações externalizadas.
 Dispensar a necessidade de configuração XML e geração de código.
 
-
+### Sobre a IDE que será utilizada
+Microsoft Visual Studio
+A IDE Microsoft Visual Studio tem sido utilizada em larga escala, em virtude da sua simplificidade e possibilidade de instalar diversas extensões que ajudam no desenvolvimento. É possível utilizar o versionamento com facilidade, utilizando o git, Além da depuração fornecida, que possui uma excelente ferramenta já integrada.
 
 
 
