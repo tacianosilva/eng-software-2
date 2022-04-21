@@ -50,5 +50,9 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 ## Seção 7:  branches e pull request usando o Git e o GitHUb com o GitFlow.
 
 Para criar um pull request para fazer sugestões e colaborar nas alterações de um repositório. Essas alterações são propostas em um branch, que garante que o branch-padrão só contém trabalho concluído e aprovado.
-
-linha teste
+- No GitHub.com, navegue até a página principal do repositório.
+- No menu "Branch", escolha o branch que contém seus commits.
+- Above the list of files, click  Pull request.
+- Use o menu suspenso do branch base para selecionar o branch em que deseja fazer merge de suas alterações. Em seguida, use o menu suspenso do branch de comparação para escolher o branch de tópico no qual você fez as alterações.
+- Digite um título e uma descrição para a pull request.
+- Para criar um pull request que está pronto para revisão, clique em - Para criar um pull request que está pronto para revisão, clique em - Criar Pull Request. Para criar um rascunho de pull request, use o menu suspenso e selecione Criar rascunho de pull request e, em seguida, clique em Rascunho de Pull Request. Para obter mais informações sobre pull requests em rascunho, consulte "Sobre pull requests".
