@@ -55,7 +55,8 @@ Um dos melhores canais que tratam do Spring Boot, além disso possui um bootcamp
 O Github é uma plataforma web de versionamento de arquivos e de código-fonte. Utilizado por programadores para contribuirem para projetos Open Source ou particulares. Cada projeto possui um conjunto de Issues a serem criadas e resolvidas por colaboradores, que seria analogamente aos User Stories do Scrum, acopladas em Projects, que são fases e partes do software a ser implementado, do mesmo modo dos Sprints, revisadas a cada Daily. É possível dividir as etapas de um Project em To Do, conterá as Issues pertencentes a esse a serem realizadas, Doing, as que estão sendo realizadas, e Done, as que foram feitas. Se tratando do Scrum, essas podem ser categorizadas de acordo com sua prioridade, definidas pelo Product Owner. Os membros do Scrum Team enviam suas soluções através de Pull Requests, na qual os moderadores juntamente com Scrum Master do projeto visualizam os códigos implementados e podem aprovar ou não. Sendo estes aprovados, eles dão merge para a branch principal do projeto. Além disso cada projeto possui versões, visto que este é implementado de modo incremental, utilizando os Milestones, já que o Github, além de ser uma plataforma de versionamento, também proporciona um ambiente para a aplicação de  metodologias ágeis. Deste modo resolvendo a cada iteração os requisitos do Product Backlog.
 
 
-
+### Versionamento Semântico
+É um conjunto de regras que estrutura um projeto em suas demais partes por meio de versões, que parte do príncipio de engenharia de software, de gestão de configuração, de forma a controlar as mudanças que estão sendo implementadas durante a construção da aplicação.
 
 
 
