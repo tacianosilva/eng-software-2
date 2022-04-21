@@ -43,6 +43,10 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 <p> O link está relacionado a um CRUD de login e senha do framework Django com a IDE VSCode que será usado no SABIDO.
 <p>[video aula](https://www.youtube.com/watch?v=ryIFjfbH91I)
 
-## Seção 6
+## Seção 6:
 <p> Link escolhido na lista gerada das opções do link da seção 5. Este link fala da autenticação do login e senha do usuario.
 [video aula](https://www.youtube.com/watch?v=Q4Q3S7HLp4w)
+
+## Seção 7:  branches e pull request usando o Git e o GitHUb com o GitFlow.
+
+Para criar um pull request para fazer sugestões e colaborar nas alterações de um repositório. Essas alterações são propostas em um branch, que garante que o branch-padrão só contém trabalho concluído e aprovado.
