@@ -50,3 +50,5 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 ## Seção 7:  branches e pull request usando o Git e o GitHUb com o GitFlow.
 
 Para criar um pull request para fazer sugestões e colaborar nas alterações de um repositório. Essas alterações são propostas em um branch, que garante que o branch-padrão só contém trabalho concluído e aprovado.
+
+linha teste
