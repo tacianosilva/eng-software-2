@@ -47,6 +47,22 @@ Microsoft Visual Studio
 A IDE Microsoft Visual Studio tem sido utilizada em larga escala, em virtude da sua simplificidade e possibilidade de instalar diversas extensões que ajudam no desenvolvimento. É possível utilizar o versionamento com facilidade, utilizando o git, Além da depuração fornecida, que possui uma excelente ferramenta já integrada.
 
 
+### Tutorial que ensina a implementar funcionalidades CRUD na tecnologia escolhida
+Tutorial escolhido: https://www.youtube.com/watch?v=nQr_X62vq-k&ab_channel=DevSuperior
+Um dos melhores canais que tratam do Spring Boot, além disso possui um bootcamp.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
