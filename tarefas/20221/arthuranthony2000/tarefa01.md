@@ -58,7 +58,8 @@ O Github é uma plataforma web de versionamento de arquivos e de código-fonte. 
 ### Versionamento Semântico
 É um conjunto de regras que estrutura um projeto em suas demais partes por meio de versões, que parte do príncipio de engenharia de software, de gestão de configuração, de forma a controlar as mudanças que estão sendo implementadas durante a construção da aplicação.
 
-
+### Conventional Commits
+Está relacionado ao versionamento, pois determinar uma estrutura de organizar por meio de mensagens a implementação de uma novo versionamento, determinando um padrão.
 
 
 
