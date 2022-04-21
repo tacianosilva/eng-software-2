@@ -45,4 +45,4 @@ Lucas da Silva Santos; Link:<Lucas da Silva Santos >
 
 ## Seção 6
 <p> Link escolhido na lista gerada das opções do link da seção 5. Este link fala da autenticação do login e senha do usuario.
-[video aula]<https://www.youtube.com/watch?v=Q4Q3S7HLp4w>
+[video aula](https://www.youtube.com/watch?v=Q4Q3S7HLp4w)
