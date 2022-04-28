@@ -2,7 +2,7 @@
 
 Abaixo apresentamos o modelo conceitual usando o **YUML**.
 
- ![Modelo UML](yuml/monitoria-modelo.png)
+ ![Modelo UML](monitoria-modelo.png)
 
 ## Código do Modelo do Sistema para a Monitoria
 
