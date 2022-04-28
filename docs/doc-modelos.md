@@ -13,6 +13,32 @@ Abaixo apresentamos o modelo conceitual usando o **YUML**.
 
 O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md)
 
+### Diagrama de Classes usando Mermaid
+
+```mermaid
+classDiagram
+      Animal <|-- Duck
+      Animal <|-- Fish
+      Animal <|-- Zebra
+      Animal : +int age
+      Animal : +String gender
+      Animal: +isMammal()
+      Animal: +mate()
+      class Duck{
+          +String beakColor
+          +swim()
+          +quack()
+      }
+      class Fish{
+          -int sizeInFeet
+          -canEat()
+      }
+      class Zebra{
+          +bool is_wild
+          +run()
+      }
+```
+
 ### Descrição das Entidades
 
 ## Modelo de Dados (Entidade-Relacionamento)
