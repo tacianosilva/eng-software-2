@@ -49,9 +49,14 @@ Para criar modelos ER é possível usar o BrModelo e gerar uma imagem. Contudo, 
 
 ```mermaid
 erDiagram
-    TURMA ||--|{ DOCENTE : docentes
-    MONITOR }|--|{ ATENDIMENTO : realiza
-    TURMA ||--|{ ATENDIMENTO : tem
+    Departamento ||--o{ Laboratorio : labs
+    Departamento ||--|{ Docente : docentes
+    Docente ||--o| Laboratorio : coordenador
+    Docente ||--o| Laboratorio : vice-coordenador
+    Laboratorio ||--o{ Membro_Docente : membros
+    Docente ||--|{ Membro_Docente : ""
+    Laboratorio ||--o{ Membro_Discente : membros
+    Membro_Discente }|--|| Discente: ""
 ```
 
 ### Dicionário de Dados
