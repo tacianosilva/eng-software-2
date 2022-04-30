@@ -31,12 +31,17 @@ Este documento descreve os User Stories criados a partir da Lista de Requisitos 
 | RF04          | Excluir Usuário |
 | RF05          | Vizualizar detalhes do Usuário |
 
-|               |                                                                |
-| ------------- | :------------------------------------------------------------- |
-| **Prioridade**            | Essencial                           |
-| **Estimativa**            | 8 h                                 |
-| **Tempo Gasto (real):**   |                                     |
-| **Tamanho Funcional**     | 7 PF                                |
+|                           |                                     |
+| ------------------------- | ----------------------------------- | 
+| **Prioridade**            | Essencial                           | 
+| **Estimativa**            | 8 h                                 | 
+| **Tempo Gasto (real):**   |                                     | 
+| **Tamanho Funcional**     | 7 PF                                | 
+| **Analista**              | Taciano                             | 
+| **Desenvolvedor**         | Zé                                  | 
+| **Revisor**               | Maria                               | 
+| **Testador**              | Xuxa                                | 
+
 
 | Testes de Aceitação (TA) |  |
 | ----------- | --------- |
