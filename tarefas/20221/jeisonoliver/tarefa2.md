@@ -10,3 +10,7 @@ Django é um framework para desenvolvimento rápido para web, escrito em Python,
 
 **Link do repositório**
 https://github.com/jeisonoliver/CRUD_Django
+
+**Arquitetura Geral**
+O projeto trata-se da implementação de um CRUD usando a linguagem python-Django, A comunicação back-end, front-end e com o banco de dados, serão implementadas todas juntas.
+
