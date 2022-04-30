@@ -13,3 +13,9 @@ Django é um framework web Python de alto nível que permite o rápido desenvolv
 ### Arquitetura Geral do Projeto
 
 Para o desenvolvimento do Front-End foi utilizada a linguagem de programação HTML, para o Back-End foi utilizada a linguagem Python e para o Banco de Dados foi utilizado SQLite.
+
+### Playlist utilizada para a implementação do CRUD
+
+[CLIQUE AQUI](https://youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
+
+* **Descrição**: Playlist que ensina como fazer um CRUD usando Python e Django.
