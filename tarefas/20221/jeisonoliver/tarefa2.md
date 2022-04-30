@@ -18,5 +18,11 @@ O projeto trata-se da implementação de um CRUD usando a linguagem python-Djang
 https://www.youtube.com/watch?v=mbQVVIqSxoI&ab_channel=GregoryPacheco
 O tutorial ensina o passo a passo de como fazer um crud usando Django, desde o cadastro de um produto qualquer, até a exclusão do mesmo.
 
+**Arquitetura de software**
+Tipo: Cliente-servidor
+A arquitetura cliente servidor é uma arquitetura de aplicação distribuída, ou seja, na rede existem os fornecedores de recursos ou serviços a rede, que são chamados de servidores, e existem os requerentes dos recursos ou serviços, denominados clientes.
+
+O cliente não compartilha nenhum de seus recursos com o servidor, mas no entanto ele solicita alguma função do servidor, sendo ele, o cliente, responsável por iniciar a comunicação com o servidor, enquanto o mesmo aguarda requisições de entrada.
+
 
 
