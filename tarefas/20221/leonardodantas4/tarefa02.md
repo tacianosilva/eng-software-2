@@ -19,3 +19,9 @@ Para o desenvolvimento do Front-End foi utilizada a linguagem de programação H
 [CLIQUE AQUI](https://youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N)
 
 * **Descrição**: Playlist que ensina como fazer um CRUD usando Python e Django.
+
+### Arquitetura de Software
+
+* **Service-Oriented Architecture (SOA):**
+
+O SOA facilita a operação das grandes empresas, pois auxilia na criação do processo de encontrar, definir e gerenciar os serviços disponibilizados. O NuBank e a Amazon são exemplos de corporações que utilizam este modelo arquitetural.
