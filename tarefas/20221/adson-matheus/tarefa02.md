@@ -1,9 +1,9 @@
 # Tarefa 02 - Implementação de um CRUD
-Adson Matheus Santos Brito
+Adson Matheus Santos Brito - adson.matheus.016@ufrn.edu.br
 
 [@adson-matheus](https://www.github.com/adson-matheus)
 
-adson.matheus.016@ufrn.edu.br
+[Repositório com a implementação de um CRUD!](https://github.com/adson-matheus/react-crud)
 
 ## Stack Tecnológica
 Backend: NodeJS, Express, Prisma, NodeMon e Concurrently.
