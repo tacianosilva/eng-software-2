@@ -1,5 +1,12 @@
-# Código do Modelo do Sistema para a Monitoria
+# Diagrama de Classes usando YUML
 
+Abaixo apresentamos o modelo conceitual usando o **YUML**.
+
+ ![Modelo UML](monitoria-modelo.png)
+
+## Código do Modelo do Sistema para a Monitoria
+
+O código que gera o diagrama é apresentado abaixo.
 ```
 [HorarioAula]
 [Monitor]
