@@ -23,3 +23,9 @@
 ## Link: [Complete Django CRUD Operations](https://www.youtube.com/watch?v=N6jzspc2kds&t=1072s&ab_channel=CodAffection)
 
 #### Este tutorial nos guia passo-a-passo a como fazer uma aplicação de CRUD de empregados. Está em "inglês" (sotaque indiano) porém 100% acompanhável.
+
+## **------ Arquitetura de Software do projeto ------**
+
+#### A arquitetura MTV é uma derivação da arquitetura MVC. O que se altera é a nomenclatura de arquivos e quais as camadas interconectadas. Este modelo é utilizado dentro do framework Django, e a ideia deste artigo é mostrar como funciona dentro de um aplicação web montada dentro do framework de Python.
+
+![MTV](https://miro.medium.com/max/1400/1*CPQBjGAQ5uLUruCCzwMz8w.png)
