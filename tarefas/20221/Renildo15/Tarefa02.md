@@ -17,3 +17,9 @@ Django é um framework para desenvolvimento rápido para web, escrito em Python,
 https://youtube.com/playlist?list=PLbnAsJ6zlidvszSXnxplfYgtB6KQ-fZ-N
 
 Esse tutorial ensina como fazer um crud usando a linguagem python e o framework django. O exemplo usado foi de carros. Nele é ensinado a manipular dados do banco de dados no sqlite3.
+
+* * *
+##  Arquitetura de Software
+
+### Model-view-controller (MVC)
+O padrão MVC separa o projeto do software em três camadas independentes: o modelo (manipulação da lógica de dados), a visão (a interface do usuário) e o controlador (fluxo de aplicação). Esta separação facilita a manutenção do código, que pode ser reutilizado em outros projetos.
