@@ -14,3 +14,9 @@ https://github.com/jeisonoliver/CRUD_Django
 **Arquitetura Geral**
 O projeto trata-se da implementação de um CRUD usando a linguagem python-Django, A comunicação back-end, front-end e com o banco de dados, serão implementadas todas juntas.
 
+**Tutorial**
+https://www.youtube.com/watch?v=mbQVVIqSxoI&ab_channel=GregoryPacheco
+O tutorial ensina o passo a passo de como fazer um crud usando Django, desde o cadastro de um produto qualquer, até a exclusão do mesmo.
+
+
+
