@@ -12,10 +12,13 @@ Este documento descreve os User Stories criados a partir da Lista de Requisitos 
 
 | Data       | Versão  | Descrição                          | Autor                          |
 | :--------- | :-----: | :--------------------------------: | :----------------------------- |
-| 22/06/2020 | 0.0.1   | Template e descrição do documento  | Taciano de Morais Silva |
-| 23/06/2020 | 0.0.2   | Detalhamento do User Story US01    | Taciano de Morais Silva |
+| 22/06/2020 | 0.0.1   | Template e descrição do documento  | Taciano |
+| 23/06/2020 | 0.0.2   | Detalhamento do User Story US01    | Taciano |
 | ...        | ...     | ...                                | ...     |
 | 12/07/2020 | 1.0.0   | Documento completo com o detalhamento de todos os User Stories | Taciano     |
+| 30/04/2022 | 1.6.0   | Adição das informações da equipe: Analista, Desenvolvedor, Revisor e Testador. | Taciano |
+
+
 
 ### User Story US01 - Manter Usuário
 
