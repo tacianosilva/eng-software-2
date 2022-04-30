@@ -45,3 +45,7 @@ Parte 2: https://youtu.be/5_9rvyT9cg4
 Parte 3: https://youtu.be/vzPsUWLprAw
 
 Descrição: No decorrer dos três vídeos, o autor demonstra a criação de um CRUD utilizando a biblioteca ReactJS no Front-End, e utilizando o Express, o NodeJS e o MySQL no Back-End. O autor cria desde o formulário de inputs, a configuração das rotas, a conexão com o banco e a ligação entre as camadas de Front-End e Back-End.
+
+## Arquitetura MVC
+
+A arquitetura MVC(Model-View-Controller) é um tipo de arquitetura em camadas no qual existe a camada de View responsável por "conversar" com os usuários. A camada de Controller é um "meio de campo" entre View e Model, que faz toda a chamada para as regras de negócios. E Model é uma camada de conexão com o banco de dados.
