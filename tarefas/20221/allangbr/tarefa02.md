@@ -54,3 +54,7 @@
 
 #### Descrição: 
 <p> No vídeos acima, o autor faz a demonstração de como se fazer o BackEnd de um CRUD utilizando o ORM Prisma, Express e MySQL.</p>
+
+## Padrão de Arquitetura de Software Client-server (cliente-servidor)
+
+<p align="justify"> No Padrão Client-server (utilizado no meu projeto), o processamento da informação se divide em módulos e processos distintos. Um deles é responsável pela manutenção da informação(server) e o outro pela obtenção de dados(client).  </p> 
