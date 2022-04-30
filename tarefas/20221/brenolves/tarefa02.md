@@ -17,3 +17,9 @@
 #### Nossa aplicação será monolítica, ou seja, o front-end, back-end e integração com o banco de dados estarão combinados na mesma plataforma.
 
 #### Utilizaremos os Django Templates no front-end, e o Django ORM para nos comunicar com o banco de dados.
+
+## **------ Tutorial do projeto ------**
+
+## Link: [Complete Django CRUD Operations](https://www.youtube.com/watch?v=N6jzspc2kds&t=1072s&ab_channel=CodAffection)
+
+#### Este tutorial nos guia passo-a-passo a como fazer uma aplicação de CRUD de empregados. Está em "inglês" (sotaque indiano) porém 100% acompanhável.
