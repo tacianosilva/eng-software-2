@@ -14,7 +14,7 @@ No processo de desenvolvimento que utilizamos da disciplina, inspirados no XP e 
   * atualização do planejamento, implementação, testes e implantação;
   * demais iterações sempre finalizando com um MVP.
 
-### T01 - Iteração 1 - Planejamento
+### T01 - Iteração 1 - Inicialização e Planejamento
 
 As atividades da **Iteração 1** são:
 
@@ -62,7 +62,7 @@ Nesta iteração temos atividades diferentes para dois perfis **Gerentes** e **A
 
 O gerente deve enviar nesta tarefa o link do repositório e o link dos dois documentos no SIGAA.
 
-### T02 - Iteração 2 - Inicialização
+### T02 - Iteração 2 - Desenvolvimento
 
 As atividades da **Iteração 2** são:
 
