@@ -6,15 +6,20 @@
 
 ## Tecnologias estudadas 
 
+### Linguagem 
+
+- JavaScript
+
 ### Front End 
 
 - React.Js
+- CSS
 
 ### Back-End
 
 - Node.Js
 - Express.Js
-- Prisma 
+- Prisma
 
 ### Banco de Dados 
 
@@ -53,8 +58,12 @@ Para o desenvolvimento do Front-End e parte do Back-End, foi utilizado 1 playlis
 * [Crud utilizando React Js, Node e MySQL (simples) pt.2](https://youtu.be/5_9rvyT9cg4)
 * [Crud utilizando React Js, Node e MySQL (simples) pt.3](https://youtu.be/vzPsUWLprAw)
 
+Descrição: No decorrer dos três vídeos, o autor demonstra a criação de um CRUD utilizando a biblioteca React.Js no Front-End, e utilizando o Express, o NodeJS e o MySQL no Back-End. O autor cria desde o formulário de inputs, a configuração das rotas, a conexão com o banco e a ligação entre as camadas de Front-End e Back-End.
+
 ### Back-End e Prisma ORM
 
 Para o desenvolvimento do restante do Back-End e da definição do schema do banco do banco de dados foi utilizado o tutorial abaixo:
 
 * [Prisma ORM Tutorial for Beginners | CRUD, CreateMany, Associations...](https://www.youtube.com/watch?v=E37-33M6Ypk)
+
+Descrição: No decorrer do vídeo o autor realiza a configuração do Prisma ORM, cria a conexão com o banco de dados, que foi o MySQL e cria uma API simples utilizando o Express.Js.
