@@ -10,7 +10,7 @@
 
 - JavaScript
 
-### Front End 
+### Front-End 
 
 - React.Js
 - CSS
@@ -19,7 +19,7 @@
 
 - Node.Js
 - Express.Js
-- Prisma
+- Prisma ORM
 
 ### Banco de Dados 
 
