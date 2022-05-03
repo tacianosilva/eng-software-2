@@ -67,3 +67,9 @@ Para o desenvolvimento do restante do Back-End e da definição do schema do ban
 * [Prisma ORM Tutorial for Beginners | CRUD, CreateMany, Associations...](https://www.youtube.com/watch?v=E37-33M6Ypk)
 
 Descrição: No decorrer do vídeo o autor realiza a configuração do Prisma ORM, cria a conexão com o banco de dados, que foi o MySQL e cria uma API simples utilizando o Express.Js.
+
+## Arquitetura de Software 
+
+### Modelo Client-server (cliente-servidor)
+
+O modelo client-serve se trata de uma estrutura distribuída que se divide em tarefas entre os fornecedores de recurso e os consumidores, ou seja, Um deles é responsável pela manutenção da informação e o outro pela obtenção de dados. Dessa forma, a característica "cliente-servidor" descreve a relação de programas que cooperam entre si dentro de uma determinada aplicação, onde o componente do servidor fornece uma função ou serviço para um ou muitos clientes, os quais por sua vez realizam solicitações para esses serviços.
