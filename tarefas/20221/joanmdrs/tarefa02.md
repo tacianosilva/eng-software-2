@@ -43,3 +43,18 @@ Essa ligação se deu por meio do uso da API criada pelo Back-End que alimenta o
 
 Essa ligação se deu por meio do uso do ORM Prisma e do Express, que juntos, se complementam para realização a conexão com o Banco de Dados e por fim, conseguir realizar a manutenção de dados dentro do Banco de Dados. 
 
+## Tutoriais 
+
+### Front-End e Back-End 
+
+Para o desenvolvimento do Front-End e parte do Back-End, foi utilizado 1 playlist, onde o autor do vídeo criou um CRUD utilizando React.Js, Node.Js, Express.Js e MySQL. Seguem os vídeos abaixo:
+
+* [Crud utilizando React Js, Node e MySQL (simples) pt.1](https://youtu.be/e0He6sCiQT8)
+* [Crud utilizando React Js, Node e MySQL (simples) pt.2](https://youtu.be/5_9rvyT9cg4)
+* [Crud utilizando React Js, Node e MySQL (simples) pt.3](https://youtu.be/vzPsUWLprAw)
+
+### Back-End e Prisma ORM
+
+Para o desenvolvimento do restante do Back-End e da definição do schema do banco do banco de dados foi utilizado o tutorial abaixo:
+
+* [Prisma ORM Tutorial for Beginners | CRUD, CreateMany, Associations...](https://www.youtube.com/watch?v=E37-33M6Ypk)
