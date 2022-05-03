@@ -12,3 +12,7 @@ link do repositório: https://github.com/rickEDU/CRUD-django
 ## Arquitetura do projeto
 
 Os projeto em django seguem o padrão de arquitetura de software MVT(Model, View e Templete), onde o Model define o modelo dos objetos que seram guardados no banco de dados, o View guarda os metodos que iram interagir com o back e o front do projeto, e o Template estão os modelos que serão o front do projeto. 
+
+## Link do tutorial: https://www.youtube.com/watch?v=mbQVVIqSxoI&t=859s&ab_channel=GregoryPacheco
+
+O autor do tutorial implementa o CRUD em **python** usando o framework **django** sem muita enrolação, ele mostra como fez a implementação, mas acaba por não dar muitos detalhes do funcionamento do **django**.
