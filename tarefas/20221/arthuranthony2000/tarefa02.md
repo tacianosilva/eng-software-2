@@ -18,7 +18,15 @@ https://github.com/arthuranthony2000/Sig-environment-mark
 Iremos utilizar o framework Spring Boot como backend, fornecendo API Rest para o frontend, utilizando a biblioteca React JS. Será utilizado o JPA para ORM, banco de dados relacional postgresql. No frontend será utilizado o boostrap para estilizar os componentes da página, bem como tecnologias como HTML, CSS e Javascript. Será utilizado o Postman para testar metódos GET, POST, PUT no backend, o Maven como gerenciador de pacotes e a ferramenta CASE Astah Community para a modelagem do domínio.
 
 
+## Tutorial
 
+https://youtu.be/nQr_X62vq-k
+
+### Repositório utilizado na aula
+
+https://github.com/devsuperior/aulao005
+
+O Nelio Alves é professor do instituto federal do triângulo mineiro, possui uma academia preparatória para programadores ingressantes no mercado de trabalho, realiza semanas especiais, prévias de seus bootcamps. Nessa live ele ensina como construir um CRUD simples, utilizando Spring Boot, Maven, JPA/Hibernate e o Postman para testar o backend com os metódos HTTPS. O mini projeto consiste em um sistema simples de cadastro de produtos, associados a suas respectivas categorias.
 
 
 
