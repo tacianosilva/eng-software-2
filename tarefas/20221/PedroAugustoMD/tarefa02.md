@@ -10,3 +10,6 @@
 
 ### [Repositório](https://github.com/PedroAugustoMD/CRUD-Django)
 
+### Arquitetura Geral do Projeto
+
+* Para o Front-End foi utilizado Boostrap e HTML. No Back-End é utilizado Python com o framework Django. E as informações são armazenadas no banco de dados através do sqlite. Também foram utilizados JavaScript e Ajax. 
