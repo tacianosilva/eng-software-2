@@ -16,3 +16,7 @@ Os projeto em django seguem o padrão de arquitetura de software MVT(Model, View
 ## Link do tutorial: https://www.youtube.com/watch?v=mbQVVIqSxoI&t=859s&ab_channel=GregoryPacheco
 
 O autor do tutorial implementa o CRUD em **python** usando o framework **django** sem muita enrolação, ele mostra como fez a implementação, mas acaba por não dar muitos detalhes do funcionamento do **django**.
+
+## Arquitetura de Software
+
+A arquitetura MVT ou Model, View e Tamplate, é um padrão de design semelhante ao MVC. Ele também é usado para implementar interfaces e aplicativos da web, mas ao contrário do MVC, a parte do controlador é cuidada por nós pelo próprio framework.
