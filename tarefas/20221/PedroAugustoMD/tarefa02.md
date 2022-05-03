@@ -13,3 +13,6 @@
 ### Arquitetura Geral do Projeto
 
 * Para o Front-End foi utilizado Boostrap e HTML. No Back-End é utilizado Python com o framework Django. E as informações são armazenadas no banco de dados através do sqlite. Também foram utilizados JavaScript e Ajax. 
+
+### [Tutorial](https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/)
+ * O link mostra um tutorial de CRUD utilizando a framework Django e as ferramentas citadas na Arquitetura Geral do Projeto. 
