@@ -12,5 +12,17 @@ O trabalho será utilizado: HTML, CSS e JavaScript para o Front-end, e Back-end 
 <p> Já o Banco de Dados será um banco de dados relacional baseado em SQL, onde ultilizaremos o SGBD PostgreSQL.
 
 ## Link de Tutorial para fazer a implementação de um CRUD
+
 [Link](https://www.youtube.com/watch?v=Dzuiy-JNi-E)
+<p> Nesse yuyorial aprendemos:
+* Como criar um projeto com o Django
+* O que são e como criar apps
+* O que são e como criar models
+* O que são migrations e como trabalhar com elas
+* Sobre a interface de admin do Django
+* A usar a API para acessar o banco de dados
+* O que é uma view
+* Como conectar uma url a uma view
+* O que são templates e como trabalhar com elas
+* Como adicionar css no projeto.
 
