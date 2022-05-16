@@ -33,4 +33,4 @@ O trabalho será utilizado: HTML, CSS e JavaScript para o Front-end, e Back-end 
 * Template: Páginas para visualização de dados. Normalmente, é aqui que fica o HTML que será renderizado nos navegadores;
 * View: Lógica de negócio. É aqui que determinamos o que irá acontecer em nosso projeto.
 <p> Toda esta arquitetura é interligada e conversam entre si. Uma depende da outra para realizar um determinado serviço e, no final, executar a tarefa que o usuário solicitou. A imagem abaixo descreve exatamente como este processo funciona:
-![Arquitetura de software do Django](D:\UFRN\UFRN 2022_1\CloneGitHub\eng-software-2\tarefas\20221\edinaldaufrn)
+![Arquitetura de software do Django](/imagem/DjangoPyton.png)
