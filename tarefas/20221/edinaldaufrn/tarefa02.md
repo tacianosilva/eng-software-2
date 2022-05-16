@@ -13,7 +13,7 @@ O trabalho será utilizado: HTML, CSS e JavaScript para o Front-end, e Back-end 
 
 ## Link de Tutorial para fazer a implementação de um CRUD
 
-[Link](https://www.youtube.com/watch?v=Dzuiy-JNi-E)
+[Link do tutorial](https://www.youtube.com/watch?v=Dzuiy-JNi-E)
 <p> Nesse yuyorial aprendemos:
 * Como criar um projeto com o Django
 * O que são e como criar apps
@@ -26,3 +26,11 @@ O trabalho será utilizado: HTML, CSS e JavaScript para o Front-end, e Back-end 
 * O que são templates e como trabalhar com elas
 * Como adicionar css no projeto.
 
+## Arquitetura de Software do Django
+
+<p> A arquitetura do Django é relativamente simples. Basicamente, um projeto Django possui como padrão de projeto o MTV (Model, Template, View), que servem para:
+* Model: Mapeamento do banco de dados para o projeto;
+* Template: Páginas para visualização de dados. Normalmente, é aqui que fica o HTML que será renderizado nos navegadores;
+* View: Lógica de negócio. É aqui que determinamos o que irá acontecer em nosso projeto.
+<p> Toda esta arquitetura é interligada e conversam entre si. Uma depende da outra para realizar um determinado serviço e, no final, executar a tarefa que o usuário solicitou. A imagem abaixo descreve exatamente como este processo funciona:
+![Arquitetura de software do Django](D:\UFRN\UFRN 2022_1\CloneGitHub\eng-software-2\tarefas\20221\edinaldaufrn)
