@@ -42,7 +42,7 @@ USER appuser
 ```
 A seguir apresentamos uma exemplo de docker-compose.yml para a aplicação Django. Neste `docker-compose`, além da execução do SGBD, também estamos executando o **pgAdmin**, cliente do SGBD, e a aplicação Django. A execução do pgAdmin poderia ser removida, pois é utilizada para administração do banco de dados, e não precisa estar no deploy da aplicação.
 
-```docker-compose
+```yml
 version: '3.8'
 
 services:
