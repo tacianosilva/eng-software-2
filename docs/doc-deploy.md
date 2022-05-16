@@ -47,21 +47,21 @@ version: '3.8'
 
 services:
   postgres:
-    container_name: telessaude-postgres
+    container_name: postgres-server
     image: postgres:latest
     volumes:
       - $HOME_DB/postgres/postgresql:/var/lib/postgresql
       - $HOME_DB/postgres/postgresql_data:/var/lib/postgresql/data
     environment:
-      - POSTGRES_DB=telessaude_db
-      - POSTGRES_USER=telessaude_user
+      - POSTGRES_DB=postgres_db
+      - POSTGRES_USER=postgres_user
       - POSTGRES_PASSWORD=password
     restart: always
     ports:
-      - 5430:5432
+      - 5432:5432
 
   pgadmin:
-    container_name: telessaude-pgadmin
+    container_name: pgadmin-server
     image: dpage/pgadmin4:latest
     restart: always
     environment:
@@ -73,8 +73,8 @@ services:
       - postgres
 
   web:
-    container_name: telessaude-web
-    image: telessaude
+    container_name: app-web
+    image: nome-app
     build:
       context: .
       dockerfile: ./Dockerfile
