@@ -15,4 +15,8 @@ Email: batbeto@gmail.com
 https://github.com/batbeto/gallery_mk
 
 ### Descrição da Stack Tecnológica do projeto
-Irei usar Node Js Express no backend e usando a biblioteca React JS para o frontend, sera usado um API REST que cria um endpoint retornando aquilo que quero como requisição para ser consumida no frontend
+Irei usar Node Js Express no backend e usando a biblioteca React JS para o frontend, sera usado um API REST que cria um endpoint retornando aquilo que quero como requisição para ser consumida no frontend, uso o Firebase Storage para armazenar os arquivos e faço a requisição usando o package config da firebase que mantem a segurança da conexão.
+
+## Tutorial
+
+https://www.youtube.com/watch?v=ss4BXa-WfgI&ab_channel=BoniekyLacerda
