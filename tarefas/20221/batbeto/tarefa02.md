@@ -20,3 +20,5 @@ Irei usar Node Js Express no backend e usando a biblioteca React JS para o front
 ## Tutorial
 
 https://www.youtube.com/watch?v=ss4BXa-WfgI&ab_channel=BoniekyLacerda
+
+Bonieky cria do zero um projeto de galeria de imagens usando o firebase com react e node focado em duas horas e com uma incrivel didatica.
