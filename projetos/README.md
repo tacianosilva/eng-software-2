@@ -13,7 +13,9 @@ Segue o cronograma do [Plano de Iteração e Release 2022.2](20222/cronograma.md
 
 ## Projetos 2022.1
 
-* 
+* [SABIDO](https://github.com/gabrielazevedods/sabido): um aplicativo para a organizar os estudos.
+* [SigCli](https://github.com/joanmdrs/sigcli): Produto para gestão de clínica médica.
+* [GestorLab](https://github.com/Renildo15/Gestor-Lab): Gestor de Laboratórios Acadêmicos.
 
 Segue o cronograma do [Plano de Iteração e Release 2022.1](20221/cronograma.md)
 
