@@ -50,3 +50,17 @@ Também é uma branch auxiliar e temporária, utilizada quando ocorre algum prob
 
 ### Branch Release
 Por fim, a branch de lançamento do nosso programa. Nela unimos o que está pronto em nossa branch de desenvolvimento e “jogamos” para a branch principal. No mais, é criado uma nova versão etiquetada no nosso projeto para que possamos ter um histórico completo do desenvolvimento.
+
+
+* * * *
+
+### Pull Request
+
+Ao  criar um pull request , você adiciona uma breve visão geral do seu recurso, seleciona o branch para o qual o código precisa ser mesclado e seleciona o responsável que o revisará.
+Uma vez criado, está aberto para discussão ou modificações.
+Às vezes, ocorrem conflitos após a criação de uma solicitação pull e você deve resolver esses conflitos. Possíveis causas de conflitos são discutidas posteriormente neste artigo.
+Normalmente, a pessoa designada revisa o código, mas não é obrigatório que apenas o responsável faça a revisão. Qualquer membro da equipe pode participar do processo de revisão e dar seu feedback ou discutir possíveis modificações no código.
+Quaisquer comentários ou modificações são adicionados na forma de comentários próximos à linha de código.
+O desenvolvedor resolve comentários e responde ao revisor.
+Esse processo continua até que todos os comentários sejam resolvidos.
+Depois que todas as discussões são resolvidas, o código é mesclado com a ramificação que foi selecionada quando a solicitação pull foi criada
