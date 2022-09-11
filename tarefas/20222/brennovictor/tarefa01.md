@@ -25,3 +25,7 @@ O projeto será escrito em Go. Uma linguagem procedural, compilada, multi-plataf
 
 O time não tem experiência na linguagem. Porém já possuem experiência prévia em C. Uma das linguagens mais influentes na criação de Go.
 
+
+## Framework
+Não será utilizado nenhum framework. Iremos utilizar a biblioteca padrão e third-party packages para funcionalidades não fornecidas nela.
+
