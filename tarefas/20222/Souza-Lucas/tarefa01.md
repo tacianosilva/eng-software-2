@@ -48,3 +48,7 @@ Pull Requests são um mecanismo de controle de alterações feitas no repositór
 
 O versionamento semântico é um processo de controle de versão que permite aos desenvolvedores criar um histórico de alterações do código. O histórico de alterações é uma lista de alterações feitas no código, e cada alteração possui um número, que é chamado de versão. A versão é uma identificação única do código.
 
+## Conventional Commits
+
+É um conjunto de regras para utilizar nas mensagens de commit. Serve para criar um histórico de commit explícito, facilitando na criação de ferramentas automatizadas baseadas na especificação.
+
