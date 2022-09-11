@@ -29,3 +29,7 @@ O time não tem experiência na linguagem. Porém já possuem experiência prév
 ## Framework
 Não será utilizado nenhum framework. Iremos utilizar a biblioteca padrão e third-party packages para funcionalidades não fornecidas nela.
 
+
+## IDE
+Não será forçado o uso de um ambiente específico. A única coisa que será requisitada é um editor de texto que consiga rodar o "go fmt" assim que o arquivo for salvo e que tenha uma interface para iteração com o Delve (Go debugger).
+
