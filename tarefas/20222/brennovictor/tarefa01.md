@@ -37,3 +37,10 @@ Não será forçado o uso de um ambiente específico. A única coisa que será r
 ## Tutorial Crud
 * Link: https://medium.com/baixada-nerd/criando-um-crud-simples-em-go-3640d3618a67
 O tutorial demonstra como criar um crud completinho usando apenas a standard library do Go, dés da manipulação do banco de dados, e processamento de templates.
+
+
+## Branches e Pull request 
+
+Branches são ramificações do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master (ou main), que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+Pull Request é como fazemos as requisições da junção das ramificações do nosso projeto (branches) na branch master, onde membros da equipe revisam as mudanças, discutem o que foi desenvolvido e definem se está apto para integrar as mudanças feitas nas branches no produto final.
