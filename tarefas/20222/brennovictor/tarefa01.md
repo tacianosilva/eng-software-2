@@ -44,3 +44,10 @@ O tutorial demonstra como criar um crud completinho usando apenas a standard lib
 Branches são ramificações do seu projeto. Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master (ou main), que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
 
 Pull Request é como fazemos as requisições da junção das ramificações do nosso projeto (branches) na branch master, onde membros da equipe revisam as mudanças, discutem o que foi desenvolvido e definem se está apto para integrar as mudanças feitas nas branches no produto final.
+
+
+## Versionamento Semântico
+
+Versionamento semântico é uma maneira de padronizar o versionamento de projetos de software.
+
+Criado para evitar o chamado “dependency hell”, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs, por exemplo.
