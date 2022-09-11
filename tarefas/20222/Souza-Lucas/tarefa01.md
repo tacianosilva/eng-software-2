@@ -44,3 +44,7 @@ Branches são caminhos de um projeto que podem ser utilizados para o desenvolvim
 
 Pull Requests são um mecanismo de controle de alterações feitas no repositório de um projeto. Cada vez que você faz uma alteração no repositório, você cria um Pull Request. Através das Pull Requests, o desenvolvedor pode acompanhar o progresso do projeto e acompanhar as alterações feitas no repositório. É fundamental para o desenvolvimento de um projeto, é necessário que o desenvolvedor tenha um Pull Request cada vez que fizer uma alteração no repositório. 
 
+## Versionamento Semântico
+
+O versionamento semântico é um processo de controle de versão que permite aos desenvolvedores criar um histórico de alterações do código. O histórico de alterações é uma lista de alterações feitas no código, e cada alteração possui um número, que é chamado de versão. A versão é uma identificação única do código.
+
