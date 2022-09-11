@@ -51,3 +51,9 @@ Pull Request é como fazemos as requisições da junção das ramificações do 
 Versionamento semântico é uma maneira de padronizar o versionamento de projetos de software.
 
 Criado para evitar o chamado “dependency hell”, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs, por exemplo.
+
+
+## Conventional Commits
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit.
+
+Com base em um conjunto de regras, é utilizado para facilitar a identificação do conteúdo contido no commit, e deixando mais fácil a criação e integração de ferramentas automatizadas baseadas nessa especificação.
