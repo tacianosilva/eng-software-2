@@ -35,3 +35,12 @@ Não será forçado o uso de um ambiente específico. A única coisa que será r
 * Link: https://medium.com/baixada-nerd/criando-um-crud-simples-em-go-3640d3618a67
 
 Esse tutorial é um primeiro contato com a linguagem Go, explicando a criação de um CRUD completo e simples usando a standard library do Go.
+
+## Branches
+
+Branches são caminhos de um projeto que podem ser utilizados para o desenvolvimento de um projeto. No git, cada branch tem um nome, e cada branch possui um histórico de alterações. Cada vez que você faz uma alteração no código, você cria uma nova branch.
+
+## Pull Requests
+
+Pull Requests são um mecanismo de controle de alterações feitas no repositório de um projeto. Cada vez que você faz uma alteração no repositório, você cria um Pull Request. Através das Pull Requests, o desenvolvedor pode acompanhar o progresso do projeto e acompanhar as alterações feitas no repositório. É fundamental para o desenvolvimento de um projeto, é necessário que o desenvolvedor tenha um Pull Request cada vez que fizer uma alteração no repositório. 
+
