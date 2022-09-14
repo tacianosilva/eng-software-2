@@ -80,3 +80,11 @@ Não será forçado o uso de um ambiente específico. A única coisa que será r
   
 
 Branch(ramificação) é uma forma de implementar alterações nos arquivos criando uma ramificação de um projeto com o objetivo de não mesclar os arquivos instáveis aos arquivos do projeto principal. Quando a implementação está completa é possível mesclar a ramificação com o código principal. 
+
+
+
+## Pull Requests 
+
+  
+
+Pull Request é um mecanismo de controle de alterações feitas no repositório de um projeto. É usando quando se faz uma alteração nos arquivos do repositório, criando um Pull Request. Através das Pull Requests, o desenvolvedor pode acompanhar o progresso do projeto e controlar as alterações feitas no repositório. 
