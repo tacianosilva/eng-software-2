@@ -72,3 +72,11 @@ Não será forçado o uso de um ambiente específico. A única coisa que será r
   
 
 É um tutorial para primeiro contato com a linguagem Go, explicando a criação de um CRUD completo e simples usando a standard library do Go. 
+
+
+
+## Branches 
+
+  
+
+Branch(ramificação) é uma forma de implementar alterações nos arquivos criando uma ramificação de um projeto com o objetivo de não mesclar os arquivos instáveis aos arquivos do projeto principal. Quando a implementação está completa é possível mesclar a ramificação com o código principal. 
