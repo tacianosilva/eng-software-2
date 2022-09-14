@@ -60,3 +60,15 @@ Não será utilizando nenhum framework no projeto, iremos utilizar a biblioteca 
   
 
 Não será forçado o uso de um ambiente específico. A única coisa que será requisitada é um editor de texto que consiga rodar o "go fmt" assim que o arquivo for salvo e que tenha uma interface para interação com o Delve (Go debugger). 
+
+
+
+## Tutorial CRUD 
+
+  
+
+* Link: https://medium.com/baixada-nerd/criando-um-crud-simples-em-go-3640d3618a67 
+
+  
+
+É um tutorial para primeiro contato com a linguagem Go, explicando a criação de um CRUD completo e simples usando a standard library do Go. 
