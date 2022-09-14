@@ -17,5 +17,5 @@
 Membro          | Domínio       | Experiência
 :--------------:|:-------------:|:-------:
 Ana Paula       | Iniciante     | 1 ano
-Hiago           | Iniciante     | 1 anos
-Márlem          | Iniciante     | 2 ano
+Hiago           | Iniciante     | 1 ano
+Márlem          | Iniciante     | 2 anos
