@@ -10,3 +10,13 @@
 - [Hiago Roque Silva de Medeiros](https://github.com/HiagoRoque)
 - [Marlem Magno da Silva Dantas](https://github.com/marlemM) (Primeiro Gerente)
 ## [Repositório do Projeto](https://github.com/marlemM/SCMA) 
+
+## Linguagem Utilizada
+<p> A linguagem utilizada para desenvolver o back-end do projeto será Python, atráves do framework Django. Para o front-end será utilizado HTML, CSS e Javascript. Para o banco de dados será utilizado o Mysql.
+O domínio da equipe sobre a linguagem é satisfatória, já sobre o framework a equipe tem pouca experiência.</p>
+
+Membro          | Domínio       | Experiência
+:--------------:|:-------------:|:-------:
+Ana Paula       | Iniciante     | 1 ano
+Hiago           | Iniciante     | 1 anos
+Márlem          | Iniciante     | 2 ano
