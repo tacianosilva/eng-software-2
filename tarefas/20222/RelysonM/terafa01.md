@@ -88,3 +88,11 @@ Branch(ramificação) é uma forma de implementar alterações nos arquivos cria
   
 
 Pull Request é um mecanismo de controle de alterações feitas no repositório de um projeto. É usando quando se faz uma alteração nos arquivos do repositório, criando um Pull Request. Através das Pull Requests, o desenvolvedor pode acompanhar o progresso do projeto e controlar as alterações feitas no repositório. 
+
+
+
+## Versionamento Semântico 
+
+  
+
+O versionamento semântico é uma forma de controle de versão que permite a criação de um histórico de alterações do código atribuindo um número de identificação única chamada de versão. 
