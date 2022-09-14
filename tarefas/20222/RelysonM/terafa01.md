@@ -51,4 +51,12 @@ A equipe não tem experiência na linguagem, mas já possuem uma experiência pr
 
   
 
-Não será utilizando nenhum framework no projeto, iremos utilizar a biblioteca padrão e third-party packages para funcionalidade não fornecidas nela. 
+Não será utilizando nenhum framework no projeto, iremos utilizar a biblioteca padrão e third-party packages para funcionalidade não fornecidas nela.
+
+
+
+## IDE  
+
+  
+
+Não será forçado o uso de um ambiente específico. A única coisa que será requisitada é um editor de texto que consiga rodar o "go fmt" assim que o arquivo for salvo e que tenha uma interface para interação com o Delve (Go debugger). 
