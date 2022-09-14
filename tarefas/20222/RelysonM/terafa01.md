@@ -32,4 +32,15 @@ Descrição: Uma aplicação que permite que usuários avaliem, consultem notas 
 
   
 
-* Repositório: [Sushi Roll](https://github.com/felipedavid/sushi_roll) 
+* Repositório: [Sushi Roll](https://github.com/felipedavid/sushi_roll)   
+
+
+
+## Linguagem Go 
+
+  
+
+O projeto será feito em na linguagem Go que é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente, baseada em trabalhos feitos no sistema operacional chamado Inferno. A sintaxe de Go é semelhante a C e suas declarações são feitas com base em Pascal limpo. 
+
+
+A equipe não tem experiência na linguagem, mas já possuem uma experiência prévia em C, uma das linguagens influentes para criação do Go. 
