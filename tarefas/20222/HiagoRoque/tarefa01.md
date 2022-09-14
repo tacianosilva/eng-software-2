@@ -37,3 +37,14 @@ Como o nome sugere, é uma ramificação. Digamos que durante o desenvolvimento 
 
 - Pull request  
 Significa solicitação de puxar, em tradução livre. Quando se deseja integrar o conteúdo de uma branch para a branch principal, é solicitado um pull request para que o gerente do projeto aprove ou rejeite as novas alterações, para ai sim ocorrer o merge das branches. No gitflow isso ajuda muito a organizar e selecionar o que deve ser mergiado ou não, e manter o controle do versionamento para sempre garantir a qualidade do software.
+
+## Versionamento Semântico
+<p>No mundo de gerenciamento de software existe algo terrível conhecido como inferno das dependências (“dependency hell”). Quanto mais o sistema cresce, e mais pacotes são adicionados a ele, maior será a possibilidade de, um dia, você encontrar-se neste poço de desespero.<p>
+
+## Conventional Commits
+<p> O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:</p>
+
+- fix: commit que soluciona um problema, bug;
+- feat: commit que inclui uma nova funcionalidade;
+- docs: um commit que irá mudar algo na documentação do projeto;
+- test: commit de testes.
