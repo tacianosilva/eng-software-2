@@ -26,3 +26,8 @@ Márlem          | Iniciante     | 2 ano
 
 ## IDE utilizada no projeto
 <p>Para desenvolvimento do projeto, a equipe utilizará o [Visual Studio Code](https://code.visualstudio.com/). O VSCode é um editor de código de código aberto desenvolvido pela Microsoft. A ferramenta possui um debugger integrado, que ajuda a debugar com facilidade e simplicidade o código escrito. Para versionamento, o VSCode tem uma ótima integração com Git E GitHub, além de possuir várias extensões que dão superpoderes ao Git, como o [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens).<p>
+
+## Links de Tutoriais Usados Para Fazer Um CRUD Na Tecnologia Escolhida
+
+https://youtu.be/mbQVVIqSxoI  
+Tutorial bem simples e direto ao ponto, ótimo para desenvolver um CRUD rápido usando o framework Django
