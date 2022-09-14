@@ -39,7 +39,13 @@ Como o nome sugere, é uma ramificação. Digamos que durante o desenvolvimento 
 Significa solicitação de puxar, em tradução livre. Quando se deseja integrar o conteúdo de uma branch para a branch principal, é solicitado um pull request para que o gerente do projeto aprove ou rejeite as novas alterações, para ai sim ocorrer o merge das branches. No gitflow isso ajuda muito a organizar e selecionar o que deve ser mergiado ou não, e manter o controle do versionamento para sempre garantir a qualidade do software.
 
 ## Versionamento Semântico
-<p>No mundo de gerenciamento de software existe algo terrível conhecido como inferno das dependências (“dependency hell”). Quanto mais o sistema cresce, e mais pacotes são adicionados a ele, maior será a possibilidade de, um dia, você encontrar-se neste poço de desespero.<p>
+<p>No mundo de gerenciamento de software existe algo terrível conhecido como inferno das dependências (“dependency hell”). Quanto mais o sistema cresce, e mais pacotes são adicionados a ele, maior será a possibilidade de, um dia, você encontrar-se neste poço de desespero. O Versionamento Semântico utiliza uma quantidade de regras para evitar que as dependências ocorram, são algumas delas:<p>
+
+- Um número de versão normal DEVE ter o formato de X.Y.Z, onde X, Y, e Z são inteiros não negativos, e NÃO DEVE conter zeros à esquerda. X é a versão Maior, Y é a versão Menor, e Z é a versão de Correção. Cada elemento DEVE aumentar numericamente. Por exemplo: 1.9.0 -> 1.10.0 -> 1.11.0.
+
+- No início do desenvolvimento, a versão Maior DEVE ser zero (0.y.z). Qualquer coisa PODE mudar a qualquer momento. A API pública NÃO DEVE ser considerada estável.
+
+- Versão 1.0.0 define a API como pública. A maneira como o número de versão é incrementado após este lançamento é dependente da API pública e como ela muda.
 
 ## Conventional Commits
 <p> O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:</p>
