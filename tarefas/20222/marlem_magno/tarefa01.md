@@ -48,3 +48,18 @@ Tutorial bem simples e direto ao ponto, ótimo para desenvolver um CRUD rápido 
 - No início do desenvolvimento, a versão Maior DEVE ser zero (0.y.z). Qualquer coisa PODE mudar a qualquer momento. A API pública NÃO DEVE ser considerada estável.
 
 - Versão 1.0.0 define a API como pública. A maneira como o número de versão é incrementado após este lançamento é dependente da API pública e como ela muda.
+
+
+## Conventional Commits
+<p> O Conventional Commit, como o próprio nome já diz, utiliza uma convenção simples para usar nas mensagens de commit. Ao olhar para tal mensagem, o responsável por revisar o código sabe do que se trata imediatamente. Possui palavras chaves, como:</p>
+ 
+- fix - correção de bugs  
+- feat - novas funcionalidades  
+- refactor - refatoração de código, mas sem alterações no funcionamento  
+- perf - refatorações especiais, que melhoram o desempenho 
+- style - commits que não afetam o código em si  
+- test - testes  
+- docs - documentação  
+- build - alteração nas ferramentas de dependências por exemplo  
+- ops - infraestrutura  
+- chore - vários commits  
