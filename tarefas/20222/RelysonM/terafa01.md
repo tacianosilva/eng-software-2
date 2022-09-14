@@ -44,3 +44,11 @@ O projeto será feito em na linguagem Go que é uma linguagem de programação c
 
 
 A equipe não tem experiência na linguagem, mas já possuem uma experiência prévia em C, uma das linguagens influentes para criação do Go. 
+
+
+
+## Framework 
+
+  
+
+Não será utilizando nenhum framework no projeto, iremos utilizar a biblioteca padrão e third-party packages para funcionalidade não fornecidas nela. 
