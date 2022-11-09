@@ -24,3 +24,4 @@ Docuemento de user story
 https://github.com/marlemM/SCMA/blob/main/Docs/Documento%20de%20User%20Stories.md
 ponto de fusão: 
 tempo para desenvolver: 5 horas
+
