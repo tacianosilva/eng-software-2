@@ -13,3 +13,6 @@ Microsserviços é o nome dado a uma arquitetura que estrutura a aplicação cri
 ## Tutorial de CRUD
 Tutorial para a criação de um CRUD: https://www.youtube.com/watch?v=GGBzMpIAgz4
 Fou utilizado esse tutorial como base para a criação do primiero CRUD, para o desenvolvimento do front-end estamos utilizando apenas HTML5 CSS6 e JavaScript.
+
+## Arquitetura de software
+A arquitetura de software busca facilitar a organização dos componentes e melhorar a flexibilidade e portabilidade do sistema, gerando mais facilidade de manutenção. A arquitetura de software traz diversos benefícios, os principais são: melhorar a performance na aplicação, escalabilidade e flexibilidade. Um padrão de arquitetura de software é o MVC, esse padrão separa o projeto do software em três camadas independentes. O M representa o modelo, ou seja, a manipulação da lógica do negócio ou dos dados. O V representa a visão, ou seja, a interface do usuário. E o C representa o controlador, responsável pelo fluxo da aplicação.
