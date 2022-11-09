@@ -8,5 +8,8 @@ A stack do nosso projeto será o Django, framework Python para construção de s
 Link para repositório do projeto: https://github.com/marlemM/SCMA
 
 ## Arquitetura geral do projeto
-
 Microsserviços é o nome dado a uma arquitetura que estrutura a aplicação criando uma coleção de serviços. Quando se fala nesse tipo de arquitetura, basicamente nós pegamos um monolito que seria criado e o dividimos em vários serviços separados e independentes um do outro. A ideia é separar os serviços para que cada um acesse uma camada do banco de dados ou somente um acesse algum serviço externo.
+
+## Tutorial de CRUD
+Tutorial para a criação de um CRUD: https://www.youtube.com/watch?v=GGBzMpIAgz4
+Fou utilizado esse tutorial como base para a criação do primiero CRUD, para o desenvolvimento do front-end estamos utilizando apenas HTML5 CSS6 e JavaScript.
