@@ -11,3 +11,8 @@ A tecnologia escolhida para o projeto foi a linguagem Go, utilizando a bibliotec
 ## Arquitetura de Software
 
 A Arquitetura utilizada no projeto será baseada em Client-server, fazendo uma boa conexão do front-end com o back-end.
+
+## Tutorial Crud
+* Link: [tutorial](https://medium.com/baixada-nerd/criando-um-crud-simples-em-go-3640d3618a67)
+
+O tutorial demonstra como criar um crud completinho usando apenas a standard library do Go, dés da manipulação do banco de dados, e processamento de templates.
