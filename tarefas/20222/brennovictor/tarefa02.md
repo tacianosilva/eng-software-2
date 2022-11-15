@@ -23,3 +23,9 @@ A arquitetura de software possibilita entender as diferenças entre as linguagen
 ### Client-server (cliente-servidor)
 Usado em aplicativos de bancos e e-mail, neste padrão o processamento da informação se divide em módulos e processos distintos, sendo um deles responsável pela manutenção da informação e o outro pela obtenção de dados.
 
+## Link do CRUD implementado: 
+[CRUD](https://github.com/felipedavid/sushi_roll/blob/main/internal/models/comments.go)
+
+## Link para o documento de User Stories: 
+[User Story](https://github.com/felipedavid/sushi_roll/blob/main/docs/user_story.md)
+
