@@ -14,8 +14,14 @@ O projeto utiliza o Go, cujo é uma linguagem compilada e focada em produtividad
 
 ## Fale um pouco sobre a Arquitetura Geral do Projeto
 
+Arquitetura utilizana no projeto será baseada em Client-server, fazendo uma boa conexão do front-end com o back-end.
+
 ##  Link de Tutorial
 
+
+
 ## Arquitetura de Software
+
+
 
 ## Link Crud
