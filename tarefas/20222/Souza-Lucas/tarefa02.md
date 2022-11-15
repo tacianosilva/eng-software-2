@@ -28,3 +28,5 @@ Client-server (cliente-servidor)
 Neste modelo arquitetural, o processamento da informação se divide em módulos e processos distintos. Um deles é responsável pela manutenção da informação e o outro pela obtenção de dados. Este tipo de arquitetura de software é bastante usado em aplicativos de bancos e e-mail.
 
 ## Link Crud
+
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=CRUD&color=#4040ff)](https://github.com/felipedavid/sushi_roll/blob/main/internal/models/category.go)
