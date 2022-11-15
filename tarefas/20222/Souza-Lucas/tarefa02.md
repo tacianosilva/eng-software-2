@@ -18,7 +18,9 @@ Arquitetura utilizana no projeto será baseada em Client-server, fazendo uma boa
 
 ##  Link de Tutorial
 
+* Link: https://medium.com/baixada-nerd/criando-um-crud-simples-em-go-3640d3618a67
 
+Esse tutorial é um primeiro contato com a linguagem Go, explicando a criação de um CRUD completo e simples usando a standard library do Go.
 
 ## Arquitetura de Software
 
