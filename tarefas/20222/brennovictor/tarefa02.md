@@ -16,3 +16,10 @@ A Arquitetura utilizada no projeto será baseada em Client-server, fazendo uma b
 * Link: [tutorial](https://medium.com/baixada-nerd/criando-um-crud-simples-em-go-3640d3618a67)
 
 O tutorial demonstra como criar um crud completinho usando apenas a standard library do Go, dés da manipulação do banco de dados, e processamento de templates.
+
+## O que é arquitetura de Software?
+A arquitetura de software possibilita entender as diferenças entre as linguagens, sistemas operacionais e ambientes da computação, ou seja, qualquer componente tecnológico pode ser usado para integrar uma solução arquitetural. Ela é essencial pois otimiza o trabalho dos designers e desenvolvedores, permitindo que uma aplicação esteja dentro dos padrões básicos necessários para funcionar de forma assertiva.
+
+### Client-server (cliente-servidor)
+Usado em aplicativos de bancos e e-mail, neste padrão o processamento da informação se divide em módulos e processos distintos, sendo um deles responsável pela manutenção da informação e o outro pela obtenção de dados.
+
