@@ -24,6 +24,7 @@ Esse tutorial é um primeiro contato com a linguagem Go, explicando a criação 
 
 ## Arquitetura de Software
 
-
+Client-server (cliente-servidor)
+Neste modelo arquitetural, o processamento da informação se divide em módulos e processos distintos. Um deles é responsável pela manutenção da informação e o outro pela obtenção de dados. Este tipo de arquitetura de software é bastante usado em aplicativos de bancos e e-mail.
 
 ## Link Crud
