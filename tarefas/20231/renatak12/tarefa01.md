@@ -44,5 +44,5 @@ Ele inclui suporte para depuração, controle de versionamento Git incorporado, 
 
 ## CRUD
 
-[Playlist](!https://www.youtube.com/watch?v=EPzUN97KvNU&list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
+[Playlist](https://www.youtube.com/watch?v=EPzUN97KvNU&list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 
