@@ -29,3 +29,11 @@ A equipe possui afinidade com Python que é uma linguagem de propósito geral de
 A equipe também optou pela linguagem JavaScript de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
 O meu conhecimento com Python é bom já que foi mais utilizada por mim durante o curso. Já a linguagem JavaScript não é tão aprofundado apesar de ter usado uma vez anteriormente, mas espero aprender mais com o desenvolvimento do projeto.
+## Django 
+
+ O Django será utilizado como back-end do Construct. O mesmo possui uma estrutura escrita em Python busca o desenvolvimento rápido, design limpo e pragmático.
+
+Django utiliza um padrão similar ao MVC (model-view-controller), porém aqui chamado de MTV (model-template-view), onde dividimos a aplicação em camadas ou partes, tornando o código mais organizado e legível.
+
+O Framework que será utilizado como front-end do Construct ainda não foi definido.
+
