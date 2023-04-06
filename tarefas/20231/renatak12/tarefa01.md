@@ -52,3 +52,24 @@ Os branches (ramos) permitem que você desenvolva recursos, corrija erros ou exp
 
 As pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez push para um branch em um repositório no GitHub. Após inicialização de uma pull request, você verá uma página de revisão que mostra uma visão geral de alto nível das alterações entre seu branch (o branch de comparação) e o branch base do repositório. É possível adicionar um resumo das alterações propostas, revisar as alterações feitas pelos commits, adicionar etiquetas, marcos e responsáveis, bem como fazer @menção a contribuidores individuais ou equipes. Depois que tiver criado uma pull request, você poderá fazer push dos commits branch de tópico para adicioná-los à sua pull request existente.
 
+## Débito Técnico
+
+Débito técnico (ou dívida técnica) é um conceito no desenvolvimento de software que representa o custo implícito de uma implementação/solução pensada somente no agora, em vez de usar uma abordagem com melhor qualidade porém que levaria mais tempo.
+
+Motivos do surgimento de um débito técnico
+
+* Prazos fora da realidade;
+* Falta de conhecimento técnico;
+* Escolha de tecnologia inadequada;
+* Passar do tempo;
+* Falta de uma metodologia de desenvolvimento iterativa (sem feedback e teste do cliente).
+
+## Versionamento Semântico
+
+O versionamento semântico hoje é um dos padrões de versionamento mais usados e conhecidos. Criado para evitar o chamado "dependency hell" (inferno das dependências), tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software (se é "seguro" usar em produção, por exemplo) e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs, por exemplo.
+
+Além disso, o versionamento semântico também possui regras que definem o que fazer em relação ao número de versão quando:
+
+* O software ganha novos recursos;
+* Alguns bugs são corrigidos no software;
+* Mudanças na API pública acontecem;
