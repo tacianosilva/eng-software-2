@@ -19,3 +19,13 @@ O projeto Construct é um software de gestão para uma loja de construção que 
 | Maicon   | Gerente, Analista, Testador, Desenvolvedor | marc.douglas630@gmail.com | [Clique aqui :octocat:](https://github.com/mdouglas630) |
 | Raquel      | Gerente, Analista, Testador, Desenvolvedor | fernandeslimaraquel@gmail.com           | [Clique aqui :octocat:](https://github.com/fernandesraquel)       |
 | Renata      | Gerente, Analista, Testador, Desenvolvedor | renatakarla02@gmail.com | [Clique aqui :octocat:](https://github.com/renatak12)       |
+
+#### Link do Repositório: [➡️em construção]
+
+## Python e JavaScript
+
+A equipe possui afinidade com Python que é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens.
+
+A equipe também optou pela linguagem JavaScript de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+O meu conhecimento com Python é bom já que utilizei algumas vezes durante o curso. Já a linguagem JavaScript não é tão aprofundado apesar de já ter utilizado anteriormente uma unica vez, mas espero aprender com o desenvolvimento do projeto.
