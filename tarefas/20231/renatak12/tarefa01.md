@@ -73,3 +73,7 @@ Além disso, o versionamento semântico também possui regras que definem o que 
 * O software ganha novos recursos;
 * Alguns bugs são corrigidos no software;
 * Mudanças na API pública acontecem;
+
+## Conventional Commits
+
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.
