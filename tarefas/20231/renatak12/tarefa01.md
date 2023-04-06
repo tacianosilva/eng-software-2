@@ -14,8 +14,8 @@ O projeto Construct é um software de gestão para uma loja de construção que 
 
 | Membro    | Papel                                      | E-mail                      | GitHub                                                     |
 | --------- | ------------------------------------------ | --------------------------- | ---------------------------------------------------------- |
-| Annielly | Gerente, Analista, Testador, Desenvolvedor | annielly.sousa.060@ufrn.edu.br | [Clique aqui :octocat:](https://github.com/Anniellyfs)        |
-| José Cláudio   | Gerente, Analista, Testador, Desenvolvedor |  -  | [Clique aqui :octocat:](https://github.com/ZeClaudio-Jr)   |
-| Maicon   | Gerente, Analista, Testador, Desenvolvedor | marc.douglas630@gmail.com | [Clique aqui :octocat:](https://github.com/mdouglas630) |
-| Raquel      | Gerente, Analista, Testador, Desenvolvedor | fernandeslimaraquel@gmail.com           | [Clique aqui :octocat:](https://github.com/fernandesraquel)       |
-| Renata      | Gerente, Analista, Testador, Desenvolvedor | renatakarla02@gmail.com | [Clique aqui :octocat:](https://github.com/renatak12)       |
+| Annielly | Gerente, Analista, Testador, Desenvolvedor | annielly.sousa.060@ufrn.edu.br | [Clique aqui](https://github.com/Anniellyfs)        |
+| José Cláudio   | Gerente, Analista, Testador, Desenvolvedor |  -  | [Clique aqui](https://github.com/ZeClaudio-Jr)   |
+| Maicon   | Gerente, Analista, Testador, Desenvolvedor | marc.douglas630@gmail.com | [Clique aqui](https://github.com/mdouglas630) |
+| Raquel      | Gerente, Analista, Testador, Desenvolvedor | fernandeslimaraquel@gmail.com           | [Clique aqui](https://github.com/fernandesraquel)       |
+| Renata      | Gerente, Analista, Testador, Desenvolvedor | renatakarla02@gmail.com | [Clique aqui](https://github.com/renatak12)       |
