@@ -42,3 +42,7 @@ O Framework que será utilizado como front-end do Construct ainda não foi defin
 Estaremos utilizando o VSCode como IDE, o mesmo é um editor de código-fonte desenvolvido pela Microsoft, dedicado à otimização de linhas, fazendo com que os softwares sejam mais leves, eficientes e compatíveis com diferentes plataformas.
 Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 
+## CRUD
+
+[Playlist](!https://www.youtube.com/watch?v=EPzUN97KvNU&list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
+
