@@ -8,7 +8,7 @@
 
 ### Descrição do projeto
 
-O projeto Construct é um software de gestão para uma loja de construção que visa a otimização de tempo e auxilia na tomada de decisões do usuário, cadatro de clientes e saida de produtos,além de monitor o ciclo de vida de cada tarefa registrada, gerando relátorios para análise de desempenho de quem executa a tarefa que foi atribuída.
+O projeto Construct é um software de gestão para uma loja de materiais de construção que visa a otimização de tempo e auxilia na tomada de decisões do usuário, cadatro de clientes e saida de produtos,além de monitor o ciclo de vida de cada tarefa registrada, gerando relátorios para análise de desempenho de quem executa a tarefa que foi atribuída.
 
 ## Equipe
 
@@ -20,7 +20,7 @@ O projeto Construct é um software de gestão para uma loja de construção que 
 | Raquel      | Gerente, Analista, Testador, Desenvolvedor | fernandeslimaraquel@gmail.com           | [Clique aqui](https://github.com/fernandesraquel)       |
 | Renata      | Gerente, Analista, Testador, Desenvolvedor | renatakarla02@gmail.com | [Clique aqui](https://github.com/renatak12)       |
 
-#### Link do Repositório: [➡️construct]()
+#### Link do Repositório: [➡️construct](https://github.com/renatak12/construct)
 
 ## Python e JavaScript
 
