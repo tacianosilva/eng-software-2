@@ -3,7 +3,7 @@ Nome: José Cláudio de Araújo Júnior
 GitHub: [ZeClaudio-Jr](https://github.com/ZeClaudio-Jr)  
 Email: zeclaudio_jr@yahoo.com.br / jose.claudio.junior.043@ufrn.edu.br
 
-## CONSTRUCT [(Acessar)](https://github.com/ZeClaudio-Jr/Engenharia-de-Software-II)  
+## CONSTRUCT [(Acessar)](https://github.com/renatak12/construct)
 
 ### Descrição do projeto
 
@@ -18,5 +18,3 @@ Annielly | Gerente, analista, desenvolvedora, testadora | annielly.sousa.060@ufr
 | Renata | Gerente, analista, desenvolvedora, testadora | renatakarla02@gmail.com | [renatak12](https://github.com/renatak12) |  
 Raquel | Gerente, analista, desenvolvedora, testadora | fernandeslimaraquel@gmail.com | [fernandesraquel](https://github.com/fernandesraquel) |  
 | Maicon | Gerente, analista, desenvolvedor, testador | marc.douglas630@gmail.com | [mdouglas630](https://github.com/mdouglas630) |   
-
-
