@@ -22,3 +22,12 @@ Equipe:
 - Hilário Petronio de Medeiros Dantas
 
 Link para o repositório: [ControlCash](https://github.com/Control-Cash/controlcash)
+
+### A liguagem de programação escolhida
+
+Para o desenvolvimento do projeto foi escolhido o framework web Django, escrito
+em python. Alguns membros já viram e trabalharam com esse framework em um
+projeto de disciplinas anteriores, outros nunca o usaram. Ele foi escolhido por
+ser considerado de fácil aprendizado e porque o professor da disciplina o
+utiliza em outros projetos, de forma que ele poderia ser consultado em caso de
+dúvidas mais complexas à respeito do seu funcionamento.
