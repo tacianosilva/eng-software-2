@@ -18,3 +18,9 @@ O REPy é um Sistema de Registro Eletrônico de Pontos, baseado nos sistemas REP
 
 ### Repositório
 [GitHub](https://github.com/Brunowcst/SistemasDeControleDePontos)
+
+## Linguagens e Tecnologias
+
+* Python: A equipe têm familiaridade com a linguagem, visto que durante a graduação fora usada para a construção de projetos e/ou atividades,demonstrando conhecimento intermediário em suas especificidades, bibliotecas e recursos que ela oferece.
+
+* JavaScript: A equipe têm familiaridade e conhecimento intermediário com a linguagem, visto que durante a graduação fora usada para a construção de projetos e/ou atividades. Durante essa experiência, fora utilizados recursos avançados da linguagem, bem como a utilização de frameworks.
