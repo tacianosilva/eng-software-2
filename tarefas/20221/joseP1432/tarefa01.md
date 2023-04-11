@@ -31,3 +31,6 @@ Para que o desenvolvedor mantenha controle sobre a versão do código, o **VS Co
 O tutorial escolhido foi o *"Introdução ao Laravel Framework – Parte 08: CRUD"* do Professor Jorge Luís Gregório. Este tutorial aborda muito bem a criação de um Sistema Web em **Laravel**, ensinando desde a criação do projeto até o desenvolvimento. Outro fator importante para se considerar, é a atualidade da publicação do tutorial e a versão do **Laravel** utilizada, a 8ª versão.
 
 [Acesse aqui.](https://www.jlgregorio.com.br/2022/09/06/introducao-ao-laravel-framework-parte-08-crud/)
+
+### Branches e Pull Request:
+O GitFlow é uma metodologia de desenvolvimento de software baseada no uso de branches e pull requests com o Git e o GitHub. Ele propõe o uso de duas branches principais (master e develop) e branches de recurso para o desenvolvimento de novas funcionalidades. O pull request é usado para solicitar a mesclagem das alterações na branch de recurso na branch develop, e o merge da branch develop na branch master é feito quando há um conjunto suficiente de novas funcionalidades. Essa metodologia ajuda a garantir a qualidade do código e a estabilidade do software.
