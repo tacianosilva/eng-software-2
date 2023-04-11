@@ -24,3 +24,11 @@ O REPy é um Sistema de Registro Eletrônico de Pontos, baseado nos sistemas REP
 * Python: A equipe têm familiaridade com a linguagem, visto que durante a graduação fora usada para a construção de projetos e/ou atividades,demonstrando conhecimento intermediário em suas especificidades, bibliotecas e recursos que ela oferece.
 
 * JavaScript: A equipe têm familiaridade e conhecimento intermediário com a linguagem, visto que durante a graduação fora usada para a construção de projetos e/ou atividades. Durante essa experiência, fora utilizados recursos avançados da linguagem, bem como a utilização de frameworks.
+
+### Tecnologias
+
+* Front-end: ReactJs;
+    [ReactJs](https://legacy.reactjs.org/) é uma biblioteca em JavaScript utilizada para a construção de interfaces gráficas na web, auxiliando no desenvolvimento web. Esse fremawork é facilmente ligado à linguagens de marcação e estilização, como o HTML e o CSS, dando ainda mais poder nas interações dos usuários com a interface.
+* Back-end: Django Rest;
+    [Django REST](https://www.django-rest-framework.org/) é um Framework utilizado para a construção de forma simples e rápida de [APIs](https://aws.amazon.com/pt/what-is/api/) utilizando o Django para manipulação do banco de dados e rotas;
+    
