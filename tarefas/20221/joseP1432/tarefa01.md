@@ -34,3 +34,8 @@ O tutorial escolhido foi o *"Introdução ao Laravel Framework – Parte 08: CRU
 
 ### Branches e Pull Request:
 O GitFlow é uma metodologia de desenvolvimento de software baseada no uso de branches e pull requests com o Git e o GitHub. Ele propõe o uso de duas branches principais (master e develop) e branches de recurso para o desenvolvimento de novas funcionalidades. O pull request é usado para solicitar a mesclagem das alterações na branch de recurso na branch develop, e o merge da branch develop na branch master é feito quando há um conjunto suficiente de novas funcionalidades. Essa metodologia ajuda a garantir a qualidade do código e a estabilidade do software.
+
+### Versionamento Semântico:
+O Versionamento Semântico é um padrão para determinar a nomenclatura de um software, no formato de três números: X.Y.Z. Onde o X seria a versão principal, Y a versão secundária e Z a versão de correção. 
+
+Mudanças na versão principal indicam mudanças incompatíveis com versões anteriores, mudanças na versão secundária indicam adições de funcionalidades compatíveis com versões anteriores, enquanto mudanças na versão de correção indicam correções de bugs ou problemas de compatibilidade. Além disso, o Versionamento Semântico define como devem ser feitas as mudanças nos números de versão, dependendo do tipo de alteração.
