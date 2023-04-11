@@ -1,7 +1,7 @@
 # Tarefa 01 - Git e GitHub com Markdown
 
-* h3 Annielly Ferreira de Sousa
-* h3 @Anniellyfs
+* [Annielly Ferreira de Souza](https://github.com/Anniellyfs)
+* [@Anniellyfs](https://github.com/Anniellyfs)
 * annyfs2015@gmail.com
 
 # Construct
@@ -12,8 +12,11 @@ O construct é um sistema de gestão para lojas de materiais de construção que
 
 # Equipe
 
-h3 Annielly Ferreira de Souza
-h3 José Cláudio de Araújo Júnior
-h3 Maicon Douglas da Silva
-h3 Raquel Lima Fernandes
-h3 Renata Karla Araújo dos Santos
+[Annielly Ferreira de Souza](https://github.com/Anniellyfs)  
+[José Cláudio de Araújo Júnior](https://github.com/ZeClaudio-Jr)  
+[Maicon Douglas da Silva](https://github.com/mdouglas630)  
+[Raquel Lima Fernandes](https://github.com/fernandesraquel)  
+[Renata Karla Araújo dos Santos](https://github.com/renatak12)
+
+### Link do projeto
+[Construct](https://github.com/renatak12/construct)
