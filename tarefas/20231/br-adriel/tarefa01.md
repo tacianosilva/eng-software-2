@@ -35,3 +35,11 @@ anteriores, outros nunca o usaram. Ele foi escolhido por ser considerado de
 fácil aprendizado e porque o professor da disciplina o utiliza em outros
 projetos, de forma que ele poderia ser consultado em caso de dúvidas mais
 complexas à respeito do seu funcionamento.
+
+O django é um framework open source que visa simplificar e resolver problemas
+comuns durante o desenvolvimento de apicações web, como autenticação e migrações
+de banco de dados. Projetos Django normalmente são divididos em "subprojetos"
+chamados apps, que por sua vez são divididos em uma estrutura de arquivos que
+separa modelos de dados, lógica de negócio, rotas e templates em diferentes
+arquivos. Essa modularização ajuda com a manuntenção e escalonamento dos
+projetos.
