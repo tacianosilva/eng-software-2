@@ -16,3 +16,6 @@ Nosso Sistema Web será uma aplicação voltada para o ramo do comércio, onde t
 
 ### Linguagem de Programação:
 A linguagem escolhida pela equipe, foi o **PHP**. É uma linguagem em que a equipe se sente confortável em desenvolver uma Aplicação Web e que já possui experiência, esse foi o fator de consenso para a equipe determinar a linguagem.
+
+### Framework:
+O framework a ser usado será o **Laravel**. Ele é um framework em que possui muitos recursos embutidos que facilitam o desenvolvimento: sistema de roteamento, gerenciamento de banco de dados, autenticação, cache, envio de e-mails, e muito mais. Ele também tem um sistema de templates poderoso, chamado Blade, que facilita a criação de páginas da web dinâmicas e reutilizáveis.
