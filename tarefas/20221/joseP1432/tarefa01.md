@@ -39,3 +39,10 @@ O GitFlow é uma metodologia de desenvolvimento de software baseada no uso de br
 O Versionamento Semântico é um padrão para determinar a nomenclatura de um software, no formato de três números: X.Y.Z. Onde o X seria a versão principal, Y a versão secundária e Z a versão de correção. 
 
 Mudanças na versão principal indicam mudanças incompatíveis com versões anteriores, mudanças na versão secundária indicam adições de funcionalidades compatíveis com versões anteriores, enquanto mudanças na versão de correção indicam correções de bugs ou problemas de compatibilidade. Além disso, o Versionamento Semântico define como devem ser feitas as mudanças nos números de versão, dependendo do tipo de alteração.
+
+### Conventional Commits:
+Conventional Commits é uma convenção que define como serão descritas os commits do **GitHub**. Portanto, ao iniciar um commit o desenvolver deve adicionar um prefixo que indica qual foi o tipo de alteração feita no código.
+
+Deve ser usado "feat" para novas funcionalidades, "fix" para correção de bugs, "chore" para tarefas de manutenção. Os prefixos devem ser seguidos por : e um espaço, então o desenvolvedor escreverá a mensagem normalmente a seguir.
+
+Ao seguir essa convenção, as mensagens de commit se tornam mais fáceis de entender e permitem uma melhor organização e rastreamento das mudanças realizadas ao longo do tempo.
