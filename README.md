@@ -15,10 +15,11 @@ Neste repositório teremos a lista de tarefas para a disciplina e os modelos de 
 
 No página [Projetos por Período](projetos/README.md) listamos os projetos realizados por grupos de alunos durante a disciplina de Engenharia de Software II.
 
-### Semestre Letivo 2022.1
-* Cronograma das [Iterações 2022.1](projetos/20221/cronograma.md)
+### Semestre Letivo 2023.1
+* Cronograma das [Iterações 2023.1](projetos/20231/cronograma.md)
 
-### Semestre Letivo 2021.1
+### Cronograma de Iterações - Semestre Anteriores
+* Cronograma das [Iterações 2022.1](projetos/20221/cronograma.md)
 * Cronograma das [Iterações 2021.1](projetos/20211/iteracao.md)
 
 ## Informações
