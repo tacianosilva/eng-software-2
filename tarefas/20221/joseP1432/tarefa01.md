@@ -26,3 +26,8 @@ Neste projeto utilizaremos a IDE **Vs Code**, nele é possível codificar e comp
 Para o debug, o **VS Code** possui uma extensão chamada Debugger for Chrome, que permite que o desenvolvedor depure o código JavaScript em um navegador Chrome diretamente do editor. O **VS Code** também tem uma opção de depuração integrada que permite que o desenvolvedor coloque pontos de interrupção no código e depure passo a passo para identificar erros e bugs.
 
 Para que o desenvolvedor mantenha controle sobre a versão do código, o **VS Code** tem uma integração nativa com o **Git**, permitindo que os desenvolvedores criem e gerenciem repositórios **Git** diretamente do editor. Além disso, o **VS Code** tem uma extensão para o **GitHub** que permite que os desenvolvedores vejam onde houve alteração e em caso de haver divergência entre os códigos originais e os códigos comitados, ele mostra onde há as divergências e permite que o desenvolvedor repare o erro.
+
+### Tutorial:
+O tutorial escolhido foi o *"Introdução ao Laravel Framework – Parte 08: CRUD"* do Professor Jorge Luís Gregório. Este tutorial aborda muito bem a criação de um Sistema Web em **Laravel**, ensinando desde a criação do projeto até o desenvolvimento. Outro fator importante para se considerar, é a atualidade da publicação do tutorial e a versão do **Laravel** utilizada, a 8ª versão.
+
+[Acesse aqui.](https://www.jlgregorio.com.br/2022/09/06/introducao-ao-laravel-framework-parte-08-crud/)
