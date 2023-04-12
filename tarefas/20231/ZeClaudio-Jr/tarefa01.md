@@ -45,7 +45,6 @@ Suporta às melhores linguagens de programação. Esta ferramenta de desenvolvim
 
 Falando sobre ferramentas de debug e controle de versão, Debug é o processo que envolve identificar, isolar e corrigir os erros ou anormalidades de um software. Algumas dessas ferramentas que podemos citar: DataTip, QuickWatch, Locals Window, entre outros. Já o controle de versão que podemos mensionar é o git. Extensível e flexível, use o Git para o controle de versão distribuído ou o TFVC (Controle de Versão do Team Foundation) para ter um controle de versão centralizado imediatamente. Utilize o GitHub interno e a integração com o Azure DevOps para seu provedor remoto ou instale extensões para aprimorar a experiência com outros provedores de controle de versão.
 
-
 Esse será nossa IDE.
 
 ## CRUD Python-Django
@@ -53,3 +52,11 @@ Esse será nossa IDE.
 Assista ao vídeo ([Acessar vídeo](https://www.youtube.com/watch?v=GGBzMpIAgz4))
 
 O video contém uma introdução referente ao framework Django e durante o vídeo será feito um CRUD completo com banco de dados.
+
+## Branches e pull request
+
+Branches: Um branch no Git é simplesmente um ponteiro móvel para um dos commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente. O comando git branch permite criar, listar, renomear e excluir ramificações. Ele não permite alternar entre as ramificações ou reunir um histórico bifurcado de novo. Por esse motivo, o comando git branch é muito integrado com os comandos git checkout e git merge.
+
+Pull request: é um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma feature qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal. O pull request é uma solicitação para que o dono do repositório faça o merge de uma branch em outra. O pull request é usado para discutir e revisar as possíveis alterações com colaboradores e adicionar confirmações de acompanhamento antes que as alterações sejam mescladas na branch principal.
+
+O GitFlow é um modelo de fluxo de trabalho que utiliza branches para organizar o desenvolvimento de software. O Pull Request é uma funcionalidade do Git que permite que os desenvolvedores enviem o código que eles escreveram para revisão antes de mesclá-lo com o código principal. No modelo GitFlow, um Pull Request é criado pelos desenvolvedores a partir de suas respectivas branches de recursos para mesclar o código na branch develop. Geralmente, um Pull Request é criado após a conclusão dos recursos e é mesclado na branch develop pelo revisor. O GitFlow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais. As branches Feature são usadas para desenvolver novas funcionalidades. As branches Release são usadas para preparar o código para uma nova versão do software. As branches Hotfix são usadas para corrigir bugs críticos em produção.
