@@ -27,3 +27,8 @@ funcionamento da empresa com mais eficácia.
 
 Em todas as linguagens citadas, a equipe tem um certo nível de conhecimento, onde claro existem diferentes níveis, mas que como um grupo, os integrantes se ajudarão para desenvolver o projeto.
 
+## Frameworks:
+
+- Laravel: é um framework PHP livre e open-source para o desenvolvimento de sistemas web que utilizam o padrão Model-View-Controller (MVC). No nosso projeto, será utilizado especialmente para o Backend.
+- VueJS: é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única. No nosso projeto, iremos utilizá-lo para construção de páginas, integrando-o com o Laravel.
+- InertiaJS: permite que você crie aplicativos de página única totalmente renderizados do lado do cliente, sem a complexidade de criar uma API. No nosso projeto, utilizaremos para integrar o Laravel ao VueJS sem precisar criarmos uma API e fazer constantes requisições.
