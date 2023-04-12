@@ -40,4 +40,9 @@ Em todas as linguagens citadas, a equipe tem um certo nível de conhecimento, on
 
 O link abaixo trata-se de um tutorial de como criar um simples CRUD em Laravel. Nele é ensinado um pouco da estrutura Model-View-Controller (MVC) e como utilizar isso para construir páginas simples de um projeto.
 
-https://www.youtube.com/watch?v=MJp8ycjNW5s
+Link: https://www.youtube.com/watch?v=MJp8ycjNW5s
+
+## O que são *branchs* e *pull request*?
+
+Branches são ramificações do código principal (branch main) e permitem que diferentes versões do código sejam desenvolvidas separadamente. Já o pull request é uma solicitação feita por um desenvolvedor para integrar suas mudanças em um branch com outro branch, geralmente o main. Essa é uma forma de revisar o código antes de ser mesclado com o código principal e pode ser usada para garantir que as mudanças não quebrem o sistema ou para permitir que outros desenvolvedores revisem e ofereçam feedback sobre o código antes de ser integrado.
+
