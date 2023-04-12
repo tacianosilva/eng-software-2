@@ -43,3 +43,21 @@ chamados apps, que por sua vez são divididos em uma estrutura de arquivos que
 separa modelos de dados, lógica de negócio, rotas e templates em diferentes
 arquivos. Essa modularização ajuda com a manuntenção e escalonamento dos
 projetos.
+
+### IDE - Ferraments de DEBUG e controle de versão
+
+A IDE que eu escolhi para trabalhar durante o desenvolvimento do projeto foi o
+VS Code. Ele se trata de um editor de código genérico que é consegue se integrar
+a diversas linguagens de programação através de seu extenso leque de extensões.
+
+Ele possui uma boa integração com o Git e o Github, permitindo que as ações mais
+comuns do dia a dia possam seu realizadas por meio de sua própria interface
+gráfica, sem precisar tocar no terminal. Essas ações incluem a criação de um
+repositório git, criar commits, defazer commits, abrir pull requests, criar e
+alterar branches, além de possuir uma interface que auxilia na hora de realizar
+merge e rebase.
+
+O VS Code possu uma ferramenta de DEBUG integrada que pode ser configurada para
+ser utilizada com arquivos python. Para uma melhor perfomance dessa ferramenta
+basta instalar o leque de extensões 'Python' que a própria Microsoft, empresa
+proprietária do editor de código, seleciona.
