@@ -19,3 +19,11 @@ funcionamento da empresa com mais eficácia.
 
 [Link para o repositório](https://github.com/vitordaniel31/sisvenda.git)
 
+## Linguagens de Programação:
+- PHP: uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor. 
+- JS: é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+- HTML: é uma linguagem de marcação utilizada na construção de páginas na Web
+- CSS: é um mecanismo para adicionar estilos a uma página web, aplicado diretamente nas tags HTML ou ficar contido dentro das tags \<style>. 
+
+Em todas as linguagens citadas, a equipe tem um certo nível de conhecimento, onde claro existem diferentes níveis, mas que como um grupo, os integrantes se ajudarão para desenvolver o projeto.
+
