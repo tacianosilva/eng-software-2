@@ -128,3 +128,23 @@ do software, como explicado anteriormente. Quando o X é incrementado o Y e o Z
 são zerados.
 
 ### Conventional commits
+
+Conventional commits é um padrão adotado nos projetos de software para as
+mensagens de commit a fim de torná-las bem descritivas, de fácil compreensão e
+consistentes.
+
+Ao utilizar essa convenção você deve dividir sua mensagem de commit em 3 partes:
+
+```bash
+<tipo>[escopo]: <descrição>
+```
+
+Os tipos mais usados são `fix`, para indicar uma correção, e `feat`, para
+indicar uma nova funcionalidade. Outros tipos adicionais também podem ser
+usados para melhor atender cada necessidade. Quando o tipo vem sucedido de uma
+exclamação significa que aquele commit introduz uma mudança que causará quebra
+de compatibilidade em relação as versões anteriores.
+
+Essa convenção também define a estruturação para o corpo do commit, sugerindo o
+uso de um rodapé iniciado por `BREAKING CHANGE:` nos commits que causam quebra
+de compatibilidade.
