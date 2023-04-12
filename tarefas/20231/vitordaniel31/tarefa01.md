@@ -35,3 +35,9 @@ Em todas as linguagens citadas, a equipe tem um certo nível de conhecimento, on
 
 ## IDE:
 - VS Code: é uma IDE gratuita e de código aberto, e é amplamente usada por desenvolvedores em todo o mundo. As ferramentas de debug incluem a possibilidade de fazer breakpoint, stepping e inspecionar variáveis. As ferramentas de controle de versão incluem a integração com o Git, que permite o gerenciamento de repositórios Git diretamente dentro do VS Code, além de permitir a visualização de alterações, histórico e realizar commits.
+
+## Tutorial de CRUD em Laravel:
+
+O link abaixo trata-se de um tutorial de como criar um simples CRUD em Laravel. Nele é ensinado um pouco da estrutura Model-View-Controller (MVC) e como utilizar isso para construir páginas simples de um projeto.
+
+https://www.youtube.com/watch?v=MJp8ycjNW5s
