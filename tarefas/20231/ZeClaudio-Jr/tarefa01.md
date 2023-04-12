@@ -26,3 +26,9 @@ Essa linguagem é bem conhecida da equipe. O python, além de amigável para ini
 O javascript também foi uma opção da equipe. É uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web, mas usada também em vários outros ambientes sem browser, tais como node.js, Apache CouchDB e Adobe Acrobat. O JavaScript é uma linguagem baseada em protótipos, multi-paradigma e dinâmica, suportando estilos de orientação a objetos, imperativos e declarativos (como por exemplo a programação funcional). Saiba mais sobre o JavaScript.
 
 Nosso conhecimento a respeito dessas linguagens é bom. Já trabalhamos com elas diversas vezes, e creio que será satisfatório um novo contato. No decorrer do projeto, novos conhecimentos virão. 
+
+## Django
+
+O back-end do nosso projeto será construído em django. É um framework de aplicativos web gratuito e de código aberto. Escrito em python, ele é descrito como uma estrutura da Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
+
+O framework do front-end ainda não foi escolhido.
