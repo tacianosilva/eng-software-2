@@ -47,3 +47,9 @@ Falando sobre ferramentas de debug e controle de versão, Debug é o processo qu
 
 
 Esse será nossa IDE.
+
+## CRUD Python-Django
+
+Assista ao vídeo ([Acessar vídeo](https://www.youtube.com/watch?v=GGBzMpIAgz4))
+
+O video contém uma introdução referente ao framework Django e durante o vídeo será feito um CRUD completo com banco de dados.
