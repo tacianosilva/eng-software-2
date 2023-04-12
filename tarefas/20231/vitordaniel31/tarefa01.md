@@ -46,3 +46,6 @@ Link: https://www.youtube.com/watch?v=MJp8ycjNW5s
 
 Branches são ramificações do código principal (branch main) e permitem que diferentes versões do código sejam desenvolvidas separadamente. Já o pull request é uma solicitação feita por um desenvolvedor para integrar suas mudanças em um branch com outro branch, geralmente o main. Essa é uma forma de revisar o código antes de ser mesclado com o código principal e pode ser usada para garantir que as mudanças não quebrem o sistema ou para permitir que outros desenvolvedores revisem e ofereçam feedback sobre o código antes de ser integrado.
 
+## Versionamento Semântico:
+
+O Versionamento Semântico é uma abordagem para nomear e versionar software que utiliza um conjunto de regras claras e definidas para especificar como o número de versão do software deve ser incrementado, com base nas mudanças realizadas no software. Ele é baseado em três números separados por pontos: major, minor e patch, que representam respectivamente mudanças incompatíveis, mudanças compatíveis com retrocompatibilidade e correções de bugs. O Versionamento Semântico é amplamente utilizado na indústria de desenvolvimento de software, permitindo que as equipes de desenvolvimento gerenciem e comuniquem com facilidade as versões do software.
