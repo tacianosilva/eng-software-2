@@ -49,3 +49,7 @@ Branches são ramificações do código principal (branch main) e permitem que d
 ## Versionamento Semântico:
 
 O Versionamento Semântico é uma abordagem para nomear e versionar software que utiliza um conjunto de regras claras e definidas para especificar como o número de versão do software deve ser incrementado, com base nas mudanças realizadas no software. Ele é baseado em três números separados por pontos: major, minor e patch, que representam respectivamente mudanças incompatíveis, mudanças compatíveis com retrocompatibilidade e correções de bugs. O Versionamento Semântico é amplamente utilizado na indústria de desenvolvimento de software, permitindo que as equipes de desenvolvimento gerenciem e comuniquem com facilidade as versões do software.
+
+## *Conventional Commits*:
+
+O Conventional Commits é uma convenção para escrever mensagens de commit em repositórios de controle de versão. Ele define um conjunto de regras e formatos para as mensagens de commit, a fim de permitir a geração automática de changelogs e outras tarefas de gerenciamento de versão. A convenção é baseada em uma estrutura de três partes: um tipo, uma descrição e, opcionalmente, um escopo. Os tipos incluem "feat" (nova funcionalidade), "fix" (correção de bug), "docs" (atualização da documentação) e outros. Isso é algo variável entre as equipes, por exemplo, na equipe que trabalho eles costumam usar muito a palavara "improvements" para devinir melhorias em um determinado código.
