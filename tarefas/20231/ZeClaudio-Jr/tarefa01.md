@@ -25,7 +25,7 @@ Essa linguagem é bem conhecida da equipe. O python, além de amigável para ini
 
 O javascript também foi uma opção da equipe. É uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web, mas usada também em vários outros ambientes sem browser, tais como node.js, Apache CouchDB e Adobe Acrobat. O JavaScript é uma linguagem baseada em protótipos, multi-paradigma e dinâmica, suportando estilos de orientação a objetos, imperativos e declarativos (como por exemplo a programação funcional). Saiba mais sobre o JavaScript.
 
-Nosso conhecimento a respeito dessas linguagens é bom. Já trabalhamos com elas diversas vezes, e creio que será satisfatório um novo contato. No decorrer do projeto, novos conhecimentos virão. 
+Nosso conhecimento a respeito dessas linguagens é bom. Já trabalhamos com elas diversas vezes, e creio que será satisfatório um novo contato. No decorrer do projeto, novos conhecimentos virão.
 
 ## Django
 
@@ -44,5 +44,6 @@ O Visual Studio Code é completamente gratuito. Você pode baixar a versão Insi
 Suporta às melhores linguagens de programação. Esta ferramenta de desenvolvimento web funciona com várias linguagens, incluindo C++, JavaScript e Python. Possui uma enorme biblioteca de extensões. Você pode encontrar diversos temas e plugins no marketplace do software. Com a personalização da interface, o editor de código do Visual Studio Code é personalizável, permitindo que você corrija bugs com pontos de interrupção, pilhas de chamadas e um console interativo. Também possui integração com Git, onde é possível usar vários comandos Git, como commit, pull e push. O software também exibe um indicador de cores quando mudanças são feitas no repositório Git.
 
 Falando sobre ferramentas de debug e controle de versão, Debug é o processo que envolve identificar, isolar e corrigir os erros ou anormalidades de um software. Algumas dessas ferramentas que podemos citar: DataTip, QuickWatch, Locals Window, entre outros. Já o controle de versão que podemos mensionar é o git. Extensível e flexível, use o Git para o controle de versão distribuído ou o TFVC (Controle de Versão do Team Foundation) para ter um controle de versão centralizado imediatamente. Utilize o GitHub interno e a integração com o Azure DevOps para seu provedor remoto ou instale extensões para aprimorar a experiência com outros provedores de controle de versão.
+
 
 Esse será nossa IDE.
