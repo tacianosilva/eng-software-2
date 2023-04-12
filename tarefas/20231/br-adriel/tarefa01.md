@@ -64,6 +64,17 @@ proprietária do editor de código, seleciona.
 
 ### Tutoriais sobre Django
 
+[Django 4 CRUD completo em ~30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
+
+[Escrevendo seu primeiro app Django, parte 1](https://docs.djangoproject.com/pt-br/4.2/intro/tutorial01/)
+
+Os tutoriais acima cobrem o processo de criação, listagem, edição e remoção de
+objetos no django desde a criação de um novo app, passando pela definição de
+modelos no models.py e pela lógica implementada nas views, e indo até a
+renderização desses dados no html. As partes posteriores do segundo tutorial
+cobrem até mesmo a parte de como fazer testes automatizados usando a bliblioteca
+padrão que o framework oferece.
+
 ### Branches e Pull Requests
 
 ### Versionamento semântico
