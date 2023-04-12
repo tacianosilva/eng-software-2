@@ -77,6 +77,26 @@ padrão que o framework oferece.
 
 ### Branches e Pull Requests
 
+Branches e pull requests estão intimamente relacionados com os sistemas de
+controle de versão, como o git.
+
+Um branch é uma cópia do código-fonte principal de um repositório. Essa cópia
+serve para que possamos fazer alterações no código sem afetar o código já
+existente na branch principal. Esse funcionamento possibilita que várias pessoas
+trabalhem ao mesmo tempo em um mesmo repositório sem causar conflitos no
+trabalho umas das outras.
+
+Entretanto, como você está modificando o código, seja para adicioanr uma nova
+funcionalidade ou para corrigir um bug, você precisa que essas mudanças vão para
+a branch principal, para efetivar essas mudanças feitas nos arquivos é utilizado
+o Pull Request.
+
+Um pull request é a solicitação para que um novo código de uma branch "volte"
+para o código da branch principal e esse seja efetivado. Ele acaba funcionando
+como um passo intermediário na junção de códigos para que não haja sobrescrita
+não intencional de código, pois antes de ser efetivado um pull request pode ser
+revisado antes de ser aceito na branch principal.
+
 ### Versionamento semântico
 
 O versionamento semântico é um padrão de atribuição de versão de software
