@@ -57,7 +57,43 @@ repositório git, criar commits, defazer commits, abrir pull requests, criar e
 alterar branches, além de possuir uma interface que auxilia na hora de realizar
 merge e rebase.
 
-O VS Code possu uma ferramenta de DEBUG integrada que pode ser configurada para
+O VS Code possui uma ferramenta de DEBUG integrada que pode ser configurada para
 ser utilizada com arquivos python. Para uma melhor perfomance dessa ferramenta
 basta instalar o leque de extensões 'Python' que a própria Microsoft, empresa
 proprietária do editor de código, seleciona.
+
+### Tutoriais sobre Django
+
+### Branches e Pull Requests
+
+### Versionamento semântico
+
+O versionamento semântico é um padrão de atribuição de versão de software
+amplamente adotado que estabelece que o número de versão de um software será
+composta por três partes separadas por pontos, nesse estilo:
+
+```text
+X.Y.Z
+```
+
+No exemplo acima cada letra representaria um número, e cada número desses tem um
+significado e um critério para ser modificado para mais ou para menos.
+
+O Z representa as correções de bug, logo ele é incrementado em 1 sempre que
+uma nova correção é feita, entretanto essa correção não deve quebrar a
+compatibilidade com versões anteriores. Por exemplo, se um outro programa
+interagia com o software quando ele estava na versão X.Y.1, o mesmo programa
+deve continuar funcionando com a versão X.Y.2 sem que alterações tenham que ser
+feitas em seu código fonte.
+
+O Y representa novas funcionalidades, então sempre que uma nova função é
+adiciona seu valor é incrementado em 1, contanto que essa nova função não quebre
+a compatibilidade com a versão anterior, como foi explicado no detalhamento do
+número "Z". Quando o Y é incrementado o Z é zerado.
+
+Já o X representa uma nova versão do sistema, isto é, esse valor é incrementado
+em 1 quando uma nova atualização quebra a compatibilidade com versões anteriores
+do software, como explicado anteriormente. Quando o X é incrementado o Y e o Z
+são zerados.
+
+### Conventional commits
