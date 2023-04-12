@@ -32,3 +32,15 @@ Nosso conhecimento a respeito dessas linguagens é bom. Já trabalhamos com elas
 O back-end do nosso projeto será construído em django. É um framework de aplicativos web gratuito e de código aberto. Escrito em python, ele é descrito como uma estrutura da Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
 
 O framework do front-end ainda não foi escolhido.
+
+## VSCode
+
+O Visual Studio Code é um editor de código open-source que roda no Windows, Linux e macOS. Ele traz recursos nativos como realce de sintaxe, sugestões para preenchimento automático e comandos Git — tudo para tornar o processo de criação mais rápido e fácil.
+
+Além de um terminal e uma recurso de correção de bugs embutidos, o software traz suporte a ferramentas de análise de código e integrações de software com outras ferramentas de desenvolvimento web, como Git, PHP CS Fixer e ESLint.
+
+O Visual Studio Code é completamente gratuito. Você pode baixar a versão Insiders para ter acesso aos recursos mais novos e aos futuros lançamentos do software. Também é possível instalar as duas versões do programa e utilizá-las separadamente ou em conjunto.
+
+Suporta às melhores linguagens de programação. Esta ferramenta de desenvolvimento web funciona com várias linguagens, incluindo C++, JavaScript e Python. Possui uma enorme biblioteca de extensões. Você pode encontrar diversos temas e plugins no marketplace do software. Com a personalização da interface, o editor de código do Visual Studio Code é personalizável, permitindo que você corrija bugs com pontos de interrupção, pilhas de chamadas e um console interativo. Também possui integração com Git, onde é possível usar vários comandos Git, como commit, pull e push. O software também exibe um indicador de cores quando mudanças são feitas no repositório Git.
+
+Esse será nossa IDE.
