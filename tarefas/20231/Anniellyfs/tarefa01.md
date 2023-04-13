@@ -18,11 +18,11 @@ O construct é um sistema de gestão para lojas de materiais de construção que
 [Raquel Lima Fernandes](https://github.com/fernandesraquel)  
 [Renata Karla Araújo dos Santos](https://github.com/renatak12)
 
-### Repositório
+# Repositório
 [Construct](https://github.com/renatak12/construct)
 
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
@@ -31,7 +31,7 @@ O construct é um sistema de gestão para lojas de materiais de construção que
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>    
   
- ## Matriz de Competências
+ # Matriz de Competências
 
 | Membro       | Competências                                                                                                      |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -40,3 +40,15 @@ O construct é um sistema de gestão para lojas de materiais de construção que
 | Maicon       | Desenvolvedor Python, Django, JavaScript                                                                          |
 | Raquel       | Gerente e Desenvolvedora Javascript, React, Nexjtjs, Python, C, PostgreSQL                                        |  
 | Renata       | Desenvolvedora Javascript, Python, Django                                                                         |
+
+
+
+# Tutoriais
+
+| Nome       | Descrição                           | Link                                                                                            |
+| ---------- | ----------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Python     | O tutorial de Python                | [Clique aqui](https://docs.python.org/pt-br/3/tutorial/index.html) 
+| Django     | Primeiros passos com o Django.      | [Clique aqui](https://django-portuguese.readthedocs.io/en/1.0/intro/index.html)               |
+| Django     | Escrevendo seu primeiro app Django. | [Clique aqui](https://docs.djangoproject.com/pt-br/3.2/intro/tutorial01/)                     |
+| Django     | Introdução ao Django                | [Clique aqui](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction) |
+| PostgreSQL | Introdução prática ao serviço       | [Clique aqui](https://blog.geekhunter.com.br/tutorial-postgresql-introducao-pratica-ao-servico/)      |
