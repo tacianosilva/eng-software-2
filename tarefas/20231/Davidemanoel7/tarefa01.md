@@ -17,7 +17,7 @@ O REPy é um Sistema de Registro Eletrônico de Pontos, baseado nos sistemas REP
 - Marcelo Victor Melo Nunes [@Marcelo1403](https://github.com/Marcelo1403)
 
 ### Repositório
-[GitHub](https://github.com/Brunowcst/SistemasDeControleDePontos)
+[GitHub do projeto](https://github.com/Brunowcst/SistemasDeControleDePontos)
 
 ## Linguagens e Tecnologias
 
