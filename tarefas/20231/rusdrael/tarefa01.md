@@ -22,3 +22,16 @@ O sistema a ser desenvolvido tem como objetivo fornecer uma plataforma para faci
 | João Vitor      | 20210054808 | joao.vitor.dantas.085@ufrn.edu.br | [JoaoVitorGomesDantas](https://github.com/JoaoVitorGomesDantas) |
 | Rusdrael Antony | 20210055260 | antony.freire.086@ufrn.edu.br     | [rusdrael](https://github.com/rusdrael)                         |
 | José Victor     | 20210053810 | jose.victor@ufrn.edu.br           | [victormedeiros1](https://github.com/victormedeiros1)           |
+
+## Linguagens Utilizadas
+
+* C#
+* JavaScript
+
+### Domínio e Experiência da Equipe nas Linguagens
+
+* Jonathan Tauan - Bom em C# e iniciante em JavaScript - Estagiário com C#
+* Guilherme Costa - Médio em C# e iniciante em JavaScript - Experiência em projetos de estudo na universidade
+* João Vitor - Iniciante em todas - Experiência em projetos de estudo na universidade
+* Rusdrael Antony - Iniciante em todas - Experiência em projetos de estudo na universidade
+* José Victor - Bom em JavaScript e iniciante em C# - Trabalha com JavaScript
