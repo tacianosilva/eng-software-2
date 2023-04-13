@@ -64,3 +64,7 @@ O GitFlow é um modelo de fluxo de trabalho que utiliza branches para organizar 
 ## Versionamento Semântico 
 
 O Versionamento Semântico 2.0.0 (ou Semantic Versioning 2.0.0) propõe regras e requerimentos para atribuição de versão de programas. A versão é composta por três números separados por pontos (MAJOR.MINOR.PATCH) e cada um desses números representa um tipo de mudança. O primeiro número representa mudanças incompatíveis na API, o segundo representa adição de funcionalidades mantendo compatibilidade, e o terceiro representa correção de falhas mantendo compatibilidade.
+
+## Conventional Commits
+
+A especificação Conventional Commits é uma convenção leve sobre as mensagens de confirmação. Ele fornece um conjunto fácil de regras para criar um histórico de confirmação explícito; o que facilita a escrita de ferramentas automatizadas em cima. Esta convenção se encaixa com a SemVer, descrevendo os recursos, correções e alterações de quebra feitas em mensagens de confirmação.
