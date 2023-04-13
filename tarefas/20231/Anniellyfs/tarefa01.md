@@ -52,3 +52,12 @@ O construct é um sistema de gestão para lojas de materiais de construção que
 | Django     | Escrevendo seu primeiro app Django. | [Clique aqui](https://docs.djangoproject.com/pt-br/3.2/intro/tutorial01/)                     |
 | Django     | Introdução ao Django                | [Clique aqui](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction) |
 | PostgreSQL | Introdução prática ao serviço       | [Clique aqui](https://blog.geekhunter.com.br/tutorial-postgresql-introducao-pratica-ao-servico/)      |
+
+# Sobre Git
+| Termo       | Resumo                                                                                                      |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| Branches      | Um branch no Git é simplesmente um ponteiro móvel para um commits. O nome do branch padrão no Git é master. Conforme você começa a fazer commits, você recebe um branch master que aponta para o último commit que você fez. Cada vez que você faz um novo commit, ele avança automaticamente.           |
+| Pull requests|           você pode usar um pull request para informar a outras pessoas sobre as alterações que deseja fazer e solicitar feedback. Depois que uma solicitação pull for aberta, você poderá discutir e revisar as possíveis alterações com os colaboradores e adicionar mais alterações, se necessário. Você pode adicionar pessoas específicas como revisores de seu pull request, o que mostra que você deseja o feedback delas sobre suas alterações! Quando um pull request estiver pronto, ele poderá ser mesclado em sua ramificação principal.                                                                        |
+|        |                                                                         |
+|        |                                         |  
+|          |                                                                        |
