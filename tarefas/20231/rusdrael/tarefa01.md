@@ -35,3 +35,13 @@ O sistema a ser desenvolvido tem como objetivo fornecer uma plataforma para faci
 * João Vitor - Iniciante em todas - Experiência em projetos de estudo na universidade
 * Rusdrael Antony - Iniciante em todas - Experiência em projetos de estudo na universidade
 * José Victor - Bom em JavaScript e iniciante em C# - Trabalha com JavaScript
+
+## Framework
+
+### React: 
+
+React é um framework JavaScript criado pelo Facebook (atual Meta) que é usado para criar interfaces de usuário (UI) em aplicativos web.
+
+### ASP.NET Core: 
+
+ASP.NET Core é uma estrutura da Web gratuita e de código aberto e sucessora do ASP.NET, desenvolvida pela Microsoft. É uma estrutura modular que roda tanto no .NET Framework completo, no Windows, quanto no .NET multiplataforma. 
