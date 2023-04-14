@@ -44,4 +44,14 @@ React é um framework JavaScript criado pelo Facebook (atual Meta) que é usado 
 
 ### ASP.NET Core: 
 
-ASP.NET Core é uma estrutura da Web gratuita e de código aberto e sucessora do ASP.NET, desenvolvida pela Microsoft. É uma estrutura modular que roda tanto no .NET Framework completo, no Windows, quanto no .NET multiplataforma. 
+ASP.NET Core é uma estrutura da Web gratuita e de código aberto e sucessora do ASP.NET, desenvolvida pela Microsoft. É uma estrutura modular que roda tanto no .NET Framework completo, no Windows, quanto no .NET multiplataforma.
+
+## IDE
+
+### Visual Studio Code: 
+
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. As ferramentas de debug permitem a utilização stepping, breakpoint e inspecionar variáveis. As ferramentas de controle de versão permitem a utilização de Git e Github.
+
+### Rider: 
+
+O JetBrains Rider é um IDE .NET entre plataformas baseado na plataforma IntelliJ e ReSharper. As ferramentas de debug permitem a utilização stepping, breakpoint e inspecionar variáveis. As ferramentas de controle de versão permitem a utilização de Git e GitHub.
