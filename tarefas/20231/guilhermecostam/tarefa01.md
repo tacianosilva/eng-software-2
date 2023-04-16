@@ -33,3 +33,6 @@ O projeto usará a linguagem C# para desenvolvimento de API's e Vue.js, um frame
 ## IDE
 Será utilizado o editor de texto VSCode em conjunto de extensões para auxiliar no desenvolvimento, debug e controle de versão. O editor será utilizado tanto para C# quanto para o Vue.JS
 
+## Tutorial Crud
+* Link: https://www.devmedia.com.br/crud-em-csharp-com-parametros/31043
+O tutorial demonstra como criar um crud em C#, ensinando a manipular paramêtros e a como usar o banco de dados MySQL para obter o resultado desejado do CRUD.
