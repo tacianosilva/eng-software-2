@@ -67,3 +67,8 @@ O tutorial ensina como criar um aplicativo web para realizar as operações bás
 ## Sobre Branches e Pull Request
 
 Branches permitem que diferentes partes do código sejam desenvolvidas separadamente, enquanto as pull requests permitem a revisão e feedback antes da incorporação das alterações na branch principal. Esses conceitos são essenciais para projetos de software colaborativos e garantem a qualidade do código final.
+
+## Sobre Versionamento Semântico
+
+O Versionamento Semântico é um padrão para nomear e numerar versões de software de forma consistente e previsível. Ele utiliza três números (X.Y.Z) para representar a versão, onde X indica mudanças incompatíveis, Y indica novas funcionalidades e Z indica correções de bugs. O uso do Versionamento Semântico permite que desenvolvedores e usuários possam entender facilmente as mudanças em cada versão e ajuda a garantir a compatibilidade entre diferentes versões do software.
+
