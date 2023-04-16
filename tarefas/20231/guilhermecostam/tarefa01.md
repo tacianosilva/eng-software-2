@@ -19,7 +19,7 @@ O sistema a ser desenvolvido tem como objetivo fornecer uma plataforma para faci
 
 * Link do Repositório: [link](https://github.com/guilhermecostam/coders_frontend)
 
-## Linguagem de Programação
+## Linguagem de Programação e Frameworks
 O projeto usará a linguagem C# para desenvolvimento de API's e Vue.js, um framework JavaScript, para auxiliar na criação de interfaces de usuário. 
 
 | Membro          | C#        | Vue.js    |
@@ -29,3 +29,7 @@ O projeto usará a linguagem C# para desenvolvimento de API's e Vue.js, um frame
 | João Vitor      | Iniciante | Iniciante |
 | Rusdrael Antony | Iniciante | Iniciante |
 | José Victor     | Iniciante | Bom       |
+
+## IDE
+Será utilizado o editor de texto VSCode em conjunto de extensões para auxiliar no desenvolvimento, debug e controle de versão. O editor será utilizado tanto para C# quanto para o Vue.JS
+
