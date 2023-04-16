@@ -47,3 +47,8 @@ E é aí que o GitFlow se encaixa, que em resumo é o fluxo de trabalho que foi 
 Versionamento semântico é uma maneira de adicionar padrões no versionamento de projetos de software.
 
 Criado para evitar o chamado “dependency hell”, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs, por exemplo.
+
+## Conventional Commits
+Os Conventional Commits é uma maneira de adicionar padrões nas mensagens de commits, por meio de uma convenção simples.
+
+Com base em um conjunto de regras, é utilizado para facilitar a identificação do conteúdo contido no commit, e deixando mais fácil a criação e integração de ferramentas automatizadas baseadas nessa especificação.
