@@ -63,3 +63,7 @@ O JetBrains Rider é um IDE .NET entre plataformas baseado na plataforma Intelli
 ### Resumo
 
 O tutorial ensina como criar um aplicativo web para realizar as operações básicas de criar, ler, atualizar e excluir informações em um banco de dados. Ele utiliza o Entity Framework Core para realizar a conexão com o banco de dados e aborda desde a configuração do ambiente até a implementação das funcionalidades, incluindo validação de entrada. 
+
+## Sobre Branches e Pull Request
+
+Branches permitem que diferentes partes do código sejam desenvolvidas separadamente, enquanto as pull requests permitem a revisão e feedback antes da incorporação das alterações na branch principal. Esses conceitos são essenciais para projetos de software colaborativos e garantem a qualidade do código final.
