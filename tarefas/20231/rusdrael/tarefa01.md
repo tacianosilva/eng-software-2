@@ -55,3 +55,11 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft p
 ### Rider: 
 
 O JetBrains Rider é um IDE .NET entre plataformas baseado na plataforma IntelliJ e ReSharper. As ferramentas de debug permitem a utilização stepping, breakpoint e inspecionar variáveis. As ferramentas de controle de versão permitem a utilização de Git e GitHub.
+
+## Tutorial de CRUD em C# ASP.NET
+
+[Link para o tutorial](https://www.youtube.com/watch?v=RgHGzrjD4v4&ab_channel=DevC%23)
+
+### Resumo
+
+O tutorial ensina como criar um aplicativo web para realizar as operações básicas de criar, ler, atualizar e excluir informações em um banco de dados. Ele utiliza o Entity Framework Core para realizar a conexão com o banco de dados e aborda desde a configuração do ambiente até a implementação das funcionalidades, incluindo validação de entrada. 
