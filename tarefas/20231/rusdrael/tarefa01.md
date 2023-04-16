@@ -72,3 +72,6 @@ Branches permitem que diferentes partes do código sejam desenvolvidas separadam
 
 O Versionamento Semântico é um padrão para nomear e numerar versões de software de forma consistente e previsível. Ele utiliza três números (X.Y.Z) para representar a versão, onde X indica mudanças incompatíveis, Y indica novas funcionalidades e Z indica correções de bugs. O uso do Versionamento Semântico permite que desenvolvedores e usuários possam entender facilmente as mudanças em cada versão e ajuda a garantir a compatibilidade entre diferentes versões do software.
 
+## Sobre Conventional Commits
+
+Conventional Commits é uma convenção de escrita de mensagens de commit que padroniza a forma como as mudanças são comunicadas em projetos de software. Isso ajuda a entender o propósito de cada commit e a automatizar tarefas como geração de changelogs. O uso do Conventional Commits pode melhorar a qualidade e eficiência do processo de desenvolvimento.
