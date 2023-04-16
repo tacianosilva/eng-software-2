@@ -4,7 +4,6 @@
 - guilherme.costa.134@ufrn.edu.br
 
 ## Coders
-
 O sistema a ser desenvolvido tem como objetivo fornecer uma plataforma para facilitar o encontro de estudantes e profissionais de tecnologia que buscam se aventurar em projetos reais, propostos por outros usuários, promovendo network e oportunidades para demonstrarem suas habilidades técnicas.
 
 
@@ -36,3 +35,10 @@ Será utilizado o editor de texto VSCode em conjunto de extensões para auxiliar
 ## Tutorial Crud
 * Link: https://www.devmedia.com.br/crud-em-csharp-com-parametros/31043
 O tutorial demonstra como criar um crud em C#, ensinando a manipular paramêtros e a como usar o banco de dados MySQL para obter o resultado desejado do CRUD.
+
+## Branches e Pull request 
+Os repositórios no GitHub funcionam como uma árvore, e as Branches são ramificações do seu projeto. A branch master (ou main), iniciada com a criação do projeto, é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+Pull Request são requisições da junção das ramificações do nosso projeto (branches) em outras branchs, na maioria das vezes a master, onde membros da equipe discutem e revisam as mudanças, podendo aceitar ou recusar a junção.
+
+E é aí que o GitFlow se encaixa, que em resumo é o fluxo de trabalho que foi citado acima. Isso permite que as mudanças sejam feitas de forma ordenada e com a devida revisão antes da mesclagem com o código principal.
