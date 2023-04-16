@@ -42,3 +42,8 @@ Os repositórios no GitHub funcionam como uma árvore, e as Branches são ramifi
 Pull Request são requisições da junção das ramificações do nosso projeto (branches) em outras branchs, na maioria das vezes a master, onde membros da equipe discutem e revisam as mudanças, podendo aceitar ou recusar a junção.
 
 E é aí que o GitFlow se encaixa, que em resumo é o fluxo de trabalho que foi citado acima. Isso permite que as mudanças sejam feitas de forma ordenada e com a devida revisão antes da mesclagem com o código principal.
+
+## Versionamento Semântico
+Versionamento semântico é uma maneira de adicionar padrões no versionamento de projetos de software.
+
+Criado para evitar o chamado “dependency hell”, tem o objetivo de evitar que atualizações de dependência quebrem o seu software indevidamente, enquanto permitindo que você tenha uma noção do status de estabilidade do software e possa identificar se uma nova versão possui apenas novos recursos ou se possui apenas correções de bugs, por exemplo.
