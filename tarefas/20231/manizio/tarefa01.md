@@ -80,3 +80,9 @@ Será utilizada a IDE Visual Studio Code para o desenvolvimento do projeto. uma 
 * [Vídeo](https://www.youtube.com/watch?v=RE72oSx5ivI&list=PLo7TNe_pEoMXb9GyzueM7516fOR0gPxNX)
 
 Nos vídeos acima, podemos acompanhar o desenvolvimento de uma aplicação fullstack utilizando reactJS e Django.
+
+### Branches:
+Branches no Git e GitHub são ramificações separadas do projeto inicial que permite múltiplos desenvolvedores a trabalhar em features ou correções distintas sem interferir um com o outro. São fáceis de criar, deletar e dar merge. No GitFlow, são modelos que as equipes devem seguir para organizar seu projeto. tem padrões de nome e funções para cada tipo: main, develop, feature, hotfix e release.
+
+### Pull Requests   
+Pull Requests proveem uma maneira de desenvolvedores colaborarem e revisarem o código de cada um antes de fazer o merge para a branch principal. Permitem discussões, feedback e melhorias no código. No GitFlow, um pull request é criado pelos desenvolvedores de suas respectivas branches para mesclar o código com a branch de desenvolvimento. A pull request é mesclada com a branch de desenvolvimento pelo gerente.
