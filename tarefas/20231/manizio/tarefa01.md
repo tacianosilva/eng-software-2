@@ -28,3 +28,30 @@
 ### Link do repositório:
 
 https://github.com/lucascantodev/SigDespensa.git
+
+### Linguagem: Javascript
+
+JavaScript é uma linguagem de programação que é comumente usada no desenvolvimento de aplicativos e sites para a web. Ela é executada no navegador do usuário e é usada para adicionar interatividade e funcionalidade dinâmica a uma página web. No contexto do desenvolvimento frontend, JavaScript é frequentemente usado para criar animações, efeitos visuais, manipular o conteúdo da página em tempo real, validar formulários e responder a eventos do usuário, como cliques em botões e teclas pressionadas. A linguagem suporta tanto a programação assíncrona como a síncrona e pode ser integrada facilmente a outras tecnologias da web, como HTML e CSS.
+
+### Domínio
+
+| Membro          | Domínio       | Experiência |
+| --------------- | ------------- | ----------- |
+| David Santos    | Iniciante | 1 ano       |
+| Isadora Stéfany | Iniciante | 6 meses       |
+| Italo Guilherme | Iniciante     | 6 meses     |
+| Lucas Canto     | Intermediário | 5 anos      |
+| Manoel Anízio   | Iniciante | 1 ano       |
+
+### Linguagem: Python
+Python é uma linguagem de programação interpretada, de alto nível e multiplataforma que é amplamente usada em diversos domínios, como ciência de dados, desenvolvimento web, automação de tarefas, inteligência artificial, entre outros. Uma das principais características do Python é sua sintaxe limpa e simples, o que facilita a leitura e escrita de código, além de torná-la uma linguagem fácil de aprender para programadores iniciantes. A linguagem oferece uma ampla gama de bibliotecas e frameworks para diversas finalidades, o que permite que os desenvolvedores criem aplicativos com rapidez e eficiência. Python é uma linguagem de programação versátil, acessível e eficiente que pode ser usada para uma ampla variedade de aplicativos
+
+### Domínio
+
+| Membro          | Domínio       | Experiência |
+| --------------- | ------------- | ----------- |
+| David Santos    | Intermediário | 4 anos      |
+| Isadora Stéfany | Iniciante     | 1 ano       |
+| Italo Guilherme | Intermediário | 2 anos      |
+| Lucas Canto     | Iniciante     | 1 ano       |
+| Manoel Anízio   | Intermediário | 5 anos      |
