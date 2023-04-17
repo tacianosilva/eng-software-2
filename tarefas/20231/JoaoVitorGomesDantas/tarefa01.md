@@ -36,3 +36,13 @@ O sistema a ser desenvolvido tem como objetivo fornecer uma plataforma para faci
 | João Vitor      |  Iniciante  |  Iniciante  |
 | Rusdrael Antony |  Iniciante  |  Iniciante  |
 | José Victor     |  Iniciante  |     Bom     |
+
+## Framework
+
+### React
+
+O **React** é um framework javascript criado pelo Facebook que permite a criação de aplicações web, usado principalmente para criação de interfaces com o usuário (UI) , frequentemente também usado em conjunto com o React Native para desenvolvimento de aplicações móveis nativas tanto para android quanto para ios.
+
+### ASP.NET Core
+
+ASP.NET Core é uma estrutura de software livre multiplataforma, de alto desempenho e de software livre para a criação de aplicativos modernos habilitados para nuvem e conectados à Internet, desenvolvida pela Microsoft e sucessora do ASP.NET.
