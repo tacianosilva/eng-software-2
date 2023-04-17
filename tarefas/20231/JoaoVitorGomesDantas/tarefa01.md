@@ -1,12 +1,14 @@
 # Tarefa 01 - Git e Github com Markdown
 
-* Nome: João Vitor Gomes Dantas
-* Github: [JoaoVitorGomesDantas](https://github.com/JoaoVitorGomesDantas)
-* E-mail: joao.vitor.dantas.085@ufrn.edu.br
+Nome: João Vitor Gomes Dantas
+
+Github: [JoaoVitorGomesDantas](https://github.com/JoaoVitorGomesDantas)
+
+E-mail: joao.vitor.dantas.085@ufrn.edu.br
 
 ## Projeto Coders
 
-Link para o repositório:  [https://github.com/guilhermecostam/coders_frontend](https://github.com/guilhermecostam/coders_frontend)
+Link para o repositório:  https://github.com/guilhermecostam/coders_frontend
 
 ### Descrição 
 
@@ -52,3 +54,21 @@ O **ASP.NET** Core é uma estrutura de software livre multiplataforma, de alto d
 ### Visual Studio Code
 
 O Visual Studio Code é um editor de código-fonte compativel para Windows, Linux e macOS. Ele possuir as ferramentas de debug que permitem a utilização stepping, breakpoint e inspecionar variáveis, além de oferecer algumas extensões que podem auxiliar no processo e ainda permitem a utilização de Git e Github para utilizar como ferramentas de controle de versão.
+
+## Tutorial para fazer um CRUD em C#
+
+Os links abaixo mostram como criar um CRUD (Create, Read, Update e Delete) básico utilizando a linguagem C#, o primeiro apresenta um tutorial básico e em seguida explica de forma mais avançada utilizando parâmetros, o segundo apresenta 4 vídeos pequenos mostrando o desenvolvimento de um CRUD em passo a passo.
+
+### CRUD em C# com parâmetros
+
+Link para tutorial: https://www.devmedia.com.br/crud-em-csharp-com-parametros/31043
+
+### CRUD simples em C# passo a passo
+
+Link para vídeo - CREATE: https://youtu.be/-6YI62Gq-N0
+
+Link para vídeo - READ: https://youtu.be/5A2jH_07S0Q
+
+Link para vídeo - UPDATE: https://youtu.be/UruR9uBSyYk
+
+Link para vídeo - DELETE: https://youtu.be/nZF2QwcZFYM
