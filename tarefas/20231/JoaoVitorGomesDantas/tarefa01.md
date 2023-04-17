@@ -72,3 +72,13 @@ Link para vídeo - READ: https://youtu.be/5A2jH_07S0Q
 Link para vídeo - UPDATE: https://youtu.be/UruR9uBSyYk
 
 Link para vídeo - DELETE: https://youtu.be/nZF2QwcZFYM
+
+## Branches e Pull requests (Merge Requests)
+
+### Branches
+
+As branches são ramificações do código principal para isolar o trabalho de desenvolvimento, permitindo que se desenvolva novos recursos, solucione a correção de erros e proponha novas ideias com segurança sem que possa afetar o código principal, proporcionando mais segurança para o desenvolvedor e diminuindo o riscos de erros projeto principal.
+
+### Pull Requests
+
+Um pull request é uma solicitação de pull que permite que você informe outras pessoas que estão participando do projeto sobre as alterações por push feitas em uma ramificação de um repositório, após a solicitação de pull é possível promover discursões e fazer revisões no código antes que sejam mescladas as modificações na ramificação master.
