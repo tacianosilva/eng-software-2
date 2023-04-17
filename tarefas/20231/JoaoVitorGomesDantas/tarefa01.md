@@ -6,7 +6,7 @@
 
 ## Projeto Coders
 
-[Link para o repositório](https://github.com/guilhermecostam/coders_frontend)
+Link para o repositório:  [https://github.com/guilhermecostam/coders_frontend](https://github.com/guilhermecostam/coders_frontend)
 
 ### Descrição 
 
@@ -45,4 +45,10 @@ O **React** é um framework javascript criado pelo Facebook que permite a criaç
 
 ### ASP.NET Core
 
-ASP.NET Core é uma estrutura de software livre multiplataforma, de alto desempenho e de software livre para a criação de aplicativos modernos habilitados para nuvem e conectados à Internet, desenvolvida pela Microsoft e sucessora do ASP.NET.
+O **ASP.NET** Core é uma estrutura de software livre multiplataforma, de alto desempenho e de software livre para a criação de aplicativos modernos habilitados para nuvem e conectados à Internet, desenvolvida pela Microsoft e sucessora do ASP.NET.
+
+## IDE 
+
+### Visual Studio Code
+
+O Visual Studio Code é um editor de código-fonte compativel para Windows, Linux e macOS. Ele possuir as ferramentas de debug que permitem a utilização stepping, breakpoint e inspecionar variáveis, além de oferecer algumas extensões que podem auxiliar no processo e ainda permitem a utilização de Git e Github para utilizar como ferramentas de controle de versão.
