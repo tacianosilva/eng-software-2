@@ -68,7 +68,3 @@ Front-End: ReactJS
 Back-End: Django
 
 Banco de dados: Postgres e Docker
-
-### IDE utilizada
-
-Será utilizada a IDE Visual Studio Code para o desenvolvimento do projeto, uma ferramenta amplamente usada em todo o mundo e que dispõe de muitas extensões. O Visual Studio Code possui uma guia para testes, na qual o código pode ser depurado, breakpoints adicionados e as funções verificadas para garantir a sua correção. Adicionalmente, há uma integração com o GitHub no Visual Studio Code, o que permite que o usuário realize commits, push, pull, merge e crie pull requests diretamente do software, oferecendo diversas vantagens e agilizando o processo de desenvolvimento.
