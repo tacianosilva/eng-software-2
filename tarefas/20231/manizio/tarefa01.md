@@ -86,3 +86,6 @@ Branches no Git e GitHub são ramificações separadas do projeto inicial que pe
 
 ### Pull Requests   
 Pull Requests proveem uma maneira de desenvolvedores colaborarem e revisarem o código de cada um antes de fazer o merge para a branch principal. Permitem discussões, feedback e melhorias no código. No GitFlow, um pull request é criado pelos desenvolvedores de suas respectivas branches para mesclar o código com a branch de desenvolvimento. A pull request é mesclada com a branch de desenvolvimento pelo gerente.
+
+### Versionamento Semântico 
+O Versionamento Semântico refere-se a um conjunto de diretrizes e convenções que explicam como os números de versão de um software são atribuídos. Em resumo, ele descreve a quantidade e o tipo de mudanças feitas em uma nova versão de software e se essas mudanças são compatíveis ou incompatíveis com a versão anterior.
