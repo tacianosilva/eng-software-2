@@ -90,3 +90,7 @@ Pull Request (PR) no Git é uma solicitação de mesclagem de alterações de um
 ### Versionamento Semântico
 
 O Versionamento Semântico é um conjunto de diretrizes e características que indicam como os números das versões de um software foram criados. Isso significa que ele mostra a quantidade de mudanças pelas quais o software passou e quais modificações foram compatíveis ou incompatíveis com a versão anterior. Em suma, o Versionamento Semântico estabelece regras para o gerenciamento adequado das versões de um software.
+
+### Conventional Commits
+
+O Conventional Commit adota uma convenção simples para as mensagens de commit, o que permite aos revisores de código identificarem o objetivo do commit de forma imediata. Ele utiliza palavras-chave, como "fix", para solucionar problemas ou bugs, "feat" para adicionar novas funcionalidades, "docs" para mudanças na documentação e "test" para commits de testes.
