@@ -78,3 +78,11 @@ Será utilizada a IDE Visual Studio Code para o desenvolvimento do projeto, uma 
 * [Vídeo](https://www.youtube.com/watch?v=RE72oSx5ivI&list=PLo7TNe_pEoMXb9GyzueM7516fOR0gPxNX)
 
 Nos vídeos acima, podemos acompanhar o desenvolvimento de uma aplicação fullstack utilizando reactJS  e Django.
+
+### Branche:
+
+Em Git e GitHub, as branches permitem que os desenvolvedores trabalhem em diferentes funcionalidades ou correções de bugs, sem prejudicar o trabalho dos outros colaboradores. Elas são ramificações independentes do projeto original e podem ser facilmente criadas, excluídas ou combinadas. No modelo GitFlow, as branches seguem um padrão específico e devem ser utilizadas pelas equipes para manter uma estrutura organizada do projeto. Cada tipo de branch, como main, develop, feature, hotfix e release, possui um nome e uma função bem definidos, com o objetivo de garantir a segurança e a eficiência do processo de desenvolvimento.
+
+### Pull Request:
+
+Pull Request (PR) no Git é uma solicitação de mesclagem de alterações de uma branch para outra. Ele permite que os desenvolvedores enviem suas alterações de código para revisão por outros membros da equipe, para garantir a qualidade e a consistência do código antes de ser mesclado na branch principal. O PR inclui uma descrição detalhada do que foi alterado, permitindo que os revisores possam entender as mudanças e fazer comentários ou sugestões. Uma vez que as alterações são revisadas e aprovadas, elas são mescladas na branch de destino. O PR é uma ferramenta importante para o controle de qualidade do código e ajuda a manter o código estável e confiável. No GitFlow, Pull Request (PR) é uma solicitação de mesclagem de alterações de uma branch para outra, que é aberta quando uma nova funcionalidade ou correção de bug é finalizada em uma branch feature ou hotfix. O PR permite que os desenvolvedores enviem suas alterações de código para revisão pelos membros da equipe. O PR inclui uma descrição detalhada do que foi alterado, permitindo que os revisores entendam as mudanças e façam comentários ou sugestões. Após a revisão, as alterações são mescladas na branch de destino e, em seguida, a branch feature ou hotfix é excluída. 
