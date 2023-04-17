@@ -55,3 +55,17 @@ Python é uma linguagem de programação interpretada, de alto nível e multipla
 | Italo Guilherme | Intermediário | 2 anos      |
 | Lucas Canto     | Iniciante     | 1 ano       |
 | Manoel Anízio   | Intermediário | 5 anos      |
+
+
+### Framework:
+
+No Frontend vamos utilizar a biblioteca gratuita ReactJS para criar interfaces por meio de componentes, que é mantido pelo Meta. O React pode ser aplicado como base para desenvolver single-page, mobile e server-rendered. No Backend será utilizado o Django devido a sua comunidade fortemente ativa e algumas bibliotecas e ferramentas que ajudam na implementação de funcionalidades comuns, como autenticação de usuários, administração de conteúdo e gerenciamento de sessões. Com o Django, é possível construir back-ends robustos e flexíveis
+
+
+### Tecnologias
+
+* Front-End: ReactJS
+
+* Back-End: Django
+
+* Banco de dados: PostgreSQL e Docker
