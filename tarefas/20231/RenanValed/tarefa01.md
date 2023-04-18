@@ -29,3 +29,12 @@ ReactJs é um framework com base em javascript voltado para criação de interfa
 ### DjangoREST
 
 O DjangoREST é uma biblioteca do Django que ajuda a construir APIs RESTful de forma simples e eficiente. Algumas das vantagens são: a facilidade na criação de APIs, o suporte embutido para autenticação e autorização, a manipulação fácil de dados serializados e a integração perfeita com outros componentes do Django, como o ORM e o sistema de autenticação.
+
+## IDE(Integrated Development Environment)
+### Visual Studio
+É um ambiente de desenvolvimento integrado desenvolvido pela Microsoft. Principais características incluem suporte a diversas linguagens de programação, depuração integrada, controle de versão, gerenciamento de pacotes e bibliotecas, bem como ferramentas para teste de código e análise de desempenho.
+
+#### Ferramentas de debug e controle de versão da IDE
+* A ferramenta de debug integrada ajuda os desenvolvedores a encontrar e corrigir erros em seu código com facilidade,e tamém, os desenvolvedores definam pontos de interrupção e inspecionem variáveis em tempo real, bem como acompanhem a execução do código linha por linha.
+
+* Possui integração nativa com vários sistemas de controle de versão, como o Git, SVN e Mercurial. Isso permite que os desenvolvedores gerenciem seus projetos de maneira eficiente, rastreiem alterações no código, revertam alterações e resolvam conflitos.
