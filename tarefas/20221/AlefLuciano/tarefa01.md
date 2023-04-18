@@ -38,3 +38,18 @@ Django é um framework para desenvolvimento rápido para web, escrito em Python,
 
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele é customizável, permitindo que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.
 
+### Controle de Versões
+
+O Visual Studio Code integrou o gerenciamento de controle de origem (SCM) e inclui suporte ao Git pronto para uso. Muitos outros provedores de controle de origem estão disponíveis por meio de extensões no VS Code Marketplace.
+
+* * *
+
+## Tutorial CRUD
+
+* Link: https://youtube.com/playlist?list=PL8rp8Q_tOmSP9zycKLIHK-jTcBXzrj1_W
+
+No primeiro video da playlist sobre o crud, foi apresentado a estrutura básica de um crud como:
+Inserir, editar e excluir. E também foi apresentado um pouco sobre template.
+
+* * *
+
