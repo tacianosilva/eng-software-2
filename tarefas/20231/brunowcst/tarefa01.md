@@ -22,12 +22,15 @@ Marcelo Vitor | Desenvolvedor Front-end, UX/UI | Desenvolvedor |
 
 ## Linguagens de programação:
 ### Python
-    A equipe possui um domínio intermediário em python, tendo conhecimento por meio de alguns projetos, participado/assistido cursos e pela própria disciplina de ALP que utilizou python como linguagem base.
-    Caso surjam dúvidas durante a construção do projeto, pode ser utilizado os materiais de apoio organizados pela própria equipe. 
+
+A equipe possui um domínio intermediário em python, tendo conhecimento por meio de alguns projetos, participado/assistido cursos e pela própria disciplina de ALP que utilizou python como linguagem base.
+Caso surjam dúvidas durante a construção do projeto, pode ser utilizado os materiais de apoio organizados pela própria equipe. 
 
 ## Frameworks:
 ### ReactJs
-    ReactJs é um framework com base em javascript voltado para criação de interfaces com o usuário(front-end), em que sua grande caracteristica é criar componentes reutilizáveis. Essa componentização permite o reaproveitamento de conteúdos e possibilita a criação de sites bem otimizados.
+
+ReactJs é um framework com base em javascript voltado para criação de interfaces com o usuário(front-end), em que sua grande caracteristica é criar componentes reutilizáveis. Essa componentização permite o reaproveitamento de conteúdos e possibilita a criação de sites bem otimizados.
 
 ### DjangoREST
-    DjangoREST é uma biblioteca do Django para construir APIs RESTful. Vantagens: incluem a facilidade de criação de APIs RESTful, o suporte embutido a autenticação e autorização, a manipulação fácil de dados serializados, e a boa integração com outros componentes do Django, como o ORM e o sistema de autenticação.
+
+DjangoREST é uma biblioteca do Django para construir APIs RESTful. Vantagens: incluem a facilidade de criação de APIs RESTful, o suporte embutido a autenticação e autorização, a manipulação fácil de dados serializados, e a boa integração com outros componentes do Django, como o ORM e o sistema de autenticação.
