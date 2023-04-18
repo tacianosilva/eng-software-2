@@ -60,3 +60,8 @@ Um Pull request (ou PR) é uma solicitação de alteração (por push) em uma br
 [Leia mais](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests?platform=linux) sobre pull request nessa documentação.
 
 ## Versionamento Semântico
+
+O versionamento semântico é uma convenção para atribuição de versões de software que segue um conjunto de regras e padrões bem definidos. Essa convenção é baseada em um número de versão composto por três partes principais (major.minor.patch)
+
+A primeira parte (major) é usada para indicar mudanças incompatíveis na API do software, a segunda parte (minor) é usada para indicar novas funcionalidades ou melhorias que não quebram a compatibilidade com versões anteriores, e a terceira parte (patch) é usada para indicar correções de bugs ou outras alterações que não afetam a compatibilidade. Além disso, o versionamento semântico também inclui pré-lançamentos (como alfa e beta) e metadados opcionais para fornecer informações adicionais sobre a versão do software.
+
