@@ -82,3 +82,9 @@ As branches são ramificações do código principal para isolar o trabalho de d
 ### Pull Requests
 
 Um pull request é uma solicitação de pull que permite que você informe outras pessoas que estão participando do projeto sobre as alterações por push feitas em uma ramificação de um repositório, após a solicitação de pull é possível promover discursões e fazer revisões no código antes que sejam mescladas as modificações na ramificação master.
+
+## Versionamento Semântico
+
+### Sobre 
+
+O versionamento semântico é um conjunto de regras e requerimentos para atribuição de versão de um código. Ou seja, ele mostra a quantidade de mudanças pelas quais o software passou e quais alterações foram compatíveis e incompatíveis com a versão anterior do código, possibilitando aos desenvolvedores e usuários a garantia de uma compatibilidade melhor. Para representar uma versão ele utiliza três dígitos (Exemplo: Versão 1.0.1), o primeiro dígito é o Major e representa a versão de compatibilidade, ou seja, é alterado caso o software sofra mudanças que torne incompatível com outras versões, o segundo dígito é o Minor e representa uma nova função ou uma melhoria substancial adicionada e o terceiro dígito é o Patch que representa a versão de correções de bugs, melhorias de desempenho ou alterações similares.
