@@ -16,9 +16,9 @@ Sistema para controle de caixa e gerenciamento de estoque simplificado.
 
 **Equipe:**
 
-* [Adriel Faria dos Santos](https://github.com/br-adriel); 
-* [Alef Luciano Silva](https://github.com/AlefLuciano);
-* [Bianca Laise Medeiros Cassiano](https://github.com/biancamdros);
+* [Adriel Faria dos Santos](https://github.com/br-adriel)
+* [Alef Luciano Silva](https://github.com/AlefLuciano)
+* [Bianca Laise Medeiros Cassiano](https://github.com/biancamdros)
 * [Cintia Campos de Queiroz](https://github.com/cintiacq)
 * [Guilherme Angelo de Medeiros](https://github.com/GuilhermeAngelo)
 * [Hilário Petronio de Medeiros Dantas](https://github.com/hilariodantas)
