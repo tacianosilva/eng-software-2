@@ -43,3 +43,7 @@ DjangoREST é uma biblioteca do Django para construir APIs RESTful. Vantagens: i
 * A ferramenta de debug integrada ajuda os desenvolvedores a encontrar e corrigir erros em seu código com facilidade,e tamém, os desenvolvedores definam pontos de interrupção e inspecionem variáveis em tempo real, bem como acompanhem a execução do código linha por linha.
 
 * Possui integração nativa com vários sistemas de controle de versão, como o Git, SVN e Mercurial. Isso permite que os desenvolvedores gerenciem seus projetos de maneira eficiente, rastreiem alterações no código, revertam alterações e resolvam conflitos.
+
+## CRUD
+Em python: [Acessar](https://www.youtube.com/watch?v=_q3j25ACmQ4&t=5s&pp=ygUOY3J1ZCBlbSBweXRob24%3D)
+Criação de um CRUD ja comunicado direto com o banco de dados.
