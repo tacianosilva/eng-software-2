@@ -35,3 +35,14 @@ O REPy é um Sistema de Registro Eletrônico de Pontos, baseado nos sistemas REP
 ## IDE utilizada
 
 Será utilizada a IDE Visual Studio Code ([VsCode](https://code.visualstudio.com/)) como principal ferramenta de desenvolvimento. Como ferramenta de debug, a equipe utilizará os próprios recursos da plataforma e analisará a utilização de outras, caso necessário. No controle de versão, o [Git](https://git-scm.com/) será a principal ferramenta de controle e gerenciamento de versões, além do [GitHub](https://github.com/), para acompanhamento de tarefas e tasks.
+
+## Tutorial CRUD com FRD (Django Rest Framework)
+
+[Tutorial](https://www.geeksforgeeks.org/django-rest-api-crud-with-drf/)
+
+Esse tutorial da Geeksforgeeks é bem curtinho e interessante, pois mostra que podemos fazer operações CRUD através de APIs REST. O tutotial aborda desde a instalação do django até a exemplificação da criação de uma API simples para um aplicativo de supermercado. 
+Dentro do tutorial é abordado a **serialização**, que nada mais é do que a conversão de objetos para o tipo de dado utilizado na web e frameworks front-end (JSON).
+
+O tutorial aborda, ainda, a criação de **views** (visualização) dos dados. Essa ação é necessária para a renderização dos dados e construção das nossas ações de **GET** e **POTS** da nossa API.
+
+Ao final do tutorial, um link muito interessante que poderá ajudar o grupo, na integração do Django REST Framework com a nossa tecnologia utilizada no front-end (ReactJs). [Integrating Django with Reactjs using Django REST Framework](https://www.geeksforgeeks.org/integrating-django-with-reactjs-using-django-rest-framework/?ref=rp)
