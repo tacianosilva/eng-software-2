@@ -46,3 +46,17 @@ Dentro do tutorial é abordado a **serialização**, que nada mais é do que a c
 O tutorial aborda, ainda, a criação de **views** (visualização) dos dados. Essa ação é necessária para a renderização dos dados e construção das nossas ações de **GET** e **POTS** da nossa API.
 
 Ao final do tutorial, um link muito interessante que poderá ajudar o grupo, na integração do Django REST Framework com a nossa tecnologia utilizada no front-end (ReactJs). [Integrating Django with Reactjs using Django REST Framework](https://www.geeksforgeeks.org/integrating-django-with-reactjs-using-django-rest-framework/?ref=rp)
+
+## Branches & Pull request
+
+### Branches
+Uma branch é uma **ramificação** de um repositório; Nessa ramificação, poderá ser feita alterações em documentos e diretórios, sem afetar o diretório principal (ou branch principal). O ato de criar uma branch é saudável e essencial para o desenvolvimento de softwares, pois permite o gerenciamento de atividades e o desenvolvimento paralelo entre contribuintes de um mesmo projeto.
+
+Você pode aprender mais sobre Git [nesse link](https://git-scm.com/docs/gittutorial).
+
+### Pull request
+Um Pull request (ou PR) é uma solicitação de alteração (por push) em uma branch no Github. Em um PR, você pode revisar, comentar e discutir os pontos que foram alterados na branch em questão. Além disso, quando da aceitação do PR, o conteúdo modificado poderá ser mesclado nessa branch.
+
+[Leia mais](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests?platform=linux) sobre pull request nessa documentação.
+
+## Versionamento Semântico
