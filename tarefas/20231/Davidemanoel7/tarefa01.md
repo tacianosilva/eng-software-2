@@ -65,3 +65,10 @@ O versionamento semântico é uma convenção para atribuição de versões de s
 
 A primeira parte (major) é usada para indicar mudanças incompatíveis na API do software, a segunda parte (minor) é usada para indicar novas funcionalidades ou melhorias que não quebram a compatibilidade com versões anteriores, e a terceira parte (patch) é usada para indicar correções de bugs ou outras alterações que não afetam a compatibilidade. Além disso, o versionamento semântico também inclui pré-lançamentos (como alfa e beta) e metadados opcionais para fornecer informações adicionais sobre a versão do software.
 
+## Conventional Commits
+Basicamente trata-se de uma convensão simples utilizada nas mensagens de commits. Essa convensão se relaciona com o versinamento semântico uma vez que estabelesce padrões de commits para o versionamento do software. Por exempplo:
+- **fix**: um commit do tipo fix soluciona um problema na sua base de código (isso se correlaciona com PATCH do versionamento semântico).
+- **feat**: um commit do tipo feat inclui um novo recurso na sua base de código (isso se correlaciona com MINOR do versionamento semântico).
+- **BREAKING CHANGE**: um commit que contém no rodapé opcional o texto BREAKING CHANGE:, ou contém o símbolo ! depois do tipo/escopo, introduz uma modificação que quebra a compatibilidade da API (isso se correlaciona com MAJOR do versionamento semântico).
+
+Além desses, outros padrões podem ser utilizados dado um contexto. Por exemplo: build:, chore:, ci:, docs:, style:, refactor:, perf:, test:.
