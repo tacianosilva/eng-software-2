@@ -18,3 +18,6 @@ David Santos | Desenvolvedor Back-end, API REST (django) | Desenvolvedor |
 Renan vale | Product Manager, Dev. python, Dev. C | Gerente, Desenvolvedor |
 Marcelo Vitor | Desenvolvedor Front-end, UX/UI | Desenvolvedor |
 
+## Linguagens de programação:
+### Python
+    A equipe possui um conhecimento intermediário em Python, adquirido através de projetos realizados, cursos assistidos e da disciplina de ALP, que utilizou Python como linguagem base. Caso surjam dúvidas durante a construção do projeto, a equipe pode utilizar materiais de apoio previamente organizados para auxiliar no desenvolvimento.
