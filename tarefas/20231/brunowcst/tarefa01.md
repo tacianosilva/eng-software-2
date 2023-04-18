@@ -47,3 +47,7 @@ DjangoREST é uma biblioteca do Django para construir APIs RESTful. Vantagens: i
 ## CRUD
 Em python: [Acessar](https://www.youtube.com/watch?v=_q3j25ACmQ4&t=5s&pp=ygUOY3J1ZCBlbSBweXRob24%3D)
 Criação de um CRUD ja comunicado direto com o banco de dados.
+
+## Branchs e Pull Request 
+* Branch: basicamente é uma ramificação no git, serve como um ponteiro para alterações feitas no projeto. Muito útil em situações que você deseja adicionar um novo recurso ou corrigir erros, pois gera uma nova ramificação na qual o código em atualização não seja mesclado nos arquivos do projeto principal.
+* Pull Request: trata-se de uma solicitação para integrar seu trabalho finalizado em uma ramificação do projeto no ramo principal, geralmente na "main".
