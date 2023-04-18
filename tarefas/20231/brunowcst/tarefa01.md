@@ -24,12 +24,12 @@ Marcelo Vitor | Desenvolvedor Front-end, UX/UI | Desenvolvedor |
 ### Python
 
 A equipe possui um domínio intermediário em python, tendo conhecimento por meio de alguns projetos, participado/assistido cursos e pela própria disciplina de ALP que utilizou python como linguagem base.
-Caso surjam dúvidas durante a construção do projeto, pode ser utilizado os materiais de apoio organizados pela própria equipe. 
+Caso surjam dúvidas durante a construção do projeto, pode ser utilizado materiais de apoio organizados pela própria equipe. 
 
 ## Frameworks:
 ### ReactJs
 
-ReactJs é um framework com base em javascript voltado para criação de interfaces com o usuário(front-end), em que sua grande caracteristica é criar componentes reutilizáveis. Essa componentização permite o reaproveitamento de conteúdos e possibilita a criação de sites bem otimizados.
+ReactJs é um framework com base em javascript voltado para criação de interfaces com o usuário(front-end), em que sua grande característica é criar componentes reutilizáveis. Essa componentização permite o reaproveitamento de conteúdos e possibilita a criação de sites bem otimizados.
 
 ### DjangoREST
 
@@ -51,3 +51,6 @@ Criação de um CRUD ja comunicado direto com o banco de dados.
 ## Branchs e Pull Request 
 * Branch: basicamente é uma ramificação no git, serve como um ponteiro para alterações feitas no projeto. Muito útil em situações que você deseja adicionar um novo recurso ou corrigir erros, pois gera uma nova ramificação na qual o código em atualização não seja mesclado nos arquivos do projeto principal.
 * Pull Request: trata-se de uma solicitação para integrar seu trabalho finalizado em uma ramificação do projeto no ramo principal, geralmente na "main".
+
+## Versionamento semântico
+Trata-se de um padrão de regras para manter um acompanhamento de versões no ato de desenvolvimento. Também, é uma convenção de numeração de versão de software que tem como objetivo fornecer clareza e consistência ao gerenciar as versões de um projeto.
