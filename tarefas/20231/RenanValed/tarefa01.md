@@ -38,3 +38,9 @@ O DjangoREST é uma biblioteca do Django que ajuda a construir APIs RESTful de f
 * A ferramenta de debug integrada ajuda os desenvolvedores a encontrar e corrigir erros em seu código com facilidade,e tamém, os desenvolvedores definam pontos de interrupção e inspecionem variáveis em tempo real, bem como acompanhem a execução do código linha por linha.
 
 * Possui integração nativa com vários sistemas de controle de versão, como o Git, SVN e Mercurial. Isso permite que os desenvolvedores gerenciem seus projetos de maneira eficiente, rastreiem alterações no código, revertam alterações e resolvam conflitos.
+
+##Exemplo de aplicaçao CRUD emm python
+
+Este tutorial, mostra como relacionar a tecnologia de Python com o MySQL. Exibindo: inicializaçao de conexão com o BD, o envio de dados(INESERT), a requisição de dados (READ), a atualizaçao de um campo na tabela e a excusão de um dado existente no BD. 
+Além de, na descriçao deixar um link para outro vídeo que mostra como integrar o CRUD em botões.
+- [Ir para vídeo](https://www.youtube.com/watch?v=_q3j25ACmQ4)
