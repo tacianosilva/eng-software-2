@@ -58,3 +58,20 @@ O Laravel é um framework PHP popular e poderoso que oferece facilidade de uso, 
 * Segurança: O Laravel possui recursos de segurança embutidos, como proteção contra ataques CSRF e XSS, tornando os aplicativos mais seguros por padrão.
 
 * Comandos de linha de comando: O Laravel oferece uma ampla gama de comandos de linha de comando úteis, facilitando a execução de tarefas comuns de desenvolvimento.
+
+## IDE
+### Visual Studio Code
+
+O Visual Studio Code é um editor de código que ajuda os programadores a escreverem seus códigos de maneira mais fácil e eficiente. Ele possui uma interface simples e limpa, mas com recursos avançados que permitem personalização e adaptação às necessidades de cada usuário. Tendo opções de baixar extensões, realizar o debug e tem integração com ferramentas de controle de versão, como o Git. Ou seja de formos listar os beneficios de utiliza-lo, teremos como vantagens:
+
+* Multiplataforma: Pode ser executado em várias plataformas, incluindo Windows, macOS e Linux.
+
+* Compatibilidade com várias linguagens de programação: É compatível com uma grande variedade de linguagens de programação, incluindo JavaScript, Python, PHP, C++, entre outras.
+
+* Extensibilidade: Possui uma ampla variedade de extensões e plugins que permitem aos usuários adicionar recursos e funcionalidades ao editor de acordo com suas necessidades.
+
+* Integração com Git: O VSCode é integrado com o Git, uma ferramenta de controle de versão amplamente utilizada, permitindo que os usuários gerenciem seus projetos de forma eficiente e colaborativa.
+
+* Depuração integrada: Oferece suporte à depuração integrada, permitindo aos usuários depurar o código diretamente no editor.
+
+* Performance: É um editor leve e rápido, que permite aos usuários trabalhar em projetos grandes sem comprometer a performance.
