@@ -21,3 +21,11 @@ Marcelo Vitor | Desenvolvedor Front-end, UX/UI | Desenvolvedor |
 ## Linguagens de programação:
 ### Python
     A equipe possui um conhecimento intermediário em Python, adquirido através de projetos realizados, cursos assistidos e da disciplina de ALP, que utilizou Python como linguagem base. Caso surjam dúvidas durante a construção do projeto, a equipe pode utilizar materiais de apoio previamente organizados para auxiliar no desenvolvimento.
+
+## Frameworks:
+### ReactJs
+ReactJs é um framework com base em javascript voltado para criação de interfaces com o usuário(front-end), em que sua grande caracteristica é criar componentes reutilizáveis. Essa componentização permite o reaproveitamento de conteúdos e possibilita a criação de sites bem otimizados.
+
+### DjangoREST
+
+O DjangoREST é uma biblioteca do Django que ajuda a construir APIs RESTful de forma simples e eficiente. Algumas das vantagens são: a facilidade na criação de APIs, o suporte embutido para autenticação e autorização, a manipulação fácil de dados serializados e a integração perfeita com outros componentes do Django, como o ORM e o sistema de autenticação.
