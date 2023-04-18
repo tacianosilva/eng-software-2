@@ -37,3 +37,24 @@ José Pereira   | Iniciante     | 2 ano
 Vitor Daniel  | Expert | 5 anos
 Ketlly Azevedo  | Iniciante | 1 ano
 Hugo Muriely | Iniciante     | Agora
+
+## Framework
+### Laravel
+
+O Laravel é um framework PHP popular e poderoso que oferece facilidade de uso, arquitetura MVC, ferramentas integradas, comunidade ativa, extensibilidade, performance, segurança e comandos de linha de comando, tornando-o uma escolha popular para o desenvolvimento web em PHP.
+
+* Facilidade de uso: O Laravel tem uma sintaxe elegante e expressiva que torna o desenvolvimento web em PHP mais fácil e produtivo.
+
+* Arquitetura MVC: O Laravel segue o padrão de arquitetura MVC, o que ajuda a criar código organizado e escalável.
+
+* Ferramentas integradas: O Laravel vem com muitas ferramentas úteis embutidas, como roteamento, ORM para bancos de dados, autenticação de usuários e muito mais.
+
+* Comunidade ativa: O Laravel possui uma comunidade ativa e prestativa de desenvolvedores ao redor do mundo, oferecendo ampla documentação, tutoriais e suporte.
+
+* Extensibilidade: O Laravel é altamente extensível, permitindo que os desenvolvedores adicionem facilmente novas funcionalidades ao seu aplicativo com o uso de pacotes e bibliotecas.
+
+* Performance: O Laravel é conhecido por seu desempenho e otimização, o que o torna uma escolha sólida para aplicativos web de alto desempenho.
+
+* Segurança: O Laravel possui recursos de segurança embutidos, como proteção contra ataques CSRF e XSS, tornando os aplicativos mais seguros por padrão.
+
+* Comandos de linha de comando: O Laravel oferece uma ampla gama de comandos de linha de comando úteis, facilitando a execução de tarefas comuns de desenvolvimento.
