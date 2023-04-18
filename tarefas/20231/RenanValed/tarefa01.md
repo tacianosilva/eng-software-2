@@ -44,3 +44,30 @@ O DjangoREST é uma biblioteca do Django que ajuda a construir APIs RESTful de f
 Este tutorial, mostra como relacionar a tecnologia de Python com o MySQL. Exibindo: inicializaçao de conexão com o BD, o envio de dados(INESERT), a requisição de dados (READ), a atualizaçao de um campo na tabela e a excusão de um dado existente no BD. 
 Além de, na descriçao deixar um link para outro vídeo que mostra como integrar o CRUD em botões.
 - [Ir para vídeo](https://www.youtube.com/watch?v=_q3j25ACmQ4)
+
+### Branches e Pull Request com GitFlow
+
+O GitFlow é uma metodologia de desenvolvimento de software que utiliza o Git como sistema de controle de versão. Ele define um fluxo de trabalho para gerenciar as branches e pull requests em projetos colaborativos.
+
+## Branches principais
+
+O GitFlow propõe a criação de duas branches principais:
+
+- **Master**: contém o código estável e pronto para ser lançado.
+- **Develop**: onde as novas funcionalidades são desenvolvidas e testadas antes de serem integradas à branch master.
+
+### Branches secundárias
+
+Além das branches principais, o GitFlow sugere a criação de outras branches secundárias:
+
+- **Feature**: para desenvolvimento de novas funcionalidades.
+- **Hotfix**: para correção rápida de bugs.
+- **Release**: para preparação da próxima versão do software.
+
+### Pull Request
+
+Quando uma nova funcionalidade é desenvolvida na branch feature, por exemplo, ela deve passar por testes locais antes de ser enviada para revisão através do pull request. O pull request é uma solicitação para que os outros membros da equipe revisem o código e deem feedbacks antes da integração com a branch develop.
+
+Após a revisão e aprovação do pull request, a nova funcionalidade pode ser integrada à branch develop. Quando a branch develop estiver pronta para ser lançada em produção, ela pode ser mesclada com a branch master através do pull request.
+
+Em resumo, o GitFlow é uma metodologia eficiente para gerenciar as branches e pull requests em projetos colaborativos utilizando o Git e o GitHub. Ele ajuda a manter um fluxo organizado e seguro para o desenvolvimento do software.
