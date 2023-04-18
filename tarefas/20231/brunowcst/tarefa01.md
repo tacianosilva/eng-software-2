@@ -54,3 +54,6 @@ Criação de um CRUD ja comunicado direto com o banco de dados.
 
 ## Versionamento semântico
 Trata-se de um padrão de regras para manter um acompanhamento de versões no ato de desenvolvimento. Também, é uma convenção de numeração de versão de software que tem como objetivo fornecer clareza e consistência ao gerenciar as versões de um projeto.
+
+## Conventional Commits 
+Convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Em resumo, estabelece padrões ou regras para os commits.
