@@ -84,3 +84,15 @@ Esse processo continua até que todos os comentários sejam resolvidos.
 Depois que todas as discussões são resolvidas, o código é mesclado com a ramificação que foi selecionada quando a solicitação pull foi criada
 
 * * *
+
+### Versionamento Semântico
+
+O Versionamento Semântico é uma abordagem de numeração de versões de software que utiliza um conjunto de regras e convenções para definir de forma clara e padronizada a evolução das versões de um programa. Essa metodologia foi criada com o objetivo de facilitar a compreensão e a comunicação entre desenvolvedores, usuários e outras partes interessadas no software.
+
+* * * 
+
+### Conventional Commits (Convenções para Mensagens de Commits) 
+
+Conventional Commits é uma especificação para criar mensagens de commit de maneira consistente e padronizada. A ideia é que, seguindo um padrão bem definido, a mensagem do commit seja mais informativa e facilite a compreensão das mudanças realizadas no código.
+
+As mensagens de commit seguem uma estrutura composta por três partes: o tipo, o escopo e a descrição. O tipo pode ser um dos seguintes: feat (nova funcionalidade), fix (correção de bug), docs (atualização de documentação), style (formatação de código), refactor (refatoração de código), test (adição ou modificação de testes), chore (mudanças que não afetam o código, como configurações) ou revert (reversão de um commit anterior).
