@@ -85,6 +85,12 @@ Um pull request é uma solicitação de pull que permite que você informe outra
 
 ## Versionamento Semântico
 
-### Sobre 
+### Resumo
 
 O versionamento semântico é um conjunto de regras e requerimentos para atribuição de versão de um código. Ou seja, ele mostra a quantidade de mudanças pelas quais o software passou e quais alterações foram compatíveis e incompatíveis com a versão anterior do código, possibilitando aos desenvolvedores e usuários a garantia de uma compatibilidade melhor. Para representar uma versão ele utiliza três dígitos (Exemplo: Versão 1.0.1), o primeiro dígito é o Major e representa a versão de compatibilidade, ou seja, é alterado caso o software sofra mudanças que torne incompatível com outras versões, o segundo dígito é o Minor e representa uma nova função ou uma melhoria substancial adicionada e o terceiro dígito é o Patch que representa a versão de correções de bugs, melhorias de desempenho ou alterações similares.
+
+## Conventional Commits
+
+### Resumo
+
+O conventional commits é uma convenção simples de uma mensagens de commit, que segue um conjunto de regras e que ajuda os projetos a terem um histórico de commit explícito e bem estruturado. Os benefícios de utilizar essa convenção é poder automatizar a criação de changelogs, facilitar a nova entrada de devs no projeto e poder gerar relatórios e conseguir entender onde está se concentrado as horas do projeto.
