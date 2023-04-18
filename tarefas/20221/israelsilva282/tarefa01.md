@@ -54,3 +54,21 @@ Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para
 ### CRUD - Tutorial
 
 - [Playlist CRUD Tutorial - PHP, Laravel](https://www.youtube.com/playlist?list=PLvZ08PHyHqDn1W1PKxpPIS7Bw0JqoRtB-)
+
+## Branches e Pull Request
+
+**branches**
+
+No Git, um branch é uma referência móvel e leve para um dos commits do seu projeto. O branch principal do Git é chamado de "master". Ao realizar um commit, o branch "master" é atualizado para apontar para o commit mais recente que foi realizado. Assim, a medida que você realiza mais commits, o branch "master" se move automaticamente para apontar para o commit mais recente.
+
+**Pull Request**
+
+As pull requests permitem que você informe outras pessoas sobre as alterações das quais você fez push para um branch em um repositório no GitHub. Depois que uma pull request é aberta, você pode discutir e revisar as possíveis alterações com colaboradores e adicionar commits de acompanhamento antes que as alterações sofram merge no branch base.
+
+## Versionamento Semântico
+
+O versionamento semântico é um conjunto de diretrizes que estabelecem regras e requisitos para definir as versões de um software. Ele tem como objetivo solucionar um problema antigo conhecido como "inferno de dependências", que se refere às complicações que surgem ao lidar com pacotes de software. Em suma, o versionamento semântico busca estabelecer um padrão para a numeração de versões de um software, a fim de facilitar o seu gerenciamento e minimizar conflitos entre as dependências.
+
+## Conventional Commits
+
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.
