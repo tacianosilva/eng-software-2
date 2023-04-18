@@ -50,3 +50,18 @@ Utilizaremos o Visual Studio Code como ambiente integrado de desenvolvimento, te
 ## Falando um pouco sobre as branches e pull request e git flow
 
 Uma branch é uma derivação do projeto principal, enquanto um pull request é uma solicitação dos usuários para incorporar suas alterações ao repositório original do projeto. Já o git flow é uma metodologia que auxilia na gestão do fluxo de trabalho, permitindo a criação de branches para o desenvolvimento de funcionalidades específicas, com a realização de commits que indicam o tipo de alteração feita. Essa abordagem visa otimizar o processo de desenvolvimento, permitindo que a equipe trabalhe de forma eficiente.
+
+#
+## Sobre o versionamento semântico
+
+Atualmente, o versionamento semântico é um dos modelos de versionamento mais amplamente utilizados e reconhecidos. Seu principal objetivo é garantir que as atualizações de dependências não prejudiquem seu software de maneira inesperada, permitindo que você entenda o status de estabilidade do software e identifique se uma nova versão traz apenas novos recursos ou se se concentra em correções de bugs. Dessa forma, é possível manter um controle mais preciso e efetivo das versões do software.
+
+#
+
+## Falando um pouco sobre Conventional Commits
+
+Conventional Commits é uma convenção para padronizar as mensagens de commit em projetos de desenvolvimento de software. Essa convenção define um conjunto de regras para estruturar as mensagens de commit, permitindo que elas sejam facilmente interpretadas e categorizadas. Com as mensagens de commit seguindo essa convenção, torna-se mais fácil automatizar tarefas de versionamento, geração de changelogs e outras atividades relacionadas ao desenvolvimento de software. A Conventional Commits é amplamente utilizada em projetos de código aberto e vem ganhando popularidade em outros tipos de projetos.
+
+O site em questão é uma referência para a convenção de mensagens de commit chamada Conventional Commits. Nesse site, é possível encontrar informações detalhadas sobre a convenção, como as regras para estruturar as mensagens de commit e as palavras-chave que devem ser utilizadas para indicar o tipo de alteração feita (como "feat" para novas funcionalidades e "fix" para correção de bugs). Além disso, o site apresenta exemplos práticos de como utilizar a convenção em projetos reais, bem como dicas para a implementação em equipes e ferramentas que suportam a Conventional Commits. O site é uma ótima fonte de informação para desenvolvedores que desejam padronizar suas mensagens de commit e automatizar tarefas relacionadas ao versionamento de software.
+
+**Link para o site citado acima:** [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
