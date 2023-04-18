@@ -7,7 +7,7 @@
 
  Sistema Gerenciador de Despensa
  
-### Descrição:
+### Descrição do Projeto:
 
 É uma aplicação de software que ajuda os usuários a controlar o estoque de alimentos em suas despensas ou armários de cozinha. Também oferece uma interface intuitiva que permite que os usuários adicionem novos itens à sua despensa e atualizem as informações existentes sobre os itens já existentes. No geral, o sistema gerenciador de despensa ajuda os usuários a evitar o desperdício de alimentos, a economizar dinheiro em compras desnecessárias e a planejar refeições de forma mais eficiente.
 
