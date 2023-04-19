@@ -36,7 +36,7 @@ Membro          | Domínio       | Experiência
 José Pereira   | Iniciante     | 2 ano
 Vitor Daniel  | Expert | 5 anos
 Ketlly Azevedo  | Iniciante | 1 ano
-Hugo Muriely | Iniciante     | Agora
+Hugo Muryel | Iniciante     | Agora
 
 ## Framework
 ### Laravel
@@ -75,3 +75,11 @@ O Visual Studio Code é um editor de código que ajuda os programadores a escrev
 * Depuração integrada: Oferece suporte à depuração integrada, permitindo aos usuários depurar o código diretamente no editor.
 
 * Performance: É um editor leve e rápido, que permite aos usuários trabalhar em projetos grandes sem comprometer a performance.
+
+## Tutorial
+
+[Tutorial CRUD Laravel](https://imasters.com.br/php/como-fazer-um-crud-no-laravel-do-zero-parte-1)
+
+É um tutorial completo e útil para quem deseja aprender a criar um sistema CRUD em Laravel do zero. Ele fornece uma visão geral dos conceitos básicos do Laravel, bem como as etapas necessárias para configurar o banco de dados, criar rotas e controladores, e criar as visualizações para o usuário.
+
+
