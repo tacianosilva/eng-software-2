@@ -12,8 +12,13 @@
 ## Equipe:
 
 [br-Adriel]<https://github.com/br-adriel>
+
 [AlefLuciano]<https://github.com/AlefLuciano>
+
 [cintiacq]<https://github.com/cintiacq>
+
 [biancamdros]<https://github.com/biancamdros>
+
 [GuilhermeAngelo]<https://github.com/GuilhermeAngelo>
+
 [hilariodantas]<https://github.com/hilariodantas>
