@@ -47,3 +47,20 @@ A especificação SemVer ajuda a evitar problemas de compatibilidade e oferece u
 - MAJOR é incrementado quando há mudanças incompatíveis na API;
 - MINOR é incrementado quando funcionalidades são adicionadas de forma compatível;
 - PATCH é incrementado quando correções de bugs são feitas.
+
+## Conventional Commits
+
+É um padrão para escrever de forma consistente e organizada. Você utiliz Labels que descrevem a categoria daquele commit, são eles:
+
+- feat: criação de novo recurso
+- fix: solução de problema (bug)
+- docs: mudanças na documentação
+- test: alteração em testes
+- build: modificações de arquivos de build e dependências
+- perf: alterações no código relacionada a performance
+- style: formatação de código, semicolons
+- refactor: refatoração de código
+- chore: atualizações de tarefas
+- ci: mudanças de integração contínua
+
+Para saber mais detalhes sobre cada um deles deixo o [repositório do Iuri Code](https://github.com/iuricode/padroes-de-commits)
