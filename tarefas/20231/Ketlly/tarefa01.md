@@ -91,3 +91,7 @@ Uma branch é uma ramificação separada do código-fonte principal, permitindo 
 
 O versionamento semântico é útil porque permite que os desenvolvedores entendam facilmente o significado de cada versão e como as alterações podem afetar a compatibilidade com versões anteriores. Além disso, ele ajuda a garantir a estabilidade do software, fornecendo uma estrutura consistente para a versão e a evolução do software.
 
+## Conventional Commits
+
+Conventional Commits é uma convenção de nomenclatura para mensagens de commit em projetos de software, que define um formato padronizado para as mensagens de commit. A convenção inclui um tipo de commit, um escopo opcional e uma descrição concisa do que foi alterado. Também define palavras-chave para fornecer informações adicionais sobre o commit. A adoção da convenção pode trazer benefícios para a documentação do histórico de alterações, clareza nas mensagens de commit e colaboração entre a equipe de desenvolvimento, além de ser suportada por várias ferramentas de desenvolvimento.
+
