@@ -82,4 +82,8 @@ O Visual Studio Code é um editor de código que ajuda os programadores a escrev
 
 É um tutorial completo e útil para quem deseja aprender a criar um sistema CRUD em Laravel do zero. Ele fornece uma visão geral dos conceitos básicos do Laravel, bem como as etapas necessárias para configurar o banco de dados, criar rotas e controladores, e criar as visualizações para o usuário.
 
+## Branches e Pull Request
+Uma branch é uma ramificação separada do código-fonte principal, permitindo que você trabalhe em recursos e correções separadas do código-fonte principal sem afetar diretamente o código-fonte em produção. Já o pull request é uma solicitação para que outros desenvolvedores revisem e analisem suas alterações antes que elas sejam mescladas.
+
+
 
