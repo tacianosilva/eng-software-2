@@ -26,3 +26,7 @@ No backend a escolha foi C# e .NET por causa de experiência prévia por parte d
 ## IDE
 
 Manteremos o padrão que já conhecemos, VSCode devido a familiaridade dos desenvolvedores, extensões e outros recursos adicionais que o software possui. O editor será utilizado tanto para o frontend quando para o backend.
+
+## Pull request e branches
+
+Um repositório funciona como uma árvore, onde você cria ramificações(branches) para desenvolver partes do código separadamente e através do merge você junta esse código num só.
