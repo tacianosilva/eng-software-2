@@ -71,3 +71,24 @@ Quando uma nova funcionalidade é desenvolvida na branch feature, por exemplo, e
 Após a revisão e aprovação do pull request, a nova funcionalidade pode ser integrada à branch develop. Quando a branch develop estiver pronta para ser lançada em produção, ela pode ser mesclada com a branch master através do pull request.
 
 Em resumo, o GitFlow é uma metodologia eficiente para gerenciar as branches e pull requests em projetos colaborativos utilizando o Git e o GitHub. Ele ajuda a manter um fluxo organizado e seguro para o desenvolvimento do software.
+
+### Versionamento Semântico
+
+## Estrutura
+
+| Versão | Significado |
+|--------|-------------|
+| X      | Versão Maior: Incrementado quando há alterações incompatíveis com as versões anteriores da API. |
+| y      | Versão Menor: Incrementado quando há adições ou alterações compatíveis com as versões anteriores da API. |
+| z      | Versão de Correção: Incrementado quando há correções de falhas (bug fixes) que não afetam a API. |
+
+Essa estrutura é utilizada para atribuir números de versão específicos para cada mudança no código, permitindo que os desenvolvedores entendam rapidamente o significado do código subjacente e evitem problemas comuns ao atualizar pacotes ou dependências em projetos complexos.
+
+O Versionamento Semântico pode ser aplicado através do uso de pacotes ou bibliotecas em um projeto. Suponha que você esteja trabalhando em um projeto que utiliza a biblioteca "ExemploLib" na versão 1.0.0.
+
+Se a equipe de desenvolvimento da "ExemploLib" lançar uma nova versão, digamos a 1.1.0, e essa nova versão incluir apenas correções de bugs que não afetam a API pública, então você pode atualizar para essa nova versão sem se preocupar com problemas de compatibilidade.
+
+No entanto, se a equipe de desenvolvimento da "ExemploLib" lançar uma nova versão 2.0.0 que inclui mudanças incompatíveis com as versões anteriores da API pública, então você precisará avaliar cuidadosamente essas mudanças antes de atualizar para essa nova versão.
+
+Dessa forma, o Versionamento Semântico ajuda os desenvolvedores a entenderem rapidamente o significado do código subjacente e evita problemas comuns como bloqueios de versão ou promiscuidade da versão ao atualizar pacotes ou dependências em projetos complexos.
+
