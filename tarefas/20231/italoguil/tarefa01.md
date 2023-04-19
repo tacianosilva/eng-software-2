@@ -71,6 +71,15 @@ No lado do Backend, optaremos pelo Django devido à sua comunidade ativa e à di
 Será utilizada a IDE Visual Studio Code para o desenvolvimento do projeto. uma ferramenta amplamente usada em todo o mundo e que dispõe de muitas extensões. O Visual Studio Code possui uma guia para testes, na qual o código pode ser depurado, breakpoints adicionados e as funções verificadas para garantir a sua correção. Adicionalmente, há uma integração com o GitHub no Visual Studio Code, o que permite que o usuário realize commits, push, pull, merge e crie pull requests diretamente do software, oferecendo diversas vantagens e agilizando o processo de desenvolvimento.
 
 ### Links de Tutoriais usados para fazer um CRUD na tecnologia escolhida:
+
 >Playlist
 * [Tutorial](https://www.youtube.com/watch?v=RE72oSx5ivI&list=PLo7TNe_pEoMXb9GyzueM7516fOR0gPxNX) \
 Na Playlist acima, é possivel acompanhar o desenvolvimento de uma aplicação fullstack utilizando reactJS e Django.
+
+### Branches:
+
+As branches no Git e GitHub são cópias separadas do projeto inicial que permitem que vários desenvolvedores trabalhem em recursos ou correções distintas sem interferir uns nos outros. Elas são facilmente criadas, excluídas e combinadas. No modelo GitFlow, as equipes seguem padrões de nomenclatura e função para diferentes tipos de branches, como main, develop, feature, hotfix e release. Isso ajuda a organizar o projeto de forma consistente e facilita o trabalho colaborativo.
+
+### Pull Requests  
+
+Os Pull Requests são uma forma de colaboração entre desenvolvedores, permitindo a revisão e discussão do código antes de ser mesclado na branch principal. Eles possibilitam feedback e melhorias no código. No modelo GitFlow, os desenvolvedores criam Pull Requests a partir de suas respectivas branches para mesclar o código na branch de desenvolvimento. A mesclagem do Pull Request com a branch de desenvolvimento é realizada pelo gerente do projeto.
