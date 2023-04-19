@@ -22,3 +22,7 @@ No backend da aplicação será utilizado C# com .NET.
 No frontend escolhemos NextJS, pois os desenvolvedores já tem familiaridade com React. A atualização recente do Next13 trouxe algumas novas funcionalidades que serão interessantes de serem testadas, além da sua facilidade em lidar com requisições HTTP.
 
 No backend a escolha foi C# e .NET por causa de experiência prévia por parte dos desenvolvedores.
+
+## IDE
+
+Manteremos o padrão que já conhecemos, VSCode devido a familiaridade dos desenvolvedores, extensões e outros recursos adicionais que o software possui. O editor será utilizado tanto para o frontend quando para o backend.
