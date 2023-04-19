@@ -39,3 +39,11 @@ Um repositório funciona como uma árvore, onde você cria ramificações(branch
 #### Merge
 
 O merge request nada mais é do a junção de branchs, quando se inicia um merge, o código das duas é comparado para verificar se há conflitos, se sim, será necessário resolver esses conflitos.
+
+## Versionamento semântico
+
+A especificação SemVer ajuda a evitar problemas de compatibilidade e oferece uma forma consistente e clara de comunicar alterações no software para os usuários e desenvolvedores. É um padrão de nomeclatura para de gerenciar as versões de um software e utiliza um esquema de numeração composto de 3 números: MAJOR, MINOR e PATCH.
+
+- MAJOR é incrementado quando há mudanças incompatíveis na API;
+- MINOR é incrementado quando funcionalidades são adicionadas de forma compatível;
+- PATCH é incrementado quando correções de bugs são feitas.
