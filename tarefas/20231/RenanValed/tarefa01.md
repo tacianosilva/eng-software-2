@@ -92,3 +92,52 @@ No entanto, se a equipe de desenvolvimento da "ExemploLib" lançar uma nova vers
 
 Dessa forma, o Versionamento Semântico ajuda os desenvolvedores a entenderem rapidamente o significado do código subjacente e evita problemas comuns como bloqueios de versão ou promiscuidade da versão ao atualizar pacotes ou dependências em projetos complexos.
 
+### Conventional Commits 1.0.0
+
+O Conventional Commits é uma convenção simples para utilizar nas mensagens de commit que define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.
+
+A mensagem do commit deve ser estruturada da seguinte forma:
+
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+
+
+O commit contém os seguintes elementos estruturais:
+
+- `fix`: soluciona um problema na sua base de código.
+- `feat`: inclui um novo recurso na sua base de código.
+- `BREAKING CHANGE`: introduz uma modificação que quebra a compatibilidade da API.
+
+Outros tipos adicionais são permitidos além de `fix:` e `feat:`, por exemplo `build:`, `chore:`, `ci:`, `docs:`, `style:`, `refactor:`, `perf:` e `test:`.
+
+## Exemplo
+
+Suponha que você esteja trabalhando em um projeto e precise adicionar uma nova funcionalidade ao código. Para isso, você pode utilizar a convenção do Conventional Commits da seguinte forma:
+
+feat: adiciona nova funcionalidade X
+
+
+Dessa forma, fica claro para outros desenvolvedores qual foi a intenção do seu commit.
+
+## Tabela
+
+Segue abaixo uma tabela com os termos utilizados no Conventional Commits e seus significados:
+
+| Termo | Significado |
+|-------|-------------|
+| fix   | Soluciona um problema na sua base de código. |
+| feat  | Inclui um novo recurso na sua base de código. |
+| BREAKING CHANGE | Introduz uma modificação que quebra a compatibilidade da API. |
+| build | Alterações relacionadas ao processo de build ou dependências externas. |
+| chore | Outras alterações que não modificam o código fonte ou os testes. |
+| ci    | Alterações nos arquivos e scripts de configuração do CI (Travis, Circle, etc). |
+| docs  | Alterações na documentação. |
+| style | Alterações relacionadas a formatação de código, como espaços em branco, ponto e vírgula, etc. |
+| refactor | Refatoração do código fonte (sem adição ou remoção de funcionalidades). |
+| perf  | Melhorias de performance. |
+| test  | Adição ou modificação dos testes existentes. |
+
+Essa tabela pode ser útil para entender rapidamente o significado dos termos utilizados no Conventional Commits e ajudar a criar mensagens de commit mais claras e explícitas.
