@@ -87,3 +87,7 @@ Os Pull Requests são uma forma de colaboração entre desenvolvedores, permitin
 ### Versionamento Semântico 
 
 O Versionamento Semântico é um conjunto de diretrizes e convenções que estabelecem como os números de versão de um software são atribuídos. Ele define como as mudanças em uma nova versão do software são quantificadas e qualifica se essas mudanças são compatíveis ou incompatíveis com a versão anterior, em resumo, fornece informações sobre a natureza e a compatibilidade das mudanças realizadas em uma nova versão do software em relação à versão anterior.
+
+### Conventional Commits
+
+O Conventional Commit é uma convenção de nomenclatura para mensagens de commit em projetos de desenvolvimento de software. Ele estabelece um padrão para como as mensagens de commit devem ser estruturadas, seguindo uma sintaxe específica que inclui um prefixo indicando o tipo de mudança (como "feat" para novos recursos, "fix" para correções de bugs, etc.)
