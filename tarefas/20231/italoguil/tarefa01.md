@@ -83,3 +83,7 @@ As branches no Git e GitHub são cópias separadas do projeto inicial que permit
 ### Pull Requests  
 
 Os Pull Requests são uma forma de colaboração entre desenvolvedores, permitindo a revisão e discussão do código antes de ser mesclado na branch principal. Eles possibilitam feedback e melhorias no código. No modelo GitFlow, os desenvolvedores criam Pull Requests a partir de suas respectivas branches para mesclar o código na branch de desenvolvimento. A mesclagem do Pull Request com a branch de desenvolvimento é realizada pelo gerente do projeto.
+
+### Versionamento Semântico 
+
+O Versionamento Semântico é um conjunto de diretrizes e convenções que estabelecem como os números de versão de um software são atribuídos. Ele define como as mudanças em uma nova versão do software são quantificadas e qualifica se essas mudanças são compatíveis ou incompatíveis com a versão anterior, em resumo, fornece informações sobre a natureza e a compatibilidade das mudanças realizadas em uma nova versão do software em relação à versão anterior.
