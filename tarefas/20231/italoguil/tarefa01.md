@@ -20,3 +20,37 @@
 | Ítalo Guilherme de Medeiros Dantas | [italoguil](https://github.com/italoguil)|
 | Lucas Silva Fernandes Canto | [lucascantodev](https://github.com/lucascantodev) | 
 | Manoel Anízio Azevedo de Oliveira | [manizio](https://github.com/manizio)
+
+### Link do repositório:
+
+[SigDespensa](https://github.com/lucascantodev/SigDespensa.git)
+
+### Linguagem: Javascript
+
+JavaScript é uma linguagem de programação amplamente utilizada para desenvolvimento web. É uma linguagem interpretada, com tipagem dinâmica e suporte a orientação a objetos. É amplamente usada para adicionar interatividade e dinamismo a websites e aplicações web.
+
+### Domínio
+
+| Membro          | Domínio       | Experiência |
+| --------------- | ------------- | ----------- |
+| David Santos    | Iniciante | 1 ano       |
+| Isadora Stéfany | Iniciante | 6 meses       |
+| Italo Guilherme | Iniciante     | 6 meses     |
+| Lucas Canto     | Intermediário | 5 anos      |
+| Manoel Anízio   | Iniciante | 1 ano       |
+
+### Linguagem: Python
+
+Python é uma linguagem de programação interpretada e de alto nível.Possui uma sintaxe clara e legível que favorece a escrita de código limpo e conciso. É amplamente utilizado em diversos domínios, como desenvolvimento web, automação, análise de dados e IA. Sua comunidade ativa e vasta biblioteca de módulos tornam Python uma escolha popular para desenvolvedores.
+
+### Domínio
+
+| Membro          | Domínio       | Experiência |
+| --------------- | ------------- | ----------- |
+| David Santos    | Intermediário | 4 anos      |
+| Isadora Stéfany | Iniciante     | 1 ano       |
+| Italo Guilherme | Intermediário | 2 anos      |
+| Lucas Canto     | Iniciante     | 1 ano       |
+| Manoel Anízio   | Intermediário | 5 anos      |
+
+
