@@ -10,3 +10,9 @@ O sistema a ser desenvolvido tem como objetivo fornecer uma plataforma para faci
 
 Repositório Frontend: https://github.com/guilhermecostam/coders_frontend
 Repositório Backend: https://github.com/guilhermecostam/coders_backend
+
+## Linguagem utilizada
+
+No frontend da aplicação será utilizado JavaScript com framework NextJS, de início o TypeScript foi descartado, pois há devs com pouca experiência e colocar TypeScript assim pode acabar diminuindo a curva de aprendizado e sendo uma barreira a mais.
+
+No backend da aplicação será utilizado C# com .NET.
