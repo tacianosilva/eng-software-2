@@ -30,3 +30,12 @@ Manteremos o padrão que já conhecemos, VSCode devido a familiaridade dos desen
 ## Pull request e branches
 
 Um repositório funciona como uma árvore, onde você cria ramificações(branches) para desenvolver partes do código separadamente e através do merge você junta esse código num só.
+
+#### Branches comuns
+
+- main: é a ramificação principal do seu repositório onde o código que irá para produção fica.
+- develop: ramificação responsável pelos testes.
+
+#### Merge
+
+O merge request nada mais é do a junção de branchs, quando se inicia um merge, o código das duas é comparado para verificar se há conflitos, se sim, será necessário resolver esses conflitos.
