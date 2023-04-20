@@ -38,3 +38,6 @@ Python is one of the most popular and versatile programming languages in the wor
 
 ## Django
 Django is a powerful and popular web framework for Python. It was created in 2003 by Adrian Holovaty and Simon Willison as a way to build news websites quickly and easily. Django follows the model-view-template (MVT) pattern and provides many features such as authentication, database abstraction, URL routing, template engine, and more. Django is designed to help developers create web applications that are fast, secure, scalable, and maintainable. Django is free and open source and has a large and active community of users and contributors
+
+## VS Code
+VS Code is a free and open source code editor that supports many languages and platforms. It has integrated tools for debugging and version control, which help developers create and test their applications. VS Code allows users to launch or attach to a program in debug mode, set breakpoints, inspect variables, and more. VS Code also supports Git as the default version control system, which enables users to track changes, commit, push, pull, merge, and more. VS Code is customizable and extensible with various extensions and themes.
