@@ -22,3 +22,13 @@
 #### [GuilhermeAngelo](https://github.com/GuilhermeAngelo)
 
 #### [hilariodantas](https://github.com/hilariodantas)
+
+## Linguagem - Linguagem
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### A Linguagem escolhida foi o python. O motivo pelo o qual a linguagem foi escolhida está relacionado a sua facilidade de aprendizado, além de apresentar uma sintaxe um pouco mais amigável que as demais linguagens. Esse projeto irá servir como uma grande forma de aprendizado, uma vez que boa parte da equipe não dominda completamente a linguagem conhecendo apenas o básico sobre a mesma. Contudo, como todo bom programador, aceitamos o desafio! \`W´/.
+
+## Framework
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
