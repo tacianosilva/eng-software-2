@@ -32,3 +32,5 @@
 ## Framework - Djando
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+#### O framework escolhido foi o Djando. Como desejamos criar uma aplicação web nececitávamos utilizar algo que nos permitisse realizar essa tarefa no python, durantes as pesquisas encontramos alguns frameworks que tornava possível a implementação do projeto. Dentre os frameworks escolhemos o Django, devido alguns fatores. O Django possi sua própria arquitetura para criação dos sites, sendo ela chamada de MVT, uma variante do MVC. É um padrão simples e fácil de aprender, além disso, o framework é baseado por DRY(Don't repeat your self) permitindo em diversas vezes que os templates e alguns códigos possam ser reutilizados, fornencendo um ótima capacidade de reutulização e tornando desnecessário que a mesma coisa seja feita mais de uma vez, que consequentemente facilita entender a organização do projeto. Outros motivos além de sua facilidade de utilizar e aprendizagem, são mapeamento de URL, formulários, autenticação de usuários e caching.
