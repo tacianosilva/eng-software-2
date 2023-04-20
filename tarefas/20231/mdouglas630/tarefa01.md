@@ -23,3 +23,15 @@ A software project to manage construction materials stores, with features such a
 
 ## Main Repository
 [Construct](https://github.com/renatak12/construct)
+
+## Language Used in the Project
+Python is one of the most popular and versatile programming languages in the world. Python is known for its simple and elegant syntax, which makes it easy to read and write. Python can be used for a wide range of applications, such as web development, data analysis, machine learning, automation, and more. Python has a large and active community of developers and users who contribute to its development and provide many libraries and frameworks for various tasks.
+
+### Team Domain and Experience
+| Member       | and Experience                                                                                                       |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| Annielly     | Software Tester, JavaScript Developer, Python                                                                 |
+| José Cláudio | Javascript Developer, Python                                                                                  |
+| Maicon       | Python Developer, JavaScript, React, Next.js                                                                         |
+| Raquel       | Manager and Javascript Developer, React, Nexjtjs, Python, C, PostgreSQL                                        |  
+| Renata       | Javascript Developer, Python, Django                                                                         |
