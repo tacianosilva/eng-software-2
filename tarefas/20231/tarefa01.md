@@ -37,6 +37,8 @@
 
 ## IDE - Visual Studio Code
 
+![VSCODE](https://techinscribed.com/wp-content/uploads/2019/12/vscode.png)
+
 ### IDE usada: Visual Studio Code(VsCode)
 #### O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele é customizável, permitindo que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.
 
