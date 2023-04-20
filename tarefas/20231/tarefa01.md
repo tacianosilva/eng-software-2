@@ -29,6 +29,6 @@
 
 #### A Linguagem escolhida foi o python. O motivo pelo o qual a linguagem foi escolhida está relacionado a sua facilidade de aprendizado, além de apresentar uma sintaxe um pouco mais amigável que as demais linguagens. Esse projeto irá servir como uma grande forma de aprendizado, uma vez que boa parte da equipe não dominda completamente a linguagem conhecendo apenas o básico sobre a mesma. Contudo, como todo bom programador, aceitamos o desafio! \`W´/.
 
-## Framework
+## Framework - Djando
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
