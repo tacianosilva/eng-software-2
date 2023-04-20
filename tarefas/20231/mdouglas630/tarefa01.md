@@ -52,3 +52,6 @@ Pull requests are a way of requesting feedback or approval from other collaborat
 
 ## Semantic Versioning
 Semantic Versioning is a set of rules and best practices for assigning and increasing software version numbers. The objective is to facilitate the understanding and communication of the changes that occurred in each version. Semantic Versioning follows the X.Y.Z format, where X is the major version number, Y is the minor version number, and Z is the patch version number. Each number must be incremented when there are significant changes in the software, following some criteria defined by Semantic Versioning
+
+## Conventional Commits
+Conventional Commits is a specification for writing commit messages that follow a consistent and structured format. The goal is to facilitate the creation of changelogs, automatic versioning, and communication of changes to team members and stakeholders. Conventional Commits use a simple syntax that consists of a type, an optional scope, a colon, a space, and a description. The type indicates the kind of change that the commit introduces, such as feat, fix, refactor, etc. The scope can be used to specify the part of the codebase that is affected by the change. The description should be concise and imperative. Conventional Commits can also include optional body and footer sections for more details or reference
