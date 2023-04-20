@@ -31,13 +31,16 @@
 
 ## Framework - Djando
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 #### O framework escolhido foi o Django. Como desejamos criar uma aplicação web necessitávamos utilizar algo que nos permitisse realizar essa tarefa com python, durante as pesquisas encontramos alguns frameworks que tornavam possível a implementação do projeto. Dentre os frameworks, escolhemos o Django, devido alguns fatores. O Django possui sua própria arquitetura para criação dos sites, sendo ela chamada de MVT, uma variante do MVC. É um padrão simples e fácil de aprender, além disso, o framework é baseado por DRY(Don't repeat your self) permitindo em diversas vezes que os templates e alguns códigos possam ser reutilizados, fornencendo um ótima capacidade de reutilização e tornando desnecessário que a mesma coisa seja feita mais de uma vez, que consequentemente facilita  o entendimento sobre a organização do projeto. Outros motivos além de sua facilidade de utilizar e aprendizagem, são mapeamento de URL, formulários, autenticação de usuários e caching.
 
 ## IDE - Visual Studio Code
 
-![VSCODE](https://techinscribed.com/wp-content/uploads/2019/12/vscode.png)
+<i class="devicon-vscode-plain colored"></i>          
 
 ### IDE usada: Visual Studio Code(VsCode)
 #### O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. Ele é customizável, permitindo que os usuários possam mudar o tema do editor, teclas de atalho e preferências. Ele é um software livre e de código aberto, apesar do download oficial estar sob uma licença proprietária.
