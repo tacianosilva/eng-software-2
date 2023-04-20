@@ -41,3 +41,7 @@ Django is a powerful and popular web framework for Python. It was created in 200
 
 ## VS Code
 VS Code is a free and open source code editor that supports many languages and platforms. It has integrated tools for debugging and version control, which help developers create and test their applications. VS Code allows users to launch or attach to a program in debug mode, set breakpoints, inspect variables, and more. VS Code also supports Git as the default version control system, which enables users to track changes, commit, push, pull, merge, and more. VS Code is customizable and extensible with various extensions and themes.
+
+## Tutorial
+https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/
+
