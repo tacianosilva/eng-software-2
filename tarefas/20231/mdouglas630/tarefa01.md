@@ -35,3 +35,6 @@ Python is one of the most popular and versatile programming languages in the wor
 | Maicon       | Python Developer, JavaScript, React, Next.js                                                                         |
 | Raquel       | Manager and Javascript Developer, React, Nexjtjs, Python, C, PostgreSQL                                        |  
 | Renata       | Javascript Developer, Python, Django                                                                         |
+
+## Django
+Django is a powerful and popular web framework for Python. It was created in 2003 by Adrian Holovaty and Simon Willison as a way to build news websites quickly and easily. Django follows the model-view-template (MVT) pattern and provides many features such as authentication, database abstraction, URL routing, template engine, and more. Django is designed to help developers create web applications that are fast, secure, scalable, and maintainable. Django is free and open source and has a large and active community of users and contributors
