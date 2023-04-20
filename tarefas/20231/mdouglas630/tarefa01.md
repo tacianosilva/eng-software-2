@@ -45,3 +45,7 @@ VS Code is a free and open source code editor that supports many languages and p
 ## Tutorial
 https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/
 
+# Branch and Pull Request
+Branches and pull requests are essential features of Git, a distributed version control system that allows developers to collaborate on code. Branches allow developers to work on different versions of the same codebase without affecting the main branch. Branches can be used for developing new features, fixing bugs, experimenting with ideas, and more. Branches can be merged back to the main branch when they are ready or deleted if they are no longer needed.
+
+Pull requests are a way of requesting feedback or approval from other collaborators on a branch before merging it to the main branch. Pull requests also facilitate code review and discussion before merging the changes. Pull requests can be created on platforms like GitHub or Bitbucket that host Git repositories. Pull requests can also be created from the command line using Git commands. Pull requests help developers to ensure that the code is consistent, reliable, and meets the project standards
