@@ -36,3 +36,30 @@
 **Experiência**
 - Toda a equipe já trabalhou com essas tecnologias. Além disso, temos Vitor, que é avançado na área e ajuda bastante.
 
+### IDE
+
+- VSCode: O Visual Studio Code, é um editor de código-fonte leve e gratuito desenvolvido pela Microsoft. Ele suporta várias linguagens de programação e oferece recursos como realce de sintaxe, sugestões de código, integração com controle de versão, depuração de código, extensões personalizadas e muito mais. O VS Code é amplamente utilizado por desenvolvedores em todo o mundo e é considerado uma das melhores opções de editor de código-fonte disponíveis atualmente.
+
+
+## Tutoriais
+
+### JavaScript:
+
+- [Codecademy](Codecademy (https://www.codecademy.com/learn/introduction-to-javascript))
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+- [W3Schools](https://www.w3schools.com/js/default.asp)
+
+
+### Descrição
+Esses recursos oferecem tutoriais passo a passo, exercícios práticos e exemplos de código para ajudá-lo a aprender JavaScript de forma eficaz e gratuita.
+
+### Vue.js
+- [Vue.js documentation](https://vuejs.org/v2/guide/)
+- [Vue Mastery](https://www.vuemastery.com/courses/intro-to-vue-js/)
+- [Scrimba](https://scrimba.com/g/glearnvue)
+- [Udemy](https://www.udemy.com/topic/vue-js/)
+
+### Descrição
+Esses recursos oferecem tutoriais passo a passo, exercícios práticos e exemplos de código para ajudá-lo a aprender Vue.js de forma eficaz e gratuita.
