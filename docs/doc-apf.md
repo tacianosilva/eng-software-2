@@ -34,3 +34,22 @@ erDiagram
 | ALI Laboratorio | Laboratorio            | 35 PF         |
 | AIE Endereço    | Endereço               | 15 PF         |
 | **Total**       | **Ci**                 | **120 PF**    |
+
+### Contagem Detalhada (Cd)
+
+|    Descrição    |   Tipo   |   RLR   |   DER   |   Complexidade   |   Tamanho em PF   |
+| --------------- | -------- | ------- | ------- | ---------------- | :---------------: |
+| ALI Usuário     |   ALI    |         |         |                  | 35 PF             |
+| ALI Projeto     |   ALI    |         |         |                  | 35 PF             |
+| ALI Laboratorio |   ALI    |         |         |                  | 35 PF             |
+| AIE Endereço    |   AIE    |         |         |                  | 15 PF             |
+|  **Descrição**  | **Tipo** | **ALR** | **DER** | **Complexidade** | **Tamanho em PF** |
+| ALI Usuário     |   ALI    |         |         |                  | 35 PF             |
+| ALI Usuário     |   ALI    |         |         |                  | 35 PF             |
+| ALI Usuário     |   ALI    |         |         |                  | 35 PF             |
+| ALI Usuário     |   ALI    |         |         |                  | 35 PF             |
+| ALI Usuário     |   ALI    |         |         |                  | 35 PF             |
+| **Total**       |   ALI    |         |         |     **Cd**       | **120 PF**        |
+
+
+
