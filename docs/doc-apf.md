@@ -19,6 +19,32 @@ os **ALI**s (Arquivos Lógicos Internos) com o valor de *35 PF* cada e os **AIE*
 
 ```mermaid
 erDiagram
+    Grupo {
+        int id
+        string name
+    }
+    Usuario {
+        int id
+        string username
+        string first_name
+        string last_name
+        string email
+        string password
+        boolean is_active
+        timestamp last_login
+        timestamp date_joined
+    }
+    Endereco {
+        int id
+        string rua
+        int numero
+        string complemento
+        string bairro
+        string cidade
+        string estado
+        string pais
+        string cep
+    }
     Usuario }o--|{ Grupo : grupos
     Usuario ||--|| Endereco : ""
     Usuario }|--o{ Laboratorio : membro
