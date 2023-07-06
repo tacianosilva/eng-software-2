@@ -19,6 +19,32 @@ os **ALI**s (Arquivos Lógicos Internos) com o valor de *35 PF* cada e os **AIE*
 
 ```mermaid
 erDiagram
+    Grupo {
+        int id
+        string name
+    }
+    Usuario {
+        int id
+        string username
+        string first_name
+        string last_name
+        string email
+        string password
+        boolean is_active
+        timestamp last_login
+        timestamp date_joined
+    }
+    Endereco {
+        int id
+        string rua
+        int numero
+        string complemento
+        string bairro
+        string cidade
+        string estado
+        string pais
+        string cep
+    }
     Usuario }o--|{ Grupo : grupos
     Usuario ||--|| Endereco : ""
     Usuario }|--o{ Laboratorio : membro
@@ -34,3 +60,24 @@ erDiagram
 | ALI Laboratorio | Laboratorio            | 35 PF         |
 | AIE Endereço    | Endereço               | 15 PF         |
 | **Total**       | **Ci**                 | **120 PF**    |
+
+### Contagem Detalhada (Cd)
+
+|     Descrição      |   Tipo   |   RLR   |   DER   |   Complexidade   |   Tamanho em PF   |
+| ------------------ | -------- | ------- | ------- | ---------------- | :---------------: |
+|  ALI Usuário       |   ALI    |    2    |    11   |       Baixa      | 7 PF              |
+|  ALI Projeto       |   ALI    |         |         |                  |  PF               |
+|  ALI Laboratorio   |   ALI    |         |         |                  |  PF               |
+|  AIE Endereço      |   AIE    |         |         |                  |  PF               |
+|  **Descrição**     | **Tipo** | **ALR** | **DER** | **Complexidade** | **Tamanho em PF** |
+|  Inserir Grupo     |    EE    |    1    |    2    |      Baixa       | 3 PF              |
+|  Atualizar Grupo   |    EE    |    1    |    2    |      Baixa       | 3 PF              |
+|  Consultar Grupo   |    CE    |    1    |    2    |      Baixa       | 3 PF              |
+|  Inserir Usuário   |    EE    |    2    |    9    |      Média       | 4 PF              |
+|  Atualizar Usuário |    EE    |    2    |    9    |      Média       | 4 PF              |
+|  Consultar Usuário |    CE    |    2    |    9    |      Média       | 4 PF              |
+|  Detalhar Usuário  |    CE    |    2    |    9    |      Média       | 4 PF              |
+|   **Total**        |          |         |         |     **Cd**       | **xx PF**         |
+
+
+
