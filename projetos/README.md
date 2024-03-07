@@ -1,8 +1,16 @@
 # Projetos da Disciplina
 
-Lista de Projetos por período. Nesta Semestre Letivo 2023.1 iremos seguir o cronograma de Iteração conforme [Plano de Iteração e Release 2023.1](20231/cronograma.md). 
+Lista de Projetos por período. A descrição das tarefas em cada Iteração e a identificação dos responsáveis (gerente, analista, testador, etc) pelas atividades estão na página [Tarefas por Responsáveis](../docs/doc-tarefas.md).
 
-A descrição das tarefas em cada Iteração e a identificação dos responsáveis (gerente, analista, testador, etc) pelas atividades estão na página [Tarefas por Responsáveis](../docs/doc-tarefas.md).
+## Projetos 2024.1
+
+Neste Semestre Letivo 2024.1 iremos seguir o Plano de Iterações (cronograma) conforme [Plano de Iteração e Release 2024.1](20241/plano-iteracoes.md).
+
+* Grupo 1
+* Grupo 2
+* Grupo 3
+* Grupo 4
+* Grupo 5
 
 ## Projetos 2023.1
 
