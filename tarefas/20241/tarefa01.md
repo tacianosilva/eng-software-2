@@ -20,3 +20,5 @@ Equipe: Anderson Azevedo
     Thomas Almeida
 
 [Repositório do projeto](https://github.com/tgo-mas/SIGApoio)
+
+Linguagem escolhida: Python - A equipe trabalhou com Python no primeiro semestre da faculdade. A linguagem também foi escolhida por sua fácil sintaxe, tendo uma boa curva de aprendizado e todos da equipe conhecem levemente a linguagem.
