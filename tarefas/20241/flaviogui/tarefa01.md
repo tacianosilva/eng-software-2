@@ -13,7 +13,9 @@
 - **Equipe:** Fabio Fabricio, Flávio Glaydson, Gabriel José, Laian Kevin, Samuel Gutemberg.
 - **Repositório:** [Link do Repositório](https://github.com/flaviogui/TechCell-Pro)
 
+### Linguagem de Programação
+Será utilizado python para o back-end e javascript no front-end, minha esperiência com essas duas linguagem é apenas de faculdade, pois estudei python no 1º semestre e javascript no 4º. Nesse sentido, irei fazer uma revisão dessas duas linguagens antes de iniciar a codar.
 
 ### Framework
-Para o front-end será utilizado o framework React, já no back-end será utilizado o framework Django.
-Minha esperiência é mais relacionado ao react, pois utilizei mais recentemente na disciplina de Pweb, já o django não tenho muita esperiência, entretanto, no 1º semestre estudei python, então não será muito difícil relembrar os conhecimentos adquiridos. 
+Para o front-end será utilizado o framework Vue, já no back-end será utilizado o framework Django.
+Não tenho esperiência com o vue, mas o grupo acabou escolhendo, por ser mais simples e o rápido apredizado de todos do grupo, já o django não tenho muita esperiência, entretanto, no 1º semestre estudei python, então não será muito difícil relembrar os conhecimentos adquiridos. 
