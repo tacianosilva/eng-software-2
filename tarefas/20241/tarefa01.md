@@ -25,3 +25,5 @@ Linguagem escolhida: Python - A equipe trabalhou com Python no primeiro semestre
 
 Framework escolhido: Django - Além de ser bem completo, possui uma sintaxe e organização legíveis, além de poder integrar o front e back-end, com autenticação, em um único projeto. Apesar disso, a equipe está cogitando adotar também um framework front-end como Vue.js ou Next.js.
 
+IDE: Visual Studio Code - Possui inúmeros recursos com as extensões. O debug é feito de forma fácil pela interface padrão do programa, além de ter integração total com o Github para controle de versão, gerência de branchs e envio de código para repositórios remotos. Outra coisa que ajuda é o terminal integrado, facilitando a elaboração de comandos e navegação nos arquivos do projeto.
+
