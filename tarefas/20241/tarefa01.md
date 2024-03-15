@@ -54,3 +54,8 @@ Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto.
 Tutoriais:
 - [Tutorial Node + Fastify CRUD](https://www.youtube.com/watch?v=LMoMHP44-xM)
 - [Tutorial React](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
+
+### Branches e Pull Requests com GitFlow:
+<div style="text-align: justify">
+Para organização do fluxo de trabalho, estaremos utilizando o GitFlow. Isso nos permite ter branches específicas para features, releases, hotfixes, entre outras, facilitando o gerenciamento do código. Os pull requests serão utilizados para revisão de código e integração das alterações.
+</div>
