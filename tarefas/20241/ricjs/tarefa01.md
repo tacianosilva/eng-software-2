@@ -36,3 +36,6 @@ excesso de estoque, adaptando-se dinamicamente às necessidades situacionais.
 **Repositório:** 
 [Back-end](https://github.com/leonardobezrr/sig-estoque-back-end)
 [Front-end](https://github.com/leonardobezrr/sig-estoque-front-end)
+
+### Linguagem de Programação:
+Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento do projeto. A equipe possui um bom domínio da linguagem, com experiência em projetos anteriores e participação em cursos relacionados.
