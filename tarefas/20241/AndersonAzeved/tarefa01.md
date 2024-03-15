@@ -66,3 +66,10 @@ Os usuários serão os bolsistas do próprio setor, além do(s) servidor(es) res
     * Fazer commits e pushs para repositórios remotos.
 
 #
+
+
+### Tutorial de um CRUD em Python com Django framework 
+> Curso gratuito, clique [aqui](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/)
+* Neste [curso](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/) gratuito, aprenda o básico sobre o Django fraemwork através de uma abordagem prática e hands on onde você desenvolverá um CRUD.
+
+#
