@@ -59,3 +59,8 @@ Tutoriais:
 <div style="text-align: justify">
 Para organização do fluxo de trabalho, estaremos utilizando o GitFlow. Isso nos permite ter branches específicas para features, releases, hotfixes, entre outras, facilitando o gerenciamento do código. Os pull requests serão utilizados para revisão de código e integração das alterações.
 </div>
+
+### Versionamento Semântico:
+<div style="text-align: justify">
+O Versionamento Semântico é uma abordagem para atribuir significado a versões de software. Ele define um conjunto de regras e convenções para atribuir números de versão com base nas mudanças no software. Isso facilita a compreensão do impacto das atualizações e ajuda na comunicação entre desenvolvedores e usuários.
+</div>
