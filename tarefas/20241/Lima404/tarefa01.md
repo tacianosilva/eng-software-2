@@ -23,3 +23,14 @@ aquisição estratégica de materiais. Isso se traduz em evitar tanto a escassez
 excesso de estoque, adaptando-se dinamicamente às necessidades situacionais.
 </div>
 
+*Equipe:*  
+- [Lima404](https://github.com/Lima404)  
+
+*Repositório:*
+
+[Back-end](https://github.com/leonardobezrr/sig-estoque-back-end)
+[Front-end](https://github.com/leonardobezrr/sig-estoque-front-end)
+
+### Linguagem de Programação:
+Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento do projeto. A equipe possui um bom domínio da linguagem, com experiência em projetos anteriores e participação em cursos relacionados.
+
