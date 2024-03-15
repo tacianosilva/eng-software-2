@@ -73,3 +73,15 @@ Os usuários serão os bolsistas do próprio setor, além do(s) servidor(es) res
 * Neste [curso](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/) gratuito, aprenda o básico sobre o Django fraemwork através de uma abordagem prática e hands on onde você desenvolverá um CRUD.
 
 #
+
+
+### GitFlow
+* O GitFlow é um modelo de fluxo de trabalho para gerenciar branches no Git, especialmente útil para equipes que trabalham em projetos colaborativos. Ele define um conjunto de regras e boas práticas para criar, usar e mesclar branches, garantindo um desenvolvimento mais organizado e eficiente.
+
+#### Branches
+* Branches no Git funcionam como atalhos temporários que divergem da estrada principal. São como caminhos laterais que permitem experimentar novas funcionalidades, corrigir bugs ou trabalhar em paralelo, sem afetar o código principal.
+
+#### Pull request
+* Pull requests são ferramentas para construir software de forma eficiente e colaborativa. Funcionam como plantas baixas, enviadas para aprovação. Permitem que outros membros da equipe revisem as novas funcionalidades antes de serem integradas à estrutura principal.
+
+#
