@@ -85,3 +85,9 @@ Os usuários serão os bolsistas do próprio setor, além do(s) servidor(es) res
 * Pull requests são ferramentas para construir software de forma eficiente e colaborativa. Funcionam como plantas baixas, enviadas para aprovação. Permitem que outros membros da equipe revisem as novas funcionalidades antes de serem integradas à estrutura principal.
 
 #
+
+
+### Versionamento Semântico
+* O Versionamento Semântico é uma prática amplamente adotada no desenvolvimento de software para gerenciar as versões de um projeto de forma consistente e previsível. Ele fornece um conjunto de regras e convenções para atribuir números de versão aos releases de um software, facilitando a comunicação entre desenvolvedores, usuários e sistemas automatizados.
+
+#
