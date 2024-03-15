@@ -34,3 +34,8 @@ a gestão inteligente de futuras movimentações, permitindo previsões mais pre
 ### IDE:
 - A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
 
+### Tutorial CRUD:
+- Encontramos um tutorial útil para criar operações de desenvolvimento com React e typescript: [Tutorial React + typescript](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
+
+- Para o tutorial de node usamos: [Tutorial Node + fastify + prisma] ( https://www.youtube.com/watch?v=LMoMHP44-xM )
+
