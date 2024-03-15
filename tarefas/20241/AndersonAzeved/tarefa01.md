@@ -91,3 +91,10 @@ Os usuários serão os bolsistas do próprio setor, além do(s) servidor(es) res
 * O Versionamento Semântico é uma prática amplamente adotada no desenvolvimento de software para gerenciar as versões de um projeto de forma consistente e previsível. Ele fornece um conjunto de regras e convenções para atribuir números de versão aos releases de um software, facilitando a comunicação entre desenvolvedores, usuários e sistemas automatizados.
 
 #
+
+
+
+### Conventional Commits
+* Conventional Commits é uma convenção para padronizar as mensagens de commit em repositórios de controle de versão, como Git. Essa convenção foi desenvolvida para facilitar a automatização de tarefas relacionadas ao ciclo de vida do desenvolvimento de software, como geração de changelogs, versionamento automático de releases e automatização de processos de CI/CD (Integração Contínua e Entrega Contínua).
+
+# 
