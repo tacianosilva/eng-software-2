@@ -17,7 +17,7 @@ a gestão inteligente de futuras movimentações, permitindo previsões mais pre
 - [Nome 1](https://github.com/Lima404)  
 
 
-*Repositório:*
+*Repositório:* [Link para o repositório]
 
 - Back-end = https://github.com/leonardobezrr/sig-estoque-back-end
 - Front-end = https://github.com/leonardobezrr/sig-estoque-front-end
@@ -27,4 +27,7 @@ a gestão inteligente de futuras movimentações, permitindo previsões mais pre
 
 ### Linguagem de Programação Front-end:
 - Estaremos utilizando React que é uma biblioteca javascript, e usaremos typescript ambos os desenvolvedores front-end possuem dominio na biblioteca.
+
+### Framework:
+- Fastify;
 
