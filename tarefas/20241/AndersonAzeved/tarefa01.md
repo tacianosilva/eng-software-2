@@ -27,3 +27,12 @@ Os usuários serão os bolsistas do próprio setor, além do(s) servidor(es) res
 ### Repositório do projeto no GitHub: https://github.com/tgo-mas/SIGApoio
 
 #
+
+
+### Sobre a linguagem de programação a ser usada no projeto
+
+#### Linguagem de Programação: Python
+
+* Python, é uma linguagem de programação fácil, versátil e poderosa. Excelente para iniciantes e experientes, por ter uma curva de aprendizado ótima. Tem diversos usos, como IA, análise de dados e desenvolvimento web. Python, possui uma escrita légivel e de fácil compreensão, e gratuita. Desse modo, existem vários adeptos na comunidade. 
+
+* A equipe já possui uma experiência intermediária, tendo vista que utilizamos para diversas aplicações durante o 1º semestre do curso. 
