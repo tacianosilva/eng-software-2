@@ -31,3 +31,6 @@ a gestão inteligente de futuras movimentações, permitindo previsões mais pre
 ### Framework:
 - Fastify;
 
+### IDE:
+- A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
+
