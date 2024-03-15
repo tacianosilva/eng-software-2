@@ -40,3 +40,8 @@ Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento 
 <div style="text-align: justify">
 Para agilizar o desenvolvimento, estaremos utilizando o framework React, para o front-end e o Fastify para o back-end. Ambos são frameworks web em JavaScript, que incentivam o desenvolvimento rápido e limpo. Ele fornece uma série de ferramentas para facilitar tarefas comuns em desenvolvimento web.
 </div>
+
+### IDE:
+<div style="text-align: justify">
+A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
+</div>
