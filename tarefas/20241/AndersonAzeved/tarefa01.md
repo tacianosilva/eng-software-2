@@ -36,3 +36,10 @@ Os usuários serão os bolsistas do próprio setor, além do(s) servidor(es) res
 * Python, é uma linguagem de programação fácil, versátil e poderosa. Excelente para iniciantes e experientes, por ter uma curva de aprendizado ótima. Tem diversos usos, como IA, análise de dados e desenvolvimento web. Python, possui uma escrita légivel e de fácil compreensão, e gratuita. Desse modo, existem vários adeptos na comunidade. 
 
 * A equipe já possui uma experiência intermediária, tendo vista que utilizamos para diversas aplicações durante o 1º semestre do curso. 
+
+
+#### Framework a ser utilizado: Django 
+
+* O Django é um framework web escrito em Python e de código aberto, destacando se por ofertar um ambiente que facilita a criação de soluções web escaláveis. Ademais, promove o desenvolvimento rápido e um design limpo, proporcionando ferramentas robustas e eficientes para desenvolvedores.
+
+#
