@@ -18,3 +18,7 @@ Thamiris Borges    |
 ## Linguagem de programação que será usada no projeto </br>
 >  Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos e com tipagem dinâmica. Ela possui uma sintaxe simples e legível, facilitando o desenvolvimento e compreensão do código, também possui uma grande e ativa comunidade de desenvolvedores, contribuindo com recursos, tutoriais, documentação e pacotes, caracterizada pela colaboração e apoio mútuo. </br>
 > Nossa equipe tem conhecimento intermediário.
+
+## Framework que será usado no projeto </br>
+> Django é um framework web de alto nível, escrito em Python, que incentiva o desenvolvimento rápido e limpo de aplicativos web. Foi desenvolvido para facilitar a criação de sites complexos, fornecendo uma estrutura robusta e eficiente para lidar com muitas das tarefas comuns encontradas no desenvolvimento web.
+
