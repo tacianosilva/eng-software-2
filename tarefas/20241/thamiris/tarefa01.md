@@ -14,3 +14,7 @@ Isa Kaillany       |
 Manuelly Rodrigues | 
 Melque Rodrigues   | 
 Thamiris Borges    | 
+
+## Linguagem de programação que será usada no projeto </br>
+>  Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos e com tipagem dinâmica. Ela possui uma sintaxe simples e legível, facilitando o desenvolvimento e compreensão do código, também possui uma grande e ativa comunidade de desenvolvedores, contribuindo com recursos, tutoriais, documentação e pacotes, caracterizada pela colaboração e apoio mútuo. </br>
+> Nossa equipe tem conhecimento intermediário.
