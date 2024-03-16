@@ -48,3 +48,7 @@ Thamiris Borges    |
 
 > * Suporte a Extensões de Controle de Versão: Além do Git, o VS Code suporta uma variedade de outras ferramentas de controle de versão, como SVN, Mercurial e outros, por meio de extensões disponíveis no Marketplace.
 
+
+## Link de CRUD </br>
+> O tutorial é em vídeo, no vídeo é mostrado na prática como fazer um CRUD usando Django. </br>
+> [Vídeo - CRUD - Django](https://youtu.be/GGBzMpIAgz4?si=ue9_2kiSYAV2Gkw2)
