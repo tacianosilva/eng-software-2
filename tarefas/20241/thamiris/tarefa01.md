@@ -25,3 +25,26 @@ Thamiris Borges    |
 
 ## IDE de programação que será usada no projeto </br>
 > O Visual Studio Code (também conhecido como VS Code) é um editor de código-fonte desenvolvido pela Microsoft que se destaca pela sua leveza, rapidez e extensibilidade. Apesar de ser oferecido pela Microsoft, o Visual Studio Code é um software de código aberto e gratuito, o que contribuiu significativamente para sua popularidade entre os desenvolvedores.</br>
+
+#### Ferramentas de Depuração:
+> O Visual Studio Code oferece uma série de ferramentas de depuração poderosas e flexíveis que permitem aos desenvolvedores encontrar e corrigir problemas no código de forma eficiente. Algumas das principais características das ferramentas de depuração do VS Code incluem:
+
+> * Pontos de Interrupção (Breakpoints): Os desenvolvedores podem definir pontos de interrupção no código para pausar a execução e inspecionar variáveis e o estado do programa em momentos específicos.
+
+> * Inspeção de Variáveis: Durante a execução do programa, é possível inspecionar o valor das variáveis em tempo real para entender o comportamento do código e identificar possíveis problemas.
+
+> * Execução Passo a Passo: Os desenvolvedores podem executar o código linha por linha, passo a passo, para entender exatamente como o programa está se comportando e identificar possíveis erros ou comportamentos inesperados.
+
+> * Console de Depuração: O VS Code possui um console de depuração integrado que permite visualizar mensagens de log e informações de depuração durante a execução do programa.
+ 
+#### Controle de Versão Integrado:
+> O Visual Studio Code oferece integração nativa com sistemas de controle de versão, como Git, o que permite aos desenvolvedores gerenciar facilmente o controle de versão de seus projetos diretamente do editor. Algumas das principais características do controle de versão integrado do VS Code incluem:
+
+> * Interface Gráfica para Git: O VS Code fornece uma interface gráfica intuitiva para operações comuns do Git, como commit, pull, push, merge e histórico de commits.
+
+> * Controle de Ramificações: Os desenvolvedores podem criar, alternar e mesclar ramificações diretamente do editor, facilitando a colaboração em equipe e o desenvolvimento de recursos em paralelo.
+
+> * Visualização de Diferenças: O VS Code oferece uma visualização de diferenças integrada que permite comparar facilmente as alterações entre diferentes versões de um arquivo e revisar as alterações antes de confirmá-las.
+
+> * Suporte a Extensões de Controle de Versão: Além do Git, o VS Code suporta uma variedade de outras ferramentas de controle de versão, como SVN, Mercurial e outros, por meio de extensões disponíveis no Marketplace.
+
