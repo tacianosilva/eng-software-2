@@ -2,18 +2,15 @@
 ### Thamiris de Oliveira Borges | Thami03 | thamirisbgrs@gmail.com :octocat:
 <hr> 
 
-# Sistema de Queijaria </br>
-> O projeto Sistema de Queijaria (SQ) é um sistema caracterizado por possuir diversas funções, dentre elas estão o controle de atividades, o gerenciamento dos fornecedores, a identificação e o controle dos processos internos da queijaria, os quais vão desde a entrada da matéria-prima no sistema até o destino final do produto, ou seja, até a compra do produto final pelo consumidor. Ademais, o SQ tem como propósito o desenvolvimento de um software que registra dados de uma queijaria artesanal, incluindo o lucro, as entradas e saídas financeiras, os tipos de produtos comercializados, o estoque, os prazos de validade, bem como o histórico de vendas e os gastos, com o objetivo de informatizar e automatizar a empresa com recursos administrativos mais sofisticados e eficientes. </br>
- [Link do repositório do projeto](https://github.com/melquetrindade/sigQueijaria.git)
+## Sistema de Queijaria </br>
+> <p> O projeto Sistema de Queijaria (SQ) é um sistema caracterizado por possuir diversas funções, dentre elas estão o controle de atividades, o gerenciamento dos fornecedores, a identificação e o controle dos processos internos da queijaria, os quais vão desde a entrada da matéria-prima no sistema até o destino final do produto, ou seja, até a compra do produto final pelo consumidor. Ademais, o SQ tem como propósito o desenvolvimento de um software que registra dados de uma queijaria artesanal, incluindo o lucro, as entradas e saídas financeiras, os tipos de produtos comercializados, o estoque, os prazos de validade, bem como o histórico de vendas e os gastos, com o objetivo de informatizar e automatizar a empresa com recursos administrativos mais sofisticados e eficientes. </p> 
+[Link do repositório do projeto](https://github.com/melquetrindade/sigQueijaria.git)
 
-Equipe             |
------------------- |
-Erick Bezerra      |
-Felipe Souza       |  
-Isa Kaillany       |  
-Manuelly Rodrigues | 
-Melque Rodrigues   | 
-Thamiris Borges    | 
+## Equipe </br>
+
+| [<img src="https://avatars.githubusercontent.com/u/102674727?v=4" width=155><br><sub>Erick Bezerra</sub>](https://github.com/ErickBezerrar) | [<img src="https://avatars.githubusercontent.com/u/112143084?v=4" width=155><br><sub>Felipe Souza</sub>](https://github.com/FelipeSouza14) | [<img src="https://avatars.githubusercontent.com/u/103084622?v=4" width=155><br><sub>Isa Kaillany Souza</sub>](https://github.com/IsaKaillany) | [<img src="https://avatars.githubusercontent.com/u/107930253?v=4" width=155><br><sub>Manuelly Rodrigues</sub>](https://github.com/Manuelly1) | [<img src="https://avatars.githubusercontent.com/u/111925696?v=4" width=155><br><sub>Melque Trindade</sub>](https://github.com/melquetrindade) |  [<img src="https://avatars.githubusercontent.com/u/87441572?v=4" width=155><br><sub>Thamiris Borges</sub>](https://github.com/Thami03) 
+| :---: | :---: | :---: | :---:| :---:| :---:
+
 
 ## Linguagem de programação que será usada no projeto </br>
 >  Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos e com tipagem dinâmica. Ela possui uma sintaxe simples e legível, facilitando o desenvolvimento e compreensão do código, também possui uma grande e ativa comunidade de desenvolvedores, contribuindo com recursos, tutoriais, documentação e pacotes, caracterizada pela colaboração e apoio mútuo. </br>
@@ -24,7 +21,7 @@ Thamiris Borges    |
 
 
 ## IDE de programação que será usada no projeto </br>
-> O Visual Studio Code (também conhecido como VS Code) é um editor de código-fonte desenvolvido pela Microsoft que se destaca pela sua leveza, rapidez e extensibilidade. Apesar de ser oferecido pela Microsoft, o Visual Studio Code é um software de código aberto e gratuito, o que contribuiu significativamente para sua popularidade entre os desenvolvedores.</br>
+>  O Visual Studio Code (também conhecido como VS Code) é um editor de código-fonte desenvolvido pela Microsoft que se destaca pela sua leveza, rapidez e extensibilidade. Apesar de ser oferecido pela Microsoft, o Visual Studio Code é um software de código aberto e gratuito, o que contribuiu significativamente para sua popularidade entre os desenvolvedores. </br>
 
 #### Ferramentas de Depuração:
 > O Visual Studio Code oferece uma série de ferramentas de depuração poderosas e flexíveis que permitem aos desenvolvedores encontrar e corrigir problemas no código de forma eficiente. Algumas das principais características das ferramentas de depuração do VS Code incluem:
@@ -88,3 +85,18 @@ Thamiris Borges    |
 
 
 ## Conventional Commits </br>
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.</br>
+
+ A mensagem do commit deve ser estruturada da seguinte forma:
+
+
+> ![image](https://github.com/Thami03/eng-software-2/assets/87441572/89018f3b-da89-4b82-86cc-55569c9182b8)
+
+##### O commit contém os seguintes elementos estruturais, para comunicar a intenção ao utilizador da sua biblioteca:
+
+> 1. fix: um commit do tipo fix soluciona um problema na sua base de código (isso se correlaciona com PATCH do versionamento semântico).
+> 2. feat: um commit do tipo feat inclui um novo recurso na sua base de código (isso se correlaciona com MINOR do versionamento semântico).
+> 3. BREAKING CHANGE: um commit que contém no rodapé opcional o texto BREAKING CHANGE:, ou contém o símbolo ! depois do tipo/escopo, introduz uma modificação que quebra a compatibilidade da API (isso se correlaciona com MAJOR do versionamento semântico). Uma BREAKING CHANGE pode fazer parte de commits de qualquer tipo.
+> 4. Outros tipos adicionais são permitidos além de fix: e feat:, por exemplo @commitlint/config-conventional (baseado na Convenção do Angular) recomenda-se build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, entre outros.
+> 5. Outros rodapés diferentes de BREAKING CHANGE: <descrição> podem ser providos e seguem uma convenção similar ao git trailer format.
+
