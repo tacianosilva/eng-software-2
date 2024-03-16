@@ -69,3 +69,7 @@ Um pull request é uma solicitação para mesclar as alterações de um branch p
 ### Versionamento Semântico
 
 O versionamento semântico é um padrão bem definido para atribuir números de versão a software, onde cada número composto por três partes (X.Y.Z) indica mudanças específicas: o número major (X) reflete mudanças incompatíveis na API, o número minor (Y) indica adições de funcionalidades compatíveis e o número patch (Z) representa correções de bugs. Além disso, são permitidos identificadores de pré-lançamento para indicar versões em desenvolvimento. Esse sistema facilita a compreensão das mudanças e garante a compatibilidade entre diferentes versões do software, fornecendo um padrão claro e consistente para comunicação entre usuários e desenvolvedores.
+
+### Conventional Commits
+
+Conventional Commits é uma convenção de mensagem de commit para padronizar as mensagens de commit em projetos de desenvolvimento de software. Baseia-se em um formato específico que inclui um prefixo indicando o tipo de mudança realizada, como "feat" para novas funcionalidades, "fix" para correções de bugs, "docs" para atualizações de documentação, entre outros. Essa padronização facilita a compreensão do histórico de alterações do projeto, permitindo uma melhor organização, identificação e automação de tarefas, como geração de changelogs e versionamento semântico. Além disso, o uso de Conventional Commits promove uma comunicação mais clara e eficiente entre membros da equipe e contribuidores do projeto.
