@@ -77,3 +77,14 @@ Thamiris Borges    |
 
 > * Histórico e Auditoria: Os pull requests mantêm um registro completo das alterações propostas e das discussões associadas, fornecendo um histórico detalhado para referência futura e auditoria.
 
+## Versionamento Semântico </br>
+> O Versionamento Semântico é uma convenção para atribuir significado específico a números de versão de software. De acordo com as diretrizes do Versionamento Semântico, o número de versão é composto por três partes: MAJOR.MINOR.PATCH.
+
+> * Versão Maior(MAJOR): Incrementado quando há alterações incompatíveis na API. Significa que houve mudanças que podem afetar a forma como o software interage com outros sistemas ou usuários. Na versão "2.0.0", o "2" indica que houve uma grande mudança ou adição de recursos desde a versão anterior.
+
+> *Versão Menor(MINOR): Incrementado quando funcionalidades são adicionadas de forma compatível com as versões anteriores. Isso indica melhorias e adições que não quebram a compatibilidade com as versões anteriores. O "0" em "2.0.0" sugere que esta é a primeira versão "menor" da versão "2".
+
+> * Versão de Correção(PATCH): Incrementado para correções de bugs e pequenas melhorias que não afetam a compatibilidade. O "0" final em "2.0.0" indica que não houve correções de bugs ou pequenas melhorias desde a última versão.
+
+
+## Conventional Commits </br>
