@@ -8,7 +8,7 @@
 
 ## Equipe </br>
 
-| [<img src="https://avatars.githubusercontent.com/u/102674727?v=4" width=155><br><sub>Erick Bezerra</sub>](https://github.com/ErickBezerrar) | [<img src="https://avatars.githubusercontent.com/u/112143084?v=4" width=155><br><sub>Felipe Souza</sub>](https://github.com/FelipeSouza14) | [<img src="https://avatars.githubusercontent.com/u/103084622?v=4" width=155><br><sub>Isa Kaillany Souza</sub>](https://github.com/IsaKaillany) | [<img src="https://avatars.githubusercontent.com/u/107930253?v=4" width=155><br><sub>Manuelly Rodrigues</sub>](https://github.com/Manuelly1) | [<img src="https://avatars.githubusercontent.com/u/111925696?v=4" width=155><br><sub>Melque Trindade</sub>](https://github.com/melquetrindade) |  [<img src="https://avatars.githubusercontent.com/u/87441572?v=4" width=155><br><sub>Thamiris Borges</sub>](https://github.com/Thami03) 
+| [<img src="https://avatars.githubusercontent.com/u/102674727?v=4" width=155><br><sub>Erick Bezerra</sub>](https://github.com/ErickBezerrar) | [<img src="https://avatars.githubusercontent.com/u/112143084?v=4" width=155><br><sub>Felipe Souza</sub>](https://github.com/FelipeSouza14) | [<img src="https://avatars.githubusercontent.com/u/103084622?v=4" width=155><br><sub>Isa Kaillany </sub>](https://github.com/IsaKaillany) | [<img src="https://avatars.githubusercontent.com/u/107930253?v=4" width=155><br><sub>Manuelly Rodrigues</sub>](https://github.com/Manuelly1) | [<img src="https://avatars.githubusercontent.com/u/111925696?v=4" width=155><br><sub>Melque Trindade</sub>](https://github.com/melquetrindade) |  [<img src="https://avatars.githubusercontent.com/u/87441572?v=4" width=155><br><sub>Thamiris Borges</sub>](https://github.com/Thami03) 
 | :---: | :---: | :---: | :---:| :---:| :---:
 
 
