@@ -57,3 +57,11 @@ Será utilizada a IDE Visual Studio Code, conhecida por sua leveza, rapidez e ex
 * [Vídeo](https://www.youtube.com/watch?v=u_5d2WOz8Sc)
 
 No vídeo acima, é possível observar o desenvolvimento de uma aplicação com um CRUD simples integrando Django e ReactJS. O vídeo aborda a criação de modelos, serializers e padrões de URL no backend em Django. Além disso, é mostrado como fazer um formulário e gerenciar requisições para uma api no frontend em ReactJS.
+
+### Branch
+
+Os branches permitem que os desenvolvedores trabalhem em funcionalidades, correções de bugs ou experimentos de forma isolada do código principal. Isso evita interferências indesejadas entre diferentes partes do código e permite que as alterações sejam desenvolvidas sem afetar o fluxo de trabalho principal. No modelo GitFlow, os branches são divididas nos seguintes tipos: Master, Develop, Features, Release, Hotfix. Cada tipo de branch é utilizado com um propósito, de tal modo que essa divisão garante a segurança do código e a eficiência do fluxo de trabalho.
+
+### Pull Request
+
+Um pull request é uma solicitação para mesclar as alterações de um branch para outro (por exemplo, de um branch de feature para um branch de desenvolvimento). Ele fornece uma oportunidade para revisão e feedback por parte dos colegas de equipe, ajudando a garantir a qualidade do código. Os pull requests facilitam a colaboração entre os membros da equipe, permitindo que eles discutam, comentem e revisem as alterações propostas. Isso promove uma cultura de revisão de código e comunicação aberta dentro da equipe. No modelo GitFlow, os pull requests são comumente utilizados para: transferir uma funcionalidade de um branch de feature para um branch de desenvolvimento; mesclar o branch de release de volta para o de desenvolvimento e o master, com o intuito de revisar alterações finais antes do lançamento; mesclar um branch de hotfix para os branches master e de desenvolvimento após a correção de um bug crítico.
