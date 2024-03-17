@@ -26,4 +26,23 @@ O projeto Sistema de Queijaria (SQ) é um sistema caracterizado por possuir dive
 Nossa equipe tem conhecimento intermediário em ambas as linguagens e todos já desenvolveram projetos utilizando-as.
 
 ### Frameworks que serão usados no projeto
-<strong>Django</strong> é um framework web de alto nível, escrito em Python, que incentiva o desenvolvimento rápido e limpo de aplicativos web. Foi desenvolvido para facilitar a criação de sites complexos, fornecendo uma estrutura robusta e eficiente para lidar com muitas das tarefas comuns encontradas no desenvolvimento web. 
+<strong>Django</strong> é um framework web de alto nível, escrito em Python, que incentiva o desenvolvimento rápido e limpo de aplicativos web. Foi desenvolvido para facilitar a criação de sites complexos, fornecendo uma estrutura robusta e eficiente para lidar com muitas das tarefas comuns encontradas no desenvolvimento web.
+
+### IDE que será usada no projeto
+O Visual Studio Code (também conhecido como VS Code) é um editor de código-fonte desenvolvido pela Microsoft que se destaca pela sua leveza, rapidez e extensibilidade. Apesar de ser oferecido pela Microsoft, o Visual Studio Code é um software de código aberto e gratuito, o que contribuiu significativamente para sua popularidade entre os desenvolvedores. </br>
+
+#### Ferramentas de Depuração:
+O Visual Studio Code oferece uma série de ferramentas de depuração poderosas e flexíveis que permitem aos desenvolvedores encontrar e corrigir problemas no código de forma eficiente. Algumas das principais características das ferramentas de depuração do VS Code incluem:
+
+- Pontos de Interrupção (Breakpoints)
+- Inspeção de Variáveis
+- Execução Passo a Passo
+- Console de Depuração
+ 
+#### Controle de Versão Integrado:
+O Visual Studio Code oferece integração nativa com sistemas de controle de versão, como Git, o que permite aos desenvolvedores gerenciar facilmente o controle de versão de seus projetos diretamente do editor. Algumas das principais características do controle de versão integrado do VS Code incluem:
+
+- Interface Gráfica para Git
+- Controle de Ramificações
+- Visualização de Diferenças
+- Suporte a Extensões de Controle de Versão
