@@ -64,3 +64,12 @@ ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 > * Feature Branches (Ramos de Funcionalidade): Esses branches são criados a partir do branch de desenvolvimento para trabalhar em novas funcionalidades. Eles são usados para isolar o trabalho em uma determinada funcionalidade antes de serem mesclados de volta ao branch de desenvolvimento.
 
 > * Release Branches (Ramos de Lançamento): Esses branches são criados a partir do branch de desenvolvimento para preparar uma versão para lançamento. Eles são usados para finalizar os últimos ajustes, correções de bugs e preparativos para o lançamento antes de serem mesclados de volta ao branch de desenvolvimento e ao branch principal.
+
+## Versionamento Semântico </br>
+> O Versionamento Semântico é uma prática que visa atribuir significados claros e específicos aos números de versão de um software. De acordo com suas diretrizes, uma versão é composta por três partes distintas: MAJOR.MINOR.PATCH.
+
+> * Versão Principal (MAJOR): Este número é incrementado quando há mudanças significativas e incompatíveis na API do software. Isso indica que houve alterações que podem afetar a maneira como o software interage com outros sistemas ou usuários. Por exemplo, na versão "2.0.0", o aumento do número "2" indica uma grande mudança ou a adição de recursos importantes desde a versão anterior.
+
+> * Versão Menor (MINOR): Este número é incrementado quando novas funcionalidades são adicionadas de forma compatível com as versões anteriores. Indica melhorias e adições que não quebram a compatibilidade com as versões anteriores. Por exemplo, o aumento do número "0" em "2.0.0" sugere que esta é a primeira versão "menor" da versão "2".
+
+> * Versão de Correção (PATCH): Este número é incrementado para correções de bugs e melhorias menores que não afetam a compatibilidade. O "0" final em "2.0.0" indica que não houve correções de bugs ou melhorias menores desde a última versão.
