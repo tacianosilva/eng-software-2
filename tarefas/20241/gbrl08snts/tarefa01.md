@@ -68,4 +68,21 @@ No GitFlow, o desenvolvimento é dividido em diferentes branches para organizar 
 
 * __Pull Requests__: 
 
-Pull Requests no GitHub, ou Merge Requests em outras plataformas como GitLab, são usados para revisar e discutir mudanças antes de serem integradas ao branch principal. No contexto do GitFlow, após uma feature ser finalizada em seu branch, um Pull Request é criado para mesclar essas alterações no branch develop. Isso permite que outros membros da equipe revisem o código, forneçam feedback e contribuam para a qualidade do projeto antes de qualquer integração1.
+Pull Requests no GitHub, ou Merge Requests em outras plataformas como GitLab, são usados para revisar e discutir mudanças antes de serem integradas ao branch principal. No contexto do GitFlow, após uma feature ser finalizada em seu branch, um Pull Request é criado para mesclar essas alterações no branch develop. Isso permite que outros membros da equipe revisem o código, forneçam feedback e contribuam para a qualidade do projeto antes de qualquer integração.
+
+# __Questão G__
+
+* __Versionamento Semântico__:
+
+É um sistema de versionamento de software que visa facilitar o gerenciamento de dependências em projetos de software. Seguindo o SemVer, os números de versão são atribuídos e incrementados de acordo com as mudanças feitas no código e o impacto que elas têm na compatibilidade.
+
+Uma versão é composta por três números: MAJOR.MINOR.PATCH. Aqui está o que cada um representa:
+
+MAJOR: incrementado quando são feitas mudanças incompatíveis na API.
+MINOR: incrementado quando são adicionadas funcionalidades mantendo compatibilidade.
+PATCH: incrementado quando são feitas correções de falhas mantendo compatibilidade.
+
+Além disso, rótulos adicionais para pré-lançamento e metadados de construção estão disponíveis como extensão ao formato básico.
+
+O objetivo do SemVer é comunicar claramente a natureza das mudanças de uma versão para outra, ajudando desenvolvedores a entender as implicações de atualizar um pacote.
+
