@@ -25,3 +25,14 @@ No back-end, escolhemos o Python, uma linguagem de programação de alto nível 
 * __Experiência da Equipe__: 
 
 Nossa equipe possui conhecimentos básicos e fundamentais em JavaScript e Python, linguagens essenciais para o desenvolvimento moderno de software. Reconhecemos a importância de aprofundar nosso conhecimento nessas linguagens para impulsionar a eficiência e a qualidade do nosso projeto.
+
+# __Questão C__
+
+* __Frameworks do Projeto__:
+
+No front-end, optamos pelo JavaScript com o framework Vue.js, enquanto no back-end, escolhemos Python com o framework Django.
+
+Vue.js é uma escolha excelente para o front-end devido à sua abordagem progressiva e adaptável. Ele permite que nossa equipe construa interfaces de usuário interativas e dinâmicas com facilidade. A integração do Vue.js com outras bibliotecas ou projetos existentes é simplificada, o que nos permite ser ágeis e responsivos às necessidades do projeto. Além disso, a documentação abrangente e a comunidade de suporte tornam o aprendizado e a resolução de problemas uma experiência suave.
+
+No back-end, Django, um framework de alto nível baseado em Python, é nossa escolha devido à sua “bateria inclusa”. Ele vem com uma série de funcionalidades integradas, como autenticação de usuários, painéis administrativos e ORM (Object-Relational Mapping), que aceleram o desenvolvimento e permitem que nos concentremos na lógica de negócios única do nosso projeto. Python, sendo uma linguagem de programação de alto nível, é conhecido por sua legibilidade e sintaxe clara, o que facilita a manutenção e colaboração no código.
+
