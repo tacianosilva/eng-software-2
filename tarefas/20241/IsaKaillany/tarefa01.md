@@ -46,3 +46,8 @@ O Visual Studio Code oferece integração nativa com sistemas de controle de ver
 - Controle de Ramificações
 - Visualização de Diferenças
 - Suporte a Extensões de Controle de Versão
+
+### Link de CRUD
+[Django 4 - CRUD completo em ~30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
+
+Os tutoriais acima cobrem o processo de criação, listagem, edição e remoção de objetos no django desde a criação de um novo app, passando pela definição de modelos no models.py e pela lógica implementada nas views, e indo até a renderização desses dados no html. 
