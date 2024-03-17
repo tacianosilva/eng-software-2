@@ -51,3 +51,16 @@ ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 ## Link de CRUD </br>
 > [Django 4 CRUD completo em ~30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
 > O tutorial mencionado aborda o ciclo completo de operações no Django, desde a criação e gerenciamento de aplicativos até a definição de modelos no arquivo models.py, a implementação da lógica nas views e a renderização dos dados em HTML.  </br>
+
+## branches e pull request </br>
+#### Usando git e github com o GitFlow
+##### Branches (Ramos):
+> Em Git, um branch é uma linha de desenvolvimento independente que diverge do branch principal (normalmente chamado de "master" ou "main"). Cada branch pode conter seu próprio conjunto de commits, alterações e histórico de código. O uso de branches permite que os desenvolvedores trabalhem em novas funcionalidades, correções de bugs ou outras tarefas sem interferir no código existente. No GitFlow, os tipos mais comuns de branches são:
+
+ > * Branch Principal (Main): Este é o branch principal do repositório, contendo o código estável e pronto para produção. No GitFlow, este branch é frequentemente chamado de "main".
+
+> * Branch de Desenvolvimento (Development): Este branch é usado para integrar todas as novas funcionalidades e alterações que ainda estão em desenvolvimento. No GitFlow, este branch é frequentemente chamado de "develop".
+
+> * Feature Branches (Ramos de Funcionalidade): Esses branches são criados a partir do branch de desenvolvimento para trabalhar em novas funcionalidades. Eles são usados para isolar o trabalho em uma determinada funcionalidade antes de serem mesclados de volta ao branch de desenvolvimento.
+
+> * Release Branches (Ramos de Lançamento): Esses branches são criados a partir do branch de desenvolvimento para preparar uma versão para lançamento. Eles são usados para finalizar os últimos ajustes, correções de bugs e preparativos para o lançamento antes de serem mesclados de volta ao branch de desenvolvimento e ao branch principal.
