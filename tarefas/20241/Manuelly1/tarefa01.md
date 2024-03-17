@@ -47,3 +47,7 @@ ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 > * Visualização de Diferenças: O VS Code oferece uma visualização de diferenças integrada que permite comparar facilmente as alterações entre diferentes versões de um arquivo e revisar as alterações antes de confirmá-las.
 
 > * Suporte a Extensões de Controle de Versão: Além do Git, o VS Code suporta uma variedade de outras ferramentas de controle de versão, como SVN, Mercurial e outros, por meio de extensões disponíveis no Marketplace.
+
+## Link de CRUD </br>
+> [Django 4 CRUD completo em ~30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
+> O tutorial mencionado aborda o ciclo completo de operações no Django, desde a criação e gerenciamento de aplicativos até a definição de modelos no arquivo models.py, a implementação da lógica nas views e a renderização dos dados em HTML.  </br>
