@@ -59,3 +59,13 @@ https://www.youtube.com/watch?v=GGBzMpIAgz4
 * __Descrição__:
 
 Neste vídeo, o instrutor Gregory Pacheco apresenta uma introdução ao framework Django e, durante a aula, demonstra como realizar um CRUD completo com banco de dados. O conteúdo é voltado para aqueles que desejam aprender a criar aplicações web com Django, abordando desde a configuração inicial até operações mais complexas de banco de dados1.
+
+# __Questão F__
+
+* __Branches__: 
+
+No GitFlow, o desenvolvimento é dividido em diferentes branches para organizar e isolar o trabalho. Existem dois ramos principais: master, que contém o código de produção, e develop, que serve como uma área de integração para features1. Além desses, há branches de feature, release e hotfix. Cada feature é desenvolvida em seu próprio branch e depois mesclada de volta ao develop. Releases e hotfixes também têm seus próprios branches e seguem um ciclo de vida semelhante.
+
+* __Pull Requests__: 
+
+Pull Requests no GitHub, ou Merge Requests em outras plataformas como GitLab, são usados para revisar e discutir mudanças antes de serem integradas ao branch principal. No contexto do GitFlow, após uma feature ser finalizada em seu branch, um Pull Request é criado para mesclar essas alterações no branch develop. Isso permite que outros membros da equipe revisem o código, forneçam feedback e contribuam para a qualidade do projeto antes de qualquer integração1.
