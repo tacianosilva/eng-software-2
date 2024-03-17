@@ -78,11 +78,30 @@ Pull Requests no GitHub, ou Merge Requests em outras plataformas como GitLab, s�
 
 Uma versão é composta por três números: MAJOR.MINOR.PATCH. Aqui está o que cada um representa:
 
-* MAJOR: incrementado quando são feitas mudanças incompatíveis na API.
-* MINOR: incrementado quando são adicionadas funcionalidades mantendo compatibilidade.
-* PATCH: incrementado quando são feitas correções de falhas mantendo compatibilidade.
+MAJOR: incrementado quando são feitas mudanças incompatíveis na API.
+MINOR: incrementado quando são adicionadas funcionalidades mantendo compatibilidade.
+PATCH: incrementado quando são feitas correções de falhas mantendo compatibilidade.
 
 Além disso, rótulos adicionais para pré-lançamento e metadados de construção estão disponíveis como extensão ao formato básico.
 
 O objetivo do SemVer é comunicar claramente a natureza das mudanças de uma versão para outra, ajudando desenvolvedores a entender as implicações de atualizar um pacote.
 
+# __Questão H__
+
+* __Conventional Commits__: 
+
+São uma convenção para estruturar mensagens de commit de forma consistente e descritiva. O objetivo é criar um histórico de commit explícito que facilite a criação de ferramentas automatizadas e a comunicação entre humanos e máquinas. A especificação define um formato básico para as mensagens de commit, que inclui um tipo (como fix ou feat), um escopo opcional e uma descrição. Além disso, pode-se incluir um corpo opcional e um rodapé opcional, que é especialmente útil para indicar mudanças significativas que quebram a compatibilidade (BREAKING CHANGES).
+
+Aqui está a estrutura básica de uma mensagem de commit conforme os Conventional Commits:
+
+```
+<tipo>[escopo opcional]: <descrição>
+[corpo opcional]
+[rodapé(s) opcional(is)]
+```
+
+Por exemplo:
+
+* fix: Corrige um bug (correlaciona-se com PATCH no Versionamento Semântico).
+* feat: Introduz um novo recurso (correlaciona-se com MINOR no Versionamento Semântico).
+* BREAKING CHANGE: Indica uma mudança significativa que quebra a compatibilidade (correlaciona-se com MAJOR no Versionamento Semântico).
