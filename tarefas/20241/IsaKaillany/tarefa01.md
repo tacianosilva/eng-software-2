@@ -72,3 +72,14 @@ Os tutoriais acima cobrem o processo de criação, listagem, edição e remoçã
 - Aprovação e Mesclagem: Uma vez que o pull request tenha sido revisado, testado e aprovado, ele pode ser mesclado na branch develop. Isso incorpora as alterações da feature branch no código base e as torna disponíveis para todos os membros da equipe.
 
 - Encerramento do Pull Request: Após a mesclagem, o pull request é fechado e seu histórico permanece disponível para referência futura.
+
+### Versionamento Semântico
+O Versionamento Semântico é uma abordagem para atribuir versões aos softwares de forma consistente e significativa. Ele define um conjunto de regras e convenções para numerar as versões de um software, de modo que os desenvolvedores e usuários possam entender rapidamente o impacto das alterações em uma nova versão.
+
+As versões no Versionamento Semântico seguem o formato MAJOR.MINOR.PATCH, onde:
+
+- MAJOR: Indica mudanças incompatíveis na API. Ou seja, quando uma nova versão MAJOR é lançada, isso geralmente significa que o software teve alterações que podem quebrar a compatibilidade com versões anteriores. Por exemplo, adicionar ou remover funcionalidades de forma que o código antigo não seja mais compatível.
+
+- MINOR: Indica adições de funcionalidades, mas de forma retrocompatível. Ou seja, quando uma nova versão MINOR é lançada, isso significa que foram adicionadas novas funcionalidades, mas as APIs existentes ainda são compatíveis com as versões anteriores.
+
+- PATCH: Indica correções de bugs ou pequenas melhorias que mantêm a compatibilidade com versões anteriores. Uma versão PATCH indica que foram feitas correções de bugs ou ajustes menores que não alteram a API do software.
