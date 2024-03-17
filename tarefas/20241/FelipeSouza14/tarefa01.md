@@ -38,3 +38,6 @@ Depois que o pull request é aprovado e todas as discussões são resolvidas, o 
 
 ## Versionamento Semântico
 O Versionamento Semântico é uma abordagem para atribuir números de versão a software de forma significativa e previsível. Seguindo o padrão "X.Y.Z", onde "X" representa uma versão principal, "Y" uma versão secundária e "Z" uma versão de correção, o Versionamento Semântico especifica como incrementar esses números com base nas mudanças introduzidas no software. Isso permite que os desenvolvedores e usuários compreendam rapidamente o impacto das atualizações e ajuda na comunicação entre equipes de desenvolvimento e usuários finais.
+
+## Conventional Commits
+Os Conventional Commits são um conjunto de convenções para escrever mensagens de commit em projetos de software. Essas convenções definem um formato padronizado para as mensagens de commit, incluindo um cabeçalho que descreve sucintamente o tipo de alteração (como "feat" para novas funcionalidades, "fix" para correções de bugs, entre outros) seguido de um breve resumo. Essa abordagem facilita a compreensão do histórico de mudanças do código, automatização de tarefas, geração de notas de lançamento e colaboração em equipe.
