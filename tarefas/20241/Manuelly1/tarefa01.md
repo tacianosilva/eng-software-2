@@ -19,3 +19,6 @@ ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 >  Python é uma linguagem de programação reconhecida por sua abordagem de alto nível, interpretada e orientada a objetos, além de oferecer tipagem dinâmica. Sua sintaxe é conhecida por sua simplicidade e clareza, o que torna o desenvolvimento e compreensão do código mais acessíveis. A comunidade de desenvolvedores de Python é vasta e ativa, oferecendo recursos, tutoriais, documentação e pacotes que refletem um espírito colaborativo e de apoio mútuo. </br>
 
 > Nossa equipe possui um nível de conhecimento intermediário da linguagem.
+
+## Framework que será usado no projeto </br>
+> Django é um framework web de alto nível, escrito em Python, que incentiva o desenvolvimento rápido e limpo de aplicativos web. Foi desenvolvido para facilitar a criação de sites complexos, fornecendo uma estrutura robusta e eficiente para lidar com muitas das tarefas comuns encontradas no desenvolvimento web.
