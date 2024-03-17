@@ -17,5 +17,8 @@ Por outro lado, JavaScript é a linguagem essencial para o desenvolvimento de ap
 
 Nossa equipe apresenta um conhecimento intermediário sobre ambas as linguagens descritas acima.
 
-## Framework utilizado 🛠️
+## Framework Utilizado para Web ⏩
 Next.js é um framework de desenvolvimento web React que permite a construção de aplicações web rápidas e escaláveis. Com recursos avançados como renderização do lado do servidor e pré-renderização estática, o Next.js simplifica a criação de sites dinâmicos, proporcionando uma experiência de desenvolvimento intuitiva e eficiente.
+
+## Ambiente de Desenvolvimento Integrado 🛠️
+O Visual Studio Code (VSCode) é um editor de código-fonte altamente extensível e amplamente utilizado, oferecendo uma variedade de recursos poderosos para desenvolvedores. Suportando uma ampla gama de linguagens de programação, o VSCode se destaca por suas ferramentas integradas de debug, que permitem aos desenvolvedores inspecionar variáveis, definir pontos de interrupção e acompanhar a execução do código de forma eficiente. Além disso, sua integração nativa com sistemas de controle de versão, como Git, simplifica o fluxo de trabalho de desenvolvimento colaborativo, fornecendo recursos para visualizar e gerenciar alterações de código, criar e mesclar branches e colaborar facilmente com outros membros da equipe.
