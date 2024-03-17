@@ -16,3 +16,6 @@ Python e JavaScript são duas linguagens de programação amplamente utilizadas,
 Por outro lado, JavaScript é a linguagem essencial para o desenvolvimento de aplicações web interativas. JavaScript é indispensável para a criação de sites dinâmicos, aplicativos web e jogos online, e sua evolução constante garante que permaneça uma ferramenta crucial no arsenal de qualquer desenvolvedor web.
 
 Nossa equipe apresenta um conhecimento intermediário sobre ambas as linguagens descritas acima.
+
+## Framework utilizado 🛠️
+Next.js é um framework de desenvolvimento web React que permite a construção de aplicações web rápidas e escaláveis. Com recursos avançados como renderização do lado do servidor e pré-renderização estática, o Next.js simplifica a criação de sites dinâmicos, proporcionando uma experiência de desenvolvimento intuitiva e eficiente.
