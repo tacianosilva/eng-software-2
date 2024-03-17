@@ -36,3 +36,16 @@ Vue.js é uma escolha excelente para o front-end devido à sua abordagem progres
 
 No back-end, Django, um framework de alto nível baseado em Python, é nossa escolha devido à sua “bateria inclusa”. Ele vem com uma série de funcionalidades integradas, como autenticação de usuários, painéis administrativos e ORM (Object-Relational Mapping), que aceleram o desenvolvimento e permitem que nos concentremos na lógica de negócios única do nosso projeto. Python, sendo uma linguagem de programação de alto nível, é conhecido por sua legibilidade e sintaxe clara, o que facilita a manutenção e colaboração no código.
 
+# __Questão D__
+
+* __IDE__:
+
+O Visual Studio Code (VSCode) é uma IDE (Ambiente de Desenvolvimento Integrado) extremamente popular entre os desenvolvedores devido à sua leveza, eficiência e capacidade de personalização. Para o nosso projeto, o VSCode oferece uma série de recursos que facilitam o desenvolvimento e a manutenção do código.
+
+*__Ferramentas de Debug Integradas__: 
+
+O VSCode possui um suporte de depuração integrado excepcional, que ajuda a acelerar o ciclo de edição, compilação e depuração. Ele tem suporte de depuração embutido para o runtime do Node.js e pode depurar JavaScript, TypeScript ou qualquer outra linguagem que seja transpilada para JavaScript1. Para outras linguagens e runtimes, como Python, existem extensões de depuradores disponíveis no Marketplace do VSCode1. Além disso, o VSCode permite criar e gerenciar configurações de lançamento de depuração através de um arquivo launch.json, facilitando a personalização do processo de depuração para as necessidades específicas do projeto1.
+
+*__Controle de Versão Integrado__: 
+
+O VSCode tem um gerenciamento de controle de versão integrado e inclui suporte ao Git por padrão. Isso permite que os desenvolvedores façam commits, gerenciem branches, resolvam conflitos de merge e interajam com repositórios remotos diretamente da IDE. O ícone de Controle de Fonte na barra lateral do VSCode fornece uma visão geral das alterações atuais no repositório e permite que os desenvolvedores vejam detalhes das mudanças, façam staging e commit das alterações diretamente2. Além disso, o VSCode pode ser configurado para trabalhar com outros provedores de controle de versão através de extensões disponíveis no Marketplace.
