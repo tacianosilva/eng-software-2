@@ -8,12 +8,12 @@
 
 ## Equipe </br>
 
-MANUELLY RODRIGUES VICTOR - (https://github.com/Manuelly1)
-ISA KAILLANY SOARES PEREIRA - (https://github.com/IsaKaillany)
-FELIPE SOUZA BENÍCIO DA SILVA - (https://github.com/FelipeSouza14)
-THAMIRIS BORGES DE OLIVERA - (https://github.com/Thami03)
-MELQUE RODRIGUES DA TRINDADE SANTOS - (https://github.com/melquetrindade)
-ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
+> * MANUELLY RODRIGUES VICTOR - (https://github.com/Manuelly1)
+> * ISA KAILLANY SOARES PEREIRA - (https://github.com/IsaKaillany)
+> * FELIPE SOUZA BENÍCIO DA SILVA - (https://github.com/FelipeSouza14)
+> * THAMIRIS BORGES DE OLIVERA - (https://github.com/Thami03)
+> * MELQUE RODRIGUES DA TRINDADE SANTOS - (https://github.com/melquetrindade)
+> * ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 
 ## Linguagem de programação que será usada no projeto </br>
 >  Python é uma linguagem de programação reconhecida por sua abordagem de alto nível, interpretada e orientada a objetos, além de oferecer tipagem dinâmica. Sua sintaxe é conhecida por sua simplicidade e clareza, o que torna o desenvolvimento e compreensão do código mais acessíveis. A comunidade de desenvolvedores de Python é vasta e ativa, oferecendo recursos, tutoriais, documentação e pacotes que refletem um espírito colaborativo e de apoio mútuo. </br>
@@ -52,7 +52,7 @@ ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 > [Django 4 CRUD completo em ~30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
 > O tutorial mencionado aborda o ciclo completo de operações no Django, desde a criação e gerenciamento de aplicativos até a definição de modelos no arquivo models.py, a implementação da lógica nas views e a renderização dos dados em HTML.  </br>
 
-## branches e pull request </br>
+## Branches e pull request </br>
 #### Usando git e github com o GitFlow
 ##### Branches (Ramos):
 > Em Git, um branch é uma linha de desenvolvimento independente que diverge do branch principal (normalmente chamado de "master" ou "main"). Cada branch pode conter seu próprio conjunto de commits, alterações e histórico de código. O uso de branches permite que os desenvolvedores trabalhem em novas funcionalidades, correções de bugs ou outras tarefas sem interferir no código existente. No GitFlow, os tipos mais comuns de branches são:
