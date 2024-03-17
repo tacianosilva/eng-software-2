@@ -18,3 +18,10 @@ O projeto Sistema de Queijaria (SQ) é um sistema caracterizado por possuir dive
 
 ### [Link do repositório](https://github.com/melquetrindade/sigQueijaria)
 
+### Linguagens de programação que serão usadas no projeto
+<strong>Python</strong> é uma linguagem de programação de alto nível, interpretada, orientada a objetos e com tipagem dinâmica. Ela possui uma sintaxe simples e legível, facilitando o desenvolvimento e compreensão do código, também possui uma grande e ativa comunidade de desenvolvedores, contribuindo com recursos, tutoriais, documentação e pacotes, caracterizada pela colaboração e apoio mútuo.
+
+<strong>JavaScript</strong> é uma linguagem de programação amplamente utilizada para desenvolvimento web. Ela é conhecida por sua capacidade de tornar as páginas da web interativas e dinâmicas
+
+Nossa equipe tem conhecimento intermediário em ambas as linguagens e todos já desenvolveram projetos utilizando-as.
+
