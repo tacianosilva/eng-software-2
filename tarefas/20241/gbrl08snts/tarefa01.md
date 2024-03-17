@@ -78,9 +78,9 @@ Pull Requests no GitHub, ou Merge Requests em outras plataformas como GitLab, s�
 
 Uma versão é composta por três números: MAJOR.MINOR.PATCH. Aqui está o que cada um representa:
 
-MAJOR: incrementado quando são feitas mudanças incompatíveis na API.
-MINOR: incrementado quando são adicionadas funcionalidades mantendo compatibilidade.
-PATCH: incrementado quando são feitas correções de falhas mantendo compatibilidade.
+* MAJOR: incrementado quando são feitas mudanças incompatíveis na API.
+* MINOR: incrementado quando são adicionadas funcionalidades mantendo compatibilidade.
+* PATCH: incrementado quando são feitas correções de falhas mantendo compatibilidade.
 
 Além disso, rótulos adicionais para pré-lançamento e metadados de construção estão disponíveis como extensão ao formato básico.
 
