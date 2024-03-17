@@ -35,3 +35,8 @@ O projeto SIGApoio consiste em um sistema de gerenciamento para Apoio Pedagógic
 ### Framework utilizado:
 #### Django:
 Django é um framework de desenvolvimento web em Python, conhecido por sua capacidade de permitir a construção rápida e eficiente de aplicativos web. Possui uma comunidade fortemente ativa, bibliotecas e ferramentas que ajudam na implementação de funcionalidades comuns, como autenticação de usuários, administração de conteúdo e gerenciamento de sessões. <br> Baseado no padrão de design MTV (Model-Template-View). Com roteamento de URLs simples, templates reutilizáveis e ênfase na escalabilidade e extensibilidade, Django é uma escolha popular entre desenvolvedores que buscam uma estrutura sólida e flexível para seus projetos web.
+
+#
+### IDE utilizada:
+#### Visual Studio Code (VS Code)
+O Visual Studio Code (VS Code) é um editor de código-fonte leve, poderoso e altamente personalizável, desenvolvido pela Microsoft. Ele se tornou um dos editores de código mais populares entre desenvolvedores devido à sua interface intuitiva, extensibilidade e ampla gama de recursos. Oferece ferramentas integradas de debug e controle de versão. <br> Para debug, ele suporta pontos de interrupção, inspeção de variáveis e console interativo. <br> Para controle de versão, tem uma interface intuitiva para o Git, indicadores visuais de alterações e integração com o GitHub. <br> Em resumo, o Visual Studio Code oferece ferramentas de debug poderosas e uma integração perfeita com sistemas de controle de versão, tornando-o uma escolha popular entre desenvolvedores para projetos de software de qualquer tamanho.
