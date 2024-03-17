@@ -24,3 +24,9 @@ O projeto SIGApoio consiste em um sistema de gerenciamento para Apoio Pedagógic
 - [Thomas Almeida de Souza Farias](https://github.com/tgo-mas)
 
 ### Repositório do projeto no GitHub: <https://github.com/tgo-mas/SIGApoio>
+
+#
+
+### Linguagem de programação utilizada:
+#### Python: 
+É uma linguagem bastante popular, de fácil aprendizado e com uma ampla comunidade garantindo seu suporte e manutenção. É versátil possuindo usos para as mais diversas situações, desde aplicações de Inteligencia Artificial, automações, analise de dados e até mesmo o desenvolvimento web, sendo este o foco desse projeto. <br> A equipe possui um domínio intermediário da linguagem, considerando que todos já tiveram bastante contato com a mesma durante o 1º período do curso.
