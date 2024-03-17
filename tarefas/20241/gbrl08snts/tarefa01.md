@@ -49,3 +49,13 @@ O VSCode possui um suporte de depuração integrado excepcional, que ajuda a ace
 *__Controle de Versão Integrado__: 
 
 O VSCode tem um gerenciamento de controle de versão integrado e inclui suporte ao Git por padrão. Isso permite que os desenvolvedores façam commits, gerenciem branches, resolvam conflitos de merge e interajam com repositórios remotos diretamente da IDE. O ícone de Controle de Fonte na barra lateral do VSCode fornece uma visão geral das alterações atuais no repositório e permite que os desenvolvedores vejam detalhes das mudanças, façam staging e commit das alterações diretamente2. Além disso, o VSCode pode ser configurado para trabalhar com outros provedores de controle de versão através de extensões disponíveis no Marketplace.
+
+# __Questão E__
+
+* __Link do Tutorial__:
+
+https://www.youtube.com/watch?v=GGBzMpIAgz4
+
+* __Descrição__:
+
+Neste vídeo, o instrutor Gregory Pacheco apresenta uma introdução ao framework Django e, durante a aula, demonstra como realizar um CRUD completo com banco de dados. O conteúdo é voltado para aqueles que desejam aprender a criar aplicações web com Django, abordando desde a configuração inicial até operações mais complexas de banco de dados1.
