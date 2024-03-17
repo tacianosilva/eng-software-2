@@ -18,14 +18,10 @@ O Projeto tem como função principal, manter a eficiência e o controle de uma 
 
 * __Tecnologias do Projeto__: 
 
-Para o nosso projeto, decidimos utilizar um conjunto robusto de ferramentas que oferecem flexibilidade, eficiência e uma comunidade ativa de desenvolvedores. No front-end, optamos pelo JavaScript com o framework Vue.js, enquanto no back-end, escolhemos Python com o framework Django.
+Para o nosso projeto, escolhemos um conjunto robusto de ferramentas que oferecem flexibilidade, eficiência e uma comunidade ativa de desenvolvedores. No front-end, optamos pelo JavaScript, uma linguagem versátil e amplamente adotada que permite a construção de interfaces de usuário interativas e dinâmicas. A capacidade de integração do JavaScript com outras bibliotecas ou projetos existentes é um dos seus pontos fortes, permitindo que nossa equipe seja ágil e responsiva às necessidades do projeto.
 
-Vue.js é uma escolha excelente para o front-end devido à sua abordagem progressiva e adaptável. Ele permite que nossa equipe construa interfaces de usuário interativas e dinâmicas com facilidade. A integração do Vue.js com outras bibliotecas ou projetos existentes é simplificada, o que nos permite ser ágeis e responsivos às necessidades do projeto. Além disso, a documentação abrangente e a comunidade de suporte tornam o aprendizado e a resolução de problemas uma experiência suave.
-
-No back-end, Django, um framework de alto nível baseado em Python, é nossa escolha devido à sua “bateria inclusa”. Ele vem com uma série de funcionalidades integradas, como autenticação de usuários, painéis administrativos e ORM (Object-Relational Mapping), que aceleram o desenvolvimento e permitem que nos concentremos na lógica de negócios única do nosso projeto. Python, sendo uma linguagem de programação de alto nível, é conhecido por sua legibilidade e sintaxe clara, o que facilita a manutenção e colaboração no código.
+No back-end, escolhemos o Python, uma linguagem de programação de alto nível conhecida por sua legibilidade e sintaxe clara. O Python facilita a manutenção e colaboração no código, além de oferecer uma vasta gama de funcionalidades integradas que aceleram o desenvolvimento. Isso nos permite concentrar na lógica de negócios única do nosso projeto, otimizando o processo de criação de software.
 
 * __Experiência da Equipe__: 
 
-Nossa equipe possui uma base sólida em JavaScript e Python, linguagens essenciais para o desenvolvimento moderno de software. No entanto, reconhecemos que o domínio dos frameworks Vue.js e Django é fundamental para impulsionar a eficiência e a qualidade do nosso projeto.
-
-Embora nossa experiência prévia com esses frameworks fosse inexistente, iniciamos um processo de aprendizado. Estamos comprometidos em adquirir conhecimento profundo sobre Vue.js e Django, entendendo que essas ferramentas são cruciais para a construção de um produto robusto e escalável.
+Nossa equipe possui conhecimentos básicos e fundamentais em JavaScript e Python, linguagens essenciais para o desenvolvimento moderno de software. Reconhecemos a importância de aprofundar nosso conhecimento nessas linguagens para impulsionar a eficiência e a qualidade do nosso projeto.
