@@ -83,3 +83,31 @@ As versões no Versionamento Semântico seguem o formato MAJOR.MINOR.PATCH, onde
 - MINOR: Indica adições de funcionalidades, mas de forma retrocompatível. Ou seja, quando uma nova versão MINOR é lançada, isso significa que foram adicionadas novas funcionalidades, mas as APIs existentes ainda são compatíveis com as versões anteriores.
 
 - PATCH: Indica correções de bugs ou pequenas melhorias que mantêm a compatibilidade com versões anteriores. Uma versão PATCH indica que foram feitas correções de bugs ou ajustes menores que não alteram a API do software.
+
+### Conventional Commits
+Conventional Commits é uma convenção para escrever mensagens de commit em projetos de desenvolvimento de software. Ele define um padrão para estruturar mensagens de commit de forma consistente e significativa, facilitando a compreensão do propósito e do impacto de cada alteração no código.
+
+As mensagens de commit seguindo a convenção Conventional Commits geralmente têm a seguinte estrutura:
+
+```
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+```
+Onde:
+
+**Tipo:** Indica o tipo de alteração feita no commit. Alguns exemplos comuns de tipos incluem:
+
+- feat: Para uma nova funcionalidade adicionada.
+- fix: Para uma correção de bug.
+- docs: Para alterações na documentação.
+- style: Para alterações que não afetam o comportamento do código (por exemplo, formatação, ponto e vírgula ausente).
+- refactor: Para alterações que não adicionam novas funcionalidades nem corrigem bugs, mas envolvem refatoração de código existente.
+- test: Para adição ou modificação de testes.
+- chore: Para alterações relacionadas à tarefa de construção ou ferramentas de desenvolvimento.
+
+**Escopo (opcional):** O escopo opcional fornece um contexto adicional sobre a área do código afetada pela alteração.
+
+**Descrição:** Uma breve descrição da alteração feita no commit.
