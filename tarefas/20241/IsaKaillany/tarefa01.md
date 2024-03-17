@@ -51,3 +51,24 @@ O Visual Studio Code oferece integração nativa com sistemas de controle de ver
 [Django 4 - CRUD completo em ~30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
 
 Os tutoriais acima cobrem o processo de criação, listagem, edição e remoção de objetos no django desde a criação de um novo app, passando pela definição de modelos no models.py e pela lógica implementada nas views, e indo até a renderização desses dados no html. 
+
+### Branches e pull request usando o git e github com o GitFlow
+**Branches no GitFlow:**
+
+- Branch Main: No GitFlow, a branch main é considerada a branch principal e deve sempre refletir o estado estável e pronto para produção do código.
+
+- Branch Develop: A branch develop é onde o desenvolvimento ativo ocorre. Ele reflete o estado mais recente do código em desenvolvimento e é onde as novas funcionalidades são integradas antes de serem liberadas para produção.
+
+- Branches de Feature: Para desenvolver novas funcionalidades ou resolver problemas específicos, os desenvolvedores criam branches de feature a partir da branch develop. Cada feature branch é usada para trabalhar em uma única funcionalidade ou correção de bug e é mesclada de volta ao branch develop quando concluída.
+
+**Pull Requests (ou Merge Requests) com o GitHub:**
+
+- Criar um Pull Request: Quando uma funcionalidade ou correção de bug está pronta para revisão, o desenvolvedor cria um pull request no GitHub para mesclar sua feature branch de volta ao branch develop. O pull request inclui informações sobre as mudanças feitas e pode ser revisada por outros membros da equipe antes da mesclagem.
+
+- Revisão e Comentários: Outros membros da equipe revisam o código, fazem comentários e sugerem alterações, se necessário, diretamente no pull request. Isso permite uma colaboração eficiente e transparente entre os membros da equipe.
+
+- Testes Automatizados: Muitas vezes, os pull requests estão configurados para acionar testes automatizados para garantir que as alterações propostas não quebrem o código existente ou introduzam novos bugs.
+
+- Aprovação e Mesclagem: Uma vez que o pull request tenha sido revisado, testado e aprovado, ele pode ser mesclado na branch develop. Isso incorpora as alterações da feature branch no código base e as torna disponíveis para todos os membros da equipe.
+
+- Encerramento do Pull Request: Após a mesclagem, o pull request é fechado e seu histórico permanece disponível para referência futura.
