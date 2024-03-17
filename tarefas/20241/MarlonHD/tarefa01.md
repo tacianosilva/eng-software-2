@@ -30,3 +30,8 @@ O projeto SIGApoio consiste em um sistema de gerenciamento para Apoio Pedagógic
 ### Linguagem de programação utilizada:
 #### Python: 
 É uma linguagem bastante popular, de fácil aprendizado e com uma ampla comunidade garantindo seu suporte e manutenção. É versátil possuindo usos para as mais diversas situações, desde aplicações de Inteligencia Artificial, automações, analise de dados e até mesmo o desenvolvimento web, sendo este o foco desse projeto. <br> A equipe possui um domínio intermediário da linguagem, considerando que todos já tiveram bastante contato com a mesma durante o 1º período do curso.
+
+#
+### Framework utilizado:
+#### Django:
+Django é um framework de desenvolvimento web em Python, conhecido por sua capacidade de permitir a construção rápida e eficiente de aplicativos web. Possui uma comunidade fortemente ativa, bibliotecas e ferramentas que ajudam na implementação de funcionalidades comuns, como autenticação de usuários, administração de conteúdo e gerenciamento de sessões. <br> Baseado no padrão de design MTV (Model-Template-View). Com roteamento de URLs simples, templates reutilizáveis e ênfase na escalabilidade e extensibilidade, Django é uma escolha popular entre desenvolvedores que buscam uma estrutura sólida e flexível para seus projetos web.
