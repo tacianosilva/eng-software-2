@@ -73,3 +73,19 @@ ERICK BEZERRA RIBEIRO TRINDADE - (https://github.com/ErickBezerrar)
 > * Versão Menor (MINOR): Este número é incrementado quando novas funcionalidades são adicionadas de forma compatível com as versões anteriores. Indica melhorias e adições que não quebram a compatibilidade com as versões anteriores. Por exemplo, o aumento do número "0" em "2.0.0" sugere que esta é a primeira versão "menor" da versão "2".
 
 > * Versão de Correção (PATCH): Este número é incrementado para correções de bugs e melhorias menores que não afetam a compatibilidade. O "0" final em "2.0.0" indica que não houve correções de bugs ou melhorias menores desde a última versão.
+
+## Conventional Commits </br>
+> Conventional Commits é um padrão amplamente adotado em projetos de software para mensagens de commit, visando torná-las descritivas, de fácil compreensão e consistentes.
+
+Ao seguir esta convenção, a mensagem de commit é dividida em três partes:
+<tipo>[escopo]: <descrição>
+
+> Os tipos mais comuns são fix, usado para indicar correções, e feat, utilizado para novas funcionalidades. Outros tipos adicionais podem ser empregados conforme necessário para melhor atender às necessidades do projeto. Adicionalmente, quando um tipo é seguido por um ponto de exclamação, isso indica que o commit introduz uma mudança que quebra a compatibilidade com versões anteriores.
+
+> Além disso, a convenção estabelece uma estrutura para o corpo do commit, sugerindo o uso de um rodapé iniciado por BREAKING CHANGE: nos commits que causam quebra de compatibilidade.
+
+
+
+
+
+
