@@ -40,3 +40,9 @@ Django é um framework de desenvolvimento web em Python, conhecido por sua capac
 ### IDE utilizada:
 #### Visual Studio Code (VS Code)
 O Visual Studio Code (VS Code) é um editor de código-fonte leve, poderoso e altamente personalizável, desenvolvido pela Microsoft. Ele se tornou um dos editores de código mais populares entre desenvolvedores devido à sua interface intuitiva, extensibilidade e ampla gama de recursos. Oferece ferramentas integradas de debug e controle de versão. <br> Para debug, ele suporta pontos de interrupção, inspeção de variáveis e console interativo. <br> Para controle de versão, tem uma interface intuitiva para o Git, indicadores visuais de alterações e integração com o GitHub. <br> Em resumo, o Visual Studio Code oferece ferramentas de debug poderosas e uma integração perfeita com sistemas de controle de versão, tornando-o uma escolha popular entre desenvolvedores para projetos de software de qualquer tamanho.
+
+#
+### Tutorial de um CRUD em Django 
+**[CRUD Completo:](https://www.youtube.com/watch?v=GGBzMpIAgz4)** Turorial de um CRUD básico completo em um único vídeo, desde preparação do ambiente de desenvolvimento, utilização de ambientes virtuais, e o desenvolvimento do CRUD com Django.
+
+**[Curso Django:](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/)** curso gratuito, aprenda o básico sobre o Django fraemwork através de uma abordagem prática e hands on onde você desenvolverá um CRUD.
