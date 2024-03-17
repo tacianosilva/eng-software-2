@@ -25,3 +25,5 @@ O projeto Sistema de Queijaria (SQ) é um sistema caracterizado por possuir dive
 
 Nossa equipe tem conhecimento intermediário em ambas as linguagens e todos já desenvolveram projetos utilizando-as.
 
+### Frameworks que serão usados no projeto
+<strong>Django</strong> é um framework web de alto nível, escrito em Python, que incentiva o desenvolvimento rápido e limpo de aplicativos web. Foi desenvolvido para facilitar a criação de sites complexos, fornecendo uma estrutura robusta e eficiente para lidar com muitas das tarefas comuns encontradas no desenvolvimento web. 
