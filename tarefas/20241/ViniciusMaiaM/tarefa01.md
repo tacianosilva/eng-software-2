@@ -56,3 +56,16 @@ Branch se dá do termo 'ramo' ou 'filial', no contexto do controle de versão se
 
 Um pull request seria a solicitação para que um código de uma branch seja direcionado para o código da branch principal ou intermediária. Ele funciona como um mediador na junção de códigos, para que desta maneira, o código não seja sobrescrito de maneira não intencional. Antes de ser efetivado, ele precisa ser revisado e assim aceito na branch posterior.
 
+### Versionamento semântico
+
+O versionamento semântico é um padrão de atribuição de versão de software que estabelece que o número de versão de um software será composto por três partes separadas por pontos: MAJOR.MINOR.PATCH. Cada parte tem um significado específico:
+
+MAJOR: Incrementado quando são feitas alterações incompatíveis na API.
+MINOR: Incrementado quando funcionalidades são adicionadas de forma compatível com versões anteriores.
+PATCH: Incrementado quando correções de bugs são feitas de forma compatível com versões anteriores.
+
+Por exemplo: 
+
+```
+2.0.0
+``` 
