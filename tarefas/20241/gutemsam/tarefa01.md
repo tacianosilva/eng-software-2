@@ -41,3 +41,10 @@ feature: Branch para desenvolver novas funcionalidades.
 release: Branch para preparar uma versão para lançamento.
 hotfix: Branch para correção de bugs críticos em produção.
 As Pull Requests (Merge Requests) são solicitações para mesclar uma branch (por exemplo, uma feature) na branch develop ou master. Elas permitem revisão de código e discussão antes da fusão.
+
+## Versionamento Semântico
+O Versionamento Semântico é uma convenção para atribuir significado aos números de versão de um software. Segue o formato MAJOR.MINOR.PATCH, onde:
+
+MAJOR: Mudanças incompatíveis na API.
+MINOR: Adição de funcionalidades compatíveis com versões anteriores.
+PATCH: Correções de bugs compatíveis com versões anteriores.
