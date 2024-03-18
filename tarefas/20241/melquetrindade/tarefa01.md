@@ -96,3 +96,6 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft, 
 [Tutorial CRUD Django](https://awari.com.br/aprenda-a-criar-um-crud-com-python-e-django-guia-completo-para-iniciantes/)
 
 É um tutorial completo e útil para quem deseja aprender a criar um sistema CRUD em Django do zero. Ele fornece uma visão geral dos conceitos básicos do Django, bem como a estrutura básica de um projeto, explica a criar o modelo de dados, configurar o banco de dados, visualizações para o usuário e criar os templates.
+
+## Branches e Pull Request
+Uma branch é uma ramificação separada do código-fonte principal, permitindo que você trabalhe em recursos e correções separadas do código-fonte principal sem afetar diretamente o código-fonte em produção. Já o pull request é uma proposta para mesclar as alterações de um branch em outro. Em uma pull request, os colaboradores podem revisar e discutir o conjunto de alterações proposto antes de integrá-las à base de código principal. As pull requests exibem as diferenças, ou comparações, entre o conteúdo no branch de origem e aquele no branch de destino.
