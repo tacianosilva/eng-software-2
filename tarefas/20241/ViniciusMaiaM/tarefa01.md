@@ -48,3 +48,11 @@ Com a ferramenta de DEBUG integrada e as configurações necessárias, o VS Code
 
 [Tutorial Vuetify](https://www.youtube.com/watch?v=LCSQK_Gcvnk&list=PLcoYAcR89n-qZmFmfc0UGBqpN1RPn8S2m)
 
+### Branches e Pull Requests
+
+Branches e pull requests são conceitos atrelados aos sistemas de controle de versão, neste caso, o Git.
+
+Branch se dá do termo 'ramo' ou 'filial', no contexto do controle de versão seria uma cópia do código-fonte de um repositório. Essa cópia normalmente é utilizada para fazer alterações no código sem afetar o que já foi desenvolvido na branch principal, possibilitando que várias pessoas trabalhem ao mesmo tempo em um repositório sem causar conflitos no trabalho umas das outras.
+
+Um pull request seria a solicitação para que um código de uma branch seja direcionado para o código da branch principal ou intermediária. Ele funciona como um mediador na junção de códigos, para que desta maneira, o código não seja sobrescrito de maneira não intencional. Antes de ser efetivado, ele precisa ser revisado e assim aceito na branch posterior.
+
