@@ -22,3 +22,6 @@ Será utilizado python para o back-end e javascript no front-end. Meu dominio em
 ## Framework
 
 Para o front-end será utilizado o framework vue, já no back-end será utilizado o framework Django. Nos projetos que eu realizei não cheguei a ver Vue, mas devido sua fama de ser mais simples, o grupo decidiu por adota-la em nosso projeto, visando um maior entendimento.
+
+## IDE 
+A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que permitem inspecionar variáveis, definir pontos de interrupção e executar código passo a passo, além de uma integração nativa com Git, facilitando o controle de versão e a colaboração em projetos de software. Através de uma interface amigável e do suporte a uma vasta gama de extensões, o VSCode oferece uma solução completa, tornando o processo de codificação, teste e gerenciamento de mudanças mais eficiente e acessível.
