@@ -18,3 +18,7 @@
 ## Linguagem de Programação
 
 Será utilizado python para o back-end e javascript no front-end. Meu dominio em ambas é o básico/intermediário através de projetos que fiz ao longo do curso.
+
+## Framework
+
+Para o front-end será utilizado o framework vue, já no back-end será utilizado o framework Django. Nos projetos que eu realizei não cheguei a ver Vue, mas devido sua fama de ser mais simples, o grupo decidiu por adota-la em nosso projeto, visando um maior entendimento.
