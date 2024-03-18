@@ -34,3 +34,13 @@ JavaScript é uma linguagem de programação de alto nível amplamente utilizada
 ### Linguagem: Python
 
 Python é reconhecida como uma linguagem de programação de alto nível, notória por sua simplicidade e clareza. Suportando programação orientada a objetos, imperativa e funcional, Python atrai diversos desenvolvedores. Sua popularidade é impulsionada pela extensa quantidade de bibliotecas, facilitando o desenvolvimento. A equipe demonstra um conhecimento intermediário em Python, adquirido através da disciplina de Algoritmos e Lógica de Programação.
+
+### Framework
+
+No Frontend, optamos pelo framework ReactJS, amplamente empregado na criação de interfaces de usuário para aplicações web. Este framework é reconhecido por sua abordagem de componentização e pela eficiência na atualização do Document Object Model (DOM). Para o Backend, escolhemos o Django, um framework de desenvolvimento web em Python que se integra facilmente em diversos projetos.
+
+### Banco de Dados
+
+O PostgreSQL, um sistema gerenciador de banco de dados objeto relacional (SGBD). Destacando-se entre os SGBDs de código aberto, o PostgreSQL oferece recursos como consultas complexas, integridade transacional, controle de concorrência multiversão e suporte ao modelo híbrido objeto-relacional. 
+
+O Docker é uma plataforma de serviço (PaaS) que utiliza virtualização de nível de sistema operacional em contêineres. Esses contêineres são isolados uns dos outros, contendo seus próprios softwares, bibliotecas e arquivos de configuração. Com canais de comunicação bem definidos, os contêineres podem interagir entre si de forma organizada e eficiente. 
