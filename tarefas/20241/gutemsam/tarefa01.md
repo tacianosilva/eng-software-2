@@ -48,3 +48,14 @@ O Versionamento Semântico é uma convenção para atribuir significado aos núm
 MAJOR: Mudanças incompatíveis na API.
 MINOR: Adição de funcionalidades compatíveis com versões anteriores.
 PATCH: Correções de bugs compatíveis com versões anteriores.
+
+## Conventional Commits
+Conventional Commits é uma convenção para mensagens de commits em projetos de desenvolvimento de software. Ela estabelece um formato padronizado para as mensagens de commit, tornando-as mais legíveis e úteis para humanos e ferramentas automatizadas. Principais pontos:
+
+Formato da Mensagem de Commit: Deve seguir o padrão <tipo>[escopo opcional]: <descrição> [corpo opcional] [rodapé(s) opcional(is)].
+Exemplo: feat: adiciona funcionalidade de login.
+Tipos de Commit: Incluem fix para correções, feat para novas funcionalidades e BREAKING CHANGE para alterações que quebram a compatibilidade da API.
+Escopo (opcional): Fornece informações contextuais adicionais ao tipo do commit.
+Rodapés (opcional): Podem conter informações adicionais, como BREAKING CHANGE ou outras notas relevantes.
+Benefícios: Facilita a geração automática de changelogs, comunica a intenção das alterações e correlaciona-se com o versionamento semântico.
+Em resumo, Conventional Commits simplifica e padroniza as mensagens de commit, tornando o histórico do repositório mais claro e permitindo automações com base nas mensagens de commit. É uma prática recomendada para equipes de desenvolvimento.
