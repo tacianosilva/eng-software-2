@@ -63,3 +63,7 @@ Um pull request é uma solicitação para integrar as alterações de duas branc
 - Transferir uma funcionalidade do branch de Features para a Develop; 
 - Mesclar um branch de Hotfix para a Master após a correção de um novo bug; 
 - Retornar a Release para a Develop para revisão adicional do código.
+
+### Versionamento Semântico
+
+É um padrão estabelecido para atribuir números de versão a softwares, seguindo um formato composto por três números separados por pontos. O número Major, o primeiro, reflete alterações incompatíveis com versões anteriores. O segundo, o Minor, indica adições de funcionalidades compatíveis com versões anteriores. Enquanto o terceiro e último número, o patch, representa correções de bugs. 
