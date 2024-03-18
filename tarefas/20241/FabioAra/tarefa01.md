@@ -14,3 +14,10 @@ Fábio Araújo, Flávio Glaydson, Gabriel Santos, Laian Kevin e Samuel Gutemberg
 
 ## Repositório do Projeto:
 * link do projeto: https://github.com/flaviogui/TechCell-Pro
+
+## Questão B:
+
+## Linguagem do projeto
+ A linguagem escolhida para fazer o projeto será o pyton, o domínio e experiência da equipe com essa linguagem é intermediária.
+
+ 
