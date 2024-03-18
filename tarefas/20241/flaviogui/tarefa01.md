@@ -22,3 +22,8 @@ Não tenho esperiência com o vue, mas o grupo acabou escolhendo, por ser mais s
 
 ### IDE
 A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que permitem  inspecionar variáveis, definir pontos de interrupção e executar código passo a passo, além de uma integração nativa com Git, facilitando o controle de versão e a colaboração em projetos de software. Através de uma interface amigável e do suporte a uma vasta gama de extensões, o VSCode oferece uma solução completa, tornando o processo de codificação, teste e gerenciamento de mudanças mais eficiente e acessível.
+
+### Tutorial para CRUD
+- **Tutorial:** [Django 4 CRUD completo em 30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
+- **Descrição:** Nesse tutorial, é abordado desde da instalação do framework djando, como a criação de todo um CRUD completo do inicio ao fim em 30 minutos.
+
