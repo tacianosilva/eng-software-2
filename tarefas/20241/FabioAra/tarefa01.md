@@ -29,4 +29,29 @@ os framework's utilizados no projeto serão o Django e Vue.js
 ### Vue.js
 É uma biblioteca JavaScript progressiva para a construção de interfaces de usuário. Ela é usada principalmente no lado do cliente (frontend) para criar interfaces de usuário interativas e dinâmicas. 
 
+## Questão D:
+
+### IDE
+A IDE escolhida para o desenvolvimento do trablaho é o VScode (Integrated Development Environment) popular desenvolvida pela Microsoft.
+
+__ferramentas de debug__
+O VS Code possui uma poderosa funcionalidade de depuração integrada que suporta várias linguagens de programação, incluindo JavaScript, TypeScript, Python, C ++ e muitas outras. 
+
+__controle de versão__
+O VS Code tem integração direta com sistemas de controle de versão, principalmente o Git, permitindo que os desenvolvedores gerenciem seus repositórios diretamente do editor. Algumas das funcionalidades de controle de versão incluem:
+
+* Interface do usuário para Git: 
+O VS Code oferece uma interface de usuário intuitiva para realizar operações Git comuns, como commit, push, pull, merge, branch, rebase, entre outras.
+
+* Suporte a diffs: 
+Permite visualizar e revisar as diferenças entre arquivos antes de commitá-los, facilitando o controle de versão do código.
+
+* Integração com repositórios remotos: 
+Além de trabalhar com repositórios locais, o VS Code pode se integrar a repositórios remotos, como GitHub, Bitbucket e GitLab, facilitando a colaboração em projetos distribuídos.
+
+
+
+
+
+
 
