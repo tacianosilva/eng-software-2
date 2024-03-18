@@ -25,7 +25,7 @@ a gestão inteligente de futuras movimentações, permitindo previsões mais pre
 aquisição estratégica de materiais. Isso se traduz em evitar tanto a escassez quanto o
 excesso de estoque, adaptando-se dinamicamente às necessidades situacionais.
 
-**Equipe:**  
+**Equipe**  
 - Ricardo
 - Breno
 - Leonardo
@@ -37,3 +37,6 @@ excesso de estoque, adaptando-se dinamicamente às necessidades situacionais.
 [Back-end](https://github.com/leonardobezrr/sig-estoque-back-end),
 [Front-end](https://github.com/leonardobezrr/sig-estoque-front-end) e
 [Documentos](https://github.com/leonardobezrr/sig-storage.git)
+
+### Linguagem de Programação
+Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento do projeto. A equipe possui um bom domínio da linguagem, com experiência em projetos anteriores e participação em cursos relacionados.
