@@ -53,3 +53,13 @@ Optamos pelo Visual Studio Code como ambiente de desenvolvimento. Este software 
 * [Develop a Full Stack CRUD Application using Django and React JS](https://www.youtube.com/watch?v=GLm-_NwlSyE)
 
 O video mostra como é o desenvolvimento de um CRUD integrando Django e ReactJS, abordando a criação de modelos e padrões de URL no backend. Também é mostrado como fazer um formulário e gerenciar requisições para uma rest api no frontend.
+
+### Branches e Pull Request
+
+Os branches facilitam o trabalho dos desenvolvedores ao permitir que trabalhem em funcionalidades e correções de forma independente do código principal. Essa prática evita conflitos entre diferentes partes do código e possibilita que as alterações sejam desenvolvidas sem interferir no trabalho dos demais programadores. No modelo GitFlow, os branches são divididos em cinco tipos: Master, Develop, Features, Release e Hotfix. Cada tipo possui um propósito específico, contribuindo para a eficiência do fluxo de trabalho.
+
+Um pull request é uma solicitação para integrar as alterações de duas branches, proporcionando uma oportunidade para revisão e feedback, o que contribui para garantir a qualidade do código. No contexto do modelo GitFlow, os pull requests desempenham diversos papéis, como:
+
+- Transferir uma funcionalidade do branch de Features para a Develop; 
+- Mesclar um branch de Hotfix para a Master após a correção de um novo bug; 
+- Retornar a Release para a Develop para revisão adicional do código.
