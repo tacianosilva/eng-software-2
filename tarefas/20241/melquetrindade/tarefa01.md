@@ -99,3 +99,9 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft, 
 
 ## Branches e Pull Request
 Uma branch é uma ramificação separada do código-fonte principal, permitindo que você trabalhe em recursos e correções separadas do código-fonte principal sem afetar diretamente o código-fonte em produção. Já o pull request é uma proposta para mesclar as alterações de um branch em outro. Em uma pull request, os colaboradores podem revisar e discutir o conjunto de alterações proposto antes de integrá-las à base de código principal. As pull requests exibem as diferenças, ou comparações, entre o conteúdo no branch de origem e aquele no branch de destino.
+
+## Versionamento Semântico
+
+O texto discute o problema do "inferno das dependências" no gerenciamento de software, onde a adição de pacotes e atualizações pode resultar em complicações e dificuldades. Propõe-se o "Versionamento Semântico" como uma solução para esse problema, definindo um conjunto de regras para atribuir e incrementar números de versão de forma clara e consistente. Essas regras baseiam-se em práticas comuns e estabelecidas no desenvolvimento de software, como a declaração de uma API pública e a comunicação de mudanças por meio de incrementos específicos nos números de versão. 
+
+O texto destaca a importância de ter uma especificação formal para números de versão, que ajuda na comunicação de intenções e no gerenciamento de dependências. O "Versionamento Semântico" é descrito como uma maneira de tornar o inferno das dependências coisa do passado, fornecendo uma estrutura sensata para lançar e atualizar pacotes sem necessidade de atualizar para novas versões de pacotes dependentes. O texto encoraja os desenvolvedores a adotarem o "Versionamento Semântico" e a seguirem suas regras para beneficiar-se das vantagens dessa abordagem.
