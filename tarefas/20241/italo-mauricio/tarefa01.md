@@ -45,3 +45,8 @@ Essa combinação oferece o melhor dos dois mundos: a reatividade e interativida
 
 ### IDE Utilizada
 A equipe utilizará o Visual Studio Code como IDE principal. O Visual Studio Code possui integração nativa com o Git, facilitando o controle de versão. Além disso, oferece ferramentas de debug avançadas para JavaScript, incluindo breakpoints e console interativo.
+
+### Tutorial CRUD
+[Tutorial CRUD com Vue.js e Django](https://www.youtube.com/watch?v=u1M9-55IgnU)
+
+Este tutorial aborda como construir uma aplicação usando Vue.js no frontend e Django no backend. Ele guia o usuário através da criação de operações CRUD (Create, Read, Update, Delete) para gerenciar as tarefas.
