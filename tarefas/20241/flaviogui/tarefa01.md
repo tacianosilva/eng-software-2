@@ -40,3 +40,6 @@ Além dos números, pré-lançamentos e builds podem ser indicados por sufixos, 
 
 <p>O Versionamento Semântico promove uma comunicação clara sobre o impacto das mudanças, permitindo que desenvolvedores e sistemas de gerenciamento de pacotes façam escolhas mais informadas sobre a atualização de software, melhorando a compatibilidade e estabilidade de ecossistemas de software.<p>
 
+### Conventional Commits
+A especificação dos Conventional Commits propõe uma estrutura padronizada para as mensagens de commit, visando facilitar a leitura do histórico de alterações de um projeto e permitir a automação de processos como a geração de CHANGELOGs e o versionamento semântico. Basicamente, cada mensagem de commit deve começar com um tipo (fix, feat, etc.), que indica a natureza da alteração. Pode-se incluir um escopo opcional para dar mais contexto e, se for o caso, um sinalizador de BREAKING CHANGE para mudanças incompatíveis com versões anteriores. A ideia é tornar as mensagens claras e úteis tanto para humanos quanto para ferramentas automatizadas.
+
