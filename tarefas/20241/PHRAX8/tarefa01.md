@@ -48,3 +48,8 @@ O Docker é uma plataforma de serviço (PaaS) que utiliza virtualização de ní
 ### IDE
 
 Optamos pelo Visual Studio Code como ambiente de desenvolvimento. Este software conta com um depurador integrado para facilitar o processo de identificação e correção de bugs, permitindo que os desenvolvedores inspecionem o estado do aplicativo durante sua execução. Além disso, o Visual Studio Code oferece integração nativa com o Git, fornecendo uma interface gráfica intuitiva para realizar operações comuns, como commit, pull, push e merge, simplificando o fluxo de trabalho.
+
+### Exemplo de CRUD
+* [Develop a Full Stack CRUD Application using Django and React JS](https://www.youtube.com/watch?v=GLm-_NwlSyE)
+
+O video mostra como é o desenvolvimento de um CRUD integrando Django e ReactJS, abordando a criação de modelos e padrões de URL no backend. Também é mostrado como fazer um formulário e gerenciar requisições para uma rest api no frontend.
