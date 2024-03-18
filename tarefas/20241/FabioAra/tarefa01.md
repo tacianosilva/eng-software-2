@@ -55,6 +55,39 @@ Além de trabalhar com repositórios locais, o VS Code pode se integrar a reposi
 
 Basicamente o artigo mostra que para fazer um crud usando pyton de forma simples, é só instalar uma biblioteca de acesso de banco de dados, como o SQLAlchemy. Em seguida o artigo mostra como instalar a biblioteca e como usá-la.
 
+## Questão F:
+
+__Branches:__
+
+Branches em Git são ramificações do código principal que permitem que você trabalhe em funcionalidades ou correções de bugs de forma isolada, sem afetar o código principal (branch principal ou master).
+
+__Benefícios das Branches:__
+
+1- Permitem desenvolver várias funcionalidades simultaneamente.
+2- Isolam o trabalho em progresso, mantendo o código principal estável.
+3- Facilitam a colaboração em equipe, permitindo que os membros trabalhem em partes separadas do projeto sem interferir uns com os outros.
+
+__GitFlow:__
+
+No modelo GitFlow, são definidos vários tipos de branches, como master, develop, feature, release e hotfix.
+O master representa a versão estável do código em produção.
+
+*O develop é onde o desenvolvimento ativo ocorre.
+*As branches feature são usadas para desenvolver novas funcionalidades.
+*As branches release são criadas para preparar o próximo lançamento.
+*As branches hotfix são para correção de bugs críticos na produção.
+
+__Pull Requests (ou Merge Requests):__
+
+
+Um Pull Request (PR) é uma solicitação para integrar as alterações de uma branch para outra.
+Geralmente, é usado para mesclar o trabalho de uma branch de feature para a branch de desenvolvimento (develop) ou de uma branch de release para a branch master.
+
+__Benefícios dos Pull Requests:__
+
+1- Permitem revisão de código por pares, melhorando a qualidade do código.
+2- Facilitam a comunicação entre os membros da equipe sobre alterações propostas.
+3- Oferecem uma oportunidade para integração contínua e teste automatizado antes da mesclagem.
 
 
 
