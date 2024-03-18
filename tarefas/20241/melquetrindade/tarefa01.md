@@ -51,3 +51,22 @@ Isa Kaillany  | Intermediário | 2 ano
 Manuelly Rodrigues | Iniciante     | 1 ano
 Melque Rodrigues  | Intermediário | 1 ano
 Thamiris Borges | Intermediário     | 1 ano
+
+## Framework
+### Django
+
+O Django é um famoso framework de código aberto, que se destaca por oferecer um ambiente que simplifica a criação de soluções web escaláveis, ao mesmo tempo, em que promove o desenvolvimento rápido e um design limpo, proporcionando ferramentas robustas e eficientes para pessoas desenvolvedoras.
+
+Além disso, o Django foi concebido como um framework extensível, permitindo a integração de bibliotecas de terceiros para estender suas funcionalidades. Essas bibliotecas são utilizadas como um complemento ao framework e, muitas delas, são bastante populares e difundidas na comunidade, como é o caso da Django REST Framework (DRF), amplamente utilizada na construção de APIs. Esta última, inclusive, será adotada no projeto em questão.
+
+* Django promove uma abordagem de desenvolvimento rápido, fornecendo uma série de ferramentas e funcionalidades prontas para uso. Com seu sistema de administração automático, poderoso e vasta biblioteca de funcionalidades integradas, é possível criar aplicativos completos com menos código e em menos tempo.
+
+* Django é altamente escalável e foi projetado para lidar com tráfego pesado e grandes volumes de dados. Com seu sistema de cache integrado, os aplicativos Django podem escalar facilmente para atender às demandas crescentes de usuários e recursos.
+
+* Django possui uma comunidade enorme e ativa de desenvolvedores em todo o mundo. Isso resultou em uma vasta gama de recursos disponíveis, incluindo documentação detalhada, pacotes de terceiros, plugins e suporte em fóruns de discussão.
+
+* Criação de sites e aplicações web: tendo sido projetado especificamente para essa finalidade, com o Django é possível desenvolver desde simples sites informativos até sistemas complexos e interativos.
+
+* Aplicações backend para aplicativos mobile: é possível utilizar o Django para desenvolver APIs que fornecem as funcionalidades backend para aplicativos Mobile.
+
+* Construção de APIs: embora o Django seja mais comumente utilizado para a criação de sites e aplicações web, ele também fornece todas as ferramentas necessárias para criar APIs.
