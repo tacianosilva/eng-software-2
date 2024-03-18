@@ -42,3 +42,6 @@ Principais características do Django incluem:
 Vue.js e Django podem ser usados juntos para criar aplicações web poderosas. Normalmente, Vue.js é usado para construir o frontend da aplicação, enquanto Django é usado para o backend. A comunicação entre o frontend e o backend pode ser feita através de uma API RESTful, onde Django fornece os endpoints da API e Vue.js consome esses endpoints para exibir dados na interface do usuário.
 
 Essa combinação oferece o melhor dos dois mundos: a reatividade e interatividade do Vue.js no frontend, combinada com a robustez e segurança do Django no backend. É uma escolha popular para equipes que desejam desenvolver aplicações web modernas e escaláveis.
+
+### IDE Utilizada
+A equipe utilizará o Visual Studio Code como IDE principal. O Visual Studio Code possui integração nativa com o Git, facilitando o controle de versão. Além disso, oferece ferramentas de debug avançadas para JavaScript, incluindo breakpoints e console interativo.
