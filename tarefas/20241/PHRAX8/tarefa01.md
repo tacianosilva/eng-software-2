@@ -44,3 +44,7 @@ No Frontend, optamos pelo framework ReactJS, amplamente empregado na criação d
 O PostgreSQL, um sistema gerenciador de banco de dados objeto relacional (SGBD). Destacando-se entre os SGBDs de código aberto, o PostgreSQL oferece recursos como consultas complexas, integridade transacional, controle de concorrência multiversão e suporte ao modelo híbrido objeto-relacional. 
 
 O Docker é uma plataforma de serviço (PaaS) que utiliza virtualização de nível de sistema operacional em contêineres. Esses contêineres são isolados uns dos outros, contendo seus próprios softwares, bibliotecas e arquivos de configuração. Com canais de comunicação bem definidos, os contêineres podem interagir entre si de forma organizada e eficiente. 
+
+### IDE
+
+Optamos pelo Visual Studio Code como ambiente de desenvolvimento. Este software conta com um depurador integrado para facilitar o processo de identificação e correção de bugs, permitindo que os desenvolvedores inspecionem o estado do aplicativo durante sua execução. Além disso, o Visual Studio Code oferece integração nativa com o Git, fornecendo uma interface gráfica intuitiva para realizar operações comuns, como commit, pull, push e merge, simplificando o fluxo de trabalho.
