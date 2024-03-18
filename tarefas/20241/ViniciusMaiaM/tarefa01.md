@@ -35,3 +35,16 @@ Para o frontend, o framework escolhido foi o Vue.js, um framework progressivo de
 A IDE escolhida foi o VS Code. É um editor de código genérico, o que possibilita e facilita a integração do ambiente de desenvolvimento com as linguagens e frameworks que serão utilizados durante o projeto.
 
 Com a ferramenta de DEBUG integrada e as configurações necessárias, o VS Code facilita a depuração de códigos tanto em Python quanto em TypeScript.
+
+### Tutoriais
+
+**Django**
+[Tutorial Django Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Tutorial_local_library_website)
+
+[Tutorial DRF](https://www.django-rest-framework.org/tutorial/quickstart/)
+
+**Vue**
+[Introdução Vue](https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL)
+
+[Tutorial Vuetify](https://www.youtube.com/watch?v=LCSQK_Gcvnk&list=PLcoYAcR89n-qZmFmfc0UGBqpN1RPn8S2m)
+
