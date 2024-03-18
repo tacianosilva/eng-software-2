@@ -9,7 +9,9 @@
 ### Sobre o Projeto
 
 **Título do Projeto:** TechCell-Pro
-**Descrição:** Será um projeto web de gerenciamento de assistência técnica, que será desenvolvido na disciplina de Engenharia de Software II, do curso de Sistema de Informação - UFRN. 
+**Descrição:** Será um projeto web de gerenciamento de assistência técnica, que será desenvolvido na disciplina de Engenharia de Software II, do curso de Sistema de Informação - UFRN. É uma plataforma de gestão de serviços de assistência técnica que automatiza o processo de atendimento a clientes que necessitam de reparos em seus aparelhos. Através deste sistema, técnicos podem cadastrar clientes e seus respectivos aparelhos, realizar diagnósticos de problemas, comunicar orçamentos e confirmar reparos, bem como gerenciar o pagamento pelos serviços prestados.
+
+ 
 - **Equipe:** Fabio Fabricio, Flávio Glaydson, Gabriel José, Laian Kevin, Samuel Gutemberg.
 - **Repositório:** [Link do Repositório](https://github.com/flaviogui/TechCell-Pro)
 
