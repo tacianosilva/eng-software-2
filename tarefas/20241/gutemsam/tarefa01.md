@@ -25,3 +25,8 @@ Para o front-end será utilizado o framework vue, já no back-end será utilizad
 
 ## IDE 
 A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que permitem inspecionar variáveis, definir pontos de interrupção e executar código passo a passo, além de uma integração nativa com Git, facilitando o controle de versão e a colaboração em projetos de software. Através de uma interface amigável e do suporte a uma vasta gama de extensões, o VSCode oferece uma solução completa, tornando o processo de codificação, teste e gerenciamento de mudanças mais eficiente e acessível.
+
+## Tutorial para CRUD
+
+buscando um tutorial de como realizar um CRUD (Create, Read, Update, Delete) usando a tecnologia escolhida para o projeto.
+*Tutorial:* [Django 4 CRUD completo es 30 minutos](https://youtu.be/GGBzMpIAgz4?si=3uraYG1RGkkogVAa) **Descrição:É um video bem completo sobre Django feito pelo youtuber Gregory Pacheco no qual ele realiza alguns exemplos durante ao longo do video.
