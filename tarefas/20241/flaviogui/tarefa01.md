@@ -14,11 +14,13 @@
 - **Repositório:** [Link do Repositório](https://github.com/flaviogui/TechCell-Pro)
 
 ### Linguagem de Programação
-Será utilizado python para o back-end e javascript no front-end, minha esperiência com essas duas linguagem é apenas de faculdade, pois estudei python no 1º semestre e javascript no 4º. Nesse sentido, irei fazer uma revisão dessas duas linguagens antes de iniciar a codar.
+Será utilizado python para o back-end e javascript no front-end, nossa esperiência com essas duas linguagem é médiana, alguns do grupo tem mais afinidade e outros não. Nesse sentido, iremos realizar, cada membro do grupo, uma revisão dessas duas linguagens antes de iniciar a codar.
 
 ### Framework
 Para o front-end será utilizado o framework Vue, já no back-end será utilizado o framework Django.
-Não tenho esperiência com o vue, mas o grupo acabou escolhendo, por ser mais simples e o rápido apredizado de todos do grupo, já o django não tenho muita esperiência, entretanto, no 1º semestre estudei python, então não será muito difícil relembrar os conhecimentos adquiridos. 
+- Vue.js é um framework JavaScript para construir interfaces de usuário interativas. É leve, modular e fácil de aprender. Vue.js usa um sistema de templates para declarar a estrutura da interface e um sistema de data binding para conectar os dados à interface. O framework também oferece diretivas e componentes para adicionar funcionalidades e interatividade à interface.
+- Django é um framework Python para desenvolvimento web completo. É rápido, seguro e escalável. Django usa o padrão Model-View-Controller (MVC) e oferece um sistema de templates para declarar a estrutura da interface. O framework também inclui ferramentas para gerenciar usuários, autenticação e autorização. 
+
 
 ### IDE
 A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que permitem  inspecionar variáveis, definir pontos de interrupção e executar código passo a passo, além de uma integração nativa com Git, facilitando o controle de versão e a colaboração em projetos de software. Através de uma interface amigável e do suporte a uma vasta gama de extensões, o VSCode oferece uma solução completa, tornando o processo de codificação, teste e gerenciamento de mudanças mais eficiente e acessível.
