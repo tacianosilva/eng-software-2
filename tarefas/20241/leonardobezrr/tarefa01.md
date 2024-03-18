@@ -50,8 +50,11 @@ A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece exce
 ### Tutorial CRUD
 Encontramos tutoriais úteis que irão nos ajudar durante o desenvolvimento do projeto. [Tutorial Node + Fastify CRUD](https://www.youtube.com/watch?v=LMoMHP44-xM). [Tutorial React](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
 
-### Branches e Pull Requests com GitFlow:
+### Branches e Pull Requests com GitFlow
 Para organização do fluxo de trabalho, estaremos utilizando o GitFlow. Isso nos permite ter branches específicas para features, releases, hotfixes, entre outras, facilitando o gerenciamento do código. Os pull requests serão utilizados para revisão de código e integração das alterações.
 
-### Versionamento Semântico:
+### Versionamento Semântico
 O Versionamento Semântico é uma abordagem para atribuir significado a versões de software. Ele define um conjunto de regras e convenções para atribuir números de versão com base nas mudanças no software. Isso facilita a compreensão do impacto das atualizações e ajuda na comunicação entre desenvolvedores e usuários.
+
+### Conventional Commits
+Conventional Commits é uma convenção para mensagens de commits que permite uma melhor compreensão das alterações realizadas no código. Ele define um formato padrão para as mensagens de commit, incluindo prefixos como fix, feat, chore, entre outros, facilitando o rastreamento de mudanças e automação de processos relacionados ao versionamento do software.
