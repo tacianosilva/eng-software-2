@@ -49,8 +49,11 @@ Permite visualizar e revisar as diferenças entre arquivos antes de commitá-los
 * Integração com repositórios remotos: 
 Além de trabalhar com repositórios locais, o VS Code pode se integrar a repositórios remotos, como GitHub, Bitbucket e GitLab, facilitando a colaboração em projetos distribuídos.
 
+## Questão E:
 
+* link de tutorial para fazer um crud usando Pyton: https://dev.to/driuzim/criando-um-crud-simples-com-python-opl
 
+Basicamente o artigo mostra que para fazer um crud usando pyton de forma simples, é só instalar uma biblioteca de acesso de banco de dados, como o SQLAlchemy. Em seguida o artigo mostra como instalar a biblioteca e como usá-la.
 
 
 
