@@ -101,4 +101,21 @@ O documento detalha especificações sobre o formato dos números de versão, a 
 
 O texto destaca a importância de uma documentação clara da API pública e argumenta que seguir essas regras pode tornar o gerenciamento de dependências mais eficiente e prevenir o "inferno das dependências". Conclui incentivando os desenvolvedores a adotarem o Versionamento Semântico e a seguir as regras propostas para melhorar a compatibilidade e facilitar o processo de atualização de software.
 
+## Questão H:
+__Resumo sobre o Conventional Commits 1.0.0__
 
+O Conventional Commits 1.0.0 é um padrão de convenção de mensagens de commit usado para padronizar as mensagens de commit em projetos de desenvolvimento de software. Ele define um conjunto de regras para estruturar as mensagens de commit de forma consistente, facilitando a compreensão do histórico de alterações e automatizando tarefas como geração de changelogs e versionamento semântico.
+
+As mensagens de commit seguem um formato predefinido, que inclui um cabeçalho, um corpo opcional e rodapé opcional. O cabeçalho deve ser conciso e descrever sucintamente a alteração realizada, enquanto o corpo fornece detalhes adicionais, se necessário. O rodapé pode conter informações como referências a problemas, tarefas ou solicitações de pull relacionadas.
+
+Além disso, o Conventional Commits define palavras-chave específicas para indicar o tipo de alteração (como "feat" para novas funcionalidades e "fix" para correções de bugs) e o escopo da alteração (por exemplo, "docs" para alterações na documentação e "ui" para alterações na interface do usuário).
+
+Ao adotar o Conventional Commits, os desenvolvedores podem melhorar a clareza e a consistência das mensagens de commit, facilitando a colaboração em equipe, revisões de código e manutenção do projeto. Essa abordagem também permite a automação de processos de desenvolvimento, como geração de notas de lançamento e versionamento semântico, tornando o fluxo de trabalho mais eficiente e transparente.
+
+__Porque utilizar Conventional Commits__
+
+* Criação automatizada de CHANGELOGs.
+* Determinar automaticamente alterações no versionamento semântico (com base nos tipos de commits).
+* Comunicar a natureza das mudanças para colegas de equipe, o público e outras partes interessadas.
+* Disparar processos de build e deploy.
+* Facilitar a contribuição de outras pessoas em seus projetos, permitindo que eles explorem um histórico de commits melhor estruturado.
