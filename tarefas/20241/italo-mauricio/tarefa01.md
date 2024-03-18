@@ -82,3 +82,17 @@ As versões são definidas no formato MAJOR.MINOR.PATCH:
 Além disso, o Versionamento Semântico permite a inclusão de identificadores adicionais de pré-lançamento (como alfa, beta, rc) e de metadados de compilação.
 
 Essa abordagem facilita a comunicação entre desenvolvedores, usuários e sistemas de automação sobre o significado e o impacto das versões de software.
+
+### Conventional Commits:
+
+Os Conventional Commits são uma convenção para estruturar as mensagens de commit em um formato padronizado, facilitando a geração de changelogs automáticos, versionamento semântico e integração com ferramentas de automação.
+
+As mensagens de commit seguem o formato:
+
+- **Tipo:** Indica a natureza da mudança (ex: feat para novas funcionalidades, fix para correções de bugs).
+- **Escopo:** Indica o contexto da mudança (opcional).
+- **Descrição:** Breve resumo da mudança.
+- **Corpo:** Detalhamento adicional da mudança (opcional).
+- **Rodapé:** Informações adicionais, como referências a issues ou quebras de compatibilidade (opcional).
+
+Os Conventional Commits ajudam a padronizar a comunicação sobre mudanças no código, melhorando a clareza e a rastreabilidade do processo de desenvolvimento.
