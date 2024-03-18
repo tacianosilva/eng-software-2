@@ -27,3 +27,6 @@ A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que 
 - **Tutorial:** [Django 4 CRUD completo em 30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4)
 - **Descrição:** Nesse tutorial, é abordado desde da instalação do framework djando, como a criação de todo um CRUD completo do inicio ao fim em 30 minutos.
 
+### Git, Branches e Pull Requests
+Usando Git e GitHub com GitFlow, os projetos são organizados em branches separadas para diferentes tarefas, como adicionar novas funcionalidades ou corrigir erros, permitindo que os desenvolvedores trabalhem sem interferir uns nos outros. Quando uma tarefa é concluída, um pull request é criado para revisar e combinar essas mudanças na branch principal, garantindo que tudo funcione bem juntos antes de finalizar. Essa estratégia ajuda a manter o projeto organizado e facilita a colaboração entre a equipe.
+
