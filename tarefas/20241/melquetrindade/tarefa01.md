@@ -89,3 +89,10 @@ O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft, 
 * Além de todas as vantagens técnicas, o Visual Studio Code também se destaca por sua comunidade ativa e engajada. A Microsoft continua aprimorando o editor e lançando atualizações frequentes, ouvindo os feedbacks dos usuários e implementando melhorias.
 
 * Recursos Poderosos e Produtividade Aumentada: O VS Code é equipado com uma série de recursos poderosos que melhoram a produtividade do desenvolvedor. Algumas das características mais notáveis incluem: IntelliSense, Depuração Integrada, Controle de Versão Integrado, Terminal Integrado.
+
+
+## Tutorial
+
+[Tutorial CRUD Django](https://awari.com.br/aprenda-a-criar-um-crud-com-python-e-django-guia-completo-para-iniciantes/)
+
+É um tutorial completo e útil para quem deseja aprender a criar um sistema CRUD em Django do zero. Ele fornece uma visão geral dos conceitos básicos do Django, bem como a estrutura básica de um projeto, explica a criar o modelo de dados, configurar o banco de dados, visualizações para o usuário e criar os templates.
