@@ -30,3 +30,14 @@ A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que 
 
 buscando um tutorial de como realizar um CRUD (Create, Read, Update, Delete) usando a tecnologia escolhida para o projeto.
 *Tutorial:* [Django 4 CRUD completo es 30 minutos](https://youtu.be/GGBzMpIAgz4?si=3uraYG1RGkkogVAa) **Descrição:É um video bem completo sobre Django feito pelo youtuber Gregory Pacheco no qual ele realiza alguns exemplos durante ao longo do video.
+
+
+## Branches e Pull requests
+
+o contexto do Git e GitHub, as branches são ramificações do código-fonte que permitem trabalhar em funcionalidades ou correções isoladamente. O GitFlow é um modelo de fluxo de trabalho que define padrões para o uso de branches:
+
+develop: Branch de desenvolvimento contínua.
+feature: Branch para desenvolver novas funcionalidades.
+release: Branch para preparar uma versão para lançamento.
+hotfix: Branch para correção de bugs críticos em produção.
+As Pull Requests (Merge Requests) são solicitações para mesclar uma branch (por exemplo, uma feature) na branch develop ou master. Elas permitem revisão de código e discussão antes da fusão.
