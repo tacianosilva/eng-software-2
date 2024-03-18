@@ -89,5 +89,16 @@ __Benefícios dos Pull Requests:__
 2- Facilitam a comunicação entre os membros da equipe sobre alterações propostas.
 3- Oferecem uma oportunidade para integração contínua e teste automatizado antes da mesclagem.
 
+## Questão G:
+
+__Resumo sobre Versionamento Semântico__
+
+O texto discute o problema do "inferno das dependências" no gerenciamento de software, onde o aumento da complexidade e do número de pacotes pode levar a dificuldades na atualização e compatibilidade entre versões. Propõe-se uma solução na forma de um conjunto de regras denominado "Versionamento Semântico", que define como os números de versão devem ser atribuídos e incrementados para transmitir significado e facilitar o gerenciamento de dependências.
+
+As regras do Versionamento Semântico são baseadas em práticas comuns tanto em softwares fechados quanto em open-source. Elas exigem a declaração de uma API pública, clara e precisa, e estabelecem padrões para incrementos nos números de versão, como correção de bugs, adição de funcionalidades compatíveis e alterações incompatíveis.
+
+O documento detalha especificações sobre o formato dos números de versão, a manipulação de versões pré-lançamento e metadados de construção, além de fornecer orientações sobre precedência entre versões. Também inclui uma seção de perguntas frequentes abordando preocupações comuns sobre o uso do Versionamento Semântico.
+
+O texto destaca a importância de uma documentação clara da API pública e argumenta que seguir essas regras pode tornar o gerenciamento de dependências mais eficiente e prevenir o "inferno das dependências". Conclui incentivando os desenvolvedores a adotarem o Versionamento Semântico e a seguir as regras propostas para melhorar a compatibilidade e facilitar o processo de atualização de software.
 
 
