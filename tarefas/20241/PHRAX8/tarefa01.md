@@ -67,3 +67,7 @@ Um pull request é uma solicitação para integrar as alterações de duas branc
 ### Versionamento Semântico
 
 É um padrão estabelecido para atribuir números de versão a softwares, seguindo um formato composto por três números separados por pontos. O número Major, o primeiro, reflete alterações incompatíveis com versões anteriores. O segundo, o Minor, indica adições de funcionalidades compatíveis com versões anteriores. Enquanto o terceiro e último número, o patch, representa correções de bugs. 
+
+### Conventional Commits
+
+Constituem uma convenção para mensagens de commit, visando padronizar a comunicação das alterações realizadas durante o desenvolvimento de um software. Esta prática segue um formato que inclui um prefixo indicativo do tipo de mudança efetuada, tais como "feat" para novas funcionalidades, "docs" para atualizações de documentação, "fix" para correções de bugs, entre outros. A adoção dessa padronização facilita a compreensão do histórico de alterações do projeto, contribuindo para uma melhor organização e comunicação entre os membros da equipe.
