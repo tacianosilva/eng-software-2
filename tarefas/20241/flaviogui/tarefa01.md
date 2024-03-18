@@ -30,3 +30,13 @@ A IDE utilizada será o VsCode. Ele possui ferramentas de debug integradas, que 
 ### Git, Branches e Pull Requests
 Usando Git e GitHub com GitFlow, os projetos são organizados em branches separadas para diferentes tarefas, como adicionar novas funcionalidades ou corrigir erros, permitindo que os desenvolvedores trabalhem sem interferir uns nos outros. Quando uma tarefa é concluída, um pull request é criado para revisar e combinar essas mudanças na branch principal, garantindo que tudo funcione bem juntos antes de finalizar. Essa estratégia ajuda a manter o projeto organizado e facilita a colaboração entre a equipe.
 
+### Versionamento Semântico
+<p>O Versionamento Semântico, ou SemVer, é uma convenção para nomear versões de software de maneira padronizada e significativa, facilitando a gestão de dependências e a compreensão de mudanças entre versões. Baseia-se em três números separados por pontos (MAJOR.MINOR.PATCH), onde:<p>
+
+- MAJOR: indica uma versão incompatível com versões anteriores, ou seja, introduz mudanças significativas que podem não ser compatíveis com código que dependia de versões anteriores.
+- MINOR: representa a adição de funcionalidades de maneira compatível com versões anteriores, ou seja, adiciona novas funcionalidades sem quebrar o código existente.
+- PATCH: é usado quando são feitas correções de bugs compatíveis com versões anteriores, ou seja, arruma erros sem adicionar novas funcionalidades ou alterar as existentes de forma significativa.
+Além dos números, pré-lançamentos e builds podem ser indicados por sufixos, permitindo a identificação de versões em desenvolvimento ou teste.
+
+<p>O Versionamento Semântico promove uma comunicação clara sobre o impacto das mudanças, permitindo que desenvolvedores e sistemas de gerenciamento de pacotes façam escolhas mais informadas sobre a atualização de software, melhorando a compatibilidade e estabilidade de ecossistemas de software.<p>
+
