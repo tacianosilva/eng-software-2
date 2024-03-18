@@ -47,5 +47,5 @@ Para agilizar o desenvolvimento, estaremos utilizando o framework React, para o 
 ### IDE
 A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
 
-### Tutorial CRUD:
+### Tutorial CRUD
 Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto. [Tutorial Node + Fastify CRUD](https://www.youtube.com/watch?v=LMoMHP44-xM). [Tutorial React](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
