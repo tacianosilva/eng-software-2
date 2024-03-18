@@ -30,3 +30,8 @@ No Backend, o framework escolhido foi o Django. Um dos membros da equipe já pos
 
 Para o frontend, o framework escolhido foi o Vue.js, um framework progressivo de JavaScript para a construção de interfaces de usuário. Ele é projetado desde o início para ser adotável de forma incremental, o que significa que pode ser facilmente integrado a projetos existentes, independentemente do tamanho. Dois dos membros do grupo já possuem experiências prévias com o Vue para desenvolvimento de projetos.
 
+### IDE - Ferramentas de DEBUG e controle de versão
+
+A IDE escolhida foi o VS Code. É um editor de código genérico, o que possibilita e facilita a integração do ambiente de desenvolvimento com as linguagens e frameworks que serão utilizados durante o projeto.
+
+Com a ferramenta de DEBUG integrada e as configurações necessárias, o VS Code facilita a depuração de códigos tanto em Python quanto em TypeScript.
