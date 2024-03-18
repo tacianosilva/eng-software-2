@@ -70,3 +70,22 @@ Além disso, o Django foi concebido como um framework extensível, permitindo a 
 * Aplicações backend para aplicativos mobile: é possível utilizar o Django para desenvolver APIs que fornecem as funcionalidades backend para aplicativos Mobile.
 
 * Construção de APIs: embora o Django seja mais comumente utilizado para a criação de sites e aplicações web, ele também fornece todas as ferramentas necessárias para criar APIs.
+
+## IDE
+### Visual Studio Code
+
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft, lançado em abril de 2015. Ele se tornou rapidamente uma das principais escolhas entre os desenvolvedores, independentemente da plataforma ou linguagem de programação que utilizem. Essa popularidade pode ser atribuída a vários fatores que destacam o VS Code em relação a outros editores de código disponíveis no mercado. Como grandes virtudes dessa IDE, temos:
+
+* Uma das principais vantagens do Visual Studio Code é sua interface intuitiva e amigável. Mesmo os desenvolvedores novatos podem se sentir confortáveis utilizando-o desde o início. Com a ajuda de extensões e temas, cada desenvolvedor pode adaptar o ambiente de trabalho de acordo com suas preferências e necessidades, criando uma experiência única e mais produtiva.
+
+* Outra característica essencial do Visual Studio Code é o suporte a uma extensa lista de linguagens de programação, desde as mais populares, como JavaScript, Python e Java, até as mais especializadas, como Go, Rust e TypeScript.
+
+* A grande força do Visual Studio Code reside em seu rico ecossistema de extensões. Os desenvolvedores podem estender a funcionalidade do editor de várias maneiras, adicionando recursos específicos para suas necessidades. Existem milhares de extensões disponíveis através do Marketplace do VS Code, abrangendo desde suporte a frameworks específicos até ferramentas de depuração e integração com sistemas de controle de versão.
+
+* Em equipes de desenvolvimento, a colaboração eficiente é crucial. O Visual Studio Code oferece integração nativa com sistemas de controle de versão, como o Git, tornando mais fácil para os desenvolvedores gerenciar e rastrear as mudanças no código-fonte.
+
+* Outra característica que tem impulsionado a popularidade do Visual Studio Code é a possibilidade de desenvolvimento remoto.
+
+* Além de todas as vantagens técnicas, o Visual Studio Code também se destaca por sua comunidade ativa e engajada. A Microsoft continua aprimorando o editor e lançando atualizações frequentes, ouvindo os feedbacks dos usuários e implementando melhorias.
+
+* Recursos Poderosos e Produtividade Aumentada: O VS Code é equipado com uma série de recursos poderosos que melhoram a produtividade do desenvolvedor. Algumas das características mais notáveis incluem: IntelliSense, Depuração Integrada, Controle de Versão Integrado, Terminal Integrado.
