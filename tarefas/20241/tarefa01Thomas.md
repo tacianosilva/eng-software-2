@@ -27,3 +27,5 @@ Framework escolhido: Django - Além de ser bem completo, possui uma sintaxe e or
 
 IDE: Visual Studio Code - Possui inúmeros recursos com as extensões. O debug é feito de forma fácil pela interface padrão do programa, além de ter integração total com o Github para controle de versão, gerência de branchs e envio de código para repositórios remotos. Outra coisa que ajuda é o terminal integrado, facilitando a elaboração de comandos e navegação nos arquivos do projeto.
 
+[CRUD em Django](https://www.youtube.com/watch?v=GGBzMpIAgz4): Esse simples tutorial nos mostra como fazer um CRUD simples de Pessoas. As pessoas têm os atributos nome e código, e são exibidas junto com um formulário simples para cadastrá-las ou editá-las.
+
