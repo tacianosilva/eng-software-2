@@ -29,3 +29,6 @@ IDE: Visual Studio Code - Possui inúmeros recursos com as extensões. O debug �
 
 [CRUD em Django](https://www.youtube.com/watch?v=GGBzMpIAgz4): Esse simples tutorial nos mostra como fazer um CRUD simples de Pessoas. As pessoas têm os atributos nome e código, e são exibidas junto com um formulário simples para cadastrá-las ou editá-las.
 
+Branches: As branches são instâncias do código de determinado repositório. Um repositório pode ter diversas branches em uma ou mais máquinas, cada branch representa uma versão diferente ou não do código daquele repositório. Todos eles têm uma branch padrão "main", da qual as outras branches irão ser derivadas. Usamos as branches para realizar mudanças localmente no código, e depois de testadas podemos 'commitar' as alterações e enviar essa branch para o repositório remoto por meio de uma pull request.
+
+Pull Requests: Estas servem como plataforma para 'misturar' (merging) duas branches. O merge consiste em acoplar ou não as mudanças de uma branch em outra, e geralmente é feito pelo analista, revisor ou tech leader do projeto. É na PR que definimos para o GitHub quem fez a tarefa, qual Issue ela representa, qual projeto ela faz parte, o feedback do review de código, catálogo de bugs ou alterações necessárias, entre outros.
