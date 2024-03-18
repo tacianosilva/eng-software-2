@@ -39,3 +39,15 @@ Segue abaixo algumas vantagens de porque utilizar Python:
 * Produtividade e rapidez de desenvolvimento: Python é conhecido por sua produtividade e rapidez de desenvolvimento. Sua sintaxe simples e recursos de alto nível permitem aos desenvolvedores criar aplicativos em menos linhas de código do que em outras linguagens, o que acelera o ciclo de desenvolvimento.
 
 Esses são alguns fatores que foram determinantes para a equipe escolher essa linguagem como a oficial para o desenvolvimento do sistema.
+
+
+### Domínio da Linguagem:
+
+Membro          | Domínio       | Experiência
+:--------------:|:-------------:|:-------:
+Erick Bezerra   | Intermediário     | 2 ano
+Felipe Souza  | Intermediário | 2 anos
+Isa Kaillany  | Intermediário | 2 ano
+Manuelly Rodrigues | Iniciante     | 1 ano
+Melque Rodrigues  | Intermediário | 1 ano
+Thamiris Borges | Intermediário     | 1 ano
