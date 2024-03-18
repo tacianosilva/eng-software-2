@@ -26,3 +26,11 @@ As casas de bordado são associações de bordadeiros profissionais que recebem 
 ### Repositório:
 
 https://github.com/GomesLuan/SigBordado.git
+
+### Linguagem: Javascript
+
+JavaScript é uma linguagem de programação de alto nível amplamente utilizada na criação de páginas web dinâmicas e interativas. Sua versatilidade permite sua execução tanto no lado do cliente quanto no lado do servidor. Ela também oferece suporte a operações assíncronas, possibilitando o processamento de tarefas como solicitações de rede sem interromper a execução do código. O conhecimento básico da equipe sobre JavaScript foi adquirido durante a disciplina de Programação Web.
+
+### Linguagem: Python
+
+Python é reconhecida como uma linguagem de programação de alto nível, notória por sua simplicidade e clareza. Suportando programação orientada a objetos, imperativa e funcional, Python atrai diversos desenvolvedores. Sua popularidade é impulsionada pela extensa quantidade de bibliotecas, facilitando o desenvolvimento. A equipe demonstra um conhecimento intermediário em Python, adquirido através da disciplina de Algoritmos e Lógica de Programação.
