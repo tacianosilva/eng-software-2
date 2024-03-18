@@ -68,3 +68,17 @@ O GitFlow é um modelo de fluxo de trabalho para o Git que define uma estrutura 
   - Uma vez aprovada, a Pull Request é mesclada no branch de destino.
 
 O GitFlow é uma metodologia poderosa para gerenciar o desenvolvimento de projetos Git, proporcionando uma estrutura organizada e transparente para toda a equipe.
+
+### Versionamento Semântico:
+
+O Versionamento Semântico é uma abordagem para atribuir significado a números de versão de software, de modo a transmitir de forma clara e consistente a natureza e o impacto das mudanças feitas em uma versão específica.
+
+As versões são definidas no formato MAJOR.MINOR.PATCH:
+
+- **MAJOR:** Incrementado quando são feitas mudanças incompatíveis na API.
+- **MINOR:** Incrementado quando são adicionadas funcionalidades de maneira retrocompatível.
+- **PATCH:** Incrementado quando são feitas correções de bugs de maneira retrocompatível.
+
+Além disso, o Versionamento Semântico permite a inclusão de identificadores adicionais de pré-lançamento (como alfa, beta, rc) e de metadados de compilação.
+
+Essa abordagem facilita a comunicação entre desenvolvedores, usuários e sistemas de automação sobre o significado e o impacto das versões de software.
