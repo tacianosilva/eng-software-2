@@ -13,3 +13,5 @@ Uma aplicação web para gerenciamento de eventos, no qual o usuário tem total 
 - **Membros:** Italo Mauricio, Tallys Aureliano, Vinicius Maia, Lucas Mateus, Dayanne Xavier.
 - **Repositório:** [(https://github.com/tallysdev/eventSync)]
 
+### Linguagem de Programação
+O back-end do projeto será desenvolvido em Django, o front-end será desenvolvido em Vue.js e o SGBD utilizado será o PostGreSQL
