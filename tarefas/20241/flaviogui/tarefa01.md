@@ -14,7 +14,7 @@
 - **Repositório:** [Link do Repositório](https://github.com/flaviogui/TechCell-Pro)
 
 ### Linguagem de Programação
-Será utilizado python para o back-end e javascript no front-end, nossa esperiência com essas duas linguagem é médiana, alguns do grupo tem mais afinidade e outros não. Nesse sentido, iremos realizar, cada membro do grupo, uma revisão dessas duas linguagens antes de iniciar a codar.
+Será utilizado python para o back-end e javascript no front-end, nossa esperiência com essas duas linguagem é mediana, alguns do grupo tem mais afinidade e outros não. Nesse sentido, iremos realizar, cada membro do grupo, uma revisão dessas duas linguagens antes de iniciar a codar.
 
 ### Framework
 Para o front-end será utilizado o framework Vue, já no back-end será utilizado o framework Django.
