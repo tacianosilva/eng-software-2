@@ -29,3 +29,13 @@ O ScheduleSphere é um sistema de gerenciamento de horários, facilitando a admi
      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" width="32"/>
     <img src="https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png" width="32"/>
 </p>
+
+
+# Matriz de Competências
+
+| Membro | Competências |
+| ------ | ------------ |
+| Felippe | Software Tester, JavaScript, Dart, C, Python |
+| José Gabriel | Developer JavaScript, React, Next.JS, MySql |
+| Davi | Software Analyst, JavaScript, Dart, C, Python |
+| Gedson | Software Tester, Gerente, Python, Django, JavaScript |
