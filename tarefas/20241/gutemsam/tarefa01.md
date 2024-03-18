@@ -14,3 +14,7 @@
 
 **Equipe:** Fabio Fabricio, Flávio Glaydson, Gabriel José, Laian Kevin, Samuel Gutemberg.
 **Repositório:** [Link do Repositório] (https://github.com/flaviogui/TechCell-Pro)
+
+## Linguagem de Programação
+
+Será utilizado python para o back-end e javascript no front-end. Meu dominio em ambas é o básico/intermediário através de projetos que fiz ao longo do curso.
