@@ -50,3 +50,21 @@ A equipe utilizará o Visual Studio Code como IDE principal. O Visual Studio Cod
 [Tutorial CRUD com Vue.js e Django](https://www.youtube.com/watch?v=u1M9-55IgnU)
 
 Este tutorial aborda como construir uma aplicação usando Vue.js no frontend e Django no backend. Ele guia o usuário através da criação de operações CRUD (Create, Read, Update, Delete) para gerenciar as tarefas.
+
+### Branches e Pull Requests com GitFlow:
+
+O GitFlow é um modelo de fluxo de trabalho para o Git que define uma estrutura clara para gerenciar branches em um projeto. Ele promove a utilização de diferentes tipos de branches para organizar o desenvolvimento de novas funcionalidades, correções de bugs, releases e hotfixes.
+
+- **Branches:**
+  - **Main:** Branch principal que reflete o estado de produção do projeto. Cada commit na branch master representa uma nova versão lançada.
+  - **Develop:** Branch de integração contínua, onde as features são mescladas antes de serem lançadas na master.
+  - **Feature:** Branches criadas a partir da develop para desenvolver novas funcionalidades. Uma vez concluídas, são mescladas de volta para a develop.
+  - **Release:** Branches criadas a partir da develop quando uma versão está pronta para ser lançada. Aqui são feitos ajustes finais antes de mesclar na master e na develop.
+  - **Hotfix:** Branches criadas a partir da master para corrigir problemas críticos em produção. Uma vez corrigidos, são mesclados de volta para a master e para a develop.
+
+- **Pull Requests (Merge Requests):**
+  - Quando uma feature ou uma release está pronta para ser integrada ao branch principal (master ou develop), uma Pull Request é aberta.
+  - A Pull Request permite revisão de código, discussão e garantia de qualidade antes de mesclar as mudanças.
+  - Uma vez aprovada, a Pull Request é mesclada no branch de destino.
+
+O GitFlow é uma metodologia poderosa para gerenciar o desenvolvimento de projetos Git, proporcionando uma estrutura organizada e transparente para toda a equipe.
