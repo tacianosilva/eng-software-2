@@ -33,3 +33,8 @@ Integração com Git: O VSCode possui suporte nativo para o controle de versão 
 Interface Amigável: A interface do VSCode é intuitiva e fácil de usar. Você pode personalizá-la com temas e extensões para atender às suas necessidades específicas.
 
 Extensões Abundantes: O VSCode suporta uma ampla variedade de extensões, desde suporte a linguagens de programação até ferramentas de produtividade. Isso permite que você adapte a IDE de acordo com o seu fluxo de trabalho.
+
+## Tutorial para CRUD
+
+buscando um tutorial de como realizar um CRUD (Create, Read, Update, Delete) usando a tecnologia escolhida para o projeto.
+Tutorial: [Django 4 CRUD completo es 30 minutos](https://youtu.be/GGBzMpIAgz4?si=3uraYG1RGkkogVAa) **Descrição:Neste video contém uma introdução ao framework Django e  um CRUD completo com banco de dados.
