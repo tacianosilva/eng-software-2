@@ -46,3 +46,17 @@ O Visual Studio Code (VS Code) é um editor de código-fonte leve, poderoso e al
 **[CRUD Completo:](https://www.youtube.com/watch?v=GGBzMpIAgz4)** Turorial de um CRUD básico completo em um único vídeo, desde preparação do ambiente de desenvolvimento, utilização de ambientes virtuais, e o desenvolvimento do CRUD com Django.
 
 **[Curso Django:](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/)** curso gratuito, aprenda o básico sobre o Django fraemwork através de uma abordagem prática e hands on onde você desenvolverá um CRUD.
+
+#
+### Branches, Pull Request com git, github e GitFlow
+Branches e pull requests são conceitos fundamentais no controle de versão com Git e plataformas de hospedagem como GitHub. O GitFlow é uma metodologia de desenvolvimento de software que utiliza esses conceitos de forma estruturada para facilitar o gerenciamento do fluxo de trabalho.
+
+#### Branches:
+No Git, um branch é uma ramificação do código-fonte principal (normalmente chamado de branch "master" ou "main"). Branches são usados para desenvolver funcionalidades isoladas, corrigir bugs ou experimentar novas ideias sem interferir no código principal. Quando você cria um branch, está essencialmente criando uma cópia do código em um estado específico, que pode ser modificado sem afetar o restante do projeto.<br>
+No GitFlow, dois tipos principais são utilizados: as branches de feature usadas para a implementação de novas funcionalidades e as branches de release usado para os ultimos testes e atualizações em preparação para o lançamento de uma nova versão.
+
+#### Pull Requests (Merge Requests):
+Um pull request (ou merge request) é uma solicitação para mesclar as alterações de um branch para outro. Por exemplo, quando você termina de desenvolver uma nova funcionalidade em um branch de feature, você abre um pull request para mesclar essas alterações de volta ao branch "develop". Permitindo que outros membros da equipe revisem as alterações, discutam, façam comentários e sugiram modificações antes que as alterações sejam incorporadas ao código principal.<br>
+Os pull requests são uma prática importante para garantir a qualidade do código e promover a colaboração entre os membros da equipe. Eles fornecem um mecanismo transparente para revisar e discutir as alterações antes de serem mescladas, ajudando a evitar problemas e conflitos no código principal.
+
+Em resumo, o GitFlow usa branches para desenvolver funcionalidades e pull requests para revisar e mesclar essas alterações de volta ao código principal, promovendo um desenvolvimento estruturado e colaborativo.
