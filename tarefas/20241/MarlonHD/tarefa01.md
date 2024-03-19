@@ -69,3 +69,19 @@ O Versionamento Semântico é um sistema padronizado para atribuir e incrementar
 - Z: Incrementado para correções de falhas mantendo compatibilidade.
 
 O Versionamento Semântico proporciona clareza na comunicação de mudanças entre desenvolvedores e usuários, facilitando o gerenciamento de dependências e garantindo uma evolução ordenada do software. Ele também inclui regras para pré-lançamento e metadados de construção, fornecendo um sistema completo para o controle de versão de software.
+
+#
+### Conventional Commits
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação.<br>
+A mensagem do commit deve ser estruturada da seguinte forma:
+~~~
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+~~~
+O commit contém os seguintes elementos estruturais, para comunicar a intenção ao utilizador da sua biblioteca:
+- **fix**: um commit do tipo fix soluciona um problema, correspondendo a incrementos PATCH(Z) no versionamento semântico.
+- **feat**: um commit do tipo feat inclui um novo recurso/funcionalidade, correspondendo a incrementos MINOR(Y) no versionamento semântico.
+- **BREAKING CHANGE**: um commit que contém no rodapé opcional o texto `BREAKING CHANGE:` Indica uma modificação que quebra a compatibilidade da API, correspondendo a incrementos MAJOR(X) no versionaento semântico.
