@@ -25,3 +25,7 @@ Vinicius Maia       |  https://github.com/ViniciusMaiaM
 
 #### No nosso projeto será usado python e typescript, os membros participantes já possuem um pouco de experiência com essas linguagens, alguns já possuem um conhecimento com elas no ambiente profissional.
 
+# Framework usado no projeto
+
+#### Iremos usar o Django, ele é um framework para quem quer ter um desenvolvimento rápido em web, ele é escrito em python, um membro da equipe já possui conhecimento em Django.
+
