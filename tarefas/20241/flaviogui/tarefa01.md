@@ -6,7 +6,9 @@
 - E-mail: <flavio.lopes.709@ufrn.edu.br>
 
 
-### Sobre o Projeto
+## Sobre o Projeto
+
+### Informações
 
 **Título do Projeto:** TechCell-Pro
 **Descrição:** Será um projeto web de gerenciamento de assistência técnica, que será desenvolvido na disciplina de Engenharia de Software II, do curso de Sistema de Informação - UFRN. É uma plataforma de gestão de serviços de assistência técnica que automatiza o processo de atendimento a clientes que necessitam de reparos em seus aparelhos. Através deste sistema, técnicos podem cadastrar clientes e seus respectivos aparelhos, realizar diagnósticos de problemas, comunicar orçamentos e confirmar reparos, bem como gerenciar o pagamento pelos serviços prestados.
