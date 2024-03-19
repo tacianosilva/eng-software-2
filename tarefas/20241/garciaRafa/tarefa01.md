@@ -10,3 +10,5 @@
 * c. O framework escolhido foi Django. Framework completo, legível e que tem o poder de integrar o front e o back-end. A equipe ainda discute a adoção de outros frameworks front-end.
 
 * d. a IDE utilizada será o Visual Studio Code. Possui total integração com o Github para controle de versão, além de ter uma grande quantidade de extensões e um debug feito de forma fácil pela interface padrão do programa.
+
+* e. O tutorial escolhido foi esse: https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/. Em poucos minutos o instrutor consegue, de maneira sucinta desenvolver um CRUD completo com 
