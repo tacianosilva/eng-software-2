@@ -29,3 +29,7 @@ Vinicius Maia       |  https://github.com/ViniciusMaiaM
 
 #### Iremos usar o Django, ele é um framework para quem quer ter um desenvolvimento rápido em web, ele é escrito em python, um membro da equipe já possui conhecimento em Django.
 
+# IDE usada no projeto
+
+#### A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
+
