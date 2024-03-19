@@ -56,4 +56,7 @@ Vinicius Maia       |  https://github.com/ViniciusMaiaM
 
 #### Aumenta quando são feitas correções de bugs ou pequenas melhorias que não alteram a funcionalidade principal do software.
 
+# Conventional Commits 
+
+#### É um conjunto de regras de como fazer commits. Ele facilita na hora de olhar o histórico de commits e saber o que foi feito em cada um.
 
