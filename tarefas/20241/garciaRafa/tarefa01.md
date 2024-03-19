@@ -11,4 +11,10 @@
 
 * d. a IDE utilizada será o Visual Studio Code. Possui total integração com o Github para controle de versão, além de ter uma grande quantidade de extensões e um debug feito de forma fácil pela interface padrão do programa.
 
-* e. O tutorial escolhido foi esse: https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/. Em poucos minutos o instrutor consegue, de maneira sucinta desenvolver um CRUD completo com 
+* e. O tutorial escolhido foi esse: https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/. Em poucos minutos o instrutor consegue, de maneira eficiente e bem explicada, desenvolver um CRUD completo.
+
+* f. 
+
+Branches são versões alternativas do seu código em um repositório Git. Eles permitem que você trabalhe em diferentes recursos, correções de bugs ou experimentos sem afetar o código principal do projeto. 
+
+Pull Requests são uma funcionalidade fornecida por plataformas de hospedagem de repositórios Git, como GitHub. Permitem que um desenvolvedor solicite a inclusão de suas alterações de código em um branch específico para outro.
