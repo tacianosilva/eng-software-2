@@ -7,4 +7,6 @@
 
 * b. A linguagem escolhida foi Python. É uma linguagem que tem uma boa curva de aprendizado, além de toda a equipe ter algum tipo de conhecimento nela.
 
-* c. O framework escolhido foi Django. Framework completo, legível e que tem o poder de integrar o front e o back-end A equipe ainda discute a adoção de outros frameworks front-end
+* c. O framework escolhido foi Django. Framework completo, legível e que tem o poder de integrar o front e o back-end. A equipe ainda discute a adoção de outros frameworks front-end.
+
+* d. a IDE utilizada será o Visual Studio Code. Possui total integração com o Github para controle de versão, além de ter uma grande quantidade de extensões e um debug feito de forma fácil pela interface padrão do programa.
