@@ -53,3 +53,15 @@ Um pull request (ou PR) é uma proposta para mesclar um conjunto de mudanças de
 Desenvolvedores usam pull requests para propor alterações no código.
 Quando você abre um pull request, está solicitando que alguém revise e integre suas mudanças no branch principal.
 É uma maneira colaborativa de discutir e revisar as alterações antes de mesclá-las definitivamente.
+
+## Versionamento Semântico
+
+O Versionamento Semântico é uma ferramenta valiosa para evitar o “inferno das dependências” e garantir um controle eficaz das versões do código, mantendo a compatibilidade e integridade nas novas publicações.
+
+API Pública: O software que utiliza o Versionamento Semântico deve declarar uma API pública. Essa API pode ser documentada ou determinada pelo próprio código, mas é importante que seja clara e precisa.
+Formato de Versão: O número de versão segue o formato X.Y.Z (Maior.Menor.Correção):
+Correção de Falhas (Bug Fixes): Incrementa a versão de Correção quando são feitas correções de falhas que não afetam a API.
+Adições/Alterações Compatíveis: Incrementa a versão Menor quando funcionalidades são adicionadas ou alterações compatíveis com versões anteriores da API.
+Alterações Incompatíveis: Incrementa a versão Maior quando são feitas alterações incompatíveis com versões anteriores da API.
+Significado dos Números de Versão:
+Os números de versão e a forma como eles mudam transmitem o significado do código subjacente e o que foi modificado de uma versão para a próxima.
