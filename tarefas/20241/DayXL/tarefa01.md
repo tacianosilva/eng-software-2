@@ -33,3 +33,7 @@ Vinicius Maia       |  https://github.com/ViniciusMaiaM
 
 #### A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
 
+# Tutorial do Django
+
+#### [Django](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction), nesse tutorial ele apresenta o django para quem nunca teve contato, é uma forma interessante de começar a entender sobre esse framework.
+
