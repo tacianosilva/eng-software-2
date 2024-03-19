@@ -11,3 +11,6 @@ Equipe formada por:
 * Rafael Garcia
 * Thomas Almeida
 <https://github.com/tgo-mas/SIGApoio/>
+
+**b** A linguagem utilizada no projeto será Python, é uma boa linguagem, relativamente fácil de se aprender
+e devido a todos os integrantes do grupo já terem utilizado ela no primeiro período do curso, todos sabem pelo menos o básico.
