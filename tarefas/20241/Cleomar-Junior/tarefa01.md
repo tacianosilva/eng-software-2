@@ -21,3 +21,5 @@ e devido a todos os integrantes do grupo já terem utilizado ela no primeiro per
 
 **e** - <https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/>
 Link de como fazer um crud completo com django.
+
+**f** - O merge é uma operação no Git que combina alterações de diferentes branches em um único branch. Isso é útil para integrar o trabalho de diferentes desenvolvedores ou funcionalidades. Uma branch (ramo) em sistemas de controle de versão, como o Git, é uma linha de desenvolvimento independente que diverge do branch principal (geralmente chamado de "master" ou "main"). Ela permite que os desenvolvedores trabalhem em novas funcionalidades, correções de bugs ou experimentos sem afetar diretamente o código no branch principal.
