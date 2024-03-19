@@ -22,3 +22,14 @@ Será utilizado python para o back-end e javascript no front-end. Durante o curs
 ## Framework
 
 Para o front-end será utilizado o framework vue, já no back-end será utilizado o framework Django. Nunca tive contato com esses frameworks, mas vou estudar para aprender a utiliza-los.
+
+## IDE 
+Usaremos o Visual Studio Code (VSCode) é uma IDE (Ambiente de Desenvolvimento Integrado) amplamente utilizado por desenvolvedores. Ele oferece uma variedade de recursos que tornam o processo de codificação mais eficiente e produtivo:
+
+Ferramentas de Debug Integradas: O VSCode permite inspecionar variáveis, definir pontos de interrupção e executar código passo a passo durante a depuração. Isso facilita a identificação e correção de erros no código.
+
+Integração com Git: O VSCode possui suporte nativo para o controle de versão Git. Isso significa que você pode gerenciar facilmente suas alterações de código, criar commits e colaborar com outros desenvolvedores em projetos compartilhados.
+
+Interface Amigável: A interface do VSCode é intuitiva e fácil de usar. Você pode personalizá-la com temas e extensões para atender às suas necessidades específicas.
+
+Extensões Abundantes: O VSCode suporta uma ampla variedade de extensões, desde suporte a linguagens de programação até ferramentas de produtividade. Isso permite que você adapte a IDE de acordo com o seu fluxo de trabalho.
