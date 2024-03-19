@@ -65,3 +65,18 @@ Adições/Alterações Compatíveis: Incrementa a versão Menor quando funcional
 Alterações Incompatíveis: Incrementa a versão Maior quando são feitas alterações incompatíveis com versões anteriores da API.
 Significado dos Números de Versão:
 Os números de versão e a forma como eles mudam transmitem o significado do código subjacente e o que foi modificado de uma versão para a próxima.
+
+## Conventional Commits
+
+Estrutura da Mensagem de Commit:
+A mensagem do commit segue o seguinte formato:
+<tipo>[escopo opcional]: <descrição>
+[corpo opcional]
+[rodapé(s) opcional(is)]
+
+O commit contém os seguintes elementos estruturais:
+fix: Soluciona um problema na base de código (correlaciona-se com PATCH do versionamento semântico).
+feat: Inclui um novo recurso na base de código (correlaciona-se com MINOR do versionamento semântico).
+BREAKING CHANGE: Introduz uma modificação que quebra a compatibilidade da API (correlaciona-se com MAJOR do versionamento semântico).
+Outros tipos adicionais são permitidos, como build, chore, ci, docs, style, refactor, perf, test, entre outros.
+Um escopo pode ser fornecido ao tipo do commit para fornecer informações contextuais adicionais.
