@@ -60,3 +60,12 @@ Um pull request (ou merge request) é uma solicitação para mesclar as alteraç
 Os pull requests são uma prática importante para garantir a qualidade do código e promover a colaboração entre os membros da equipe. Eles fornecem um mecanismo transparente para revisar e discutir as alterações antes de serem mescladas, ajudando a evitar problemas e conflitos no código principal.
 
 Em resumo, o GitFlow usa branches para desenvolver funcionalidades e pull requests para revisar e mesclar essas alterações de volta ao código principal, promovendo um desenvolvimento estruturado e colaborativo.
+
+#
+### Versionamento Semântico
+O Versionamento Semântico é um sistema padronizado para atribuir e incrementar números de versão em projetos de software. Ele segue um formato específico de X.Y.Z, onde cada parte tem um significado:
+- X: Incrementado para mudanças incompatíveis com as anteriores.
+- Y: Incrementado para adicionar funcionalidades mantendo compatibilidade.
+- Z: Incrementado para correções de falhas mantendo compatibilidade.
+
+O Versionamento Semântico proporciona clareza na comunicação de mudanças entre desenvolvedores e usuários, facilitando o gerenciamento de dependências e garantindo uma evolução ordenada do software. Ele também inclui regras para pré-lançamento e metadados de construção, fornecendo um sistema completo para o controle de versão de software.
