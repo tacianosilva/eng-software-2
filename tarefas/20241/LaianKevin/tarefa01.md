@@ -38,3 +38,18 @@ Extensões Abundantes: O VSCode suporta uma ampla variedade de extensões, desde
 
 buscando um tutorial de como realizar um CRUD (Create, Read, Update, Delete) usando a tecnologia escolhida para o projeto.
 Tutorial: [Django 4 CRUD completo es 30 minutos](https://youtu.be/GGBzMpIAgz4?si=3uraYG1RGkkogVAa) **Descrição:Neste video contém uma introdução ao framework Django e  um CRUD completo com banco de dados.
+
+## Branches e Pull requests
+
+Branches (Ramos):
+Um branch (ou ramo) é uma versão separada do código em um repositório Git.
+Quando você cria um repositório, automaticamente é criado um branch principal, geralmente chamado de master ou main.
+Branches permitem que você trabalhe em diferentes funcionalidades ou correções sem afetar o código principal.
+Você pode criar, listar, renomear e excluir branches usando comandos como git branch.
+Cada branch é apenas um ponteiro para commits, não alterando o repositório de outras formas.
+
+Pull Requests (Requisições de Mesclagem):
+Um pull request (ou PR) é uma proposta para mesclar um conjunto de mudanças de um branch para outro.
+Desenvolvedores usam pull requests para propor alterações no código.
+Quando você abre um pull request, está solicitando que alguém revise e integre suas mudanças no branch principal.
+É uma maneira colaborativa de discutir e revisar as alterações antes de mesclá-las definitivamente.
