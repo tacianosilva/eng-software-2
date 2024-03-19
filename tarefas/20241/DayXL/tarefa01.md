@@ -37,3 +37,7 @@ Vinicius Maia       |  https://github.com/ViniciusMaiaM
 
 #### [Django](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction), nesse tutorial ele apresenta o django para quem nunca teve contato, é uma forma interessante de começar a entender sobre esse framework.
 
+# Branches e pull request
+
+#### A branch é uma ramificação do código principal, ela é usada com a finalidade de facilitar que várias pessoas trabalhem no mesmo projeto sem interferir no código principal. Sendo assim, ao usar as branches precisamos do pull request para fazer com que o código que esteja nela seja mesclado com o código principal, sendo uma forma de controle para não implementar código quebrado.
+
