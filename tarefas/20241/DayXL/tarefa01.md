@@ -20,3 +20,8 @@ Tallys Aureliano    |  https://github.com/tallysdev
 Vinicius Maia       |  https://github.com/ViniciusMaiaM
 
 #### Repositório do projeto: https://github.com/tallysdev/eventSync/tree/main
+
+# Linguagem de programação usada no projeto
+
+#### No nosso projeto será usado python e typescript, os membros participantes já possuem um pouco de experiência com essas linguagens, alguns já possuem um conhecimento com elas no ambiente profissional.
+
