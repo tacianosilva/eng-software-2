@@ -14,3 +14,7 @@
 * e. O tutorial escolhido foi esse: https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/. Em poucos minutos o instrutor consegue, de maneira eficiente e bem explicada, desenvolver um CRUD completo.
 
 * f. Branches são versões alternativas do seu código em um repositório Git. Eles permitem que você trabalhe em diferentes recursos, correções de bugs ou experimentos sem afetar o código principal do projeto. Pull Requests são uma funcionalidade fornecida por plataformas de hospedagem de repositórios Git, como GitHub. Permitem que um desenvolvedor solicite a inclusão de suas alterações de código em um branch específico para outro.
+
+* g. O versionamento semântico fornece um conjunto de práticas e convenções que tornam a atribuição e compreensão de números de versão mais consistentes e significativas, promovendo uma melhor gestão e comunicação do ciclo de vida do software.
+
+* h. Conventional Commits são uma prática recomendada para melhorar a clareza, consistência e automação no gerenciamento de alterações em projetos de software.
