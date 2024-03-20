@@ -25,3 +25,16 @@ JavaScript é uma linguagem de programação de alto nível, interpretada e mult
 ## Python
 
 Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua simplicidade, legibilidade e facilidade de aprendizado. Suporta vários paradigmas de programação, incluindo programação orientada a objetos, programação imperativa e programação funcional, oferecendo grande flexibilidade na abordagem de problemas de programação. A popularidade da linguagem é impulsionada pelo seu vasto ecossistema de bibliotecas de terceiros, que permitem aos desenvolvedores aproveitar funcionalidades pré-existentes para acelerar o desenvolvimento de software. A equipe possui conhecimento intermediário na linguagem, tendo a utilizado anteriormente na disciplina de Algoritmos e Lógica de Programação, além de projetos diversos.
+
+
+### Framework
+
+Para o Frontend, será utilizado o framework ReactJS, que é comumente usado para construção de interfaces de usuário (UI), especialmente em aplicações web. O framework também é conhecido por sua abordagem de componentização e pela eficiência na atualização do DOM (Document Object Model). Para o Backend será utilizado Django, um framework de desenvolvimento web em Python que é conhecido por sua eficiência, simplicidade e escalabilidade.
+
+### Tecnologias
+
+Front-End: ReactJS
+
+Back-End: Django
+
+Banco de dados: Postgres e Docker
