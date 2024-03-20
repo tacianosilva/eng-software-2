@@ -4,7 +4,7 @@
 # Informações sobre o projeto
 
 #### Nome: SigBordado
-#### Descrição: Sistema de gerenciamento de uma casa de bordados. Projeto utilizado como forma de avaliação na disciplina Engenharia de Software II.
+#### Descrição: As casas de bordado são grupos de bordadeiros profissionais que recebem diversas demandas, como bordados em redes, toalhas, panos de prato e roupas. É crucial uma organização eficiente para evitar erros durante a confecção. O SigBordado é um sistema projetado para gerenciar essas demandas, facilitando a organização dos pedidos e sua atribuição aos clientes e bordadeiros responsáveis pela produção
 
 ## Equipe
 
