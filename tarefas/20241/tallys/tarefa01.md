@@ -39,3 +39,15 @@ Por nivel de 1 a 5, sendo 1 iniciante e 5 experiente.
 | Italo Mauricio | 5 | 1 | 1 | 1 |
 | Tallys Aureliano | 4 | 1 | 4 | 5 |
 | Vinicius Maia | 5 | 1 | 5 | 5 |
+
+### IDE usada:
+
+#### VSCODE
+As ferramentas de debug do vscode podem variar de acordo com a tecnologia, entretanto algumas bases são fixas disponibilizada pela IDE, algumas praticas de debug abordas serão inicialemte as seguintes; 
+- Estabelecendo Breakpoints: Pausando a Execução no Ponto Certo.
+- Utilizando a Console Integrada: Inspeção Dinâmica de Variáveis.
+- Watch e Expressões: Monitorando Variáveis em Tempo Real.
+
+#### Git e Github:
+Git é um software de controle de versões desenhado por Linus Torvalds, o criador do Linux. O propósito do Git é levar um registro de mudanças e coordenar o trabalho de várias pessoas em um repositório compartilhado. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle.
+
