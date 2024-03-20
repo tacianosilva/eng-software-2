@@ -16,4 +16,4 @@ Pedro Henrique      |  https://github.com/PHRAX8
 Victor Ryan         |  https://github.com/VictorRyan3612
 
 
-#### Repositório do projeto: https://github.com/tallysdev/eventSync/tree/main
+#### Repositório do projeto: https://github.com/GomesLuan/SigBordado
