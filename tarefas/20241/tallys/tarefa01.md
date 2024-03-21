@@ -51,3 +51,14 @@ As ferramentas de debug do vscode podem variar de acordo com a tecnologia, entre
 #### Git e Github:
 Git é um software de controle de versões desenhado por Linus Torvalds, o criador do Linux. O propósito do Git é levar um registro de mudanças e coordenar o trabalho de várias pessoas em um repositório compartilhado. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle.
 
+### Tutoriais de Django:
+- https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Tutorial_local_library_website
+- https://youtube.com/playlist?list=PLsTx8TSx2fHY01FnuxBdwiBiOdZdPGik7&si=bQNDEsI32bv0w989
+- https://www.django-rest-framework.org/tutorial/quickstart/
+- https://www.moesif.com/blog/technical/api-development/Django-REST-API-Tutorial/
+
+### Tutorias de Vue: 
+- https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
+- https://www.youtube.com/watch?v=LCSQK_Gcvnk&list=PLcoYAcR89n-qZmFmfc0UGBqpN1RPn8S2m
+- https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api
+
