@@ -62,3 +62,9 @@ Git é um software de controle de versões desenhado por Linus Torvalds, o criad
 - https://www.youtube.com/watch?v=LCSQK_Gcvnk&list=PLcoYAcR89n-qZmFmfc0UGBqpN1RPn8S2m
 - https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api
 
+
+### Branches:
+No Git, um branch é uma linha independente de desenvolvimento, permitindo que você trabalhe em novas funcionalidades, correções de bugs ou experimentos sem afetar o código principal. O GitFlow, em particular, define uma estrutura para o gerenciamento de branches em um projeto Git. Ele sugere a criação de diferentes tipos de branches, como "feature", "release", "hotfix", entre outros, para isolar diferentes tipos de trabalho e facilitar a colaboração entre membros da equipe. Por exemplo, uma equipe pode criar uma branch de "feature" para trabalhar em uma nova funcionalidade, enquanto a branch principal (geralmente "master" ou "main") permanece estável.
+
+### Pull Requests (ou Merge Requests):
+Um pull request (ou merge request) é uma solicitação para que as mudanças feitas em um branch sejam incorporadas ao branch principal do repositório. No contexto do GitFlow, quando uma nova funcionalidade é desenvolvida em uma branch de "feature", por exemplo, e está pronta para ser integrada ao código principal, um membro da equipe cria um pull request para revisão. Isso permite que outros membros da equipe revisem as mudanças, forneçam feedback e, se tudo estiver correto, realizem o merge das alterações na branch principal. O GitHub fornece uma interface amigável para criar e revisar pull requests, incluindo recursos como comentários, revisões de código e integração contínua, facilitando o processo de colaboração entre os membros da equipe.
