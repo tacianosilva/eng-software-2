@@ -28,3 +28,8 @@ Sistema de Gerenciamento do Apoio Pedagógico. Projeto foi criado como forma de 
 * Python (ano de lançamento : 1991), é uma linguagem de programação versátil e poderosa. Excelente para iniciantes e experientes, por ter uma curva de aprendizado ótima. Tem diversas aplicações, como Inteligência Artificial, análise de dados e desenvolvimento web. Python, possui uma escrita légivel e de fácil compreensão e interpretação, além de ser completamente gratuita. Desse modo, existem vários adeptos na comunidade da linguagem. <p>
 
 * A equipe do projeto possui uma experiência intermediária, tendo vista que utilizamos para diversas aplicações durante o 1º semestre do curso, porém a tecnologia(framework) que está sendo utilizada (django) é uma novidade para todos os participantes.
+
+# Framework a ser utilizado no projeto
+
+### Django 
+* O Django é um framework web escrito em Python e de código aberto, ele se destaca por ofertar um ambiente que facilita a criação de soluções web escaláveis e ágeis. Além disso, promove o desenvolvimento rápido e um design 'limpo', proporcionando ferramentas robustas e eficientes para desenvolvedores interessados.
