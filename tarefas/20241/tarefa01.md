@@ -33,3 +33,17 @@ Sistema de Gerenciamento do Apoio Pedagógico. Projeto foi criado como forma de 
 
 ### Django 
 * O Django é um framework web escrito em Python e de código aberto, ele se destaca por ofertar um ambiente que facilita a criação de soluções web escaláveis e ágeis. Além disso, promove o desenvolvimento rápido e um design 'limpo', proporcionando ferramentas robustas e eficientes para desenvolvedores interessados.
+
+# IDE utilizada no projeto 
+### Visual Studio Code
+
+* O Visual Studio Code (VSCode) é uma IDE de código aberto da Microsoft, disponível para Windows, macOS e Linux. Ela se destaca por sua leveza, flexibilidade e grande variedade de extensões criadas e utilizadas com o intuito de facilitar na hora do desenvolvimento, tornando-a uma excelente escolha para desenvolvedores de diferentes linguagens e plataformas.
+
+### Ferramentas de Debug: 
+* O VSCode possui ferramentas de debug integradas para diversas linguagens, como JavaScript, TypeScript, Python, C++ e Java (entre outros). 
+
+* Alguns exemplos dos recursos que se destacam: 
+    * *Pontos de interrupção* 
+    * *Console de depuração*
+    * *Pilha de chamadas*
+    * *Examinar variáveis*
