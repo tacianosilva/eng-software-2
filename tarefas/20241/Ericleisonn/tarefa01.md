@@ -76,3 +76,12 @@ Sistema de Gerenciamento do Apoio Pedagógico. Projeto foi criado como forma de 
 * Além disso, pode-se adicionar rótulos de pré-lançamento (pre-release) e metadados de build ao número de versão para indicar estágios de desenvolvimento ou compilações específicas.
 
 * O Versionamento Semântico é essencial para garantir a compatibilidade entre diferentes versões de software, facilitando a comunicação entre desenvolvedores, usuários e sistemas automatizados sobre as mudanças e atualizações implementadas.
+
+# Conventional Commits
+
+* **Conventional Commits** é uma convenção para padronizar as mensagens de commit em projetos de desenvolvimento de software. Essa convenção define um formato específico para as mensagens de commit, o que facilita a compreensão das alterações feitas no código por outros desenvolvedores, ferramentas de automação e sistemas de integração contínua.
+
+    ### Sobre o uso de Conventional Commits
+
+* O uso de Conventional Commits traz diversos benefícios, incluindo uma história de commits mais legível, facilitação na geração de changelogs automáticos, integração com ferramentas de versionamento semântico e suporte a automações de release.
+* Resumindo : Conventional Commits é uma prática que promove consistência e clareza nas mensagens de commit, contribuindo para uma melhor colaboração e gerenciamento de projetos de software.
