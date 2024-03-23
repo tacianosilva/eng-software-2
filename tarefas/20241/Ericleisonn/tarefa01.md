@@ -29,9 +29,9 @@ Sistema de Gerenciamento do Apoio Pedagógico. Projeto foi criado como forma de 
 
 * A equipe do projeto possui uma experiência intermediária, tendo vista que utilizamos para diversas aplicações durante o 1º semestre do curso, porém a tecnologia(framework) que está sendo utilizada (django) é uma novidade para todos os participantes.
 
-# Framework a ser utilizado no projeto
+# Framework a ser utilizada no projeto
 
-### Django 
+* ### Django 
 * O Django é um framework web escrito em Python e de código aberto, ele se destaca por ofertar um ambiente que facilita a criação de soluções web escaláveis e ágeis. Além disso, promove o desenvolvimento rápido e um design 'limpo', proporcionando ferramentas robustas e eficientes para desenvolvedores interessados.
 
 # IDE utilizada no projeto 
