@@ -54,3 +54,25 @@ Sistema de Gerenciamento do Apoio Pedagógico. Projeto foi criado como forma de 
 * Esse tutorial mostra em passo a passo como criar o primeiro projeto, conectar as pastas, e por fim, a criação do CRUD
 
 * [**Link para o tutorial**](https://www.javatpoint.com/django-crud-application)
+
+
+# GitFlow
+
+ * O Gitflow é um modelo alternativo de ramificação do Git que consiste no uso deramificações de recursos e várias ramificações primárias. Comparado ao desenvolvimento baseado em troncos, o Gitflow tem mais ramificações de vida longa e commits maiores. Sob este modelo, os desenvolvedores criam uma ramificação de recurso e retardam o merge com a ramificação de tronco principal até que o recurso esteja completo.
+
+## Branches
+
+* Quando começamos um projeto, sempre nos encontramos na branch Master(ou main), a branch principal, e quando estamos trabalhando sozinhos ou até mesmo em grupo, é interessante que criemos "cópias" de um momento da nossa branch principal, para podermos trabalhar com as novas features, sem afetar o código que já se encontra funcionando. 
+* Se você estiver trabalhando em um repositório compartilhado, recomendamos que você use uma branch do tópico para uma pull request. Embora você possa enviar pull requests de qualquer branch ou commit, com um branch de tópico, é possível fazer push de commits de acompanhamento caso seja preciso atualizar as alterações propostas.
+
+# Versionamento quântico
+
+* O Versionamento Semântico é uma prática utilizada no desenvolvimento de software para atribuir significado aos números de versão das bibliotecas, pacotes ou projetos. Ele segue um padrão especificado pelo Semantic Versioning (SemVer), que consiste em três números separados por pontos: MAJOR.MINOR.PATCH.
+
+  * O número MAJOR é incrementado quando são feitas alterações incompatíveis na API.
+  * O número MINOR é incrementado quando funcionalidades são adicionadas de forma compatível com versões anteriores.
+  * O número PATCH é incrementado para correção de bugs ou pequenas melhorias que não alteram a funcionalidade de forma significativa.
+
+* Além disso, pode-se adicionar rótulos de pré-lançamento (pre-release) e metadados de build ao número de versão para indicar estágios de desenvolvimento ou compilações específicas.
+
+* O Versionamento Semântico é essencial para garantir a compatibilidade entre diferentes versões de software, facilitando a comunicação entre desenvolvedores, usuários e sistemas automatizados sobre as mudanças e atualizações implementadas.
