@@ -31,4 +31,12 @@ O projeto Sistema de Queijaria (SQ) é um sistema caracterizado por possuir dive
 
 * Linguagem usada: **Python**
 
-Python é uma linguagem de programação de alto nível,[6] interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.[1] Atualmente, possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem, como um todo, não é formalmente especificada. 
+Python é uma linguagem de programação de alto nível,[6] interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.[1] Atualmente, possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem, como um todo, não é formalmente especificada.
+
+* * *
+
+## Framework
+
+* Framework usado: **Django**
+
+O Django é um framework popular para o desenvolvimento rápido de aplicações web, sendo escrito em Python e seguindo o padrão model-template-view (MTV). Sua origem remonta ao uso inicial como um sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Posteriormente, evoluiu para um projeto de código aberto e foi lançado sob a licença BSD em 2005. O nome Django foi uma homenagem ao renomado músico de jazz Django Reinhardt.
