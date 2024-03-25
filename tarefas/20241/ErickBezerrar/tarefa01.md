@@ -48,3 +48,10 @@ O Django é um framework popular para o desenvolvimento rápido de aplicações 
 * IDE usada: **Visual Studio Code(VsCode)**
 
 O Visual Studio Code é um editor de código-fonte amplamente utilizado, desenvolvido pela Microsoft para ser compatível com os sistemas operacionais Windows, Linux e macOS. Oferece uma variedade de recursos, como suporte para depuração, integração nativa com o Git para controle de versionamento, destaque de sintaxe, conclusão automática de código, snippets e ferramentas de refatoração de código. Além disso, é altamente customizável, permitindo que os usuários personalizem o tema do editor, atalhos de teclado e preferências de acordo com suas necessidades. Embora seja distribuído oficialmente sob uma licença proprietária, o Visual Studio Code é um software livre e de código aberto.
+
+
+## Tutorial CRUD
+
+* Link: https://www.youtube.com/watch?v=GGBzMpIAgz4
+
+Criação de CRUD completo. CRUD é um acrônimo que representa as quatro operações básicas realizadas em sistemas que lidam com dados persistentes: Create (Criação), Read (Leitura), Update (Atualização) e Delete (Remoção). Essas operações são fundamentais em sistemas de gerenciamento de bancos de dados e são usadas para manipular dados de forma eficiente e organizada.
