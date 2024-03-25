@@ -40,3 +40,11 @@ Python é uma linguagem de programação de alto nível,[6] interpretada de scri
 * Framework usado: **Django**
 
 O Django é um framework popular para o desenvolvimento rápido de aplicações web, sendo escrito em Python e seguindo o padrão model-template-view (MTV). Sua origem remonta ao uso inicial como um sistema para gerenciar um site jornalístico na cidade de Lawrence, no Kansas. Posteriormente, evoluiu para um projeto de código aberto e foi lançado sob a licença BSD em 2005. O nome Django foi uma homenagem ao renomado músico de jazz Django Reinhardt.
+
+* * *
+
+## IDE
+
+* IDE usada: **Visual Studio Code(VsCode)**
+
+O Visual Studio Code é um editor de código-fonte amplamente utilizado, desenvolvido pela Microsoft para ser compatível com os sistemas operacionais Windows, Linux e macOS. Oferece uma variedade de recursos, como suporte para depuração, integração nativa com o Git para controle de versionamento, destaque de sintaxe, conclusão automática de código, snippets e ferramentas de refatoração de código. Além disso, é altamente customizável, permitindo que os usuários personalizem o tema do editor, atalhos de teclado e preferências de acordo com suas necessidades. Embora seja distribuído oficialmente sob uma licença proprietária, o Visual Studio Code é um software livre e de código aberto.
