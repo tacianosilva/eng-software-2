@@ -90,7 +90,18 @@ Ao adotar o Versionamento Semântico, torna-se possível especificar dependênci
 
 Quando novas versões da Escada, como 3.1.1 e 3.2.0, são lançadas, você pode atualizá-las em seu sistema de gerenciamento de pacotes com a certeza de que serão compatíveis com o software dependente existente. Como desenvolvedor responsável, é importante garantir que qualquer atualização de pacote funcione conforme anunciado. O Versionamento Semântico fornece uma maneira sensata de lançar e atualizar pacotes, economizando tempo e evitando problemas ao atualizar para novas versões de pacotes dependentes.
 
+ * * *
+  
+##  Conventional Commits
 
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.
 
+O commit contém os seguintes elementos estruturais, para comunicar a intenção ao utilizador da sua biblioteca:
 
+* fix: um commit do tipo fix soluciona um problema na sua base de código (isso se correlaciona com PATCH do versionamento semântico).
 
+* feat: um commit do tipo feat inclui um novo recurso na sua base de código (isso se correlaciona com MINOR do versionamento semântico).
+
+* BREAKING CHANGE: um commit que contém no rodapé opcional o texto BREAKING CHANGE:, ou contém o símbolo ! depois do tipo/escopo, introduz uma modificação que quebra a compatibilidade da API (isso se correlaciona com MAJOR do versionamento semântico). Uma BREAKING CHANGE pode fazer parte de commits de qualquer tipo.
+* Outros tipos adicionais são permitidos além de fix: e feat:, por exemplo @commitlint/config-conventional (baseado na Convenção do Angular) recomenda-se build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, entre outros.
+* Outros rodapés diferentes de BREAKING CHANGE: <descrição> podem ser providos e seguem a convenção simular a git trailer format.
