@@ -78,3 +78,19 @@ Um pull request, também conhecido como merge request em algumas plataformas, é
 Ao abrir um pull request, você pode revisar as alterações, discutir e colaborar com outros desenvolvedores antes de mesclar as mudanças na branch de destino.
 O GitHub fornece uma interface amigável para gerenciar pull requests, permitindo revisões de código, comentários, testes automatizados e ações de integração contínua antes da mesclagem.
 O GitFlow é um modelo flexível que ajuda a organizar e facilitar o desenvolvimento colaborativo, fornecendo uma estrutura clara para trabalhar com branches, pull requests e fluxos de trabalho de desenvolvimento.
+
+* * *
+
+## Versionamento Semântico
+
+
+O Versionamento Semântico é uma abordagem crucial para gerenciar as versões de software de forma significativa e consistente. Sem seguir uma especificação formal, os números de versão perdem sua utilidade no gerenciamento de dependências. Ao dar nomes claros e definir conceitos precisos ao versionamento, torna-se mais fácil comunicar as intenções aos usuários do software.
+
+Ao adotar o Versionamento Semântico, torna-se possível especificar dependências de forma flexível, mas com limites bem definidos. Por exemplo, se o Caminhão de Bombeiros requer funcionalidades introduzidas na versão 3.1.0 da Escada, você pode declarar a dependência da Escada como sendo maior ou igual a 3.1.0, mas menor que 4.0.0. Isso garante compatibilidade com versões existentes do software dependente.
+
+Quando novas versões da Escada, como 3.1.1 e 3.2.0, são lançadas, você pode atualizá-las em seu sistema de gerenciamento de pacotes com a certeza de que serão compatíveis com o software dependente existente. Como desenvolvedor responsável, é importante garantir que qualquer atualização de pacote funcione conforme anunciado. O Versionamento Semântico fornece uma maneira sensata de lançar e atualizar pacotes, economizando tempo e evitando problemas ao atualizar para novas versões de pacotes dependentes.
+
+
+
+
+
