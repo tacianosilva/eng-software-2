@@ -49,9 +49,32 @@ O Django é um framework popular para o desenvolvimento rápido de aplicações 
 
 O Visual Studio Code é um editor de código-fonte amplamente utilizado, desenvolvido pela Microsoft para ser compatível com os sistemas operacionais Windows, Linux e macOS. Oferece uma variedade de recursos, como suporte para depuração, integração nativa com o Git para controle de versionamento, destaque de sintaxe, conclusão automática de código, snippets e ferramentas de refatoração de código. Além disso, é altamente customizável, permitindo que os usuários personalizem o tema do editor, atalhos de teclado e preferências de acordo com suas necessidades. Embora seja distribuído oficialmente sob uma licença proprietária, o Visual Studio Code é um software livre e de código aberto.
 
+* * *
 
 ## Tutorial CRUD
 
 * Link: https://www.youtube.com/watch?v=GGBzMpIAgz4
 
 Criação de CRUD completo. CRUD é um acrônimo que representa as quatro operações básicas realizadas em sistemas que lidam com dados persistentes: Create (Criação), Read (Leitura), Update (Atualização) e Delete (Remoção). Essas operações são fundamentais em sistemas de gerenciamento de bancos de dados e são usadas para manipular dados de forma eficiente e organizada.
+
+* * *
+
+## Branches e Pull request 
+
+Branches e pull requests são conceitos fundamentais no uso do Git e do GitHub, especialmente quando seguindo o GitFlow, um modelo de fluxo de trabalho popular para colaboração em projetos de desenvolvimento de software. Aqui está uma explicação sobre cada um desses elementos:
+
+Branches (ramificações):
+
+No Git, uma ramificação é uma linha de desenvolvimento independente que permite que você trabalhe em novas funcionalidades, correções de bugs ou outras alterações sem afetar diretamente a branch principal do projeto (normalmente a branch main ou master).
+Com o GitFlow, são comuns várias branches, incluindo:
+main ou master: representa a branch principal do projeto, onde o código estável e pronto para produção é mantido.
+develop: uma branch de desenvolvimento onde as novas funcionalidades são integradas e testadas antes de serem mescladas na branch principal.
+feature branches: criadas a partir da branch develop, são usadas para desenvolver novas funcionalidades ou fazer alterações específicas.
+release branches: criadas a partir da branch develop, são usadas para preparar e testar o código para uma versão de lançamento.
+hotfix branches: criadas a partir da branch main ou master, são usadas para corrigir bugs críticos em produção.
+Pull Request (Merge Request):
+
+Um pull request, também conhecido como merge request em algumas plataformas, é uma solicitação para mesclar as alterações de uma branch para outra. Por exemplo, você pode criar um pull request para mesclar as alterações de uma branch de funcionalidade (feature) na branch develop.
+Ao abrir um pull request, você pode revisar as alterações, discutir e colaborar com outros desenvolvedores antes de mesclar as mudanças na branch de destino.
+O GitHub fornece uma interface amigável para gerenciar pull requests, permitindo revisões de código, comentários, testes automatizados e ações de integração contínua antes da mesclagem.
+O GitFlow é um modelo flexível que ajuda a organizar e facilitar o desenvolvimento colaborativo, fornecendo uma estrutura clara para trabalhar com branches, pull requests e fluxos de trabalho de desenvolvimento.
