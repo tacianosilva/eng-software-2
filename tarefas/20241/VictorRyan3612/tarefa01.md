@@ -56,3 +56,9 @@ https://www.youtube.com/watch?v=GLm-_NwlSyE
 
 no vídeo acima, a apresentadora faz um passo a passo de para a instalação e implementação de um CRUD em django usando como exemplo um sistema de estudantes.
 
+
+## branches e pull request
+
+O uso de branches alternativas à master ou main, serve para diversas finalidades, entre elas, evitar que o código estável seja "contaminado" por códigos não estáveis ou em desenvolvimento, principalmente quando envolve vários desenvolvedores, no sentido de gitflow, cada branch possui sua respectiva responsabilidade, por exemplo, a develop, que possui um conjunto de funcionalidades que irão para a main, a feature sendo criada a partir da develop para a criacao de uma unica funcionalidade, em seguinda indo para a deveop, seguindo esse processo, chega a hora da criacao da release, onde prepara a develop para a main, após isso, a main recebe o novo código, porém, pode acontecer de ser necessaria uma correção, nesse caso, a brach de suporte hotfix se faz necessária, assim, responsável por corrigir e atualizar a main.
+
+Todas essas relações onde uma branch envia seu conteúdo para outra, é usado o pull request, e após isso, se confirmado, acontece o merge, onde a branch final recebe o novo código.
