@@ -68,3 +68,12 @@ Todas essas relações onde uma branch envia seu conteúdo para outra, é usado 
 
 O versionamento semântico consiste em padronizar as versões do software, sendo delegadas 3 numeros, no formato x.y.z, onde x é a major, onde indica incompatibilidade com verões major anteriores, y é a minor onde indica nova funcionalidade, e z é a patch, onde há conrreções.
 
+
+## Conventional Commits
+
+Conventional Commits é uma forma de padronizar os commits, de forma a facilitar a identificação de qual alteração esse commit faz, sendo usado a semantica
+tipo: (escopo opcional): descrição
+
+sendo muitos os tipos, cada um com sua finalidade, como por exemplo o **fix:** que corrige um bug.
+
+Os conventional commits fix, feat correspondem a, patch e minor do versionamento semântico, respectivamente.
