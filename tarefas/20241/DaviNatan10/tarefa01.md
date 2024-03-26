@@ -26,3 +26,6 @@ O ScheduleSphere é um sistema de gerenciamento de horários, facilitando a admi
     <img src="https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png" width="32"/>
 </p>
 Tivemos uma materia de P.Web no 4° periodo da faculdade, podendo aprender um pouco mais sobre JavaScript e Node, e alguns cursos por fora da faculdade.
+
+# Framework:
+Estaremos utilizando o Framework React para a Web. onde vimos e aprendemos sobre durante a disciplina de P.Web do 4° periodo, e tem muito conteudo em sites como Youtube, e muitos cursos disponiveis na internet.
