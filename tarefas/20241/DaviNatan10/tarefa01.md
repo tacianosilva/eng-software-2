@@ -29,3 +29,14 @@ Tivemos uma materia de P.Web no 4° periodo da faculdade, podendo aprender um po
 
 # Framework:
 Estaremos utilizando o Framework React para a Web. onde vimos e aprendemos sobre durante a disciplina de P.Web do 4° periodo, e tem muito conteudo em sites como Youtube, e muitos cursos disponiveis na internet.
+
+# Tutoriais
+
+|Nome|Descrição|Link|
+|-|-|-|
+|JS|Curso em Vídeo - JavaScript |[Clique aqui](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)|
+|Prisma|Learn Prisma In 60 Minutes|[Clique aqui](https://www.youtube.com/watch?v=RebA5J-rlwg&pp=ugMICgJwdBABGAHKBQ90dXRvcmlhbCBwcmlzbWE%3D)|
+|Next.js|Curso de Next.js |[Clique aqui](https://www.youtube.com/watch?v=XHrbg2iYNCg&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft)|
+|Docker|Introdução ao Docker para iniciantes |[Clique aqui](https://www.youtube.com/watch?v=01MR38eDXz8&pp=ygUPdHV0b3JpYWwgZG9ja2Vy)|
+
+os video citado acima, dao uma breve introduçao ao basico de cada uma das Ferramentas que iremos utilizar para produzir o projeto.
