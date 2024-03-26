@@ -15,3 +15,14 @@ O ScheduleSphere é um sistema de gerenciamento de horários, facilitando a admi
 [Felippe da Silva Guedes](https://github.com/uFelippeSilva)
 [Gedson Fernandes de Araújo](https://github.com/Gedsonfa)
 [José Gabriel Dias de Oliveira](https://github.com/Igwbriel)
+
+# Tecnologias utilizadas
+<p>
+    <img src="https://cdn.icon-icons.com/icons2/3207/PNG/512/js_node_icon_196124.png" width="32"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" width="32"/>
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png" width="32"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="32"/>
+     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" width="32"/>
+    <img src="https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png" width="32"/>
+</p>
+Tivemos uma materia de P.Web no 4° periodo da faculdade, podendo aprender um pouco mais sobre JavaScript e Node, e alguns cursos por fora da faculdade.
