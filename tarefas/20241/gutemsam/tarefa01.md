@@ -61,28 +61,3 @@ Benefícios: Facilita a geração automática de changelogs, comunica a intenç�
 Em resumo, Conventional Commits simplifica e padroniza as mensagens de commit, tornando o histórico do repositório mais claro e permitindo automações com base nas mensagens de commit. É uma prática recomendada para equipes de desenvolvimento.
 
 
-## Testes de Software com Foco em Testes de Unidade
-
-### Testes de Unidade
-
-Testes de Unidade são uma prática essencial no desenvolvimento de software que envolve a verificação de partes isoladas do código, chamadas unidades, para garantir que funcionem corretamente. O objetivo principal é validar que cada unidade de código funcione conforme o esperado. Isso ajuda a identificar e corrigir erros precocemente no ciclo de desenvolvimento, facilitando a manutenção e evolução do software. Testes de unidade são geralmente automatizados e escritos pelos próprios desenvolvedores, proporcionando um feedback rápido sobre a integridade do código.
-
-### Linguagem de Programação e Stack para o Projeto
-
-Para o desenvolvimento do projeto da disciplina, utilizaremos a linguagem de programação **Python**. A stack escolhida inclui:
-
-- **Framework Web**: Django
-- **Banco de Dados**: SQLite (por padrão com Django, mas pode ser substituído por PostgreSQL, MySQL, etc.)
-- **Servidor de Desenvolvimento**: Django Development Server
-- **Ferramentas de Teste**: pytest, unittest
-
-### Framework de Testes de Unidade: pytest
-
-#### Resumo sobre pytest
-
-O pytest é um framework de testes robusto e flexível para Python. Ele facilita a escrita de testes de unidade, testes funcionais e até mesmo testes de integração. Algumas características notáveis do pytest incluem a capacidade de detectar automaticamente testes, suporte a fixtures reutilizáveis, plugins para estender funcionalidades e relatórios detalhados de falhas. O pytest é amplamente adotado na comunidade Python devido à sua simplicidade e poder.
-
-#### Links
-
-- [pytest Documentation](https://docs.pytest.org/en/latest/)
-- [pytest GitHub](https://github.com/pytest-dev/pytest)
