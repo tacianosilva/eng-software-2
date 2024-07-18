@@ -65,6 +65,8 @@ Determinismo: Garantem que os testes sejam consistentes e reproduzíveis, pois o
 
 Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
 
+## Testes de autenticação de usuário
+
 * [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
 
 Nesse teste de autenticação de usuário, podemos ver três testes de unidade, um deles é um teste que cria um usuário e em seguida faz a autenticação. Além disso, os dados estão mockados em um arquivo exclusivo para testes:
@@ -72,3 +74,37 @@ Nesse teste de autenticação de usuário, podemos ver três testes de unidade, 
 * [Link para o arquivo de mock (in-memory)](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-users-repository.ts)
 
 Após a implementação dos testes, percebe-se a importância de uma boa cobertura de testes em um sistema. Foi uma experiência muito boa e contribuiu bastante pro meu aprendizado.
+
+## Testes de Integração
+
+Testes de integração são um tipo de teste de software que verificam a interação entre diferentes módulos ou componentes de um sistema para garantir que eles funcionem corretamente em conjunto. Eles são realizados após os testes unitários e antes dos testes de sistema. O objetivo é identificar problemas que podem surgir quando componentes integrados interagem entre si.
+
+## Testes de Integração vs Testes de unidade
+
+### Testes unitários
+
+Foco: Verificam a funcionalidade de unidades individuais de código, como funções ou métodos, em isolamento.
+
+Escopo: Limitado a um único componente.
+
+Objetivo: Garantir que cada unidade de código funcione conforme o esperado.
+
+Velocidade: Rápidos de executar, pois não dependem de recursos externos.
+
+Isolamento: Utilizam mocks e stubs para isolar o componente sendo testado.
+
+### Testes de integração
+
+Foco: Verificam a interação entre múltiplos componentes ou módulos.
+
+Escopo: Inclui vários componentes e suas interações.
+
+Objetivo: Garantir que componentes integrados funcionem corretamente juntos.
+
+Velocidade: Podem ser mais lentos, pois podem envolver recursos reais e configurações mais complexas.
+
+Realismo: Utilizam os componentes reais sempre que possível para testar interações genuínas.
+
+## Uso no projeto
+
+No projeto, por enquanto, não temos testes de integração implementados, somente testes de unidade.
