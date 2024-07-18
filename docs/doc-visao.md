@@ -3,6 +3,10 @@
 Documento construído a partido do **Modelo BSI - Doc 001 - Documento de Visão** que pode ser encontrado no
 link: https://docs.google.com/document/d/1DPBcyGHgflmz5RDsZQ2X8KVBPoEF5PdAz9BBNFyLa6A/edit?usp=sharing
 
+## Descrição do Projeto
+
+Descrever de forma geral o projeto.
+
 ## Equipe e Definição de Papéis
 
 Membro     |     Papel   |   E-mail   |
