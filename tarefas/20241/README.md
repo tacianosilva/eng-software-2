@@ -2,4 +2,5 @@
 
 ## Tarefas
 
-* [Tarefa 01 - Git e GitHub com Markdown](https://docs.google.com/document/d/1q9hlwDocYs0m5-Ten2IKnQt40guTnoeatkNqxERE84Y/edit?usp=sharing)
+* [Tarefa 01 - Git e GitHub com Markdown](AndersonAzeved/tarefa01.md)
+* [Tarefa 02 - Teste de Unidade](AndersonAzeved/tarefa02.md)
