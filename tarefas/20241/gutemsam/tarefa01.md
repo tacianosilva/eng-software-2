@@ -67,3 +67,11 @@ Em resumo, Conventional Commits simplifica e padroniza as mensagens de commit, t
 
 Testes de Unidade são uma prática essencial no desenvolvimento de software que envolve a verificação de partes isoladas do código, chamadas unidades, para garantir que funcionem corretamente. O objetivo principal é validar que cada unidade de código funcione conforme o esperado. Isso ajuda a identificar e corrigir erros precocemente no ciclo de desenvolvimento, facilitando a manutenção e evolução do software. Testes de unidade são geralmente automatizados e escritos pelos próprios desenvolvedores, proporcionando um feedback rápido sobre a integridade do código.
 
+### Linguagem de Programação e Stack para o Projeto
+
+Para o desenvolvimento do projeto da disciplina, utilizaremos a linguagem de programação **Python**. A stack escolhida inclui:
+
+- **Framework Web**: Django
+- **Banco de Dados**: SQLite (por padrão com Django, mas pode ser substituído por PostgreSQL, MySQL, etc.)
+- **Servidor de Desenvolvimento**: Django Development Server
+- **Ferramentas de Teste**: pytest, unittest
