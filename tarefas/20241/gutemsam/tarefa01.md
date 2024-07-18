@@ -59,3 +59,11 @@ Escopo (opcional): Fornece informações contextuais adicionais ao tipo do commi
 Rodapés (opcional): Podem conter informações adicionais, como BREAKING CHANGE ou outras notas relevantes.
 Benefícios: Facilita a geração automática de changelogs, comunica a intenção das alterações e correlaciona-se com o versionamento semântico.
 Em resumo, Conventional Commits simplifica e padroniza as mensagens de commit, tornando o histórico do repositório mais claro e permitindo automações com base nas mensagens de commit. É uma prática recomendada para equipes de desenvolvimento.
+
+
+## Testes de Software com Foco em Testes de Unidade
+
+### Testes de Unidade
+
+Testes de Unidade são uma prática essencial no desenvolvimento de software que envolve a verificação de partes isoladas do código, chamadas unidades, para garantir que funcionem corretamente. O objetivo principal é validar que cada unidade de código funcione conforme o esperado. Isso ajuda a identificar e corrigir erros precocemente no ciclo de desenvolvimento, facilitando a manutenção e evolução do software. Testes de unidade são geralmente automatizados e escritos pelos próprios desenvolvedores, proporcionando um feedback rápido sobre a integridade do código.
+
