@@ -2,4 +2,6 @@
 
 ## Tarefas
 
-* [Tarefa 01 - Git e GitHub com Markdown](https://docs.google.com/document/d/1q9hlwDocYs0m5-Ten2IKnQt40guTnoeatkNqxERE84Y/edit?usp=sharing)
+* [Tarefa 01 - Git e GitHub com Markdown](https://github.com/BrenoPorfirio/eng-software-2/blob/master/tarefas/20241/BrenoPorfirio/tarefa01.md)
+
+* [Tarefa 02 - Testes de Unidade](https://github.com/BrenoPorfirio/eng-software-2/blob/master/tarefas/20241/BrenoPorfirio/tarefa02.md)
