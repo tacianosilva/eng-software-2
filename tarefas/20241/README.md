@@ -2,6 +2,6 @@
 
 ## Tarefas
 
-* [Tarefa 01 - Git e GitHub com Markdown](https://docs.google.com/document/d/1q9hlwDocYs0m5-Ten2IKnQt40guTnoeatkNqxERE84Y/edit?usp=sharing)
+* [Tarefa 01 - Git e GitHub com Markdown](https://github.com/ricsjs/eng-software-2/blob/master/tarefas/20241/ricjs/tarefa01.md)
 
-* [Tarefa 02 - Git e GitHub com Markdown](https://docs.google.com/document/d/1nJKfcevbVgvE3vZwHHNedzD3Z-nPS-0Ze4hyVcrpzR8/edit)
+* [Tarefa 02 - Teste de Unidade](https://github.com/ricsjs/eng-software-2/blob/master/tarefas/20241/ricjs/tarefa02.md)
