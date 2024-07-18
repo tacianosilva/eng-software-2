@@ -53,3 +53,16 @@ Este tutorial oferece um guia passo a passo para construir uma aplicação CRUD 
 
 - **Link**: [Django CRUD with pytest Tutorial](https://realpython.com/testing-in-django-part-1-best-practices-and-examples/)
 - **Descrição**: Este tutorial do Real Python aborda as melhores práticas para testes em Django, incluindo a configuração do pytest, criação de testes de unidade, e exemplos práticos de como testar funcionalidades comuns em aplicações web.
+
+## Mock Objects em Testes de Unidade
+
+Mock Objects são objetos simulados que imitam o comportamento de objetos reais de maneira controlada. Eles são usados em testes de unidade para isolar a unidade de código sendo testada e garantir que os testes não dependam de componentes externos ou de partes do sistema que ainda não foram implementadas. Mocks podem ser configurados para retornar valores específicos quando métodos são chamados, e podem verificar se métodos foram chamados com os parâmetros corretos. Isso permite testar o comportamento do código de forma isolada e precisa.
+
+### Resumo sobre Mock Objects
+
+Os Mock Objects são fundamentais para a criação de testes de unidade eficazes, permitindo a simulação de interações complexas e o controle sobre o comportamento de dependências externas. Usando mocks, desenvolvedores podem escrever testes que se concentram exclusivamente na lógica da unidade de código em teste, sem se preocupar com as interações com outras partes do sistema.
+
+### Links
+
+- [Mocking in Python with unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+- [Understanding Mock Objects](https://martinfowler.com/articles/mocksArentStubs.html)
