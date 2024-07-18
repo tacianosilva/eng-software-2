@@ -2,7 +2,7 @@
 
 * Nome: Fábio Fabrício Souza de Araújo
 * Usuário do Git: FabioAra
-* Email: fabio.araujo.@ufrn.edu.br
+* Email: fabio.araujo.016@ufrn.edu.br
 
 ## Questão A:
 ## NOME DO PROJETO: Documento de Visão - Sistema de Gestão para Assistência Técnica de Celular
