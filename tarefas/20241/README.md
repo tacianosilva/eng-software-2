@@ -2,4 +2,5 @@
 
 ## Tarefas
 
-* [Tarefa 01 - Git e GitHub com Markdown](https://docs.google.com/document/d/1q9hlwDocYs0m5-Ten2IKnQt40guTnoeatkNqxERE84Y/edit?usp=sharing)
+- [Tarefa 1](gbrl08snts/tarefa01.md)
+- [Tarefa 2](gbrl08snts/tarefa02.md)
