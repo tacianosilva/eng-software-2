@@ -7,7 +7,7 @@ Este plano de iteração será usando no semestre letivo 2024.1.
 Iteração | Data início | Data Final | Apresentação | Líder Técnico  | Detalhes
 -------- | ----------- | ---------- | ------------ | -------  | -------
 It0      | 27/02/2024  | 14/03/2024 |      --      | Líder 1  | Planejamento, Estudos e Estudo dos Documentos e Definição de Tecnologias dos projetos. Criação dos Documentos: Documento de Visão, Modelo Conceitual, Lista de User Stories, Plano de Iteração e Plano de Release,  Estrutura do Projeto (código base do projeto), Detalhar User Stories para a Iteração 1, Implementar User Story Base.
-It1      | 15/03/2024  | 28/03/2024 | 28/03/2024   | Líder 1 | Criar Documento de Visão, Modelo Conceitual, Lista de User Stories, Plano de Iteração e Plano de Release, Detalhar User Stories para a Iteração 2, Implementar User Stories definidos na Iteração 1 (um US por membro da equipe).
+It1      | 15/03/2024  | 28/03/2024 | 04/04/2024   | Líder 1 | Criar Documento de Visão, Modelo Conceitual, Lista de User Stories, Plano de Iteração e Plano de Release, Detalhar User Stories para a Iteração 2, Implementar User Stories definidos na Iteração 1 (um US por membro da equipe).
 It2      | 29/03/2024  | 18/04/2024 | 18/04/2024   | Líder 2 | Detalhar User Stories, Implementar User Stories, Testar User Stories, Deploy da Iteração.
 It3      | 19/04/2024  | 09/05/2024 | 09/05/2024   | Líder 3 | Detalhar User Stories, Implementar User Stories, Testar User Stories, Deploy da Iteração.
 It4      | 10/05/2024  | 30/05/2024 | 30/05/2024   | Líder 4 | Detalhar User Stories, Implementar User Stories, Testar User Stories, Deploy da Iteração.
