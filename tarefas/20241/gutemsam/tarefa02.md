@@ -42,3 +42,14 @@ O Visual Studio Code (VS Code) é uma IDE leve, mas poderosa, para desenvolvimen
 #### Ferramentas de Debug Integradas
 
 O VS Code possui um depurador integrado que suporta breakpoints, watch expressions, stepping through code, e inspeção de variáveis. Além disso, ele permite depurar tanto aplicações locais quanto remotas e oferece extensões específicas para depuração de várias linguagens, incluindo Python.
+
+### Tutorial de CRUD com Testes de Software
+
+#### Tutorial: Building a CRUD Application with Django and Testing with pytest
+
+Este tutorial oferece um guia passo a passo para construir uma aplicação CRUD (Create, Read, Update, Delete) usando Django, e inclui a criação de testes de software utilizando pytest. O tutorial cobre desde a configuração inicial do ambiente de desenvolvimento, criação de modelos e views no Django, até a escrita e execução de testes de unidade para validar a funcionalidade do CRUD.
+
+#### Link e Descrição
+
+- **Link**: [Django CRUD with pytest Tutorial](https://realpython.com/testing-in-django-part-1-best-practices-and-examples/)
+- **Descrição**: Este tutorial do Real Python aborda as melhores práticas para testes em Django, incluindo a configuração do pytest, criação de testes de unidade, e exemplos práticos de como testar funcionalidades comuns em aplicações web.
