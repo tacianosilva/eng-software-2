@@ -33,8 +33,12 @@ Além disso ele não requer configuração extensa para começar a rodar testes 
 
 *Link para site oficial:* https://vitest.dev/
 
-Resumo IDE
+### Resumo IDE
 
-Tutorial CRUD em typescript com testes
+O VSCode é uma IDE popular e conhecida por sua leveza, extensibilidade e suporte a uma ampla gama de linguagens de programação. Ela oferece diversas ferramentas que facilitam o desenvolvimento e o debug de aplicações, especialmente úteis para projetos utilizando Node.js, Fastify e Prisma ORM.
 
-Resumo mocks
+Ela permite que o projeto seja acessado em tempo real, como no debbuger do chrome, de forma onde até mesmo as variáveis podem ser monitoradas permitindo o descobrimento de falhas e inconsistências de maneira mais fácil, além de possuir outras ferramentas que podem ser instaladas para facilitar a visualização de dados e documentos referentes ao projeto.
+
+### Tutorial CRUD em typescript com testes
+
+### Resumo mocks
