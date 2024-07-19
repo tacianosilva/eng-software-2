@@ -15,3 +15,6 @@ Existem vários tipos de testes de software, cada um com um propósito específi
 
 ### Testes de unidade
 Testes de unidade são uma prática fundamental no desenvolvimento de software, em que partes individuais do código (unidades) são testadas de forma isolada para verificar se funcionam conforme o esperado. Esses testes são automatizados e geralmente escritos pelos próprios desenvolvedores, utilizando frameworks específicos para a linguagem em questão. O objetivo principal dos testes de unidade é validar o comportamento de pequenas unidades de código, garantindo que cada uma delas funcione corretamente antes de integrá-las com outras partes do sistema. Isso não apenas ajuda a identificar e corrigir erros precocemente, mas também facilita a manutenção e evolução do software ao longo do tempo.
+
+### Linguagem de programção e Stack
+Para o desenvolvimento do front-end, estamos utilizando JavaScript com o framework React e TypeScript. No back-end, utilizamos Node.js e Fastify. Essa combinação permite um desenvolvimento eficiente e escalável, com uma base de código tipada e uma estrutura leve para a criação de aplicações web modernas e de alta performance.
