@@ -107,3 +107,65 @@ Gerenciamento de Imagens: Otimize e redimensione imagens automaticamente para me
 * Fácil Manutenção: Crie um código mais organizado e fácil de manter.
   Grande Comunidade: Acesse uma comunidade ativa e receptiva para obter ajuda e compartilhar conhecimentos.
 ***
+
+## Pytest para testes no Back-End
+
+O Pytest se destaca como um framework de teste popular e aclamado para Python, conhecido por sua simplicidade, expressividade e extensibilidade. Ele oferece diversas funcionalidades que facilitam a escrita, execução e gerenciamento de testes, tornando-o uma ferramenta poderosa para garantir a qualidade e confiabilidade do seu código Python.
+
+### Principais Características do Pytest:
+
+* Sintaxe intuitiva e descritiva: Utilize uma linguagem natural para escrever seus testes, tornando-os mais fáceis de ler e entender, mesmo para quem não possui experiência com testes de software.
+* Descoberta automática de testes: O Pytest identifica automaticamente os arquivos de teste em seu projeto, eliminando a necessidade de configuração manual.
+* Fixtures: Crie e configure dados de teste de forma organizada e reutilizável, otimizando o código e facilitando a manutenção dos testes.
+* Parametrização de testes: Execute o mesmo teste com diferentes conjuntos de dados, aumentando a cobertura de testes e a eficiência da testagem.
+* Marcadores: Organize e categorize seus testes com marcadores, permitindo a execução seletiva de testes e a filtragem por critérios específicos.
+* Relatórios detalhados: Obtenha relatórios abrangentes sobre a execução dos testes, incluindo informações sobre o tempo de execução, falhas, erros e cobertura de código.
+* Extensível com plugins: Amplie as funcionalidades do Pytest com plugins de terceiros, adaptando o framework às suas necessidades específicas.
+* Comunidade vibrante e em constante crescimento: Conte com uma comunidade ativa que oferece suporte, compartilha conhecimentos e contribui para o desenvolvimento do framework.
+
+### Benefícios do Pytest:
+
+* Melhora a qualidade do código: Identifique e corrija bugs no código antes que eles causem problemas em produção.
+* Acelera o desenvolvimento: Escreva testes rapidamente e execute-os com eficiência, otimizando seu tempo de desenvolvimento.
+* Aumenta a confiabilidade do código: Garanta que seu código funcione conforme o esperado em diferentes cenários.
+* Facilita a refatoração: Faça alterações no código com confiança, sabendo que os testes o protegerão de quebras inesperadas.
+* Promove a colaboração: Colabore com outros desenvolvedores de forma mais eficaz, utilizando testes como base para a comunicação e documentação do código.
+
+
+### Links úteis do PyTest
+* [Documentação oficial](https://docs.pytest.org/en/stable/getting-started.html)
+* [Tutoriais](https://docs.pytest.org/en/stable/how-to/index.html)
+* [Exemplos](https://testdriven.io/blog/pytest-for-beginners/)
+* [Comunidade](https://pypi.org/project/pytest-discord/)
+***
+
+## Jest para testes no Front-End
+
+O Jest se destaca como um framework de testes de JavaScript popular e aclamado pela comunidade, conhecido por sua simplicidade, flexibilidade e extensibilidade. Ele oferece diversas funcionalidades que facilitam a escrita, execução e gerenciamento de testes, tornando-o uma ferramenta poderosa para garantir a qualidade e confiabilidade do seu código JavaScript.
+
+### Principais Características do Jest:
+
+* Simplicidade: A sintaxe intuitiva e descritiva do Jest torna a escrita de testes fácil e agradável, mesmo para iniciantes.
+* Matchers poderosos: O Jest fornece uma ampla gama de matchers para verificar diferentes aspectos do comportamento do seu código.
+* Mocking fácil: Crie mocks de dependências com facilidade para isolar e testar unidades de código de forma eficiente.
+* Suporte para testes assíncronos: Teste funções assíncronas e código com Promises com simplicidade.
+* Exceções e erros: Verifique se o seu código lida com exceções e erros de forma adequada.
+* Relatórios detalhados: Obtenha relatórios detalhados sobre a execução dos testes, incluindo informações sobre o tempo de execução, falhas e erros.
+* Configuração flexível: Configure o Jest de acordo com as suas necessidades específicas, utilizando arquivos de configuração personalizados.
+* Extensível: O Jest possui um rico ecossistema de plugins e ferramentas que permitem estender suas funcionalidades e adaptá-lo aos seus fluxos de trabalho.
+
+### Benefícios do Jest:
+
+* Melhora a qualidade do código: Identifique e corrija bugs no código antes que eles causem problemas em produção.
+* Acelera o desenvolvimento: Escreva testes rapidamente e execute-os com eficiência, otimizando seu tempo de desenvolvimento.
+* Aumenta a confiabilidade do código: Garanta que seu código funcione conforme o esperado em diferentes cenários.
+* Facilita a refatoração: Faça alterações no código com confiança, sabendo que os testes o protegerão de quebras inesperadas.
+* Promove a colaboração: Colabore com outros desenvolvedores de forma mais eficaz, utilizando testes como base para a comunicação e documentação do código.
+
+### Links para o Jest
+
+* [Documentação oficial](https://jestjs.io/)
+* [Tutoriais](https://jestjs.io/docs/getting-started)
+* [Exemplos](https://jestjs.io/)
+* [Comunidade](https://jestjs.io/docs/jest-community)
+***
