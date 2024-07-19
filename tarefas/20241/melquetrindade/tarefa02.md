@@ -264,3 +264,10 @@ Os Mocks Objects, também conhecidos como objetos simulados ou mocks, são ferra
 * Maior facilidade na escrita de testes: A simulação de dependências torna a escrita de testes mais rápida e simples, permitindo focar no que realmente importa: testar a funcionalidade do código em si.
 * Maior velocidade na execução de testes: Ao isolar as dependências, os testes podem ser executados com mais rapidez e eficiência, otimizando o tempo de desenvolvimento.
 * Maior cobertura de testes: Com os mocks, é possível testar diferentes cenários de interação com as dependências, aumentando a cobertura de testes e a qualidade geral do código.
+***
+
+
+# Descrição do Projeto
+
+## Descrição do User Story implementado:
+O sistema deve manter um cadastro dos clientes a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um cliente tem os atributos nome, CPF, data de nascimento, número de telefone, email e endereço. O registro do cliente no sistema poderá ser feito pelos atores funcionário e gerente.
