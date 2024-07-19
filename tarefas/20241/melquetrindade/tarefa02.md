@@ -271,3 +271,22 @@ Os Mocks Objects, também conhecidos como objetos simulados ou mocks, são ferra
 
 ## Descrição do User Story implementado:
 O sistema deve manter um cadastro dos clientes a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um cliente tem os atributos nome, CPF, data de nascimento, número de telefone, email e endereço. O registro do cliente no sistema poderá ser feito pelos atores funcionário e gerente.
+***
+
+## Teste Unitário x Teste de Integração
+
+Os testes unitários são focados em partes isoladas do código, enquanto os testes de integração verificam como essas partes se comportam juntas. Ambos são importantes para garantir a qualidade e a robustez do software.
+
+### Teste Unitário:
+
+* Objetivo: Testar unidades individuais de código, como funções ou métodos, de forma isolada.
+* Escopo: Foca em verificar se cada unidade de código funciona conforme o esperado.
+* Isolamento: Deve isolar a unidade de código a ser testada, muitas vezes substituindo dependências por simuladores ou mocks.
+* Benefícios: Ajuda a garantir que cada parte do código funcione corretamente de forma independente, facilitando a detecção e correção de bugs.
+  
+### Teste de Integração:
+
+* Objetivo: Testar a interação entre diferentes partes do sistema, verificando se elas funcionam juntas corretamente.
+* Escopo: Verifica se os módulos ou componentes integrados se comunicam e colaboram corretamente entre si.
+Ambiente: Pode envolver bancos de dados, sistemas externos, APIs, entre outros, para simular o ambiente real de execução.
+* Benefícios: Garante que as partes do sistema se integrem sem problemas, detectando problemas de comunicação, comportamento inesperado entre componentes, entre outros.
