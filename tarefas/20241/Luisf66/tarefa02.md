@@ -41,4 +41,8 @@ Ela permite que o projeto seja acessado em tempo real, como no debbuger do chrom
 
 ### Tutorial CRUD em typescript com testes
 
+*Implementação do CRUD:* https://www.youtube.com/watch?v=XuTfN_84rcU
+*Uso dos Testes:* https://www.youtube.com/watch?v=n94wJZr6y5M
+
 ### Resumo mocks
+
