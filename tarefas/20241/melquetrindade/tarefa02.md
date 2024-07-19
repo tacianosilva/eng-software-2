@@ -246,3 +246,21 @@ Isso ajuda a identificar e corrigir bugs no início do processo de desenvolvimen
 * [Link para o Tutorial](https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
 
 ***
+
+## Mocks Objects
+
+Os Mocks Objects, também conhecidos como objetos simulados ou mocks, são ferramentas valiosas para testes unitários em diversos frameworks de testes, como unittest, pytest e mockito. Eles permitem simular o comportamento de dependências externas, isolando a unidade de código em teste e facilitando a identificação de bugs e a validação da lógica interna.
+
+### Funcionalidades dos Mocks Objects:
+
+* Simular comportamentos: Defina o comportamento que o mock deve ter quando chamado, como retornar valores específicos ou disparar exceções.
+* Verificar interações: Verifique se a unidade de código em teste interagiu com o mock da maneira esperada, como se o método foi chamado com os argumentos corretos.
+* Isolar dependências: Elimine a necessidade de configurar e inicializar dependências reais durante os testes, agilizando o processo e tornando-o mais confiável.
+* Testar em diferentes cenários: Simule diferentes comportamentos de dependências para testar o código em diversas situações e garantir sua robustez.
+
+### Benefícios do Uso de Mocks Objects:
+
+* Maior confiabilidade nos testes: Os mocks garantem que os testes se concentrem na lógica interna do código, sem depender de fatores externos instáveis ou difíceis de configurar.
+* Maior facilidade na escrita de testes: A simulação de dependências torna a escrita de testes mais rápida e simples, permitindo focar no que realmente importa: testar a funcionalidade do código em si.
+* Maior velocidade na execução de testes: Ao isolar as dependências, os testes podem ser executados com mais rapidez e eficiência, otimizando o tempo de desenvolvimento.
+* Maior cobertura de testes: Com os mocks, é possível testar diferentes cenários de interação com as dependências, aumentando a cobertura de testes e a qualidade geral do código.
