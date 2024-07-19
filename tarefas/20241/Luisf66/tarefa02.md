@@ -46,3 +46,6 @@ Ela permite que o projeto seja acessado em tempo real, como no debbuger do chrom
 
 ### Resumo mocks
 
+Mocks são objetos simulados que replicam o comportamento de objetos reais de forma controlada durante testes de software. Eles são utilizados principalmente em testes unitários para isolar a funcionalidade que está sendo testada, garantindo que o teste foque apenas na unidade específica sem depender de outros componentes externos.
+
+Existem quatro tipos sendo eles: Dummy usados apenas para preencher parametros de metodos, Stub que são implementações básicas capaz de retornar respostas pré-definidas para os métodos chamados, Fake onde será simnulado uma funcionalidade do sistema ou como ele faria e por fim Mock que são objetos pré-programados com expectativas de chamadas de métodos específicos e os resultados esperados dessas chamadas. São usados para verificar se o comportamento esperado ocorre durante o teste.
