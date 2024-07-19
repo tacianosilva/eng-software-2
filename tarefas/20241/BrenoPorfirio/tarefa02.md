@@ -18,3 +18,6 @@ Testes de unidade são uma prática fundamental no desenvolvimento de software, 
 
 ### Linguagem de programção e Stack
 Para o desenvolvimento do front-end, estamos utilizando JavaScript com o framework React e TypeScript. No back-end, utilizamos Node.js e Fastify. Essa combinação permite um desenvolvimento eficiente e escalável, com uma base de código tipada e uma estrutura leve para a criação de aplicações web modernas e de alta performance.
+
+### Framework Testes de Unidade
+Vitest é um framework de testes rápido e eficiente para JavaScript e TypeScript, projetado especificamente para trabalhar em harmonia com o Vite, um bundler moderno. Ele se destaca por sua velocidade e integração simplificada, oferecendo uma experiência de desenvolvimento ágil e robusta. Para saber mais: [Vitest](https://vitest.dev/)
