@@ -207,3 +207,42 @@ O VSCode se destaca por suas ferramentas de debug integradas, que permitem depur
 * Desenvolvimento mais eficiente: Reduza o tempo gasto na depuração de erros, aumentando sua produtividade e eficiência no desenvolvimento.
 * Criação de software mais confiável: Garanta que seu software seja livre de bugs e funcione conforme o esperado, aumentando a confiabilidade e a qualidade do seu produto final.
 ***
+
+## Tutorial de testes de software com python
+O artigo aborda três tipos de testes: unitário, de integração e automatizado. Testes unitários focam em unidades individuais de código. Testes de integração verificam como diferentes partes do código funcionam juntas. Testes automatizados são executados automaticamente. TDD (Test Driven Development) é uma prática de escrever testes antes de escrever código. BDD (Behavior Driven Development) usa linguagem natural para descrever como o software deve se comportar.
+
+* [Link para o Tutorial](https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
+***
+
+## Tutorial de testes de software com Java Script
+
+O artigo "Testes Unitários em JavaScript: Um Guia Completo para Iniciantes" da Giovanna Moeller no Medium oferece uma introdução abrangente à prática de testes unitários em JavaScript. O artigo é direcionado para iniciantes que desejam aprender os fundamentos e as melhores práticas para testar seus códigos JavaScript de forma eficaz.
+
+Pontos chave:
+
+1. O que são testes unitários?
+
+Testes unitários verificam o funcionamento de unidades individuais de código, como funções, classes ou módulos.
+Eles garantem que cada unidade de código funcione conforme o esperado, isolando-a de outras partes do código.
+Isso ajuda a identificar e corrigir bugs no início do processo de desenvolvimento, evitando problemas maiores posteriormente.
+
+2. Por que usar testes unitários?
+
+* Melhora a qualidade do código: Testes unitários garantem que o código seja robusto, confiável e funcione conforme o esperado em diferentes cenários.
+* Facilita a refatoração: Com testes unitários, você pode fazer alterações no código com mais confiança, pois os testes garantem que as mudanças não quebrem a funcionalidade existente.
+* Aumenta a produtividade: Testes unitários podem automatizar a execução de testes repetitivos, liberando tempo para o desenvolvimento de novas funcionalidades.
+* Facilita o trabalho em equipe: Testes unitários servem como documentação do código, ajudando outros desenvolvedores a entender como o código funciona e como testá-lo.
+
+3. Como escrever testes unitários em JavaScript?
+
+* Utilize um framework de testes: Diversos frameworks de testes JavaScript facilitam a escrita, organização e execução de testes unitários. Alguns frameworks populares são Jest, Mocha e Jasmine.
+* Estrutura básica de um teste unitário: Um teste unitário geralmente consiste em três partes:
+* Arrange (Arrange): Prepare o cenário para o teste, configurando os dados e objetos necessários.
+* Act (Act): Execute o código que deseja testar.
+* Assert (Assert): Verifique se o resultado do código corresponde ao esperado utilizando assertions.
+* Escreva testes descritivos: Utilize nomes e descrições claros para seus testes, facilitando a compreensão do que cada teste verifica.
+* Teste diferentes cenários: Escreva testes para diferentes cenários de entrada e saída, garantindo que o código funcione em diversas situações
+
+* [Link para o Tutorial](https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
+
+***
