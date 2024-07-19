@@ -16,6 +16,7 @@ Atualmente, existem diversos tipos de testes, como o unitário, integração e E
 
 Resumo da Stack
 
+Algumas das tecnologias utilziadas no desenvolvimento do projeto serão ReactJS e TypeScript no front, para o back end serão utilizados Node.js que é um ambiente de execução JavaScript assíncrono e orientado a eventos, fastify por oferecer suporte e facilidade na extensões de funcionalidades alem de boa escalabilidade e o Prisma ORM para mapear e facilitar a interação com o banco de dados.
 
 
 Framework vinit
