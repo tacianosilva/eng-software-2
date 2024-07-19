@@ -169,3 +169,41 @@ O Jest se destaca como um framework de testes de JavaScript popular e aclamado p
 * [Exemplos](https://jestjs.io/)
 * [Comunidade](https://jestjs.io/docs/jest-community)
 ***
+
+## IDE Utilizada
+
+O Visual Studio Code (VSCode) se tornou um dos editores de código mais populares entre desenvolvedores de software, tanto iniciantes quanto experientes. Sua interface intuitiva, personalização abrangente e vasta gama de extensões o tornam uma ferramenta versátil para diversos projetos de desenvolvimento.
+
+### Principais Características do VSCode:
+
+* Leve e rápido: O VSCode possui um desempenho otimizado, rodando sem pesar no seu sistema, mesmo em projetos grandes e complexos.
+* Multiplataforma: Utilize o VSCode em seus sistemas Windows, macOS ou Linux, com uma experiência consistente em todas as plataformas.
+* Gratuito e de código aberto: O VSCode é um software gratuito e de código aberto, disponível para download e uso sem restrições.
+* Interface personalizável: Adapte a interface do VSCode ao seu estilo de trabalho, com opções de temas, cores, layout e atalhos personalizáveis.
+* Suporte para diversas linguagens de programação: O VSCode oferece suporte nativo para diversas linguagens de programação, como JavaScript, Python, C++, Java, PHP e muitas outras.
+* Extensões para ampliar funcionalidades: Milhares de extensões estão disponíveis na Visual Studio Marketplace, permitindo adicionar funcionalidades extras ao VSCode, desde suporte a novas linguagens e frameworks até ferramentas de depuração e integrações com outros serviços.
+* Integração com Git: O VSCode oferece integração nativa com o Git, facilitando o gerenciamento de versões do seu código.
+*Suporte para colaboração: Colabore com outros desenvolvedores em tempo real em seus projetos, utilizando recursos como o Live Share e o Debug remoto.
+
+
+### Ferramentas de Debug Integradas:
+
+O VSCode se destaca por suas ferramentas de debug integradas, que permitem depurar código de forma eficiente e eficaz, identificando e corrigindo bugs com rapidez e precisão. Entre seus principais recursos de debug estão:
+
+* Pontos de interrupção: Defina pontos de interrupção em seu código para pausar a execução e inspecionar variáveis e o estado do programa.
+* Pilha de chamadas: Visualize a pilha de chamadas para entender o fluxo de execução do seu código e identificar a origem de erros.
+* Expressões de avaliação: Avalie expressões e visualize seus resultados durante a depuração, obtendo informações valiosas sobre o comportamento do programa.
+* Depuração passo a passo: Execute o código linha por linha, observando as alterações nas variáveis e no estado do programa a cada passo.
+* Varáveis ​​de escopo: Inspecione as variáveis ​​em diferentes escopos de execução, compreendendo como as variáveis ​​são declaradas e utilizadas no código.
+* Watch: Monitore variáveis ​​específicas durante a depuração, observando suas alterações em tempo real.
+* Configurações de depuração personalizáveis: Adapte as configurações de depuração às suas necessidades, ajustando opções como a formatação de variáveis ​​e o comportamento dos pontos de interrupção.
+* Suporte para diversas plataformas de debug: O VSCode oferece suporte para diversas plataformas de debug, como Node.js, Python e C/C++, permitindo depurar diferentes tipos de projetos de software.
+
+### Benefícios do Debug com o VSCode:
+
+* Identificação e correção rápida de bugs: Encontre e corrija bugs em seu código com mais eficiência, reduzindo o tempo de desenvolvimento e aprimorando a qualidade do seu software.
+* Compilação e depuração integradas: Compile e depure seu código diretamente no VSCode, otimizando seu workflow de desenvolvimento.
+* Compreensão aprimorada do código: Visualize o comportamento do seu código durante a execução, entendendo melhor como ele funciona e como os bugs surgem.
+* Desenvolvimento mais eficiente: Reduza o tempo gasto na depuração de erros, aumentando sua produtividade e eficiência no desenvolvimento.
+* Criação de software mais confiável: Garanta que seu software seja livre de bugs e funcione conforme o esperado, aumentando a confiabilidade e a qualidade do seu produto final.
+***
