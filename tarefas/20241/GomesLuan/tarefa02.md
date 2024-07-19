@@ -1,4 +1,4 @@
-# Tarefa 01 - Git e GitHub com Markdown
+# Tarefa 02 - Teste de Unidade
 
 ## Informações Pessoais
 
@@ -41,3 +41,9 @@ Banco de dados: Postgres e Docker
 ### IDE utilizada
 
 Será utilizada a IDE Visual Studio Code, conhecida por sua leveza, rapidez e extensibilidade. O VS Code possui um depurador integrado para debug, permitindo que os desenvolvedores inspecionem variáveis, definam pontos de interrupção, executem passo a passo e monitorem o estado do aplicativo durante a execução. Além disso, a IDE possui integração nativa com o Git, o sistema de controle de versão mais popular. Ele fornece uma interface gráfica para executar operações Git comuns, como commit, pull, push, merge, entre outras. Os desenvolvedores podem visualizar as alterações nos arquivos, comparar versões, e gerenciar branches diretamente no editor.
+
+## Framework: pytest
+
+O pytest é um framework de testes para Python que é simples de usar e altamente extensível. Ele permite escrever testes de forma concisa e legível, suportando tanto testes simples quanto complexos. O pytest oferece recursos avançados como fixtures (para configuração e limpeza de testes), suporte a plugins, e uma interface de linha de comando poderosa para executar e gerenciar testes. Ele também suporta a descoberta automática de testes, o que facilita a organização e execução de grandes conjuntos de testes.
+
+Mais informações em: https://pytest.org
