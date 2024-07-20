@@ -31,6 +31,27 @@ _Repositórios:_
 [Back-end](https://github.com/leonardobezrr/sig-estoque-back-end)
 [Front-end](https://github.com/leonardobezrr/sig-estoque-front-end)
 
+### Testes de Software: Testes de Unidade
+
+Os testes de unidade são uma prática fundamental no desenvolvimento de software, focada em garantir que as menores partes de uma aplicação, como funções, métodos ou classes, funcionem corretamente. Esses testes são executados isoladamente para verificar se a unidade de código está produzindo os resultados esperados para diferentes entradas.
+
+#### Características dos Testes de Unidade
+
+1. **Isolamento:** Testes de unidade isolam o código de suas dependências externas. Isso geralmente é alcançado usando mocks ou stubs, permitindo que o teste se concentre apenas na lógica interna da unidade.
+
+2. **Automatização:** São frequentemente automatizados para facilitar a execução rápida e repetida dos testes. Ferramentas como JUnit (para Java), NUnit (para .NET), e pytest (para Python) são amplamente usadas.
+
+3. **Foco na Função/Método:** Cada teste de unidade se concentra em uma única função ou método, verificando sua saída para várias entradas.
+
+4. **Rapidez:** Esses testes são rápidos de executar, permitindo a detecção precoce de erros no ciclo de desenvolvimento.
+
+#### Benefícios dos Testes de Unidade
+
+- **Detecção Precoce de Erros:** Problemas são encontrados e corrigidos mais cedo, reduzindo o custo e o esforço para corrigir bugs.
+- **Documentação Viva:** Testes de unidade servem como uma forma de documentação que explica como as unidades devem se comportar.
+- **Facilidade de Manutenção:** Código bem testado é geralmente mais fácil de modificar e refatorar, pois os desenvolvedores podem ter confiança de que suas mudanças não introduzirão novos bugs.
+- **Refatoração Segura:** Permite que desenvolvedores façam refatorações no código com segurança, sabendo que os testes ajudarão a garantir que a funcionalidade permanece intacta.
+
 ### Linguagem de Programação:
 <div style="text-align: justify">
 Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento do projeto. A equipe possui um bom domínio da linguagem, com experiência em projetos anteriores e participação em cursos relacionados.

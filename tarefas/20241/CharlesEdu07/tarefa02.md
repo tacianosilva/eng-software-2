@@ -6,7 +6,7 @@
 
 ---
 
-## Repositórios do projeto
+## Repositórios do Projeto:
 
 [Back-end](https://github.com/leonardobezrr/sig-estoque-back-end)
 [Front-end](https://github.com/leonardobezrr/sig-estoque-front-end)
