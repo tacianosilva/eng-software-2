@@ -122,8 +122,13 @@ Utilizar as funcionalidades de depuração do VS Code para Node.js pode melhorar
 Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto.
 </div>
 
-Tutoriais:
+Tutoriais CRUD e Testes:
 - [Tutorial Node + Fastify CRUD](https://www.youtube.com/watch?v=LMoMHP44-xM)
+
+- [Tutorial Fastify + Testes com NodeTap]('https://www.youtube.com/watch?v=gq8ZQrBJb2M')
+
+- [Tutorial Fastify + Testes com Vitest]('https://www.youtube.com/watch?v=0rew57rLIM8')
+
 - [Tutorial React](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
 
 ### Branches e Pull Requests com GitFlow:
