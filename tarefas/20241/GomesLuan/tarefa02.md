@@ -52,3 +52,7 @@ Mais informações em: https://pytest.org
 * [Vídeo](https://www.youtube.com/watch?v=0OOS7sbVn4U)
 
 O vídeo acima mostra como configurar o pytest utilizando um ambiente django, bem como mostra a criação de testes para registro e login de usuário. Além disso, são criados testes de unidade referentes ao CRUD de uma tabela.
+
+## Mocks Objects
+
+Mocks Objects são objetos simulados que replicam o comportamento de objetos reais em testes de unidade. Eles são usados para isolar o componente que está sendo testado ao substituir dependências externas, como serviços, bancos de dados ou APIs, com versões controladas e previsíveis. Isso permite focar o teste na funcionalidade específica do código em análise, garantindo que os testes sejam rápidos, confiáveis e repetíveis. Além de simular comportamentos, mocks podem verificar se certos métodos foram chamados, com os parâmetros esperados, ajudando a validar interações entre componentes. Frameworks populares como unittest (com seu submódulo unittest.mock) e pytest (com o plugin pytest-mock) facilitam a criação e uso de mocks em testes de unidade.
