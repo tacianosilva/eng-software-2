@@ -62,6 +62,24 @@ Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento 
 Para agilizar o desenvolvimento, estaremos utilizando o framework React, para o front-end e o Fastify para o back-end. Ambos são frameworks web em JavaScript, que incentivam o desenvolvimento rápido e limpo. Ele fornece uma série de ferramentas para facilitar tarefas comuns em desenvolvimento web.
 </div>
 
+### Framework de Testes:
+
+Vitest é um framework de testes moderno para JavaScript e TypeScript, projetado para ser rápido e integrado com ferramentas populares de desenvolvimento como Vite. Ele se destaca por oferecer uma experiência de teste rápida, com suporte a recursos como mocking, cobertura de código, e depuração integrada. Vitest é particularmente útil para projetos frontend devido à sua integração perfeita com o ecossistema Vite, mas também pode ser usado em projetos Node.js.
+
+### Principais características do Vitest:
+- **Performance Rápida**: Graças à sua integração com Vite, o Vitest proporciona um tempo de execução de testes extremamente rápido.
+- **Suporte a Múltiplas API's de Teste**: Inclui suporte para as APIs de teste mais usadas, como `expect`, `mock`, `spyOn`, entre outras.
+- **Cobertura de Código**: Facilita a geração de relatórios de cobertura de código.
+- **Depuração**: Inclui ferramentas de depuração integradas que ajudam a identificar e resolver problemas rapidamente.
+- **Mocking e Spy**: Fornece funcionalidades robustas para criar mocks e espiões em testes.
+
+Para saber mais sobre o Vitest, você pode acessar os seguintes links:
+- [Documentação Oficial do Vitest](https://vitest.dev/)
+- [Repositório no GitHub](https://github.com/vitest-dev/vitest)
+
+Vitest se apresenta como uma excelente opção para desenvolvedores que buscam uma ferramenta de testes moderna, rápida e integrada, especialmente adequada para projetos que utilizam Vite.
+
+
 ### IDE:
 <div style="text-align: justify">
 A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
