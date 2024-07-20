@@ -85,6 +85,38 @@ Vitest se apresenta como uma excelente opção para desenvolvedores que buscam u
 A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
 </div>
 
+### Debug no Visual Studio Code:
+
+Debuggar código Node.js no Visual Studio Code é uma prática essencial para desenvolvedores que buscam identificar e corrigir problemas em seus aplicativos de forma eficaz. O Visual Studio Code (VS Code) proporciona um suporte robusto para a depuração de Node.js, tornando o processo mais ágil e integrado ao ambiente de desenvolvimento.
+
+Para começar, é necessário garantir que o projeto Node.js esteja configurado corretamente no VS Code. O desenvolvedor deve abrir o VS Code e carregar o projeto desejado. Em seguida, é preciso acessar a seção de depuração clicando no ícone de "executar e depurar" na barra lateral esquerda ou utilizando o atalho de teclado `Ctrl+Shift+D`.
+
+Se ainda não houver uma configuração de depuração, será necessário criar um arquivo de configuração. O desenvolvedor deve clicar no link para criar um arquivo `launch.json`, que estará localizado na seção de depuração. O VS Code gerará um arquivo de configuração padrão para Node.js, que pode ser ajustado conforme as necessidades do projeto. Um exemplo básico de configuração para um aplicativo Node.js pode ser semelhante ao seguinte:
+
+```json
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/app.js",
+      "restart": true
+    }
+  ]
+}
+```
+
+Neste exemplo, `program` especifica o ponto de entrada do aplicativo, geralmente um arquivo como `app.js` ou `index.js`. A opção `restart` faz com que o Node.js reinicie automaticamente caso o código seja alterado e salvo.
+
+Com o arquivo `launch.json` configurado, o desenvolvedor pode iniciar a depuração clicando no botão verde de play ou pressionando `F5`. O VS Code iniciará o aplicativo Node.js no modo de depuração, permitindo que o desenvolvedor defina pontos de interrupção (breakpoints) no código. Para definir um ponto de interrupção, basta clicar na margem esquerda ao lado do número da linha no editor de código. Quando o fluxo de execução atingir esse ponto, a execução será pausada, permitindo que o desenvolvedor examine o estado das variáveis, execute comandos na linha de comando integrada e percorra o código passo a passo.
+
+Além disso, o VS Code oferece um painel de depuração que exibe variáveis, chamadas de pilha e pontos de interrupção ativos. Isso facilita a análise do fluxo de execução e a detecção de problemas. O painel também inclui um console de depuração onde o desenvolvedor pode executar comandos e inspecionar o valor das variáveis em tempo real.
+
+Utilizar as funcionalidades de depuração do VS Code para Node.js pode melhorar significativamente a eficiência do desenvolvimento, tornando o processo de identificação e correção de erros mais direto e interativo.
+
+
 ### Tutorial CRUD:
 <div style="text-align: justify">
 Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto.
