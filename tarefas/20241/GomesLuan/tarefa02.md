@@ -67,3 +67,6 @@ Implementei testes de unidade para model, serializer e view de Funcionário. De 
 
 Disponível em: https://github.com/GomesLuan/SigBordado/blob/dev/backend/api/tests.py
 
+## Testes de Integração
+
+Testes de integração são uma etapa do processo de testes de software focada em verificar a interação e integração entre diferentes módulos ou componentes do sistema. Ao contrário dos testes de unidade, que isolam e testam partes individuais do código, os testes de integração verificam se os módulos funcionam corretamente juntos, garantindo que a comunicação, as interfaces e as dependências entre eles estejam funcionando conforme esperado. Esses testes ajudam a identificar problemas que podem surgir quando componentes separados são combinados, como incompatibilidades de interface ou falhas na comunicação entre sistemas. Os testes que implementei até o momento no projeto da disciplina se limitam a testes de unidade.
