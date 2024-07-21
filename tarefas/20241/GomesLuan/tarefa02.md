@@ -8,11 +8,11 @@
 
 **Email:** luan.gomes.706@ufrn.edu.br
 
-## Link do repositório:
+## Link do repositório
 
 https://github.com/GomesLuan/SigBordado.git
 
-## Testes de Software:
+## Testes de Software
 
 Testes de software são processos essenciais para garantir a qualidade e a funcionalidade correta de um sistema. Testes de unidade, uma forma específica de teste de software, focam em verificar a funcionalidade de componentes individuais, geralmente funções ou métodos, de forma isolada. Eles são realizados durante o desenvolvimento para identificar e corrigir erros precocemente, garantindo que cada unidade do código funcione conforme esperado. Testes de unidade são geralmente automatizados, permitindo uma rápida verificação de que mudanças no código não introduzem novos defeitos, e facilitando a manutenção e evolução do software.
 
@@ -48,7 +48,8 @@ Mais informações em: https://pytest.org
 
 Será utilizada a IDE Visual Studio Code, conhecida por sua leveza, rapidez e extensibilidade. O VS Code possui um depurador integrado para debug, permitindo que os desenvolvedores inspecionem variáveis, definam pontos de interrupção, executem passo a passo e monitorem o estado do aplicativo durante a execução. Além disso, a IDE possui integração nativa com o Git, o sistema de controle de versão mais popular. Ele fornece uma interface gráfica para executar operações Git comuns, como commit, pull, push, merge, entre outras. Os desenvolvedores podem visualizar as alterações nos arquivos, comparar versões, e gerenciar branches diretamente no editor.
 
-## Link de Tutorial usado para fazer testes na tecnologia escolhida:
+## Link de Tutorial usado para fazer testes na tecnologia escolhida
+
 * [Vídeo](https://www.youtube.com/watch?v=0OOS7sbVn4U)
 
 O vídeo acima mostra como configurar o pytest utilizando um ambiente django, bem como mostra a criação de testes para registro e login de usuário. Além disso, são criados testes de unidade referentes ao CRUD de uma tabela.
