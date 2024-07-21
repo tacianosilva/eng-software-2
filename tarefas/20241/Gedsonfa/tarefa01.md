@@ -264,3 +264,26 @@ VS Code vem com um conjunto robusto de ferramentas de debug que facilitam a iden
 https://www.youtube.com/watch?v=arVY-N0RNPQ
 
 No quinto video da serie de Node.js API testável vamos fazer as operações de CRUD da nossa API e também fazer testes para elas para garantir a funcionalidade.
+
+# Mock Objects em Testes de Unidade
+
+Resumo
+
+Mock Objects são objetos simulados que imitam o comportamento de objetos reais em um sistema controlado, permitindo que testes de unidade isolem e verifiquem o comportamento de partes específicas do código sem depender de suas interações com outros componentes. Isso é especialmente útil para testar componentes que têm dependências externas, como serviços de rede, bancos de dados, ou APIs externas.
+Por que Usar Mock Objects?
+
+* Isolamento: Permitem testar uma unidade de código isoladamente, sem depender de outros componentes ou serviços externos.
+* Previsibilidade: Possibilitam a configuração de respostas previsíveis para chamadas de métodos, facilitando a verificação do comportamento do código sob teste.
+* Performance: Aumentam a velocidade dos testes, eliminando a necessidade de interações reais com serviços lentos ou recursos pesados.
+* Controle: Permitem simular diferentes cenários e condições de erro que podem ser difíceis de reproduzir com componentes reais.
+
+## Benefícios de Mock Objects
+
+* Isolamento de Dependências: Permitem focar exclusivamente na lógica da unidade de código testada.
+* Cenários de Teste Controlados: Facilitam a simulação de diferentes condições, incluindo casos de sucesso e erro.
+* Rapidez: Testes são executados rapidamente, sem a necessidade de interagir com serviços externos reais.
+* Reprodutibilidade: Garantem que os testes sejam reprodutíveis e não dependam de fatores externos variáveis.
+
+## Conclusão
+
+Mock Objects são uma ferramenta essencial para testes de unidade, proporcionando um ambiente de teste controlado e previsível. Eles permitem que os desenvolvedores isolem a lógica de negócio e testem comportamentos específicos sem as complicações introduzidas por dependências externas. Utilizar Mock Objects adequadamente pode aumentar significativamente a confiabilidade e a eficácia dos testes de unidade.
