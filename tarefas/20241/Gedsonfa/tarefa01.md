@@ -67,21 +67,21 @@ Testes de Unidade
 
 Os testes de unidade são um tipo de teste de software que foca na menor parte testável de uma aplicação, geralmente uma função, método ou classe. O objetivo é verificar se cada unidade de código funciona corretamente isoladamente. Aqui estão alguns pontos-chave sobre testes de unidade:
 
-Objetivos
+## Objetivos
 
 * Verificação de Funcionamento: Assegurar que cada unidade individual de código funcione conforme o esperado.
 * Detecção Precoce de Erros: Identificar e corrigir erros no início do ciclo de desenvolvimento, o que reduz o custo de correção.
 * Documentação: Servir como documentação viva do comportamento esperado do código.
 * Facilitar Mudanças: Ajudar a garantir que novas mudanças ou adições ao código não quebrem funcionalidades existentes (refatoração segura).
 
-Características
+## Características
 
 * Isolamento: Cada unidade é testada isoladamente, sem dependências externas como banco de dados, serviços externos ou outras unidades de código.
 * Automatização: Os testes de unidade são geralmente automatizados e integrados ao pipeline de desenvolvimento contínuo (CI/CD).
 * Repetibilidade: Devem ser repetíveis e proporcionar resultados consistentes sempre que executados.
 * Rapidez: Devido ao seu escopo reduzido, os testes de unidade são rápidos de executar.
 
-Ferramentas Comuns
+## Ferramentas Comuns
 
 * JUnit: Usado para testar unidades de código Java.
 * NUnit: Ferramenta para testes de unidade em C#.
@@ -89,7 +89,7 @@ Ferramentas Comuns
 * Mocha: Utilizado para testes de unidade em JavaScript (Node.js).
 * xUnit: Família de ferramentas de teste de unidade para várias linguagens de programação.
 
-Estrutura de um Teste de Unidade
+## Estrutura de um Teste de Unidade
 
 Um teste de unidade típico segue a estrutura Arrange, Act, Assert (AAA):
 
@@ -174,7 +174,7 @@ Zod é uma biblioteca para validação e parsing de esquemas de dados.
 * Vantagens: Simplicidade, integração com TypeScript, validação robusta.
 * Uso: Validação de dados no backend e frontend.
 
-Arquitetura do Projeto
+## Arquitetura do Projeto
 Backend (Node.js + TypeScript + Prisma + Docker)
 
 * Setup do servidor: Utilização do Node.js com TypeScript para configurar o servidor.
@@ -182,7 +182,7 @@ Backend (Node.js + TypeScript + Prisma + Docker)
 * Containerização: Utilização do Docker para garantir que o ambiente de desenvolvimento e produção sejam consistentes.
     APIs: Implementação de endpoints RESTful ou GraphQL, usando frameworks como Express.js ou Apollo Server.
 
-Frontend (React + Next.js + Axios + Date-fns + Zod)
+## Frontend (React + Next.js + Axios + Date-fns + Zod)
 
 * Interface de Usuário: Criação de componentes reutilizáveis com React.
 * SSR e Geração Estática: Utilização do Next.js para melhorar a performance e SEO.
@@ -190,12 +190,12 @@ Frontend (React + Next.js + Axios + Date-fns + Zod)
 * Validação de Formulários: Utilização do Zod para validação de dados.
 * Manipulação de Datas: Utilização do Date-fns para manipulação de datas.
 
-Integração com Google APIs
+## Integração com Google APIs
 
 * Autenticação: Implementação de autenticação usando Google OAuth.
 * Outros Serviços: Integração de outros serviços Google conforme necessário (e.g., Google Maps).
 
-Fluxo de Desenvolvimento
+## Fluxo de Desenvolvimento
 
 * Configuração Inicial: Setup do ambiente de desenvolvimento com Docker, incluindo containers para Node.js e banco de dados.
 * Desenvolvimento de APIs: Criação dos endpoints backend usando Node.js e Prisma.
@@ -203,6 +203,32 @@ Fluxo de Desenvolvimento
 * Integração Contínua: Configuração de pipelines CI/CD para testes automatizados e deploys contínuos.
 * Teste e Validação: Utilização de frameworks de teste como Jest (para frontend e backend) e ferramentas de validação como Zod.
 
-Conclusão
+## Conclusão
 
 Esta stack oferece uma abordagem moderna e robusta para o desenvolvimento full-stack de aplicações web, aproveitando as vantagens de cada ferramenta para criar um ambiente de desenvolvimento eficiente, escalável e fácil de manter.
+
+# Framework
+
+Jest
+
+## Resumo
+
+Jest é um framework de teste de JavaScript mantido pelo Facebook, projetado para funcionar com projetos que usam Babel, TypeScript, Node.js, React, Angular, Vue.js e muitos outros. Ele oferece uma experiência de testes integrada com funcionalidades como assertions, mocking, e suporte a testes assíncronos. Jest é conhecido por sua simplicidade e capacidade de configuração mínima, além de ser altamente extensível.
+Características Principais
+
+ * Configuração Simples: Jest pode ser configurado rapidamente, muitas vezes sem a necessidade de um arquivo de configuração.
+ * Snapshot Testing: Permite capturar o estado de um componente em um determinado momento e compará-lo em execuções futuras.
+ * Cobertura de Código: Gera relatórios de cobertura de código automaticamente, ajudando a garantir que todas as partes do seu código sejam testadas.
+ * Mocking: Ferramentas embutidas para criar mocks e spies, facilitando o teste de funções isoladas.
+ * Assíncrono: Suporte nativo para testes assíncronos, incluindo Promises e async/await.
+ * Watch Mode: Roda testes automaticamente quando arquivos são modificados, acelerando o ciclo de desenvolvimento.
+
+## Links 
+
+* [Site Oficial do Jest](https://jestjs.io/)
+* [Documentação do Jest](https://jestjs.io/docs/getting-started)
+* [GitHub do Jest](https://github.com/jestjs/jest)
+
+## Conclusão
+
+Jest é uma escolha excelente para testes de unidade em projetos JavaScript e TypeScript devido à sua simplicidade, flexibilidade e robustez. Ele integra-se bem com ferramentas e frameworks populares, tornando-o uma ferramenta essencial para garantir a qualidade e a confiabilidade do código em qualquer aplicação moderna.
