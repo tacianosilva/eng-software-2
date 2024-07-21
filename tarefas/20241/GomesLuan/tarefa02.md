@@ -47,3 +47,8 @@ Mais informações em: https://pytest.org
 ## IDE utilizada
 
 Será utilizada a IDE Visual Studio Code, conhecida por sua leveza, rapidez e extensibilidade. O VS Code possui um depurador integrado para debug, permitindo que os desenvolvedores inspecionem variáveis, definam pontos de interrupção, executem passo a passo e monitorem o estado do aplicativo durante a execução. Além disso, a IDE possui integração nativa com o Git, o sistema de controle de versão mais popular. Ele fornece uma interface gráfica para executar operações Git comuns, como commit, pull, push, merge, entre outras. Os desenvolvedores podem visualizar as alterações nos arquivos, comparar versões, e gerenciar branches diretamente no editor.
+
+## Link de Tutorial usado para fazer testes na tecnologia escolhida:
+* [Vídeo](https://www.youtube.com/watch?v=0OOS7sbVn4U)
+
+O vídeo acima mostra como configurar o pytest utilizando um ambiente django, bem como mostra a criação de testes para registro e login de usuário. Além disso, são criados testes de unidade referentes ao CRUD de uma tabela.
