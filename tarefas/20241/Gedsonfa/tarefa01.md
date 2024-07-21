@@ -258,3 +258,9 @@ VS Code vem com um conjunto robusto de ferramentas de debug que facilitam a iden
 * Variable Inspection: Janela de variáveis que exibe o valor atual de todas as variáveis no escopo atual.
 * Conditional Breakpoints: Permite definir condições para que um breakpoint seja acionado, útil para situações onde o problema ocorre sob condições específicas.
 * Logpoints: Em vez de parar a execução, os logpoints adicionam entradas ao log sem interromper o fluxo do programa.
+
+# Tutorial 
+
+https://www.youtube.com/watch?v=arVY-N0RNPQ
+
+No quinto video da serie de Node.js API testável vamos fazer as operações de CRUD da nossa API e também fazer testes para elas para garantir a funcionalidade.
