@@ -96,3 +96,113 @@ Um teste de unidade típico segue a estrutura Arrange, Act, Assert (AAA):
 * Arrange: Configurar o cenário de teste e inicializar os objetos necessários.
 * Act: Executar a unidade de código que está sendo testada.
 * Assert: Verificar se o resultado obtido corresponde ao esperado.
+
+# Linguagem e Stack
+
+Linguagem de Programação: JavaScript (com TypeScript)
+
+JavaScript é a linguagem de programação principal para desenvolvimento web, permitindo a criação de aplicações tanto no lado do cliente (frontend) quanto no lado do servidor (backend). TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional, tornando o código mais robusto e fácil de manter.
+Stack de Desenvolvimento
+
+1. Node.js
+
+Node.js é um ambiente de execução JavaScript no lado do servidor. Ele permite que você use JavaScript para escrever código do lado do servidor, tornando o desenvolvimento full-stack mais coeso.
+
+* Vantagens: Assíncrono, escalável, alta performance.
+* Uso: Construção de APIs, serviços backend.
+
+2. TypeScript
+
+TypeScript adiciona tipos estáticos a JavaScript, ajudando a evitar erros comuns e melhorar a manutenção do código.
+
+* Vantagens: Tipagem estática, melhor suporte para IDEs, facilita refatorações.
+* Uso: Em todo o projeto, tanto no backend (Node.js) quanto no frontend (React).
+
+3. React
+
+React é uma biblioteca JavaScript para construção de interfaces de usuário. Ela facilita a criação de componentes reutilizáveis e a gestão do estado da aplicação.
+
+* Vantagens: Componentização, performance, ecossistema robusto.
+    Uso: Desenvolvimento de interfaces de usuário dinâmicas e interativas.
+
+4. Next.js
+
+Next.js é um framework React que permite a renderização do lado do servidor (SSR) e a geração estática de páginas.
+
+    Vantagens: SSR, geração estática, roteamento automático, otimização de performance.
+    Uso: Construção de aplicações web rápidas e otimizadas para SEO.
+
+5. Prisma
+
+Prisma é um ORM (Object-Relational Mapping) moderno que facilita a interação com bancos de dados.
+
+    Vantagens: Tipagem automática, migrações de banco de dados, suporte a vários bancos de dados.
+* Uso: Interação com bancos de dados (PostgreSQL, MySQL, SQLite, etc.) no backend.
+
+6. Docker
+
+Docker é uma plataforma de containerização que permite criar, implantar e executar aplicações em containers.
+
+* Vantagens: Consistência entre ambientes, isolamento de dependências, facilidade de escalabilidade.
+* Uso: Containerização da aplicação para desenvolvimento, teste e produção.
+
+7. Axios
+
+Axios é uma biblioteca para fazer requisições HTTP.
+
+* Vantagens: Simplicidade, suporte a promessas, interceptadores de requisições e respostas.
+* Uso: Comunicação com APIs externas, tanto no frontend quanto no backend.
+
+8. Google APIs
+
+Google APIs são serviços fornecidos pelo Google que podem ser integrados às aplicações.
+
+* Vantagens: Funcionalidades avançadas (mapas, autenticação, análises), confiabilidade.
+* Uso: Integração com serviços do Google (Google Maps, Google OAuth, etc.).
+
+9. Date-fns
+
+Date-fns é uma biblioteca para manipulação de datas em JavaScript.
+
+* Vantagens: Legibilidade, modularidade, performance.
+* Uso: Manipulação e formatação de datas em todo o projeto.
+
+10. Zod
+
+Zod é uma biblioteca para validação e parsing de esquemas de dados.
+
+* Vantagens: Simplicidade, integração com TypeScript, validação robusta.
+* Uso: Validação de dados no backend e frontend.
+
+Arquitetura do Projeto
+Backend (Node.js + TypeScript + Prisma + Docker)
+
+* Setup do servidor: Utilização do Node.js com TypeScript para configurar o servidor.
+* ORM: Utilização do Prisma para interagir com o banco de dados.
+* Containerização: Utilização do Docker para garantir que o ambiente de desenvolvimento e produção sejam consistentes.
+    APIs: Implementação de endpoints RESTful ou GraphQL, usando frameworks como Express.js ou Apollo Server.
+
+Frontend (React + Next.js + Axios + Date-fns + Zod)
+
+* Interface de Usuário: Criação de componentes reutilizáveis com React.
+* SSR e Geração Estática: Utilização do Next.js para melhorar a performance e SEO.
+* Requisições HTTP: Utilização do Axios para comunicação com o backend.
+* Validação de Formulários: Utilização do Zod para validação de dados.
+* Manipulação de Datas: Utilização do Date-fns para manipulação de datas.
+
+Integração com Google APIs
+
+* Autenticação: Implementação de autenticação usando Google OAuth.
+* Outros Serviços: Integração de outros serviços Google conforme necessário (e.g., Google Maps).
+
+Fluxo de Desenvolvimento
+
+* Configuração Inicial: Setup do ambiente de desenvolvimento com Docker, incluindo containers para Node.js e banco de dados.
+* Desenvolvimento de APIs: Criação dos endpoints backend usando Node.js e Prisma.
+* Desenvolvimento do Frontend: Criação dos componentes React e páginas Next.js.
+* Integração Contínua: Configuração de pipelines CI/CD para testes automatizados e deploys contínuos.
+* Teste e Validação: Utilização de frameworks de teste como Jest (para frontend e backend) e ferramentas de validação como Zod.
+
+Conclusão
+
+Esta stack oferece uma abordagem moderna e robusta para o desenvolvimento full-stack de aplicações web, aproveitando as vantagens de cada ferramenta para criar um ambiente de desenvolvimento eficiente, escalável e fácil de manter.
