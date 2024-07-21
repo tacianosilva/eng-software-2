@@ -111,3 +111,13 @@ Tutoriais CRUD e Testes:
 - [Tutorial React](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
 
 ### Mocks Objects:
+
+Mocks são objetos simulados que imitam o comportamento de objetos reais de uma forma controlada, sendo amplamente utilizados em testes unitários para isolar a unidade de código sendo testada. No contexto de testes unitários, mocks permitem testar a lógica de uma unidade específica sem depender de suas dependências reais, que podem ser complexas, lentas ou não determinísticas.
+
+Aqui estão alguns pontos-chave sobre mocks no contexto de testes unitários:
+
+#### Propósitos dos Mocks
+
+- **Isolamento:** Permitem que a unidade de código sob teste (Unit Under Test - UUT) seja testada de maneira isolada, sem a influência de dependências externas como bancos de dados, serviços web, ou outras unidades de código.
+- **Controle:** Dão controle completo sobre o comportamento das dependências, permitindo que você simule diferentes cenários, como respostas bem-sucedidas, falhas, exceções, etc.
+- **Verificação:** Permitem verificar se certos métodos foram chamados com os argumentos esperados, ajudando a garantir que a UUT está interagindo corretamente com suas dependências.
