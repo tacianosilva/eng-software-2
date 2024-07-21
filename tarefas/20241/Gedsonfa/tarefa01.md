@@ -232,3 +232,29 @@ Características Principais
 ## Conclusão
 
 Jest é uma escolha excelente para testes de unidade em projetos JavaScript e TypeScript devido à sua simplicidade, flexibilidade e robustez. Ele integra-se bem com ferramentas e frameworks populares, tornando-o uma ferramenta essencial para garantir a qualidade e a confiabilidade do código em qualquer aplicação moderna.
+
+# IDE
+
+Visual Studio Code (VS Code)
+
+Visual Studio Code (VS Code) é uma das IDEs mais populares e amplamente utilizadas para desenvolvimento de software, especialmente para projetos JavaScript e TypeScript. Desenvolvida pela Microsoft, VS Code é conhecida por sua flexibilidade, extensibilidade e desempenho. É um editor de código leve mas poderoso, suportando uma vasta gama de linguagens de programação e ferramentas.
+Características Principais
+
+* Leveza e Performance: VS Code é um editor rápido e responsivo, projetado para ser leve e altamente performático.
+* Extensível: Possui um vasto marketplace de extensões que adicionam funcionalidades e suportam diferentes linguagens e frameworks.
+* IntelliSense: Oferece autocompletar inteligente, dicas de parâmetros, e navegação rápida de código.
+* Integração com Git: Ferramentas de controle de versão integradas, facilitando o gerenciamento de repositórios Git diretamente na IDE.
+* Terminal Integrado: Possui um terminal embutido, permitindo rodar comandos diretamente do editor.
+
+## Ferramentas de Debug
+
+VS Code vem com um conjunto robusto de ferramentas de debug que facilitam a identificação e correção de bugs no código. Aqui estão algumas das principais ferramentas de debug integradas:
+
+* Debugging Interativo: Permite a execução de código passo a passo (step-through debugging), com a capacidade de inspecionar variáveis e expressões em tempo real.
+* Breakpoints: Possibilidade de definir breakpoints no código para pausar a execução e inspecionar o estado do programa.
+    Watch Expressions: Permite monitorar expressões específicas e ver como seus valores mudam à medida que a execução progride.
+* Call Stack: Visualiza a pilha de chamadas, permitindo navegar pelas diferentes camadas de chamadas de função.
+    Integrated Debug Console: Permite avaliar expressões, executar comandos e interagir com o programa em execução diretamente no console de debug.
+* Variable Inspection: Janela de variáveis que exibe o valor atual de todas as variáveis no escopo atual.
+* Conditional Breakpoints: Permite definir condições para que um breakpoint seja acionado, útil para situações onde o problema ocorre sob condições específicas.
+* Logpoints: Em vez de parar a execução, os logpoints adicionam entradas ao log sem interromper o fluxo do programa.
