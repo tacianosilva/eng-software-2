@@ -30,3 +30,8 @@ No Frontend, optamos pelo framework ReactJS, amplamente empregado na criação d
 
 O pytest é um framework de testes para Python conhecido por sua simplicidade e alta extensibilidade. Atende tanto a testes básicos quanto a cenários mais complexos além de incluir recursos avançados como fixtures, que ajudam na configuração e limpeza dos testes. Apresenta também suporte a plugins, uma poderosa interface de linha de comando e a capacidade de descobrir automaticamente os testes, o que torna mais fácil organizar e executar grandes quantidades de testes.
 
+## IDE
+
+Optamos pelo Visual Studio Code como ambiente de desenvolvimento. Este software conta com um depurador integrado para facilitar o processo de identificação e correção de bugs, permitindo que os desenvolvedores inspecionem o estado do aplicativo durante sua execução. Além disso, o Visual Studio Code oferece integração nativa com o Git, fornecendo uma interface gráfica intuitiva para realizar operações comuns, como commit, pull, push e merge, simplificando o fluxo de trabalho.
+
+
