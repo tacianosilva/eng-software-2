@@ -34,4 +34,14 @@ O pytest é um framework de testes para Python conhecido por sua simplicidade e 
 
 Optamos pelo Visual Studio Code como ambiente de desenvolvimento. Este software conta com um depurador integrado para facilitar o processo de identificação e correção de bugs, permitindo que os desenvolvedores inspecionem o estado do aplicativo durante sua execução. Além disso, o Visual Studio Code oferece integração nativa com o Git, fornecendo uma interface gráfica intuitiva para realizar operações comuns, como commit, pull, push e merge, simplificando o fluxo de trabalho.
 
+## Tutorial de testes
+
+* [Tutorial](https://www.youtube.com/watch?v=0OOS7sbVn4U)
+
+O vídeo demonstra o processo de configuração do pytest em um ambiente Django, incluindo a criação de testes para funcionalidades de registro e login de usuário.
+
+
+
+
+
 
