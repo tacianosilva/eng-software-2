@@ -38,10 +38,10 @@ Cypress é um conjunto de testes end-to-end para aplicações Next.js, conhecido
 
 #
 
-### IDE: Visual Studio Code
+## IDE: Visual Studio Code
 * O Visual Studio Code (VSCode) é uma IDE de código aberto da Microsoft, disponível para Windows, macOS e Linux. Ela se destaca por sua leveza, flexibilidade e grande variedade de extensões, tornando-a uma excelente escolha para desenvolvedores de diferentes linguagens e plataformas.
 
-#### Ferramentas de Debug: 
+### Ferramentas de Debug: 
 * O VSCode possui ferramentas de debug integradas para diversas linguagens, como JavaScript, TypeScript, Python, C++ e Java. 
 
 * Alguns exemplos dos recursos que se destacam: 
@@ -51,9 +51,19 @@ Cypress é um conjunto de testes end-to-end para aplicações Next.js, conhecido
     * Examinar variáveis
 
 
-#### Ferramentas de Controle de Versão:
+### Ferramentas de Controle de Versão:
 * O VSCode oferece suporte integrado ao Git, o sistema de controle de versão mais popular. Através da interface do VSCode, você pode:
     * Criar e gerenciar repositórios Git.
     * Visualizar histórico de alterações.
     * Comparar e mesclar diferentes versões do código.
     * Fazer commits e pushs para repositórios remotos.
+
+## Tutorial Testes de Unidade
+
+### Tutorial de um CRUD em Python com Django framework 
+> Curso gratuito, clique [aqui](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/)
+* Neste [curso](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/) gratuito, aprenda o básico sobre o Django fraemwork através de uma abordagem prática e hands on onde você desenvolverá um CRUD.
+
+### Tutorial Testes de Unidade
+Os três tipos de teste são discutidos neste artigo: unitário, de integração e automatizado. Os testes unitários se concentram em unidades de código individuais. Testes de integração avaliam como várias partes do código trabalham juntas. Testes são realizados automaticamente.
+* [Link do tutorial](https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
