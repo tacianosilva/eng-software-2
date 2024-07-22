@@ -40,7 +40,9 @@ Optamos pelo Visual Studio Code como ambiente de desenvolvimento. Este software 
 
 O vídeo demonstra o processo de configuração do pytest em um ambiente Django, incluindo a criação de testes para funcionalidades de registro e login de usuário.
 
+## Mocks Objects
 
+São objetos simulados usados em testes de unidade para imitar o comportamento de objetos reais, permitindo isolar o componente que está sendo testado ao substituir dependências externas, como serviços, bancos de dados ou APIs, com versões controladas e previsíveis. Permitindo focar o teste na funcionalidade específica do código que está sendo analisado, garantindo velocidade, confiábilidade. Podem também verificar se certos métodos foram chamados com os parâmetros corretos, ajudando a validar as interações entre componentes. 
 
 
 
