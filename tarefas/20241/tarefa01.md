@@ -1,71 +1,52 @@
 # Tarefa 01 - Git e GitHub com Markdown
 
-*Nome:* Charles Eduardo Araújo de Faria  
-*Usuário GitHub:* https://github.com/CharlesEdu07 
-*E-mail:* charleseduardofaria@gmail.com
+**nome:** Lucas Mateus da Silva
 
----
+**github:** mts-lucas
 
-## Projeto: SigEstoque
+**email:** lucas.mateus.130@ufrn.edu.br
 
-### Descrição:
+## Seção A:
 
-<div style="text-align: justify">
-O sistema proposto tem como principal objetivo integrar as diferentes áreas de uma organização a um sistema de controle de estoque centralizado. Ele capacita os usuários a solicitar materiais,verificar disponibilidade e registrar entradas e saídas de recursos de forma eficiente e organizada.
+### Event Sync
 
-Sua função primordial é assegurar a utilização harmoniosa dos recursos armazenados, evitando conflitos entre as diversas partes da organização.
-Um dos desafios que o sistema visa superar é a ocorrência de situações em que múltiplos componentes tentam acessar o mesmo conjunto de itens sem conhecimento das ações dos outros, o que pode resultar em problemas internos ou dificuldades para aqueles que necessitarão desses itens no futuro.
-A aplicabilidade do programa reside na sua capacidade de rastrear e controlar o fluxo de produtos que entram e saem da organização. Os dados gerados são valiosos para a gestão inteligente de futuras movimentações, permitindo previsões mais precisas e uma aquisição estratégica de materiais. Isso se traduz em evitar tanto a escassez quanto o excesso de estoque, adaptando-se dinamicamente às necessidades situacionais.
+Uma proposta de gerenciador de eventos
 
-</div>
+**Equipe:**
 
-_Equipe:_
+- Dayanne Xavier Lucena 
+- Lucas Mateus da Silva
+- Vinícius Maia Marinho 
+- Tallys Aureliano
+- Ítalo Maurício
 
-- Breno Costa Porfírio
-- Charles Eduardo Araújo de Faria
-- Gabriel Antônio Ferreira Lima
-- Leonardo Alves da Costa
-- Luis Felipe dos Santos
+## Seção B:
 
-_Repositórios:_
-[Back-end](https://github.com/leonardobezrr/sig-estoque-back-end)
-[Front-end](https://github.com/leonardobezrr/sig-estoque-front-end)
+As linguagens que serão utilizados no projeto serão python e javascript, toda a equipe tem conhecimetos básicos dessas tecnologias. Sendo 1 membro mais experiente com python e 2 membros experientes com JS.
 
-### Linguagem de Programação:
-<div style="text-align: justify">
-Estaremos utilizando JavaScript como linguagem principal para o desenvolvimento do projeto. A equipe possui um bom domínio da linguagem, com experiência em projetos anteriores e participação em cursos relacionados.
-</div>
+## Seção C:
 
-### Framework:
-<div style="text-align: justify">
-Para agilizar o desenvolvimento, estaremos utilizando o framework React, para o front-end e o Fastify para o back-end. Ambos são frameworks web em JavaScript, que incentivam o desenvolvimento rápido e limpo. Ele fornece uma série de ferramentas para facilitar tarefas comuns em desenvolvimento web.
-</div>
+O framework para backend será Django Rest Framework que é uma tecnologia feita em cima do Django Framework para criação de APIs REST de forma rápida e segura.
 
-### IDE:
-<div style="text-align: justify">
-A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
-</div>
+## Seção D:
 
-### Tutorial CRUD:
-<div style="text-align: justify">
-Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto.
-</div>
+No projeto serão utilizados git para versionamento de código, e github para armazenamento remoto.
 
-Tutoriais:
-- [Tutorial Node + Fastify CRUD](https://www.youtube.com/watch?v=LMoMHP44-xM)
-- [Tutorial React](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm).
 
-### Branches e Pull Requests com GitFlow:
-<div style="text-align: justify">
-Para organização do fluxo de trabalho, estaremos utilizando o GitFlow. Isso nos permite ter branches específicas para features, releases, hotfixes, entre outras, facilitando o gerenciamento do código. Os pull requests serão utilizados para revisão de código e integração das alterações.
-</div>
+## Seção E:
 
-### Versionamento Semântico:
-<div style="text-align: justify">
-O Versionamento Semântico é uma abordagem para atribuir significado a versões de software. Ele define um conjunto de regras e convenções para atribuir números de versão com base nas mudanças no software. Isso facilita a compreensão do impacto das atualizações e ajuda na comunicação entre desenvolvedores e usuários.
-</div>
+[Tutorial](https://github.com/mts-lucas/desafio-triagil/tree/main)
 
-### Conventional Commits:
-<div style="text-align: justify">
-Conventional Commits é uma convenção para mensagens de commits que permite uma melhor compreensão das alterações realizadas no código. Ele define um formato padrão para as mensagens de commit, incluindo prefixos como fix, feat, chore, entre outros, facilitando o rastreamento de mudanças e automação de processos relacionados ao versionamento do software.
-</div>
+O tutorial do mozila traz todo o básico do framework, desde o a criação do projeto, passando por models, views e testes;
+
+## Seção F:
+
+Branches são cópias independentes do código-fonte dentro de um repositório de controle de versão, como o Git. Eles permitem que os desenvolvedores trabalhem em novas funcionalidades ou correções de bugs sem afetar o código principal. Pull requests, por outro lado, são propostas para mesclar alterações de uma ramificação (branch) para outra, geralmente da ramificação de uma feature para a branch principal, como o "master". Eles fornecem uma maneira estruturada para revisar, discutir e aprovar as mudanças antes de serem integradas ao código principal, garantindo assim a qualidade e consistência do código-fonte.
+
+## Seção G:
+
+O versionamento semântico é uma prática que envolve atribuir significado semântico específico a números de versão de software. Ele segue um padrão bem definido, geralmente no formato "MAJOR.MINOR.PATCH", onde incrementos no número maior (MAJOR) indicam mudanças incompatíveis, incrementos no número menor (MINOR) adicionam funcionalidades de maneira compatível com versões anteriores, e incrementos no número de correção (PATCH) indicam correções de bugs compatíveis com versões anteriores. Essa abordagem oferece uma clareza semântica sobre as mudanças introduzidas em cada versão, facilitando a comunicação entre desenvolvedores e usuários sobre o impacto das atualizações do software.
+
+## Seção H:
+
+Commits convencionais são uma convenção de nomenclatura para mensagens de commit em sistemas de controle de versão, como o Git. Essa convenção define um formato padronizado para descrever as mudanças introduzidas em um commit. Geralmente, as mensagens de commit seguem o formato "tipo(scope): descrição", onde o tipo descreve a natureza da alteração (por exemplo, "feat" para uma nova funcionalidade, "fix" para uma correção de bug) e o escopo opcional indica o contexto da alteração (por exemplo, o módulo ou componente afetado). A descrição fornece uma explicação concisa do que foi feito. O uso de commits convencionais facilita a geração de logs de alterações automáticos, a geração de changelogs e a comunicação eficaz entre membros da equipe sobre o progresso do desenvolvimento.
