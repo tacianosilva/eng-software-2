@@ -78,3 +78,9 @@ Os mocks ajudam na criação de condições controladas e na verificação de co
 ## CRUD implementado no projeto
 ### User Story US05 - Manter Recurso
 O user story, tem a finalidade de manter os recursos do sistema SIGApoio, para empréstimo. Um recurso pode ter os atributos codigo, status, funcionando e tipo. Apresenta uma tela de estoque para listar os recursos disponíveis. Os tipos de recursos são adaptador HDMI, projetor, notebook, caixa de som e mouse. Bem como, uma tela que mostra os recursos disponíveis e os reservados. Ademais, cadastrar, editar e deletar recursos.
+
+## Implementação de Teste de Unidade
+Para garantir que várias rotas da API estivessem funcionando corretamente, utilizei o Django TestCase com o "APIClient" ao implementar os testes de unidade para a aplicação. A experiência foi positiva porque pude verificar se as páginas e endpoints da API retornavam o código de status HTTP esperado (200 OK). 
+
+Cada teste foi configurado para acessar vários URLs para os métodos GET e POST, o que facilita a identificação rápida de problemas de integração ou resposta da API. A simulação de requisições e a verificação dos resultados foram facilitadas com o uso do "APIClient". No geral, foi um processo direto que garantiu a integridade das principais funcionalidades da aplicação.
+* [Link dos testes](https://github.com/tgo-mas/SIGApoio/blob/main/proj_SIGApoio/app/tests.py)
