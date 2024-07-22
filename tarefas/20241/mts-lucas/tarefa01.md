@@ -34,3 +34,12 @@ Mock objects, ou objetos simulados, são uma técnica utilizada em testes de uni
 
 Eu implementei o primeiro UserStory, que se trata do controle de usuários, implementei endpoints de listagem de usuario, de edição e por fim um endpoint de cadastro e login com a API, e uma função de poder deletar um usuario.
 
+## B)
+
+Os testes foram tranquilo de implementar, pois ja tinha a experiencia com isso, acabei por não utilizar dados gerados automaticamente como os que podem ser fornecidos pela biblioteca **Faker** , então coloquei os dados hardcoded, mas futuramente planejo melhorar esses testes com os dados mockados automanticamente.
+
+https://github.com/tallysdev/eventSync/blob/main/backend/eventsync_api/api/tests/tests_users.py
+
+## C)
+
+O testes de integração vem depois dos testes unitários, eles buscam verificar o funcionamento da aplicação como um todo, ou em blocos maiores. O que fiz até agora foram testes unitários que testam cada função que fiz individualmente.
