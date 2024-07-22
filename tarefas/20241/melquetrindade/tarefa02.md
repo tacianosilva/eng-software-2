@@ -273,6 +273,20 @@ Os Mocks Objects, também conhecidos como objetos simulados ou mocks, são ferra
 O sistema deve manter um cadastro dos clientes a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um cliente tem os atributos nome, CPF, data de nascimento, número de telefone, email e endereço. O registro do cliente no sistema poderá ser feito pelos atores funcionário e gerente.
 ***
 
+## Implementado Testes Unitários
+Minha experiência ao implementar os testes unitários foi muito proveitosa, pude compreender sua importância para garantir a qualidade e manutenibilidade do software ao longo do tempo. Até o momento nunca tinha implementado testes, então tive um pouco de dificuldade no início para entender como funcionava a lógica, porém, logo depois de algumas práticas foi fácil compreender seu funcionamento.
+
+
+### Testes por mim realizados:
+
+1. <u>**teste_get_cliente_por_id:**</u> Realiza teste para concultar um cliente por id específico.
+2. <u>**teste_update_de_dados_do_usuario_invalido:**</u> Realiza teste para verificar se é permitido atualizar dados de um cliente através de uma entrada inválida.
+3. <u>**teste_nao_pode_deletar_cliente_com_id_invalido:**</u> Realiza teste para verificar se pode deletar um cliente inexistente.
+4. <u>**teste_nao_pode_cadastrar_clientes_com_cpf_iguais:**</u> Realiza teste para conferir se é possível cadastrar dois clientes com o mesmo CPF.
+
+* [Link para o Arquivo de Testes do Projeto](https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
+
+***
 ## Teste Unitário x Teste de Integração
 
 Os testes unitários são focados em partes isoladas do código, enquanto os testes de integração verificam como essas partes se comportam juntas. Ambos são importantes para garantir a qualidade e a robustez do software.
