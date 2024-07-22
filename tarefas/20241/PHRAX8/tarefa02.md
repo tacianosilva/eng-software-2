@@ -26,3 +26,7 @@ Python é reconhecida como uma linguagem de programação de alto nível, notór
 
 No Frontend, optamos pelo framework ReactJS, amplamente empregado na criação de interfaces de usuário para aplicações web. Este framework é reconhecido por sua abordagem de componentização e pela eficiência na atualização do Document Object Model (DOM). Para o Backend, escolhemos o Django, um framework de desenvolvimento web em Python que se integra facilmente em diversos projetos.
 
+## Framework: pytest
+
+O pytest é um framework de testes para Python conhecido por sua simplicidade e alta extensibilidade. Atende tanto a testes básicos quanto a cenários mais complexos além de incluir recursos avançados como fixtures, que ajudam na configuração e limpeza dos testes. Apresenta também suporte a plugins, uma poderosa interface de linha de comando e a capacidade de descobrir automaticamente os testes, o que torna mais fácil organizar e executar grandes quantidades de testes.
+
