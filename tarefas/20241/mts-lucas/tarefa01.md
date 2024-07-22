@@ -1,3 +1,5 @@
+# 9)
+
 ## A)
 
 Os testes de software são uma etapa muito importante no desenvolvimento de software, que visam garantir a qualidade e o bom funcionamento do sistema. Os testes envolvem a execução de um programa ou aplicação com a intenção de encontrar falhas, bugs ou defeitos. O objetivo principal é identificar e corrigir problemas antes que o software seja lançado para os usuários finais. Os testes de software podem ser classificados em várias categorias, como testes funcionais, testes de integração, testes de sistema, testes de aceitação, entre outros. Os testes unitários são uma das formas mais fundamentais de teste de software. Eles focam em validar a funcionalidade de componentes individuais de um sistema, normalmente a nível de função ou método.
@@ -25,3 +27,10 @@ https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing
 ## F)
 
 Mock objects, ou objetos simulados, são uma técnica utilizada em testes de unidade para simular o comportamento de objetos reais. Essa técnica permite que durante a etapa de testes eu possa agilizar o processo sem ter de consultar anda externamente como um banco de dados ou ate mesmo a aplicação. Dessa maneira eu simulo um objeto real, porem com todo o controle que precise durante os testes.
+
+# 10)
+
+## A) 
+
+Eu implementei o primeiro UserStory, que se trata do controle de usuários, implementei endpoints de listagem de usuario, de edição e por fim um endpoint de cadastro e login com a API, e uma função de poder deletar um usuario.
+
