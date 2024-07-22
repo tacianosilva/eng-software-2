@@ -9,3 +9,9 @@ A linguagem que sera utilizada no projeto para o backend é python, e como stack
 ## C)
 
 unittest é um framework de teste padrão do Python, inspirado na biblioteca JUnit do Java. Ele fornece uma maneira estruturada de criar, organizar e executar testes de unidade, garantindo que o código funcione conforme o esperado. Embora o Django use unittest como seu framework de teste padrão, ele estende essa funcionalidade para melhor suportar as necessidades específicas das aplicações Django. Isso permite que os desenvolvedores aproveitem ao máximo as capacidades do unittest juntamente com as extensões do Django
+
+https://docs.python.org/3/library/unittest.html
+
+## D)
+
+O Visual Studio Code (VSCode) é um editor de código-fonte desenvolvido pela Microsoft. É conhecido por sua leveza, flexibilidade e pelo grande numero de extensões que melhoram a produtividade.  Suas ferramentas de debug integradas incluem funcionalidades como breakpoints, inspeção de variáveis, expressões de vigilância, console de debug interativo e visualização da pilha de chamadas, além de valores inline.
