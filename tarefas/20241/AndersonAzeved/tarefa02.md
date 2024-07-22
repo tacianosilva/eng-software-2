@@ -67,3 +67,9 @@ Cypress é um conjunto de testes end-to-end para aplicações Next.js, conhecido
 ### Tutorial Testes de Unidade
 Os três tipos de teste são discutidos neste artigo: unitário, de integração e automatizado. Os testes unitários se concentram em unidades de código individuais. Testes de integração avaliam como várias partes do código trabalham juntas. Testes são realizados automaticamente.
 * [Link do tutorial](https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
+
+
+## Mocks Objects em Testes de Unidade
+Mocks são usados em testes de unidade para simular dependências externas e objetos com os quais a unidade de código do teste interage. Eles permitem que você isole e teste a funcionalidade particular da unidade sem depender de componentes reais, como serviços externos ou bancos de dados.
+
+Os mocks ajudam na criação de condições controladas e na verificação de como a unidade de código reage a vários tipos de situações, como erros ou reações inesperadas. Isso torna mais fácil encontrar bugs e entender o comportamento do código, reduzindo os custos e a complexidade da configuração e gerenciamento de dependências reais. Em Python e Java, ferramentas como unittest.mock e Mockito são frequentemente usadas para criar e administrar mocks em testes de unidade.
