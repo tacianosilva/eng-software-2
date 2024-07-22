@@ -22,3 +22,6 @@ O tutorial do mozila aborda todos os conceitos mais básicos usando o framework 
 
 https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing
 
+## F)
+
+Mock objects, ou objetos simulados, são uma técnica utilizada em testes de unidade para simular o comportamento de objetos reais. Essa técnica permite que durante a etapa de testes eu possa agilizar o processo sem ter de consultar anda externamente como um banco de dados ou ate mesmo a aplicação. Dessa maneira eu simulo um objeto real, porem com todo o controle que precise durante os testes.
