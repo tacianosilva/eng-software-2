@@ -25,3 +25,13 @@ O Django é um framework web escrito em Python e de código aberto, destacando s
 
 ### Banco de Dados: PostgreSQL
 O PostgreSQL é um banco de dados relacional de código aberto robusto e extensível que atende aos padrões SQL. Ele possui recursos avançados como replicação, controle de concorrência multiversion (MVCC) e transações ACID, além de suportar uma ampla gama de tipos de dados. Ele funciona bem para aplicações que vão de sites simples a sistemas complexos de análise de dados, pois é extensível o suficiente para permitir a inclusão de novos tipos de dados e funções. A eficiência e a segurança do PostgreSQL são constantemente melhoradas por uma comunidade ativa de desenvolvedores.
+
+## Framework de testes, para a linguagem escolhida
+PyTest é um framework de testes comumente utilizado para Python, conhecido por sua facilidade de uso e flexibilidade. Ele permite a criação de testes básicos e complexos, com suporte para fixtures, parametrização e detecção automática de testes. O PyTest oferece uma grande coleção de plugins para melhorar sua funcionalidade e ajuda a configurar e limpar os ambientes de teste. O desenvolvimento é melhorado com sua integração com ferramentas de CI/CD e a capacidade de executar testes em paralelo. PyTest é uma opção versátil e eficaz para testes em Python porque tem uma sintaxe clara e suporta várias funcionalidades.
+* [Documentação PyTest](https://docs.pytest.org/en/stable/contents.html)
+* [Instalação](https://docs.pytest.org/en/stable/getting-started.html)
+
+## Outro framework de testes
+Cypress é um conjunto de testes end-to-end para aplicações Next.js, conhecido por sua facilidade de uso e capacidade de simular interações reais no navegador. Com recursos como time-travel debugging e uma API para interações DOM simples, ele permite testes rápidos e confiáveis. A aplicação pode funcionar bem em ambientes de produção com o Cypress, que suporta tanto testes de integração quanto end-to-end. A Cypress é uma escolha popular para garantir a qualidade das aplicações Next.js devido à sua interface de usuário interativa e excelente documentação.
+* [Documentação do Cypress](https://docs.cypress.io/guides/overview/why-cypress)
+* [Instalação](https://docs.cypress.io/guides/getting-started/installing-cypress)
