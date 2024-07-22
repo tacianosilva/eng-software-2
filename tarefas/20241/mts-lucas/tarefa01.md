@@ -15,3 +15,10 @@ https://docs.python.org/3/library/unittest.html
 ## D)
 
 O Visual Studio Code (VSCode) é um editor de código-fonte desenvolvido pela Microsoft. É conhecido por sua leveza, flexibilidade e pelo grande numero de extensões que melhoram a produtividade.  Suas ferramentas de debug integradas incluem funcionalidades como breakpoints, inspeção de variáveis, expressões de vigilância, console de debug interativo e visualização da pilha de chamadas, além de valores inline.
+
+## E)
+
+O tutorial do mozila aborda todos os conceitos mais básicos usando o framework django, consstruindo uma aplicação junto com o leitor e propondo desafios no processo. O tutorial além disso fornece uma sessão inteira ensinando a escrever os testes e testar usando unittest, como visto em:
+
+https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing
+
