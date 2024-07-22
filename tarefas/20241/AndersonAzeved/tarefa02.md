@@ -73,3 +73,8 @@ Os três tipos de teste são discutidos neste artigo: unitário, de integração
 Mocks são usados em testes de unidade para simular dependências externas e objetos com os quais a unidade de código do teste interage. Eles permitem que você isole e teste a funcionalidade particular da unidade sem depender de componentes reais, como serviços externos ou bancos de dados.
 
 Os mocks ajudam na criação de condições controladas e na verificação de como a unidade de código reage a vários tipos de situações, como erros ou reações inesperadas. Isso torna mais fácil encontrar bugs e entender o comportamento do código, reduzindo os custos e a complexidade da configuração e gerenciamento de dependências reais. Em Python e Java, ferramentas como unittest.mock e Mockito são frequentemente usadas para criar e administrar mocks em testes de unidade.
+
+
+## CRUD implementado no projeto
+### User Story US05 - Manter Recurso
+O user story, tem a finalidade de manter os recursos do sistema SIGApoio, para empréstimo. Um recurso pode ter os atributos codigo, status, funcionando e tipo. Apresenta uma tela de estoque para listar os recursos disponíveis. Os tipos de recursos são adaptador HDMI, projetor, notebook, caixa de som e mouse. Bem como, uma tela que mostra os recursos disponíveis e os reservados. Ademais, cadastrar, editar e deletar recursos.
