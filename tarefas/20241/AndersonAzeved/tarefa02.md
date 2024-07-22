@@ -84,3 +84,11 @@ Para garantir que várias rotas da API estivessem funcionando corretamente, util
 
 Cada teste foi configurado para acessar vários URLs para os métodos GET e POST, o que facilita a identificação rápida de problemas de integração ou resposta da API. A simulação de requisições e a verificação dos resultados foram facilitadas com o uso do "APIClient". No geral, foi um processo direto que garantiu a integridade das principais funcionalidades da aplicação.
 * [Link dos testes](https://github.com/tgo-mas/SIGApoio/blob/main/proj_SIGApoio/app/tests.py)
+
+
+## Teste de Integração
+O teste de integração verifica como os vários componentes ou sistemas interagem entre si para garantir que funcionem corretamente juntos. Os testes de integração avaliam como essas partes trabalham juntas e trocam dados, em contraste com os testes unitários, que avaliam unidades de código isoladas. Eles geralmente usam dados reais ou simulados e podem conectar módulos, APIs e bancos de dados. O Postman para APIs e frameworks como PyTest e Jest é uma ferramenta comum para testes de integração. Essas avaliações são essenciais para encontrar problemas de integração e garantir que o sistema funcione corretamente em um ambiente real.
+
+No teste implementado anteriormente, realizei um teste de integração. 
+
+O teste unitário se concentra em verificar unidades de código pequenas, como métodos ou funções, de forma independente, usando mocks para simular dependências. O teste de integração avalia como os vários componentes ou sistemas interagem, garantindo que eles funcionem juntos corretamente e troquem dados conforme previsto. Os testes de integração verificam a colaboração entre os componentes do sistema, enquanto os testes unitários garantem a funcionalidade individual.
