@@ -66,3 +66,41 @@ Os Mock Objects são fundamentais para a criação de testes de unidade eficazes
 
 - [Mocking in Python with unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
 - [Understanding Mock Objects](https://martinfowler.com/articles/mocksArentStubs.html)
+
+#### CRUD para Gestão de Aparelhos no Projeto `aparelhoApp`
+
+### User Story: Gestão de Aparelhos
+
+## Contexto
+
+Para organizar e gerenciar a manutenção e utilização de aparelhos eletrônicos em uma instituição, foi implementado um sistema CRUD (Create, Read, Update, Delete) utilizando Django, Python e o framework de testes pytest. O sistema permite que os usuários insiram, atualizem, deletem e consultem informações sobre os aparelhos.
+
+## Funcionalidades
+
+1. **Inserir Aparelho**
+   - **Descrição**: Como administrador, quero adicionar novos aparelhos ao sistema para que eles sejam monitorados e gerenciados corretamente.
+   - **Operação**:
+     - Acessar a página de cadastro de aparelhos (`/aparelho/create`).
+     - Preencher o formulário com informações do aparelho (nome, marca, modelo, número de série, localização, data de aquisição).
+     - Submeter o formulário para salvar o novo aparelho no banco de dados.
+
+2. **Atualizar Aparelho**
+   - **Descrição**: Como administrador, quero atualizar as informações dos aparelhos cadastrados para manter os dados atualizados e corrigir quaisquer informações incorretas.
+   - **Operação**:
+     - Acessar a página de edição de aparelhos (`/aparelho/update/<id>`).
+     - Modificar as informações necessárias no formulário.
+     - Submeter o formulário para salvar as alterações no banco de dados.
+
+3. **Deletar Aparelho**
+   - **Descrição**: Como administrador, quero remover aparelhos do sistema que não estão mais em uso ou que foram descartados.
+   - **Operação**:
+     - Acessar a página de listagem de aparelhos (`/aparelho/`).
+     - Selecionar o aparelho a ser deletado.
+     - Confirmar a exclusão para remover o aparelho do banco de dados.
+
+4. **Consultar Aparelho**
+   - **Descrição**: Como usuário, quero visualizar a lista de todos os aparelhos cadastrados para monitorar e acessar informações detalhadas sobre cada aparelho.
+   - **Operação**:
+     - Acessar a página de listagem de aparelhos (`/aparelho/`).
+     - Visualizar a lista de aparelhos com suas informações básicas.
+     - Clicar em um aparelho específico para ver detalhes adicionais.
