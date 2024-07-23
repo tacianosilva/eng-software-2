@@ -61,6 +61,8 @@ Assegurar que uma unidade de código se comporta corretamente ao interagir com d
 
 Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
 
+# Testes de unidade
+
 * [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
 
 Neste teste de autenticação de usuário, podemos observar três testes de unidade. Um deles cria um usuário e, em seguida, realiza a autenticação. Além disso, os dados são mockados em um arquivo exclusivo para testes.
@@ -68,3 +70,47 @@ Neste teste de autenticação de usuário, podemos observar três testes de unid
 * [Link para o arquivo de Mock](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-users-repository.ts)
 
 Após a implementação dos testes, ficou evidente a importância de se obter uma boa cobertura de testes em um sistema. A experiência foi extremamente positiva e contribuiu significativamente para o meu desenvolvimento e aprendizado.
+
+# Teste de Integração
+Os testes de integração são uma etapa crucial no ciclo de vida do desenvolvimento de software, focando em verificar a interação entre diferentes módulos ou componentes do sistema. Enquanto os testes unitários isolam e testam partes individuais do código, os testes de integração garantem que essas partes funcionem corretamente quando combinadas.
+
+## Objetivos dos Testes de Integração:
+## Verificar Interfaces:
+Assegurar que os diferentes módulos ou componentes se comuniquem corretamente através de suas interfaces.
+## Detectar Problemas de Integração:
+Identificar e corrigir problemas que podem surgir quando componentes individuais são combinados.
+## Validar Fluxos de Dados:
+Garantir que os dados sejam passados corretamente entre os módulos.
+## Assegurar Funcionalidade:
+Confirmar que funcionalidades que dependem de múltiplos módulos funcionem como esperado.
+
+## Diferença entre Teste Unitário e Teste de Integração:
+## Objetivo: 
+
+### Teste Unitário:
+Verificar se unidades individuais do código (como funções ou métodos) funcionam corretamente de forma isolada.
+### Teste de Integração:
+Verificar se diferentes unidades ou módulos funcionam corretamente juntos.
+
+## Escopo:
+
+### Teste Unitário:
+Foca em pequenas partes do código, geralmente escritas e mantidas pelo próprio desenvolvedor.
+### Teste de Integração:
+Foca na interação entre vários módulos, podendo envolver diferentes partes do sistema, como serviços web, bancos de dados, e outras APIs.
+
+## Isolamento:
+
+### Teste Unitário:
+Isola o código em teste usando mocks e stubs para substituir dependências externas.
+### Teste de Integração:
+Utiliza componentes reais do sistema, testando a integração entre eles sem usar mocks.
+
+## Complexidade:
+
+### Teste Unitário:
+Geralmente menos complexo e mais rápido de executar, pois testa pequenas partes do código.
+### Teste de Integração:
+Pode ser mais complexo e demorado, pois testa a integração de vários módulos e pode exigir um ambiente de teste mais completo.
+
+No projeto até o momento, não temos testes de integração.
