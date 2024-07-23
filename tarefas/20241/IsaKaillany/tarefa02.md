@@ -219,3 +219,8 @@ O termo "Mock Objects" é utilizado para descrever um caso especial de objetos q
 * Maior velocidade na execução de testes: Ao isolar as dependências, os testes podem ser executados com mais rapidez e eficiência, otimizando o tempo de desenvolvimento.
 * Maior cobertura de testes: Com os mocks, é possível testar diferentes cenários de interação com as dependências, aumentando a cobertura de testes e a qualidade geral do código.
 ***
+
+# Descrição do Projeto
+
+## Descrição do User Story implementado:
+O sistema deve manter um cadastro dos funcionários a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um funcionário tem os atributos nome, CPF, data de nascimento, número de telefone, email, cargo, salário e carga horária. O registro do funcionário no sistema poderá ser feito apenas pelo gerente.
