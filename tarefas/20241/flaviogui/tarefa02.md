@@ -46,3 +46,7 @@ O VSCode oferece um conjunto abrangente de ferramentas de debug que facilitam a 
 - Modificação de variáveis: Altere o valor das variáveis ​​diretamente no depurador, observando o impacto nas próximas linhas de código.
 - Registro de saída: Capture a saída do programa durante a depuração, incluindo mensagens de console, erros e avisos.
 - Suporte a diversas linguagens: O VSCode oferece suporte para depuração de uma ampla variedade de linguagens de programação, incluindo Python, Java, C++, JavaScript e muitas outras.
+
+### Tutorial de CRUD e Teste de Software
+**Tutorial:** [CRUD em Python - Python e MySQL e teste de software (playlist)](https://www.youtube.com/watch?v=-vrXnewHrwA)
+O tutorial ensina a criar um CRUD em Python com MySQL e inclui testes de software usando pytest. Ele cobre a instalação do MySQL, criação de banco de dados e tabelas, conexão com Python, execução de comandos SQL e implementação de testes para garantir a funcionalidade do CRUD.
