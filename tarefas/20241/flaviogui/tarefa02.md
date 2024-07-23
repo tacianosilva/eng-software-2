@@ -23,3 +23,12 @@ Orientada a objetos: Permite organizar o código em módulos reutilizáveis e in
 - Funcional: Suporta funções anônimas e expressões lambda, possibilitando um estilo de programação mais conciso e elegante.
 - Tipagem dinâmica: O tipo das variáveis não precisa ser declarado explicitamente, aumentando a flexibilidade do código.
 - Forte: Realiza verificações de tipo durante a execução, prevenindo erros causados por incompatibilidade de tipos.
+
+### Framework de Testes de Unidade
+O pytest é um framework de testes de unidade para Python que facilita a escrita de testes simples e escaláveis. Ele é conhecido por sua sintaxe intuitiva e por suportar uma ampla gama de funcionalidades. Algumas das principais características do pytest incluem:
+- Sintaxe Simples: Permite escrever testes de forma clara e concisa.
+- Fixtures: Facilita a configuração e limpeza de testes com o uso de fixtures.
+- Plugins: Possui uma arquitetura extensível com uma vasta gama de plugins disponíveis.
+- Assert Reescrito: Fornece mensagens de erro detalhadas e legíveis ao usar assertivas.
+- Compatibilidade: Funciona bem com outras bibliotecas e frameworks de teste, como unittest e doctest.
+Para mais informações sobre o framework, acesse o site oficial do pytest neste [Link](https://docs.pytest.org/en/stable/).
