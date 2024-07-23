@@ -237,5 +237,13 @@ Minha experiência ao implementar os testes unitários foi muito proveitosa, pud
 4. <u>**teste_criar_funcionario_com_dados_incompletos:**</u> Realiza teste para conferir se é possível cadastrar um funcionário sem informar todos os dados.
 
 * [Link para o Arquivo de Testes do Projeto](https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
-
 ***
+
+## Teste Unitário x Teste de Integração
+
+* Testes Unitários: Focam em partes individuais do código, são rápidos e ajudam a garantir que cada unidade funcione isoladamente.
+* Testes de Integração: Avaliam como diferentes partes do sistema funcionam em conjunto, podendo envolver sistemas externos e integrados, e são essenciais para garantir que o sistema completo funcione como esperado.
+
+### Teste utilizado por mim
+
+No projeto, fiz uso dos testes unitários.
