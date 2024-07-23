@@ -17,7 +17,7 @@ Existem vários tipos de testes de software, cada um com um propósito específi
 Testes de unidade são uma prática fundamental no desenvolvimento de software, em que partes individuais do código (unidades) são testadas de forma isolada para verificar se funcionam conforme o esperado. Esses testes são automatizados e geralmente escritos pelos próprios desenvolvedores, utilizando frameworks específicos para a linguagem em questão. O objetivo principal dos testes de unidade é validar o comportamento de pequenas unidades de código, garantindo que cada uma delas funcione corretamente antes de integrá-las com outras partes do sistema. Isso não apenas ajuda a identificar e corrigir erros precocemente, mas também facilita a manutenção e evolução do software ao longo do tempo.
 
 # Linguagem de programção e Stack
-Para o desenvolvimento do front-end, estamos utilizando JavaScript com o framework React e TypeScript. No back-end, utilizamos Node.js e Fastify. Essa combinação permite um desenvolvimento eficiente e escalável, com uma base de código tipada e uma estrutura leve para a criação de aplicações web modernas e de alta performance.
+Para o desenvolvimento do front-end, estamos utilizando JavaScript com o framework React, Nexjs e TypeScript. No back-end, utilizamos Node.js e Fastify. Essa combinação permite um desenvolvimento eficiente e escalável, com uma base de código tipada e uma estrutura leve para a criação de aplicações web modernas e de alta performance.
 
 # Framework Testes de Unidade
 Vitest é um framework de testes rápido e eficiente para JavaScript e TypeScript, projetado especificamente para trabalhar em harmonia com o Vite, um bundler moderno. Ele se destaca por sua velocidade e integração simplificada, oferecendo uma experiência de desenvolvimento ágil e robusta. Para saber mais: [Vitest](https://vitest.dev/)
@@ -56,3 +56,15 @@ Verificar se uma função chama um método específico de um objeto de dependên
 Simular respostas de serviços externos para testar como a unidade lida com diferentes cenários, como sucesso ou falha de uma API.
 ## Validar Comportamento
 Assegurar que uma unidade de código se comporta corretamente ao interagir com dependências simuladas.
+
+# CRUD de Manager
+
+Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
+
+* [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
+
+Neste teste de autenticação de usuário, podemos observar três testes de unidade. Um deles cria um usuário e, em seguida, realiza a autenticação. Além disso, os dados são mockados em um arquivo exclusivo para testes.
+
+* [Link para o arquivo de Mock](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-users-repository.ts)
+
+Após a implementação dos testes, ficou evidente a importância de se obter uma boa cobertura de testes em um sistema. A experiência foi extremamente positiva e contribuiu significativamente para o meu desenvolvimento e aprendizado.
