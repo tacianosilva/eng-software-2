@@ -66,3 +66,16 @@ Benefícios do Uso de Mocks Objects:
 
 Exemplos de Mocks Objects em Linguagens de Programação:
 - Python: Mocks, unittest.mock.
+
+## Seção 10
+### UserStory que implementei: Manter Cliente (Front-end) 
+Descrição: 
+O sistema deve manter um cadastro de cliente através do técnico que tem acesso ao sistema via login e senha. Um cliente tem os atributos nome, telefone, email e endereço. O cadastro do(s) técnico(s) será realizados pelos criadores do sistema, e o cadastro dos clientes será realizado pelo(s) técnico(s). o técnico poderá alterar o cliente caso tenha um dado incorreto, como também consultar um cliente caso o mesmo venha a contratar novamente os serviços do técnico, o técnico também poderá vizualizar informações do cliente para um eventual confirmação de dados e por fim, a o técnico poderá excluir o cliente caso seja preciso devido a força maior.
+
+Requesitos envolvidos: 
+- RF01: Cadastrar Cliente
+- RF02:	Alterar Cliente
+- RF03:	Consultar Cliente
+- RF04:	Vizualizar detalhes do Cliente
+- RF05:	Excluir Cliente
+
