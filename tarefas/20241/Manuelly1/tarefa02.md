@@ -56,6 +56,7 @@ O Jest é um framework de testes JavaScript popular, conhecido por sua simplicid
 O Visual Studio Code, comumente conhecido como VS Code, é um editor de código-fonte que se distingue pela sua leveza, velocidade e capacidade de extensão. Desenvolvido pela Microsoft, surpreende pela sua gratuidade e pela natureza de código aberto, características que impulsionaram sua ampla adoção na comunidade de desenvolvedores. 
 
 ## Ferramentas de Depuração:
+
 O Visual Studio Code oferece uma série de ferramentas de depuração poderosas e flexíveis que permitem aos desenvolvedores encontrar e corrigir problemas no código de forma eficiente. Algumas das principais características das ferramentas de depuração do VS Code incluem:
 
 * Pontos de Interrupção (Breakpoints): Os desenvolvedores podem definir pontos de interrupção no código para pausar a execução e inspecionar variáveis e o estado do programa em momentos específicos.
@@ -82,7 +83,7 @@ O VS Code oferece integração nativa com sistemas de controle de versão, como 
 
 O artigo aborda três tipos de testes: unitário, de integração e automatizado. No artigo há a explicação acerca da diferença entre eles e a forma como devem ser implementados.
 
-* Link para o tutorial: (https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
+* Link do tutorial: (https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
 
 ## Tutorial de Testes de Software (JavaScript)
 
@@ -91,3 +92,8 @@ O artigo "Testes Unitários em JavaScript: Um Guia Completo para Iniciantes" abo
 No artigo há alguns tópicos que são discutidos, como a utilização de um framework de testes, a estruturação básica de um teste unitário, a escrita de testes descritivos e os testes em diferentes cenários.
 
 * Link do artigo: (https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
+
+## Mocks Objects em Testes de Unidade
+
+Os Mocks Objects são objetos falsos, que são formulados para imitar o comportamento de objetos reais em testes de software. Eles são usados para testar unidades de código isoladamente, substituindo dependências externas e verificando interações específicas. Além disso, os Mocks Objects possibilitam um isolamento de unidades de código, o que permite testar uma unidade de código sem depender de outras partes do sistema e, assim, facilita a identificação de bugs na unidade testada. Desse modo, eles findam sendo essenciais em testes de unidade, uma vez que permitem a simulação de dependências externas e a verificação de interações, o que corrobora para produção de testes rápidos, isolados e confiáveis, garantindo a qualidade do código de forma eficiente.
+
