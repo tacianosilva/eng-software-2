@@ -79,3 +79,9 @@ Requesitos envolvidos:
 - RF04:	Vizualizar detalhes do Cliente
 - RF05:	Excluir Cliente
 
+### Implementação de testes de unidade
+
+**Link do arquivo de teste do repositório:** [LINK](https://github.com/flaviogui/TechCell-Pro/blob/main/projeto/clienteApp/tests.py)
+Os testes implementados diferentes funcionalidades das views, incluindo criação, listagem, atualização e deleção de clientes, assim como, há testes para validação de rotas (URLs), lógica do modelo (Cliente) e formulário (ClienteForm). Também foi utilizado dados bem definidos (como o cliente de teste) para verificar o comportamento esperado do sistema em cada cenário. 
+Foi implementado testes para formulários (como ClienteFormTest) que ajudam a garantir que os dados de entrada estejam sendo validados corretamente. Ao implementar testes unitários, ganhei estabilidade e segurança no código e na previsibilidade do seu comportamento. 
+
