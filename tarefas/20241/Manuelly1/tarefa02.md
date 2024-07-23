@@ -97,3 +97,6 @@ No artigo há alguns tópicos que são discutidos, como a utilização de um fra
 
 Os Mocks Objects são objetos falsos, que são formulados para imitar o comportamento de objetos reais em testes de software. Eles são usados para testar unidades de código isoladamente, substituindo dependências externas e verificando interações específicas. Além disso, os Mocks Objects possibilitam um isolamento de unidades de código, o que permite testar uma unidade de código sem depender de outras partes do sistema e, assim, facilita a identificação de bugs na unidade testada. Desse modo, eles findam sendo essenciais em testes de unidade, uma vez que permitem a simulação de dependências externas e a verificação de interações, o que corrobora para produção de testes rápidos, isolados e confiáveis, garantindo a qualidade do código de forma eficiente.
 
+## Descrição do User Story do CRUD Implementado no Projeto SIG-Queijaria
+
+O sistema deve manter um cadastro dos clientes a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um cliente tem os atributos: nome, CPF, data de nascimento, número de telefone, email e endereço. O registro do cliente no sistema poderá ser feito pelos atores funcionário e gerente.
