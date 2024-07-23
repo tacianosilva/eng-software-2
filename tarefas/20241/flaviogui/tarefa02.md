@@ -50,3 +50,19 @@ O VSCode oferece um conjunto abrangente de ferramentas de debug que facilitam a 
 ### Tutorial de CRUD e Teste de Software
 **Tutorial:** [CRUD em Python - Python e MySQL e teste de software (playlist)](https://www.youtube.com/watch?v=-vrXnewHrwA)
 O tutorial ensina a criar um CRUD em Python com MySQL e inclui testes de software usando pytest. Ele cobre a instalação do MySQL, criação de banco de dados e tabelas, conexão com Python, execução de comandos SQL e implementação de testes para garantir a funcionalidade do CRUD.
+
+### Mocks Objects em Teste de Software
+Mocks Objects, também conhecidos como objetos simulados, são ferramentas valiosas para testes unitários, permitindo isolar e testar unidades de código de forma eficiente. Ao invés de depender de recursos externos complexos ou ambientes instáveis, os mocks simulam o comportamento de objetos reais, facilitando o processo de teste e garantindo a confiabilidade do código.
+
+Cenários Ideais para Mocks Objects:
+- Testar interações com APIs externas: Simule APIs para evitar chamadas reais e garantir que o código funcione conforme o esperado.
+- Isolar unidades de código complexas: Crie mocks para dependências complexas, focando no teste da unidade em questão.
+- Testar em situações desafiadoras: Simule cenários de erro ou estados específicos que são difíceis de reproduzir no ambiente real.
+
+Benefícios do Uso de Mocks Objects:
+- Testes mais confiáveis: Mocks garantem que os testes se concentrem na lógica da unidade em teste, isolando-a de fatores externos.
+- Agilidade no desenvolvimento: Simular dependências elimina a necessidade de configurar e gerenciar componentes externos, economizando tempo e esforço.
+- Código robusto e resiliente: Testes com mocks identificam e corrigem problemas de dependência e acoplamento, resultando em um código mais robusto e resiliente a falhas.
+
+Exemplos de Mocks Objects em Linguagens de Programação:
+- Python: Mocks, unittest.mock.
