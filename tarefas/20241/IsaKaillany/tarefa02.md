@@ -150,3 +150,26 @@ Jest é um framework de testes popular para JavaScript, desenvolvido pelo Facebo
 * [Exemplos](https://jestjs.io/)
 * [Comunidade](https://jestjs.io/docs/jest-community)
 ***
+
+## IDE Utilizada
+
+O Visual Studio Code (VS Code) é um editor de código-fonte desenvolvido pela Microsoft, que se tornou extremamente popular devido à sua flexibilidade, desempenho e vasta coleção de extensões. É gratuito, de código aberto, e suporta uma ampla gama de linguagens de programação e ferramentas de desenvolvimento.
+
+### Ferramentas de Debug Integradas:
+O VS Code se destaca por suas ferramentas de depuração integradas, que permitem depurar código de forma eficiente e precisa, ajudando a identificar e corrigir bugs rapidamente. Entre seus principais recursos de depuração estão:
+
+* Pontos de Interrupção (Breakpoints): Defina pontos de interrupção em seu código para pausar a execução e inspecionar variáveis e o estado do programa.
+
+* Pilha de Chamadas (Call Stack): Visualize a pilha de chamadas para entender o fluxo de execução do seu código e identificar a origem dos erros.
+
+* Avaliação de Expressões (Watch Expressions): Avalie expressões e visualize seus resultados durante a depuração, obtendo informações valiosas sobre o comportamento do programa.
+
+* Depuração Passo a Passo: Execute o código linha por linha, observando as alterações nas variáveis e no estado do programa a cada passo.
+
+* Variáveis de Escopo (Scope Variables): Inspecione as variáveis em diferentes escopos de execução, compreendendo como as variáveis são declaradas e utilizadas no código.
+
+* Watch: Monitore variáveis específicas durante a depuração, observando suas alterações em tempo real.
+
+* Configurações de Depuração Personalizáveis: Adapte as configurações de depuração às suas necessidades, ajustando opções como a formatação de variáveis e o comportamento dos pontos de interrupção.
+
+* Suporte para Diversas Plataformas de Depuração: O VS Code oferece suporte para diversas plataformas de depuração, como Node.js, Python, e C/C++, permitindo depurar diferentes tipos de projetos de software.
