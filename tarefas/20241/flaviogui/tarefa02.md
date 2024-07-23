@@ -32,3 +32,17 @@ O pytest é um framework de testes de unidade para Python que facilita a escrita
 - Assert Reescrito: Fornece mensagens de erro detalhadas e legíveis ao usar assertivas.
 - Compatibilidade: Funciona bem com outras bibliotecas e frameworks de teste, como unittest e doctest.
 Para mais informações sobre o framework, acesse o site oficial do pytest neste [Link](https://docs.pytest.org/en/stable/).
+
+### IDE utilizada e ferramentas de debug
+O Visual Studio Code (VSCode) se destaca como uma IDE (Integrated Development Environment) extremamente popular e versátil, utilizada por milhões de programadores ao redor do mundo. Sua interface amigável, ampla gama de extensões e ferramentas integradas a tornam uma escolha ideal para diversos tipos de projetos.
+Ferramentas de Debug Integradas:
+
+O VSCode oferece um conjunto abrangente de ferramentas de debug que facilitam a identificação e correção de erros no seu código. Entre os principais recursos, podemos destacar:
+
+- Definição de pontos de interrupção: Marque linhas de código onde a execução deve pausar para permitir a inspeção de variáveis ​​e o estado do programa.
+- Execução passo a passo: Avance linha por linha no código, observando as alterações nas variáveis ​​e na pilha de chamadas.
+- Inspeção de pilha de chamadas: Visualize a sequência de chamadas de função que levaram à linha de código atual.
+- Expressões de avaliação: Crie expressões personalizadas para avaliar valores e realizar cálculos durante a depuração.
+- Modificação de variáveis: Altere o valor das variáveis ​​diretamente no depurador, observando o impacto nas próximas linhas de código.
+- Registro de saída: Capture a saída do programa durante a depuração, incluindo mensagens de console, erros e avisos.
+- Suporte a diversas linguagens: O VSCode oferece suporte para depuração de uma ampla variedade de linguagens de programação, incluindo Python, Java, C++, JavaScript e muitas outras.
