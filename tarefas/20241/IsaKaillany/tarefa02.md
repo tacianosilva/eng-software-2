@@ -173,3 +173,31 @@ O VS Code se destaca por suas ferramentas de depuração integradas, que permite
 * Configurações de Depuração Personalizáveis: Adapte as configurações de depuração às suas necessidades, ajustando opções como a formatação de variáveis e o comportamento dos pontos de interrupção.
 
 * Suporte para Diversas Plataformas de Depuração: O VS Code oferece suporte para diversas plataformas de depuração, como Node.js, Python, e C/C++, permitindo depurar diferentes tipos de projetos de software.
+***
+
+## Tutorial de testes de software com Python
+O artigo aborda três tipos principais de testes: unitário, de integração e automatizado.
+
+* Testes Unitários: Focam em unidades individuais de código, garantindo que cada parte funcione isoladamente.
+* Testes de Integração: Verificam como diferentes partes do código funcionam juntas, assegurando que os componentes do sistema interajam corretamente.
+* Testes Automatizados: Executados automaticamente, economizando tempo e aumentando a cobertura dos testes.
+
+Além disso, o artigo discute duas práticas importantes de desenvolvimento orientado a testes:
+
+* TDD (Test Driven Development): Prática de escrever testes antes de escrever o código, garantindo que o código atenda aos requisitos desde o início.
+* BDD (Behavior Driven Development): Utiliza linguagem natural para descrever como o software deve se comportar, facilitando a comunicação entre desenvolvedores e partes interessadas.
+
+### [Link para o Tutorial](https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
+***
+
+## Tutorial de testes de software com JavaScript
+
+O artigo "Testes Unitários em JavaScript: Um Guia Completo para Iniciantes" da Giovanna Moeller no Medium oferece uma introdução abrangente à prática de testes unitários em JavaScript. O artigo é direcionado para iniciantes que desejam aprender os fundamentos e as melhores práticas para testar seus códigos JavaScript de forma eficaz.
+
+Os principais pontos abordados no artigo são: 
+* O que são teste unitários?
+* Por que usar testes unitários?
+* Como escrever testes unitários em JavaScript?
+
+### [Link para o Tutorial](https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
+***
