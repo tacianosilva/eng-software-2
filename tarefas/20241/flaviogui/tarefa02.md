@@ -106,3 +106,4 @@ Tabela a seguir com a comparação entre os dois teste:
 | Execução                   | Mais rápido                                         | Mais lento                                                     |
 
 
+
