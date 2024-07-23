@@ -41,3 +41,7 @@ Oferece um console interativo para avaliar expressões e executar comandos duran
 
 ## Inline Values
 Exibe valores de variáveis diretamente no código, facilitando a visualização dos dados durante a execução.
+
+# Tutorial CRUD
+[CRUD com Node, Fastify e PRISMA](https://www.youtube.com/watch?v=P--nEPLYV9A&ab_channel=HeroCode)
+Conteúdo que apresenta de forma prática e eficiente a criação de um crud com as tecnologias mencionadas. Apresenta desde lógica de programação básica, tipagem, e orientação a objetos.
