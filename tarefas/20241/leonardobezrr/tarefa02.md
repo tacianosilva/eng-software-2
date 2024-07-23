@@ -4,4 +4,4 @@
 * [leobezrr](https://github.com/leonardobezrr)
 * leonardobezerra05@gmail.com
 * [Projeto front-end](https://github.com/leonardobezrr/sig-estoque-front-end)
-* [Projeto back-end](https://github.com/leonardobezrr/sig-estoque-back-end)
+* [Projeto back-end](https://github.com/leonardobezrr/sig-estoque-back-end) 
