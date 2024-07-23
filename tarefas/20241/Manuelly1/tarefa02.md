@@ -51,27 +51,43 @@ O Jest é um framework de testes JavaScript popular, conhecido por sua simplicid
 
 * Links do Jest: (https://jestjs.io/) e (https://jestjs.io/docs/getting-started)
 
-## IDE de programação que será usada no projeto </br>
-> O Visual Studio Code, comumente conhecido como VS Code, é um editor de código-fonte que se distingue pela sua leveza, velocidade e capacidade de extensão. Desenvolvido pela Microsoft, surpreende pela sua gratuidade e pela natureza de código aberto, características que impulsionaram sua ampla adoção na comunidade de desenvolvedores. </br>
+## IDE de programação que será usada no projeto 
 
-#### Ferramentas de Depuração:
-> O Visual Studio Code oferece uma série de ferramentas de depuração poderosas e flexíveis que permitem aos desenvolvedores encontrar e corrigir problemas no código de forma eficiente. Algumas das principais características das ferramentas de depuração do VS Code incluem:
+O Visual Studio Code, comumente conhecido como VS Code, é um editor de código-fonte que se distingue pela sua leveza, velocidade e capacidade de extensão. Desenvolvido pela Microsoft, surpreende pela sua gratuidade e pela natureza de código aberto, características que impulsionaram sua ampla adoção na comunidade de desenvolvedores. 
 
-> * Pontos de Interrupção (Breakpoints): Os desenvolvedores podem definir pontos de interrupção no código para pausar a execução e inspecionar variáveis e o estado do programa em momentos específicos.
+## Ferramentas de Depuração:
+O Visual Studio Code oferece uma série de ferramentas de depuração poderosas e flexíveis que permitem aos desenvolvedores encontrar e corrigir problemas no código de forma eficiente. Algumas das principais características das ferramentas de depuração do VS Code incluem:
 
-> * Inspeção de Variáveis: Durante a execução do programa, é possível inspecionar o valor das variáveis em tempo real para entender o comportamento do código e identificar possíveis problemas.
+* Pontos de Interrupção (Breakpoints): Os desenvolvedores podem definir pontos de interrupção no código para pausar a execução e inspecionar variáveis e o estado do programa em momentos específicos.
 
-> * Execução Passo a Passo: Os desenvolvedores podem executar o código linha por linha, passo a passo, para entender exatamente como o programa está se comportando e identificar possíveis erros ou comportamentos inesperados.
+* Inspeção de Variáveis: Durante a execução do programa, é possível inspecionar o valor das variáveis em tempo real para entender o comportamento do código e identificar possíveis problemas.
 
-> * Console de Depuração: O VS Code possui um console de depuração integrado que permite visualizar mensagens de log e informações de depuração durante a execução do programa.
+* Execução Passo a Passo: Os desenvolvedores podem executar o código linha por linha, passo a passo, para entender exatamente como o programa está se comportando e identificar possíveis erros ou comportamentos inesperados.
 
-#### Controle de Versão Integrado:
-> O Visual Studio Code oferece integração nativa com sistemas de controle de versão, como Git, o que permite aos desenvolvedores gerenciar facilmente o controle de versão de seus projetos diretamente do editor. Algumas das principais características do controle de versão integrado do VS Code incluem:
+* Console de Depuração: O VS Code possui um console de depuração integrado que permite visualizar mensagens de log e informações de depuração durante a execução do programa.
 
-> * Interface Gráfica para Git: O VS Code fornece uma interface gráfica intuitiva para operações comuns do Git, como commit, pull, push, merge e histórico de commits.
+## Controle de Versão Integrado:
 
-> * Controle de Ramificações: Os desenvolvedores podem criar, alternar e mesclar ramificações diretamente do editor, facilitando a colaboração em equipe e o desenvolvimento de recursos em paralelo.
+O VS Code oferece integração nativa com sistemas de controle de versão, como Git, o que permite aos desenvolvedores gerenciar facilmente o controle de versão de seus projetos diretamente do editor. Algumas das principais características do controle de versão integrado do VS Code incluem:
 
-> * Visualização de Diferenças: O VS Code oferece uma visualização de diferenças integrada que permite comparar facilmente as alterações entre diferentes versões de um arquivo e revisar as alterações antes de confirmá-las.
+* Interface Gráfica para Git: O VS Code fornece uma interface gráfica intuitiva para operações comuns do Git, como commit, pull, push, merge e histórico de commits.
 
-> * Suporte a Extensões de Controle de Versão: Além do Git, o VS Code suporta uma variedade de outras ferramentas de controle de versão, como SVN, Mercurial e outros, por meio de extensões disponíveis no Marketplace.
+* Controle de Ramificações: Os desenvolvedores podem criar, alternar e mesclar ramificações diretamente do editor, facilitando a colaboração em equipe e o desenvolvimento de recursos em paralelo.
+
+* Visualização de Diferenças: O VS Code oferece uma visualização de diferenças integrada que permite comparar facilmente as alterações entre diferentes versões de um arquivo e revisar as alterações antes de confirmá-las.
+
+* Suporte a Extensões de Controle de Versão: Além do Git, o VS Code suporta uma variedade de outras ferramentas de controle de versão, como SVN, Mercurial e outros, por meio de extensões disponíveis no Marketplace.
+
+## Tutorial de Testes de Software (Python)
+
+O artigo aborda três tipos de testes: unitário, de integração e automatizado. No artigo há a explicação acerca da diferença entre eles e a forma como devem ser implementados.
+
+* Link para o tutorial: (https://medium.com/@habbema/teste-de-software-com-python-ec521876340f)
+
+## Tutorial de Testes de Software (JavaScript)
+
+O artigo "Testes Unitários em JavaScript: Um Guia Completo para Iniciantes" aborda uma introdução abrangente à prática de testes unitários na linguagem JavaScript. O artigo é direcionado para iniciantes que desejam aprender os fundamentos e as melhores práticas para testar seus códigos de modo eficaz.
+
+No artigo há alguns tópicos que são discutidos, como a utilização de um framework de testes, a estruturação básica de um teste unitário, a escrita de testes descritivos e os testes em diferentes cenários.
+
+* Link do artigo: (https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
