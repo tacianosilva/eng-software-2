@@ -35,8 +35,19 @@ O Django é um framework web de alto nível, escrito em Python, que incentiva o 
 
 O JavaScript é uma das linguagens mais usadas na produção de sistemas web modernos. Esta linguagem é caracterizada por proporcionar interatividade, dinamismo às páginas, acessibilidade e uma grande comunidade de suporte e soluções disponíveis devido à comunidade ativa. 
 
-## Next.js para o Front-End
+## Next.js - Front-End
 
 O Next.js é um framework React que simplifica o desenvolvimento de aplicações web, oferecendo diversas funcionalidades para melhorar o desempenho, SEO e a experiência do usuário. 
 
+## Pytest - testes no Back-End
+
+O Pytest é um framework de teste muito popular para Python, conhecido por sua simplicidade, expressividade e extensibilidade. Ele facilita a escrita, execução e gerenciamento de testes, garantindo a qualidade e confiabilidade do código. Promove a colaboração, facilita a refatoração e acelera o desenvolvimento.
+
+## Links do Pytest: (https://docs.pytest.org/en/stable/getting-started.html) e (https://docs.pytest.org/en/stable/how-to/index.html)
+
+## Jest - testes no Front-End
+
+O Jest é um framework de testes JavaScript popular, conhecido por sua simplicidade, flexibilidade e extensibilidade. Ele, assim como o Pytest, facilita a escrita, execução e gerenciamento de testes, garantindo a qualidade e confiabilidade do código. 
+
+## Links do Jest: (https://jestjs.io/) e (https://jestjs.io/docs/getting-started)
 
