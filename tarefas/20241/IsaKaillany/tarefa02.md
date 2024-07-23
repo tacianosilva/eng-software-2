@@ -224,3 +224,18 @@ O termo "Mock Objects" é utilizado para descrever um caso especial de objetos q
 
 ## Descrição do User Story implementado:
 O sistema deve manter um cadastro dos funcionários a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um funcionário tem os atributos nome, CPF, data de nascimento, número de telefone, email, cargo, salário e carga horária. O registro do funcionário no sistema poderá ser feito apenas pelo gerente.
+***
+
+## Implementando Testes Unitários
+Minha experiência ao implementar os testes unitários foi muito proveitosa, pude compreender sua importância para garantir a qualidade e manutenibilidade do software ao longo do tempo. Até o momento nunca tinha implementado testes, então tive um pouco de dificuldade no início para entender como funcionava a lógica, porém, logo depois de algumas práticas foi fácil compreender seu funcionamento.
+
+### Testes por mim realizados:
+
+1. <u>**teste_get_funcionario_por_id:**</u> Realiza teste para consultar um funcionário por id específico.
+2. <u>**teste_update_de_dados_do_funcionario_valido:**</u> Realiza teste para verificar se é permitido atualizar dados de um funcionário através de uma entrada válida.
+3. <u>**teste_deletar_funcionario_com_id_valido:**</u> Realiza teste para verificar se pode deletar um funcionário com id existente.
+4. <u>**teste_criar_funcionario_com_dados_incompletos:**</u> Realiza teste para conferir se é possível cadastrar um funcionário sem informar todos os dados.
+
+* [Link para o Arquivo de Testes do Projeto](https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
+
+***
