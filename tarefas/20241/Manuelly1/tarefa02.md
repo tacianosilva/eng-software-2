@@ -100,3 +100,21 @@ Os Mocks Objects são objetos falsos, que são formulados para imitar o comporta
 ## Descrição do User Story do CRUD Implementado no Projeto SIG-Queijaria
 
 O sistema deve manter um cadastro dos clientes a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um cliente tem os atributos: nome, CPF, data de nascimento, número de telefone, email e endereço. O registro do cliente no sistema poderá ser feito pelos atores funcionário e gerente.
+
+## Implementação dos Testes de Unidade no CRUD de Clientes
+
+Esta foi a minha primeira experiência com a elaboração de testes de software e confesso que gostei de iniciar explorando isso por meio de testes unitários em um projeto de um sistema tão abrangente. Além disso, eu achei muito importante analisar os possíveis cenários que um sistema pode enfrentar e, assim, formular testes para verificar o comportamento de determinadas funções em tais cenários.
+
+### Testes Implementados:
+
+1. <u>**teste_update_de_dados_do_usuario_valido**</u> 
+2. <u>**teste_deletar_cliente_com_id_valido**</u> 
+3. <u>**teste_criar_cliente_com_dados_validos**</u> 
+4. <u>**teste_criar_cliente_com_dados_incompletos**</u> 
+5. <u>**teste_obter_todos_os_clientes**</u>
+6. <u>**teste_obter_cliente_com_id_invalido**</u>
+
+Os outros testes deste CRUD foram produzidos por Melque
+
+* Link para o Arquivo de Testes do Projeto: (https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
+
