@@ -45,3 +45,14 @@ Exibe valores de variáveis diretamente no código, facilitando a visualização
 # Tutorial CRUD
 [CRUD com Node, Fastify e PRISMA](https://www.youtube.com/watch?v=P--nEPLYV9A&ab_channel=HeroCode)
 Conteúdo que apresenta de forma prática e eficiente a criação de um crud com as tecnologias mencionadas. Apresenta desde lógica de programação básica, tipagem, e orientação a objetos.
+
+# Mocks Objects em Testes de Unidade
+Mocks Objects são objetos simulados que imitam o comportamento de objetos reais em um ambiente controlado de teste. Eles são utilizados em testes de unidade para isolar o código que está sendo testado, permitindo que os desenvolvedores verifiquem o comportamento de uma unidade de código sem depender de suas interações com outros componentes do sistema.
+
+## Exemplos de Uso de Mocks:
+## Testar Interações 
+Verificar se uma função chama um método específico de um objeto de dependência.
+## Simular Respostas
+Simular respostas de serviços externos para testar como a unidade lida com diferentes cenários, como sucesso ou falha de uma API.
+## Validar Comportamento
+Assegurar que uma unidade de código se comporta corretamente ao interagir com dependências simuladas.
