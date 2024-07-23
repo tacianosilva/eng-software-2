@@ -118,3 +118,6 @@ Os outros testes deste CRUD foram produzidos por Melque
 
 * Link para o Arquivo de Testes do Projeto: (https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
 
+## Teste de Integração vs Teste Unitário
+
+O teste de integração é um teste que tem como objetivo verificar a interação entre diferentes módulos ou componentes de um sistema. Ou seja, ele possui um escopo de abrangência mais amplo. Assim, enquanto os testes unitários atuam em unidades individuais do código, o de integração busca, sobretudo, validar fluxos de dados e interação entre os módulos que compõem o sistema. Mediante a isso, ao desenvolver os testes supracitados, eu produzi testes unitários, tendo em vista que foram implementados testes que atuam em métodos específicos do CRUD e não na interação/integração entre eles.
