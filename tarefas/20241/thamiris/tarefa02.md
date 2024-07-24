@@ -20,4 +20,16 @@ Django é um framework web de alto nível para Python que promove o desenvolvime
 ## Python para o Back-End:
 Python é uma linguagem de programação popular e versátil, amplamente utilizada no desenvolvimento back-end. Sua simplicidade e a vasta gama de bibliotecas e frameworks tornam-na uma escolha atraente para criar e manter aplicações web robustas e escaláveis.
 
+## Pytest para testes no Back-End
+Pytest é uma framework de testes para Python que é amplamente utilizada para realizar testes em projetos de back-end. É conhecida por sua simplicidade, flexibilidade e robustez, tornando-a uma escolha popular entre desenvolvedores Python para criar e executar testes.
+
+
+[Pytest](https://docs.pytest.org/en/stable/)
+
+## Jest para testes no Front-End
+Jest é uma biblioteca de testes para JavaScript, desenvolvida pelo Facebook, amplamente utilizada para testar aplicações front-end, especialmente com React. É uma ferramenta poderosa e fácil de configurar, ideal para garantir a qualidade e a robustez do código.
+
+[Jest](https://jestjs.io/pt-BR/)
+
+
 
