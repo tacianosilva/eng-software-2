@@ -1,8 +1,9 @@
-# Tarefa 01 - Git e GitHub com Markdown
+# Tarefa 02 - Teste de Unidade
 
-*Nome:* Charles Eduardo Araújo de Faria  
-*Usuário GitHub:* https://github.com/CharlesEdu07 
-*E-mail:* charleseduardofaria@gmail.com
+*Nome:* Erick Bezerra Ribeiro Trindade
+*Usuário GitHub:* https://github.com/ErickBezerrar 
+*E-mail:* erickbrtrindade@gmail.com
+*Repositório:* [erickbrtrindade@gmail.com](https://github.com/melquetrindade/sigQueijaria)
 
 ---
 
