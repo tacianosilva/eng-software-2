@@ -59,10 +59,20 @@ Mock objects são uma técnica amplamente utilizada em testes de software para s
 ### O que são Mocks?
 - Definição: Mocks são objetos que imitam o comportamento de objetos reais de forma controlada. Eles são usados para verificar interações e comportamentos em testes, permitindo que o desenvolvedor isole e teste uma unidade específica de código sem depender de suas dependências.
 - Objetivo: Permitir a verificação de interações entre objetos e simular comportamentos complexos de forma previsível e controlada.
+
 ## Descrição do Projeto
 ## Descrição do User Story implementado:
 O sistema deve manter um cadastro dos fornecedores a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um fornecedor tem os atributos nome, CNPJ, data de nascimento, número de telefone e  email. O registro do fornecedor no sistema poderá ser feito apenas pelo gerente.
 
+## Implementando Testes Unitários:
+Minha experiência ao implementar os testes unitários foi muito boa, consegui compreender sua importância para garantir a qualidade e manutenibilidade do software ao longo do tempo. Até o momento nunca tinha implementado testes, então tive um pouco de dificuldade no início para entender como funcionava a lógica, porém, logo depois de algumas práticas foi fácil compreender seu funcionamento.
+
+### Testes realizados:
+teste_get_fornecedoro_por_id: Realiza teste para consultar um fornecedor por id específico.
+teste_update_de_dados_do_fornecedor_valido: Realiza teste para verificar se é permitido atualizar dados de um fornecedor através de uma entrada válida.
+teste_deletar_fornecedor_com_id_valido: Realiza teste para verificar se pode deletar um fornecedor com id existente.
+teste_criar_fornecedor_com_dados_incompletos: Realiza teste para conferir se é possível cadastrar um fornecedor sem informar todos os dados.
+[Link para o arquivo de testes do projeto](https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
 
 
 
