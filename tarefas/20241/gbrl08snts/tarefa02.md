@@ -5,7 +5,8 @@
 * __Email:__ gabriel.aquino.069@ufrn.edu.br
 * __Link do Repositório__: https://github.com/flaviogui/TechCell-Pro
 
-# __Questão A__
+# __Questão 9__
+## __Questão A__
 
 - Os testes de unidade são uma técnica fundamental no desenvolvimento de software, focada em validar a funcionalidade de componentes individuais, como funções, métodos ou classes, de forma isolada1. Esses testes são geralmente escritos e executados pelos próprios desenvolvedores durante a fase de codificação.
 
@@ -21,7 +22,7 @@
 
 - Os testes de unidade são essenciais para a qualidade e a robustez do software, permitindo que os desenvolvedores façam alterações com confiança e mantenham um código mais limpo e bem documentado.
 
-# __Questão B__
+## __Questão B__
 
 - A linguagem escolhida no projeto foi o Python, a linguagem é conhecida por sua simplicidade e legibilidade, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes.
 
@@ -38,7 +39,7 @@
     3. __Segurança:__ Inclui proteções contra ataques comuns, como SQL Injection e Cross-Site Scripting (XSS).
     4. __Escalabilidade:__ Projetado para escalar facilmente, suportando desde pequenos projetos até grandes aplicações.
 
-# __Questão C__
+## __Questão C__
 
 - O Django TestCase é uma ferramenta poderosa para realizar testes de unidade em projetos Django. Aqui está um resumo sobre ele:
 
@@ -52,7 +53,7 @@
 
 - Link sobre o framework de testes: https://docs.djangoproject.com/en/5.0/topics/testing/overview/
 
-# __Questão D__
+## __Questão D__
 
 - O Visual Studio Code (VS Code) é uma das IDEs mais populares e versáteis atualmente. Ele é conhecido por ser leve, rápido e altamente customizável, o que o torna uma escolha favorita entre desenvolvedores de diversas linguagens de programação.
 
@@ -66,7 +67,7 @@
 
 - Além dessas ferramentas, o VS Code suporta extensões que podem adicionar ainda mais funcionalidades de depuração específicas para diferentes linguagens e frameworks.
 
-# __Questão E__
+## __Questão E__
 
 - __Link de uma Playplist:__ https://www.youtube.com/watch?v=0MrgsYswT1c&list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM&index=2
 
@@ -80,5 +81,5 @@ O tutorial aborda os seguintes pontos principais:
 
 - Em resumo, este vídeo fornece uma introdução prática à escrita de testes unitários no Django, capacitando o desenvolvedor a criar testes que garantam a qualidade e a confiabilidade do seu código.
 
-# __Questão F__
+## __Questão F__
 
