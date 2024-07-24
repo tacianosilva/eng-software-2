@@ -112,3 +112,40 @@ O tutorial aborda os seguintes pontos principais:
 - A experiência de desenvolver os testes de unidade foi interessante, não tinha conhecimento de como realizar testes numa aplicação python ou em qualquer outra, pois nunca tinha feito antes, no geral foi satisfatório aprender e aplicar os testes embora eu tivesse alguns contra-tempos e erros durante a codificação deles.
 
 - __Link do arquivo de testes:__ https://github.com/flaviogui/TechCell-Pro/blob/main/projeto/clienteApp/tests.py
+
+## __Questão C__
+
+- Em meu projeto utilizei os testes de unidade.
+
+-  __Teste de Integração__
+
+- Teste de integração é um nível de teste de software onde diferentes módulos ou componentes de um aplicativo são testados juntos. O objetivo é verificar se os módulos interagem corretamente uns com os outros. Em vez de testar apenas uma unidade isolada, os testes de integração verificam a funcionalidade de um conjunto de módulos como um todo.
+
+* __Objetivos:__
+
+    1. Validar as interações entre diferentes componentes do sistema.
+    2. Detectar problemas de interface entre os módulos.
+    3. Verificar o funcionamento correto do sistema em um ambiente integrado.
+
+* __Características:__
+
+    1. __Interações:__ Envolve a combinação de dois ou mais módulos do sistema.
+    2. __Ambiente Real:__ Usa componentes reais para verificar as integrações.
+    3. __Complexidade:__ Pode ser mais complexo e demorado de executar devido à necessidade de configurar um ambiente mais realista.
+
+* __Diferença Entre Teste Unitário e Teste de Integração__
+* __Teste Unitário:__
+
+    * __Foco:__ Testa componentes individuais isoladamente.
+    * __Objetivo:__ Garantir que cada unidade de código funcione conforme o esperado.
+    * __Isolamento:__ As dependências são mockadas ou substituídas para isolar a unidade em teste.
+    * __Rapidez:__ Geralmente são rápidos de executar e fáceis de escrever.
+    * __Escopo:__ Pequeno, focado em funções, métodos ou classes.
+
+* __Teste de Integração:__
+
+    * __Foco:__ Testa a interação entre múltiplos componentes.
+    * __Objetivo:__ Garantir que os componentes funcionem corretamente juntos.
+    * __Isolamento:__ Não há isolamento completo, pois a interação entre componentes reais é verificada.
+    * __Complexidade:__ Podem ser mais complexos e demorados de executar do que os testes unitários.
+    * __Escopo:__ Maior, focado em interações entre componentes do sistema.
