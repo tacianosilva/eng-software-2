@@ -56,3 +56,43 @@ Links Úteis:
 https://docs.djangoproject.com/en/5.0/internals/contributing/writing-code/unit-tests/
 https://docs.djangoproject.com/en/5.0/topics/testing/
 https://docs.djangoproject.com/en/5.0/topics/testing/overview/#testing-tools
+
+## IDE e suas ferramentas de debug
+
+Visual Studio Code (VSCode) é um editor de código-fonte leve, gratuito e multiplataforma desenvolvido pela Microsoft. Ele é amplamente utilizado por desenvolvedores devido à sua extensibilidade, interface amigável e conjunto robusto de ferramentas para desenvolvimento de software.
+
+Principais Funcionalidades do VSCode:
+
+- Editor de Código:
+Suporte para várias linguagens de programação com realce de sintaxe, autocompletar e snippets.
+Extensões para suporte adicional a linguagens, frameworks e ferramentas de desenvolvimento.
+
+- Integração com Controle de Versão:
+Suporte embutido para Git, permitindo operações como commit, push, pull, e merge diretamente do editor.
+Extensões para integração com outros sistemas de controle de versão.
+
+- Terminal Integrado:
+Terminal embutido que suporta comandos do sistema operacional e comandos específicos do projeto.
+
+- Extensões:
+Grande variedade de extensões disponíveis no Visual Studio Code Marketplace para adicionar funcionalidades e suporte a novas linguagens e ferramentas.
+
+Ferramentas de Depuração no VSCode:
+
+- Debugging Interface:
+A interface de depuração do VSCode inclui uma barra lateral com controles para iniciar, pausar, parar e avançar passo a passo no código.
+Exibe variáveis, pilha de chamadas, pontos de interrupção e console de depuração.
+
+- Configuração de Depuração (launch.json):
+Configurações de depuração são definidas em um arquivo launch.json, onde você especifica como iniciar a aplicação, argumentos, ambiente, etc.
+Suporte para diferentes ambientes de depuração, como Node.js, Python, C++, e muitos outros.
+
+- Pontos de Interrupção (Breakpoints):
+Permite definir pontos no código onde a execução será interrompida para inspeção.
+Suporte para breakpoints condicionais e de log.
+
+- Inspeção de Variáveis e Pilha de Chamadas:
+Durante a depuração, você pode inspecionar o valor das variáveis e explorar a pilha de chamadas para entender o estado da aplicação e o fluxo de execução.
+
+- Execução Passo a Passo:
+Funcionalidades para avançar passo a passo (Step Over), entrar em funções (Step Into) e sair de funções (Step Out).
