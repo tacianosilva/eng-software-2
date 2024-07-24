@@ -96,3 +96,9 @@ Durante a depuração, você pode inspecionar o valor das variáveis e explorar 
 
 - Execução Passo a Passo:
 Funcionalidades para avançar passo a passo (Step Over), entrar em funções (Step Into) e sair de funções (Step Out).
+
+## CRUD na tecnologia escolhida e que mostra a construção de Testes de Software
+
+O tutorial inclui exemplos práticos para ilustrar o processo de escrita e execução de testes, com o objetivo de ajudar os desenvolvedores a melhorar a qualidade do código e detectar erros no início do ciclo de desenvolvimento.
+
+https://www.youtube.com/watch?v=cEXt8hDyKQw
