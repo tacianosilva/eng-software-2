@@ -32,3 +32,10 @@ PostgreSQL é um Sistema de Gerenciamento de Banco de Dados (SGBD) open-source, 
 
 O Pytest é um framework de testes de software amplamente utilizado em Python, conhecido por sua flexibilidade, extensibilidade e capacidade de simplificar a criação e execução de testes unitários, de integração e funcionais.
 
+[Documentação](https://docs.pytest.org/en/stable/contents.html)
+
+## IDE: Visual Studio Code
+
+O VSCode é um editor de código popular, como um "bloquinho de notas" super poderoso para programadores. Ele tem muitas ferramentas para facilitar a vida de quem escreve código, e uma delas é o debugger.
+
+O debugger é como um detetive para o seu código. Quando seu programa não funciona como você esperava, o debugger te ajuda a encontrar o erro, linha por linha. É como colocar um ponto de parada no seu código e ver o que está acontecendo naquele momento.
