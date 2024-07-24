@@ -54,3 +54,14 @@
 
 # __Questão D__
 
+- O Visual Studio Code (VS Code) é uma das IDEs mais populares e versáteis atualmente. Ele é conhecido por ser leve, rápido e altamente customizável, o que o torna uma escolha favorita entre desenvolvedores de diversas linguagens de programação.
+
+- O VS Code possui um conjunto robusto de ferramentas de depuração integradas que facilitam a identificação e correção de erros no código.
+
+    1. __Breakpoints:__ Permitem pausar a execução do código em pontos específicos para inspecionar variáveis e o fluxo do programa.
+    2. __Watch:__ Monitora expressões e variáveis específicas durante a execução do código.
+    3. __Call Stack:__ Exibe a pilha de chamadas, permitindo que você veja a sequência de funções que foram chamadas até o ponto atual.
+    4. __Variables:__ Mostra os valores das variáveis no contexto atual, facilitando a inspeção e modificação de valores durante a depuração.
+    5. __Debug Console:__ Permite a execução de comandos e expressões durante a depuração, ajudando a testar correções rápidas e verificar o comportamento do código.
+
+- Além dessas ferramentas, o VS Code suporta extensões que podem adicionar ainda mais funcionalidades de depuração específicas para diferentes linguagens e frameworks.
