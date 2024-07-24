@@ -54,7 +54,7 @@ Para atualizar um material existente, é enviado uma solicitação PUT para /mat
 Implementar os testes para o gerenciamento de materiais envolveu verificar a funcionalidade de diferentes partes do sistema. No modelo Material, garanti que as instâncias eram criadas corretamente e que o método __str__ retornava a representação esperada. Esses testes confirmaram que o modelo armazenava e recuperava os dados conforme o esperado.
 Para o serializador MaterialSerializer, os testes focaram em validar se os dados serializados continham os campos corretos e se o processo de criação de novos materiais funcionava bem com dados válidos e inválidos. Além disso, os testes da view MaterialView cobriram todas as operações CRUD, assegurando que as requisições para criar, consultar, atualizar e excluir materiais retornavam os status HTTP corretos e manipulavam os dados de forma adequada.
 
+## Teste de Integração
 
-
-
-
+O teste de integração verifica a interação entre diferentes componentes ou sistemas, garantindo que funcionem corretamente juntos. Avalia como partes do sistema, como banco de dados e APIs, colaboram para realizar tarefas complexas, identificando problemas na comunicação entre elas.
+O teste unitário foca na verificação de unidades individuais do código, como funções ou métodos, de forma isolada. O objetivo é assegurar que cada parte do código funcione corretamente por conta própria. Esse foi o teste feito por mim. Já o teste de integração, avalia a interação entre diferentes componentes ou sistemas para garantir que eles funcionem corretamente em conjunto. Esse tipo de teste verifica se diferentes partes do sistema, como módulos, APIs e serviços, colaboram adequadamente para realizar tarefas complexas.
