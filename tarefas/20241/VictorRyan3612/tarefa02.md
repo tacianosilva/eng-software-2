@@ -28,3 +28,11 @@ Python é uma das linguagens de programação interpretada indicadas para inicia
 
 ## Postgres
 O banco de dados escolhido pelo grupo foi o Postgres devido a nossa experiência proporcionada pelas disciplinas Banco de Dados 1 e 2.
+
+
+## Framework de teste
+O framework de testes unitários QUnit pode ser usado para testar qualquer código javascript facilmente, seu conceito de funcionamento é uma função test que retorna uma função de comparação, a mais simples é a equal, que recebe 2 parâmetros obrigatórios, a primeira sendo com a operação a ser realizada, a segunda sendo o resultado esperado, e o terceiro parâmetro, esse sendo opcional, a mensagem de sucesso.
+
+* link para o site oficial: [QUnit](https://qunitjs.com/)
+* link para um tutorial de uso: [tutorial Qunit](https://www.devmedia.com.br/javascript-qunit-conheca-o-framework-de-testes-unitarios/33579)
+
