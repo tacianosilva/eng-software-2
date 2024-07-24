@@ -54,4 +54,18 @@ Existem quatro tipos sendo eles: Dummy usados apenas para preencher parametros d
 
 https://github.com/Luisf66/Inicializa-o-em-Web.git
 
-O CRUD disponibilizado foi feito baseado no tutorial do tópico acima, onde no mesmo é possível realizar o cadastro, leitura e eliminação de um usuário
+O CRUD disponibilizado foi feito baseado no tutorial do tópico acima, onde no mesmo é possível realizar o cadastro, leitura e eliminação de um usuário.
+
+### Teste de integração
+
+O teste de integração é um passo subsequente ao teste unitário, onde unidades previamente testadas são combinadas e testadas em grupos maiores.
+O objetivo é verificar se as unidades integradas funcionam corretamente em conjunto, identificando problemas de interação e de comunicação entre os componentes.
+Ele se diferencia do teste unitário, anteriormente citado, nos seguintes quesitos:
+
+* Escopo: Enquanto os testes unitários focam em unidades individuais, os testes de integração examinam como essas unidades funcionam juntas.
+
+* Complexidade: Os testes unitários são mais simples e rápidos de executar, pois isolam partes específicas do código. Já os testes de integração são mais complexos devido às interações entre componentes.
+
+* Objetivo: Os testes unitários visam validar a funcionalidade correta de pequenas partes do código, enquanto os testes de integração garantem que o sistema integrado funcione conforme o esperado.
+
+No projeto inicialmente há o uso dos testes unitário tendo em vista que as unidades menores do código ainda estão em desenvolvimento e por isso precisam ser monitoradas separadamente atéa confirmação do resultado esperado.
