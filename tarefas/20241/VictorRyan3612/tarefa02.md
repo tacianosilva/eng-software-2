@@ -38,3 +38,6 @@ O framework de testes unitários QUnit pode ser usado para testar qualquer códi
 
 ### IDE
 O visual Studio Code, além de ser uma ferramenta editor de texto de código aberto extremamente versátil, ele ainda possui a capacidade de capaz de suportar extensões capazes de mudar completamente as suas funcionalidades ou adicionar novas, inclusive tais extensões o fazem ser capaz de suportar quase qualquer linguagem de programação, e para tal, possui um depurador nativo capaz de realizar inspeção de variáveis e pontos de interrupção que podem ser usados para analisar passo a passo o código em execução em tempo real.
+
+### Mocks Objects
+Durante testes, pode haver momentos que o objeto a ser testado tenha um comportamento imprevisível, relativo ou até mesmo que dependa de outro sistema ou serviço, como por exemplo um banco de dados que precisa ser inicializado, visto isso, para simular esse objeto real, é usado um Mock object, agilizando e focando assim no próprio teste em si, por exemplo, o código de um alarme, que dispara apenas em determinada hora, como isso depende do tempo, acaba atrasando o teste, mas com mock object programado para ser disparado como se fosse a determinada hora, o teste será instantâneo.
