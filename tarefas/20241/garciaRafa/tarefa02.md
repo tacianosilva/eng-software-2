@@ -35,3 +35,10 @@ O Pytest é um framework de testes de código aberto e altamente popular para a 
 
 O VSCode é um editor de código popular que oferece diversas ferramentas de debug integradas para auxiliar no desenvolvimento de software. Essas ferramentas permitem que você depure seu código passo a passo, identifique erros e entenda o comportamento do seu programa em tempo de execução.
 
+## Tutorial CRUD em Django
+
+
+
+Nesse [curso](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/) você vai aprender o básico do framework Django, onde será desenvolvido um CRUD.
+
+Nesse [artigo](https://medium.com/itautech/o-que-s%C3%A3o-testes-unit%C3%A1rios-e-como-execut%C3%A1-los-em-python-4d4a1b780fd6) tem um pequeno tutorial sobre testes de unidade utilizando o Pytest.
