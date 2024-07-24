@@ -45,3 +45,5 @@ Mocks objects também ajudam a melhorar a eficiência dos testes de unidade. Ele
 
 ## Descrição do CRUD de Funcionários
 
+O User Story US03 - Manter Funcionário descreve a funcionalidade do sistema que permite ao gerente realizar o cadastro completo de funcionários. As operações incluem a inserção, alteração, exclusão e consulta dos dados de funcionários. Os atributos registrados para cada funcionário são nome, CPF, data de nascimento, endereço, email, cargo, carga horária e salário. Esta funcionalidade é essencial para a gestão de recursos humanos dentro do sistema, garantindo que todos os dados dos funcionários estejam atualizados e acessíveis para operações futuras.
+
