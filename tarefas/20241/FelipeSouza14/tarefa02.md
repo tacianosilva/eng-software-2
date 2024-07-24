@@ -43,7 +43,22 @@ Esses objetos simulados permitem definir expectativas específicas sobre como el
 
 Mocks objects também ajudam a melhorar a eficiência dos testes de unidade. Eles podem substituir componentes que são caros ou lentos para serem executados, permitindo que os testes sejam rápidos e repetíveis. Isso é particularmente importante em ambientes de desenvolvimento ágeis, onde testes frequentes e rápidos são essenciais para garantir a qualidade contínua do software. Em resumo, mocks objects são ferramentas poderosas que permitem aos desenvolvedores criar testes de unidade mais isolados, precisos e eficientes.
 
-## Descrição do CRUD de Funcionários
+## Descrevendo o Projeto:
+
+### Descrição do CRUD de Funcionários
 
 O User Story US03 - Manter Funcionário descreve a funcionalidade do sistema que permite ao gerente realizar o cadastro completo de funcionários. As operações incluem a inserção, alteração, exclusão e consulta dos dados de funcionários. Os atributos registrados para cada funcionário são nome, CPF, data de nascimento, endereço, email, cargo, carga horária e salário. Esta funcionalidade é essencial para a gestão de recursos humanos dentro do sistema, garantindo que todos os dados dos funcionários estejam atualizados e acessíveis para operações futuras.
+
+### Implementando Testes de Unidade
+
+Minha experiência implementando os Testes de Unidade foi bem interessante e bastante produtiva, visto que é imprescindível que sejam feitos testes nas funcionalidades do software, levando em consideração que devido a eles temos noção da eficiência do projeto. Tive algumas dificuldades iniciais, pelo fato de nunca ter tido contato com esse tema, mas fui me adaptando bem ao longo da implementação.
+
+#### Testes Que Fiz
+
+- teste_adicionar_mercadoria_com_dados_validos
+- teste_adicionar_mercadoria_com_dados_incompletos
+- teste_cadastrar_produtos_com_dados_validos
+- teste_cadastrar_produtos_com_dados_incompletos
+
+#### Link para conferir os [Testes de Unidade](https://github.com/melquetrindade/sigQueijaria/tree/main/back_end/api/core/tests)
 
