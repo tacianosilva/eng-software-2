@@ -48,3 +48,8 @@ Nesse [artigo](https://medium.com/itautech/o-que-s%C3%A3o-testes-unit%C3%A1rios-
 
 Mock objects são objetos simulados que imitam o comportamento de objetos reais de maneira controlada. Eles são amplamente utilizados em testes de unidade para isolar a unidade de código que está sendo testada, permitindo que o desenvolvedor se concentre apenas na funcionalidade da unidade em questão sem depender de outras partes do sistema.
 
+## CRUD implementado no projeto
+
+### User Story US04 - Manter Salas
+
+O sistema deve manter um cadastro de salas por usuário. Uma sala pode ter várias reservas e tem os atributos identificação, e reservas. Cada sala possui um histórico de reservas, que poderá ser acessado pelos servidores e bolsistas.
