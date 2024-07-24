@@ -31,5 +31,23 @@ Jest é uma biblioteca de testes para JavaScript, desenvolvida pelo Facebook, am
 
 [Jest](https://jestjs.io/pt-BR/)
 
+## IDE utilizada
+Visual Studio Code (VS Code) é um editor de código-fonte desenvolvido pela Microsoft, amplamente utilizado por desenvolvedores devido à sua flexibilidade, extensibilidade e suporte para uma ampla gama de linguagens e frameworks. É uma escolha popular tanto para desenvolvimento front-end quanto back-end.
+
+Características Principais
+- Interface Intuitiva: Design Moderno: Interface limpa e moderna com suporte para múltiplas janelas e áreas de trabalho.
+Customização: Suporte para temas e personalizações de interface.
+- Extensibilidade: Marketplace de Extensões: Acesso a uma vasta gama de extensões que adicionam funcionalidades, como suporte a novas linguagens, ferramentas de desenvolvimento e integrações com serviços externos.
+Extensões Populares: Extensões para Python, JavaScript, TypeScript, Docker, Git e muito mais.
+- Suporte a Várias Linguagens: Suporte nativo para muitas linguagens de programação e linguagens adicionais podem ser adicionadas através de extensões.
+- Integração com Git: Controle de Versão: Ferramentas integradas para gerenciar controle de versão Git, com visualização de alterações, commits e merges diretamente no editor.
+- Terminal Integrado: Acesso a um terminal integrado dentro do VS Code, permitindo executar comandos sem sair do editor.
+- Depurador: Ferramentas de depuração integradas para diferentes linguagens e frameworks, facilitando o rastreamento e a correção de erros.
+- IntelliSense: Autocompletar e Sugestões: Oferece sugestões inteligentes de código, autocompletar e documentação inline para melhorar a produtividade e a precisão do código.
+- Editor de Código e Navegação: Refatoração e Navegação. Recursos para refatorar código e navegar entre arquivos, funções e variáveis com facilidade.
+
+O Visual Studio Code (VS Code) oferece um conjunto robusto de ferramentas de depuração que facilita a identificação e a correção de erros no código. A seguir, estão as principais ferramentas e recursos de depuração disponíveis no VS Code:
+
+
 
 
