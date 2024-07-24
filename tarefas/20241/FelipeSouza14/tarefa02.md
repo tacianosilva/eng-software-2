@@ -32,3 +32,11 @@ A inspeção de variáveis é outra característica valiosa, permitindo visualiz
 ## Como fazer um CRUD com Next.Js
 
 [Tutorial Ensinando a Fazer o CRUD](https://www.youtube.com/watch?v=RKDfKbLJkZQ&list=PLcj1aOceG9D_4EhNJvzKt-bMvEEXbKNSj)
+
+## Mocks Objects em Testes de Unidade
+
+Mocks objects são componentes fundamentais em testes de unidade, usados para simular o comportamento de objetos reais em um ambiente controlado e previsível. Eles são especialmente úteis quando os objetos reais são complexos, difíceis de configurar ou dependem de recursos externos como bancos de dados, serviços web ou hardware. Ao utilizar mocks, os desenvolvedores podem isolar o código que está sendo testado, garantindo que o teste se concentre exclusivamente na funcionalidade da unidade em questão sem interferências externas.
+
+Esses objetos simulados permitem definir expectativas específicas sobre como eles devem ser usados durante o teste. Por exemplo, um mock pode ser configurado para esperar que um método seja chamado com certos parâmetros e, em seguida, retornar um valor predefinido. Isso facilita a verificação de comportamentos específicos do código sob teste, como a interação correta com dependências. Além disso, mocks podem ser usados para simular erros e verificar se o código lida adequadamente com exceções ou condições inesperadas.
+
+Mocks objects também ajudam a melhorar a eficiência dos testes de unidade. Eles podem substituir componentes que são caros ou lentos para serem executados, permitindo que os testes sejam rápidos e repetíveis. Isso é particularmente importante em ambientes de desenvolvimento ágeis, onde testes frequentes e rápidos são essenciais para garantir a qualidade contínua do software. Em resumo, mocks objects são ferramentas poderosas que permitem aos desenvolvedores criar testes de unidade mais isolados, precisos e eficientes.
