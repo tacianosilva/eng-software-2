@@ -33,9 +33,7 @@ A inspeção de variáveis é outra característica valiosa, permitindo visualiz
 
 [Tutorial Ensinando a Fazer o CRUD](https://www.youtube.com/watch?v=RKDfKbLJkZQ&list=PLcj1aOceG9D_4EhNJvzKt-bMvEEXbKNSj)
 
-O vídeo que acima ensina como fazer operações CRUD (Criar, Ler, Atualizar e Deletar) usando Next.js e MongoDB. O tutor mostra como criar um sistema para gerenciar funcionários, permitindo adicionar, visualizar, editar e excluir registros. No exemplo, ele cria uma página chamada "Employee Management" que exibe uma tabela com um registro inicial. Através de um formulário acessado por um botão "adicionar funcionário", você pode inserir novos registros com nome, sobrenome, e-mail, salário, data de nascimento e status de ativo/inativo. Quando um novo funcionário é adicionado, uma mensagem de sucesso aparece junto com um ícone de perfil gerado aleatoriamente. Também é possível atualizar os registros existentes, editando os campos que já estão lá.
-
-O vídeo também fala sobre o uso do Redux Toolkit para facilitar o compartilhamento de dados entre os componentes e do React Query para buscar e armazenar dados do back-end de forma eficiente. Outros pontos abordados incluem como criar um middleware personalizado, conectar o MongoDB para armazenar os registros e implementar funcionalidades auxiliares para acessar a API de maneira mais fácil. O tutor recomenda um vídeo específico para quem quer aprender mais sobre o Redux Toolkit e dá dicas sobre como instalar os pacotes necessários para usar essa ferramenta no projeto.
+O vídeo ensina a fazer operações CRUD com Next.js e MongoDB para criar um sistema de gerenciamento de funcionários. Mostra como adicionar, visualizar, editar e deletar registros, usando Redux Toolkit e React Query para gerenciar dados. Inclui também a criação de middleware, conexão com MongoDB e dicas sobre o Redux Toolkit.
 
 ## Mocks Objects em Testes de Unidade
 
