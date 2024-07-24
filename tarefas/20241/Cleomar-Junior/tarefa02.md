@@ -54,3 +54,10 @@ Mock objects são objetos simulados, criados para substituir componentes reais e
 ### User Story US07 - Manter reservas de itens
 
 O sistema deve manter um cadastro de reservas para cada item. Uma reserva pode ter os atributos responsável e item. Cada item possui um histórico de reservas, que poderá ser acessado pelos servidores e bolsistas.
+
+### Teste de Integração
+
+Os testes de integração verificam se diferentes componentes ou módulos de um sistema funcionam corretamente quando combinados. Eles garantem que as interações entre essas partes não introduzam erros.
+
+**Diferença com Teste de Unidade:**
+- **Testes de Unidade** focam em componentes isolados, enquanto **Testes de Integração** avaliam a interação entre componentes.
