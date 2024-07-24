@@ -59,6 +59,10 @@ Mock objects são uma técnica amplamente utilizada em testes de software para s
 ### O que são Mocks?
 - Definição: Mocks são objetos que imitam o comportamento de objetos reais de forma controlada. Eles são usados para verificar interações e comportamentos em testes, permitindo que o desenvolvedor isole e teste uma unidade específica de código sem depender de suas dependências.
 - Objetivo: Permitir a verificação de interações entre objetos e simular comportamentos complexos de forma previsível e controlada.
+## Descrição do Projeto
+## Descrição do User Story implementado:
+O sistema deve manter um cadastro dos fornecedores a partir da inserção, alteração, exclusão e consulta dos seus dados ao sistema. Um fornecedor tem os atributos nome, CNPJ, data de nascimento, número de telefone e  email. O registro do fornecedor no sistema poderá ser feito apenas pelo gerente.
+
 
 
 
