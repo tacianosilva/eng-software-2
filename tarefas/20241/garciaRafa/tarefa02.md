@@ -53,3 +53,7 @@ Mock objects são objetos simulados que imitam o comportamento de objetos reais 
 ### User Story US04 - Manter Salas
 
 O sistema deve manter um cadastro de salas por usuário. Uma sala pode ter várias reservas e tem os atributos identificação, e reservas. Cada sala possui um histórico de reservas, que poderá ser acessado pelos servidores e bolsistas.
+
+## Teste de Integração
+
+Os testes de integração verificam a interação entre diferentes componentes ou módulos de um sistema. O objetivo é garantir que esses componentes funcionem corretamente quando combinados, detectando problemas que podem surgir devido à incompatibilidade ou a falhas de comunicação entre eles.
