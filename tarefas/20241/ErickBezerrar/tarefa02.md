@@ -51,4 +51,8 @@ Call Stack:
 
 Exibe a pilha de chamadas de funções, permitindo que você navegue para cima e para baixo na pilha para entender o fluxo de execução do programa.
 Facilita a identificação de como uma função foi chamada e o contexto em que ela está sendo executada.
+
+#tutorial do CRUD em Django
+https://www.youtube.com/watch?v=GGBzMpIAgz4
+
 </div>
