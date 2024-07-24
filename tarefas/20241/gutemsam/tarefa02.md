@@ -143,6 +143,20 @@ Os testes de integração para as URLs e views foram implementados para garantir
 ## Link para o Arquivo de Teste
 [Link do arquivo no Repositório](https://github.com/flaviogui/TechCell-Pro/blob/main/projeto/aparelhoApp/tests.py)
 
+### Teste de Integração
+
+O **teste de integração** é uma prática importante no desenvolvimento de software que se concentra em verificar a interação entre diferentes componentes ou sistemas para garantir que funcionem corretamente em conjunto. Ao realizar testes de integração, o objetivo é validar se os módulos individuais, que foram testados isoladamente com testes unitários, funcionam corretamente quando combinados. Esse tipo de teste é essencial para identificar problemas que podem ocorrer na comunicação entre módulos, na integração de dados e em outras interações entre partes do sistema.
+
+#### Diferença entre Teste Unitário e Teste de Integração
+
+- **Teste Unitário**: Este tipo de teste foca em testar unidades individuais de código, como funções ou métodos, em isolamento. O objetivo é garantir que cada unidade funcione corretamente e produza os resultados esperados. Os testes unitários geralmente são rápidos e fáceis de escrever, mas não garantem que os componentes interajam corretamente entre si.
+
+- **Teste de Integração**: Foca em avaliar como diferentes partes do sistema funcionam em conjunto. O objetivo é verificar se as interações entre componentes ou sistemas estão corretas e se a integração entre eles funciona como esperado. Testes de integração tendem a ser mais complexos e demorados em comparação com os testes unitários, mas são cruciais para identificar problemas que podem não ser detectados por testes unitários isolados.
+
+### Testes Realizados
+
+No meu caso, foram realizados testes de integração nas URLs do aplicativo, foram verificadas para garantir que estão corretamente associadas às suas respectivas views.
+
 
 
 
