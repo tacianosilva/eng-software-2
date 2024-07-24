@@ -30,3 +30,8 @@ Framework web robusto e popular em python, utilizado para construir aplicações
 O Pytest é um framework de testes de código aberto e altamente popular para a linguagem de programação Python. Ele facilita a escrita de testes unitários, testes de integração, testes funcionais e outros tipos de testes, com foco na simplicidade e legibilidade.
 
 [Documentação Pytest](https://docs.pytest.org/en/stable/contents.html)
+
+## IDE: Visual Studio Code
+
+O VSCode é um editor de código popular que oferece diversas ferramentas de debug integradas para auxiliar no desenvolvimento de software. Essas ferramentas permitem que você depure seu código passo a passo, identifique erros e entenda o comportamento do seu programa em tempo de execução.
+
