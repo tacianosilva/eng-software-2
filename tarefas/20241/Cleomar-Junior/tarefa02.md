@@ -48,3 +48,9 @@ O debugger é como um detetive para o seu código. Quando seu programa não func
 ## Mock Objects
 
 Mock objects são objetos simulados, criados para substituir componentes reais em testes unitários. Eles permitem isolar o código que está sendo testado, controlando as interações com dependências externas e garantindo resultados mais confiáveis e previsíveis.
+
+## Crud implementado no projeto
+
+### User Story US07 - Manter reservas de itens
+
+O sistema deve manter um cadastro de reservas para cada item. Uma reserva pode ter os atributos responsável e item. Cada item possui um histórico de reservas, que poderá ser acessado pelos servidores e bolsistas.
