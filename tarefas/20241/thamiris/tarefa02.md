@@ -48,6 +48,12 @@ Extensões Populares: Extensões para Python, JavaScript, TypeScript, Docker, Gi
 
 O Visual Studio Code (VS Code) oferece um conjunto robusto de ferramentas de depuração que facilita a identificação e a correção de erros no código. 
 
+## Tutorial de testes de software com JavaScript
+O artigo "Testes Unitários em JavaScript: Um Guia Completo para Iniciantes" da Giovanna Moeller no Medium oferece uma introdução abrangente à prática de testes unitários em JavaScript. O artigo é direcionado para iniciantes que desejam aprender os fundamentos e as melhores práticas para testar seus códigos JavaScript de forma eficaz.
+
+[Link do tutorial](https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
+
+
 
 
 
