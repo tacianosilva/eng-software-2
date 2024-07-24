@@ -106,3 +106,8 @@ https://www.youtube.com/watch?v=cEXt8hDyKQw
 ## Mocks Objects em Testes de Unidade
 
 Mocks (ou "objetos simulados") são um conceito fundamental em testes de unidade, usados para isolar o comportamento de um componente específico do código. Funções de simulação ( mocks em inglês ) permitem que você teste os links entre códigos, apagando a implementação real de uma função, capturando chamadas para a função (e os parâmetros passados nessas chamadas), capturar instâncias do construtor de funções quando instanciado com new, e permitindo configuração em tempo de teste de valores de retorno.
+
+## Mock objects
+
+Em resumo, tive dificuldade. Mas o Django ajudou muito.
+https://github.com/flaviogui/TechCell-Pro/blob/main/projeto/aparelhoApp/tests.py
