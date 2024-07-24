@@ -102,3 +102,7 @@ Funcionalidades para avançar passo a passo (Step Over), entrar em funções (St
 O tutorial inclui exemplos práticos para ilustrar o processo de escrita e execução de testes, com o objetivo de ajudar os desenvolvedores a melhorar a qualidade do código e detectar erros no início do ciclo de desenvolvimento.
 
 https://www.youtube.com/watch?v=cEXt8hDyKQw
+
+## Mocks Objects em Testes de Unidade
+
+Mocks (ou "objetos simulados") são um conceito fundamental em testes de unidade, usados para isolar o comportamento de um componente específico do código. Funções de simulação ( mocks em inglês ) permitem que você teste os links entre códigos, apagando a implementação real de uma função, capturando chamadas para a função (e os parâmetros passados nessas chamadas), capturar instâncias do construtor de funções quando instanciado com new, e permitindo configuração em tempo de teste de valores de retorno.
