@@ -25,3 +25,10 @@ Django é um framework web poderoso e popular no ecossistema Python, usado para 
 ### Banco de Dados: PostgreSQL
 
 PostgreSQL é um Sistema de Gerenciamento de Banco de Dados (SGBD) open-source, reconhecido por sua confiabilidade, escalabilidade e recursos avançados. Suas principais características incluem suporte a transações ACID para garantir a integridade dos dados, otimização de consultas para alto desempenho e replicação de dados para alta disponibilidade.
+
+## Framework de teste
+
+### Pytest
+
+O Pytest é um framework de testes de software amplamente utilizado em Python, conhecido por sua flexibilidade, extensibilidade e capacidade de simplificar a criação e execução de testes unitários, de integração e funcionais.
+
