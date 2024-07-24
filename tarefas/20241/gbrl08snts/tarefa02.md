@@ -79,3 +79,6 @@ O tutorial aborda os seguintes pontos principais:
 * __Conceitos importantes:__ Aborda conceitos importantes como assertions, fixtures e mocking, que são ferramentas essenciais para escrever testes eficazes.
 
 - Em resumo, este vídeo fornece uma introdução prática à escrita de testes unitários no Django, capacitando o desenvolvedor a criar testes que garantam a qualidade e a confiabilidade do seu código.
+
+# __Questão F__
+
