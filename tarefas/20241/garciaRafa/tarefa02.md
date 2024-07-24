@@ -28,3 +28,5 @@ Framework web robusto e popular em python, utilizado para construir aplicações
 ### Pytest
 
 O Pytest é um framework de testes de código aberto e altamente popular para a linguagem de programação Python. Ele facilita a escrita de testes unitários, testes de integração, testes funcionais e outros tipos de testes, com foco na simplicidade e legibilidade.
+
+[Documentação Pytest](https://docs.pytest.org/en/stable/contents.html)
