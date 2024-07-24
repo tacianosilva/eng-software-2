@@ -72,8 +72,14 @@ teste_get_fornecedoro_por_id: Realiza teste para consultar um fornecedor por id 
 teste_update_de_dados_do_fornecedor_valido: Realiza teste para verificar se é permitido atualizar dados de um fornecedor através de uma entrada válida.
 teste_deletar_fornecedor_com_id_valido: Realiza teste para verificar se pode deletar um fornecedor com id existente.
 teste_criar_fornecedor_com_dados_incompletos: Realiza teste para conferir se é possível cadastrar um fornecedor sem informar todos os dados.
+
 [Link para o arquivo de testes do projeto](https://github.com/melquetrindade/sigQueijaria/blob/main/back_end/api/core/tests/test_views.py)
 
+## Testes de Integração x Unitário
+
+Teste de Integração é um tipo de teste de software que foca em verificar a interação entre diferentes componentes ou módulos de um sistema para garantir que eles funcionem corretamente juntos. Ao contrário dos testes unitários, que avaliam unidades individuais de código, os testes de integração verificam a integração e a comunicação entre essas unidades.
+
+No projeto, eu fiz teste unitário.
 
 
 
