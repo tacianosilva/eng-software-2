@@ -20,3 +20,20 @@
     * __Ferramentas Comuns:__ JUnit, NUnit, TestNG, Pytets entre outras.
 
 - Os testes de unidade são essenciais para a qualidade e a robustez do software, permitindo que os desenvolvedores façam alterações com confiança e mantenham um código mais limpo e bem documentado.
+
+# __Questão B__
+
+- A linguagem escolhida no projeto foi o Python, a linguagem é conhecida por sua simplicidade e legibilidade, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes.
+
+* __Características:__
+    1. __Sintaxe Clara:__ Facilita a escrita e a leitura do código.
+    2. __Bibliotecas Ricas:__ Possui uma vasta gama de bibliotecas e frameworks que aceleram o desenvolvimento.
+    3. __Comunidade Ativa:__ Grande comunidade de desenvolvedores que contribuem com pacotes, tutoriais e suporte.
+
+- O framework escolhido foi o Django que é um framework python de alto nível para o desenvolvimento de aplicações web rápidas e seguras.
+
+* __Características:__
+    1. __Arquitetura MVC:__ Segue o padrão Model-View-Controller, facilitando a organização do código.
+    2. __Admin Interface:__ Interface administrativa pronta para uso, que facilita a gestão de dados.
+    3. __Segurança:__ Inclui proteções contra ataques comuns, como SQL Injection e Cross-Site Scripting (XSS).
+    4. __Escalabilidade:__ Projetado para escalar facilmente, suportando desde pequenos projetos até grandes aplicações.
