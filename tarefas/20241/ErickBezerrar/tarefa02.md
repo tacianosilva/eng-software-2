@@ -32,4 +32,23 @@ https://github.com/pytest-dev/pytest-django
 https://docs.djangoproject.com/en/4.2/topics/testing/
 https://realpython.com/testing-in-django-part-1-best-practices-and-examples/
 
+IDE utilizada: VS code
+
+Visual Studio Code (VS Code) é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele é gratuito, open-source e oferece suporte a várias linguagens de programação através de uma ampla gama de extensões. 
+
+Ferramentas de Debug Integradas
+
+Breakpoints:
+
+Permitem que você pause a execução do código em um ponto específico para inspecionar variáveis, memória e fluxo de execução.
+Podem ser definidos diretamente na linha de código clicando na margem esquerda.
+Watch Expressions:
+
+Permitem monitorar o valor de expressões específicas ao longo da execução do programa.
+Útil para acompanhar variáveis e expressões complexas em tempo real.
+
+Call Stack:
+
+Exibe a pilha de chamadas de funções, permitindo que você navegue para cima e para baixo na pilha para entender o fluxo de execução do programa.
+Facilita a identificação de como uma função foi chamada e o contexto em que ela está sendo executada.
 </div>
