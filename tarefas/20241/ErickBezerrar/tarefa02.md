@@ -13,4 +13,6 @@
 
 <div style="text-align: justify">
 Testes de Unidade (ou Unit Tests) são uma prática fundamental em desenvolvimento de software, focada em testar individualmente as menores partes testáveis de uma aplicação, conhecidas como unidades. Essas unidades geralmente são funções, métodos ou classes. O objetivo dos testes de unidade é garantir que cada unidade funcione corretamente isoladamente, sem dependências de outras partes do sistema.
+
+A linguagem usada no projeto será python com o uso do framework do django, para o front foi escolhido o uso do Next.js
 </div>
