@@ -44,6 +44,8 @@ O vídeo demonstra o processo de configuração do pytest em um ambiente Django,
 
 São objetos simulados usados em testes de unidade para imitar o comportamento de objetos reais, permitindo isolar o componente que está sendo testado ao substituir dependências externas, como serviços, bancos de dados ou APIs, com versões controladas e previsíveis. Permitindo focar o teste na funcionalidade específica do código que está sendo analisado, garantindo velocidade, confiábilidade. Podem também verificar se certos métodos foram chamados com os parâmetros corretos, ajudando a validar as interações entre componentes. 
 
+## Manter Material
 
-
+Para adicionar um novo material, é enviado uma solicitação POST para /material/ com os dados do material; se bem-sucedido, um código HTTP 201 Created é enviado. Para consultar materiais, o endpoint GET /material/ é usado para obter todos os registros ou GET /material/{pk}/ para um material específico, recebendo uma lista ou detalhes do material. Caso o material não exista, o sistema responde com um código HTTP 404 Not Found.
+Para atualizar um material existente, é enviado uma solicitação PUT para /material/{pk}/ com as novas informações; se a atualização for bem-sucedida, um código HTTP 200 OK é enviado. Se houver erros ou o material não for encontrado, o sistema retornará um código HTTP 400 Bad Request ou 404 Not Found, respectivamente. Para excluir um material, é enviado uma solicitação DELETE para /material/{pk}/; se a exclusão for realizada com sucesso, um código HTTP 204 No Content é enviado. O sistema também valida os dados e fornece mensagens detalhadas para ajudar na correção de erros.
 
