@@ -37,3 +37,17 @@
     2. __Admin Interface:__ Interface administrativa pronta para uso, que facilita a gestão de dados.
     3. __Segurança:__ Inclui proteções contra ataques comuns, como SQL Injection e Cross-Site Scripting (XSS).
     4. __Escalabilidade:__ Projetado para escalar facilmente, suportando desde pequenos projetos até grandes aplicações.
+
+# __Questão C__
+
+- O Django TestCase é uma ferramenta poderosa para realizar testes de unidade em projetos Django. Aqui está um resumo sobre ele:
+
+* __Descrição:__ O TestCase do Django é uma subclasse do unittest.TestCase que oferece funcionalidades adicionais específicas para o Django. Ele permite a criação de testes que interagem com o banco de dados e outras partes do framework de forma isolada e controlada.
+
+* __Características:__
+    1. __Banco de Dados de Teste:__ Cria um banco de dados temporário para cada conjunto de testes, garantindo que os 2.testes não afetem o banco de dados de produção.
+    2. __Fixtures:__ Permite carregar dados de teste a partir de arquivos JSON, XML ou YAML.
+    3. __Client:__ Um cliente de teste que simula requisições HTTP, facilitando o teste de views e URLs.
+    4. __Assertions:__ Várias funções de asserção para verificar o comportamento esperado do código.
+
+- Link sobre o framework de testes: https://docs.djangoproject.com/en/5.0/topics/testing/overview/
