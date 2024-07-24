@@ -65,3 +65,17 @@
     5. __Debug Console:__ Permite a execução de comandos e expressões durante a depuração, ajudando a testar correções rápidas e verificar o comportamento do código.
 
 - Além dessas ferramentas, o VS Code suporta extensões que podem adicionar ainda mais funcionalidades de depuração específicas para diferentes linguagens e frameworks.
+
+# __Questão E__
+
+- __Link de uma Playplist:__ https://www.youtube.com/watch?v=0MrgsYswT1c&list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM&index=2
+
+O tutorial aborda os seguintes pontos principais:
+
+* __Configuração do ambiente de teste:__ Explica como configurar o ambiente de teste de forma adequada, incluindo a instalação das dependências necessárias e a criação de um arquivo de configuração específico para os testes.
+* __Estrutura básica de um teste:__ Demonstra a estrutura básica de um teste unitário no Django, mostrando como criar uma classe de teste e como escrever métodos de teste individuais.
+* __Testando modelos:__ Apresenta exemplos práticos de como testar modelos, verificando se os campos estão sendo validados corretamente, se as relações entre os modelos estão funcionando como esperado e outras funcionalidades relacionadas aos modelos.
+* __Utilizando o framework de testes do Django:__ Explica como utilizar o framework de testes integrado ao Django para executar os testes e gerar relatórios de cobertura de código.
+* __Conceitos importantes:__ Aborda conceitos importantes como assertions, fixtures e mocking, que são ferramentas essenciais para escrever testes eficazes.
+
+- Em resumo, este vídeo fornece uma introdução prática à escrita de testes unitários no Django, capacitando o desenvolvedor a criar testes que garantam a qualidade e a confiabilidade do seu código.
