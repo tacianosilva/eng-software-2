@@ -44,3 +44,7 @@ O debugger é como um detetive para o seu código. Quando seu programa não func
 
 [curso](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/)
 [artigo](https://www.datacamp.com/pt/tutorial/pytest-tutorial-a-hands-on-guide-to-unit-testing)
+
+## Mock Objects
+
+Mock objects são objetos simulados, criados para substituir componentes reais em testes unitários. Eles permitem isolar o código que está sendo testado, controlando as interações com dependências externas e garantindo resultados mais confiáveis e previsíveis.
