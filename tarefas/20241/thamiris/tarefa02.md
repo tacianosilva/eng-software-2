@@ -46,7 +46,7 @@ Extensões Populares: Extensões para Python, JavaScript, TypeScript, Docker, Gi
 - IntelliSense: Autocompletar e Sugestões: Oferece sugestões inteligentes de código, autocompletar e documentação inline para melhorar a produtividade e a precisão do código.
 - Editor de Código e Navegação: Refatoração e Navegação. Recursos para refatorar código e navegar entre arquivos, funções e variáveis com facilidade.
 
-O Visual Studio Code (VS Code) oferece um conjunto robusto de ferramentas de depuração que facilita a identificação e a correção de erros no código. A seguir, estão as principais ferramentas e recursos de depuração disponíveis no VS Code:
+O Visual Studio Code (VS Code) oferece um conjunto robusto de ferramentas de depuração que facilita a identificação e a correção de erros no código. 
 
 
 
