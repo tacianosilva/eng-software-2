@@ -36,3 +36,5 @@ O framework de testes unitários QUnit pode ser usado para testar qualquer códi
 * link para o site oficial: [QUnit](https://qunitjs.com/)
 * link para um tutorial de uso: [tutorial Qunit](https://www.devmedia.com.br/javascript-qunit-conheca-o-framework-de-testes-unitarios/33579)
 
+### IDE
+O visual Studio Code, além de ser uma ferramenta editor de texto de código aberto extremamente versátil, ele ainda possui a capacidade de capaz de suportar extensões capazes de mudar completamente as suas funcionalidades ou adicionar novas, inclusive tais extensões o fazem ser capaz de suportar quase qualquer linguagem de programação, e para tal, possui um depurador nativo capaz de realizar inspeção de variáveis e pontos de interrupção que podem ser usados para analisar passo a passo o código em execução em tempo real.
