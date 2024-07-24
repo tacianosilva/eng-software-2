@@ -57,4 +57,13 @@ https://www.youtube.com/watch?v=GGBzMpIAgz4
 
 Mock objects são objetos simulados que imitam o comportamento de objetos reais em testes de unidade. Eles são usados para isolar o código em teste, substituindo dependências externas ou complexas que o código possa ter, como chamadas a banco de dados, serviços web ou outras interações de rede. A utilização de mock objects facilita a criação de testes previsíveis e controlados, focando na lógica interna do código em vez de sua interação com o ambiente externo.
 
+CRUD produto(User Story US3)
+
+O CRUD de produtos tem como funçao fazer toda a inserçao de produtos, exclusao, leitura e atualizacao dos mesmos, com o intuito de deixar todo o sistema completo.
+
+Create: Adicionar um novo produto ao banco de dados.
+Read: Recuperar informações sobre um ou mais produtos.
+Update: Modificar os detalhes de um produto existente.\
+Delete: Remover um produto do banco de dados.
+
 </div>
