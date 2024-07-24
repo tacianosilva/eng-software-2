@@ -53,6 +53,14 @@ O artigo "Testes Unitários em JavaScript: Um Guia Completo para Iniciantes" da 
 
 [Link do tutorial](https://giovannamoeller.medium.com/testes-unit%C3%A1rios-em-javascript-um-guia-completo-para-iniciantes-a980138f47d6)
 
+## Mocks Objects
+Mock objects são uma técnica amplamente utilizada em testes de software para simular o comportamento de objetos reais. Eles são úteis para isolar o código em teste e garantir que ele se comporte corretamente sob diferentes condições, sem depender de componentes externos ou complexos.
+
+### O que são Mocks?
+- Definição: Mocks são objetos que imitam o comportamento de objetos reais de forma controlada. Eles são usados para verificar interações e comportamentos em testes, permitindo que o desenvolvedor isole e teste uma unidade específica de código sem depender de suas dependências.
+- Objetivo: Permitir a verificação de interações entre objetos e simular comportamentos complexos de forma previsível e controlada.
+
+
 
 
 
