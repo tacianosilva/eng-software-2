@@ -22,3 +22,9 @@ Framework web robusto e popular em python, utilizado para construir aplicações
 ### Banco de Dados: PostgreSQL
 
 É um SGBD open-source, conhecido por sua confiabilidade, escalabilidade e recursos avançados. Entre suas principais funcionalidades está o suporte a transições ACID para garantir integridade de dados, otimização de consultas para alto desempenho e replicação de dados para alta disponibilidade.
+
+## Framework de teste
+
+### Pytest
+
+O Pytest é um framework de testes de código aberto e altamente popular para a linguagem de programação Python. Ele facilita a escrita de testes unitários, testes de integração, testes funcionais e outros tipos de testes, com foco na simplicidade e legibilidade.
