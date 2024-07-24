@@ -49,3 +49,12 @@ São objetos simulados usados em testes de unidade para imitar o comportamento d
 Para adicionar um novo material, é enviado uma solicitação POST para /material/ com os dados do material; se bem-sucedido, um código HTTP 201 Created é enviado. Para consultar materiais, o endpoint GET /material/ é usado para obter todos os registros ou GET /material/{pk}/ para um material específico, recebendo uma lista ou detalhes do material. Caso o material não exista, o sistema responde com um código HTTP 404 Not Found.
 Para atualizar um material existente, é enviado uma solicitação PUT para /material/{pk}/ com as novas informações; se a atualização for bem-sucedida, um código HTTP 200 OK é enviado. Se houver erros ou o material não for encontrado, o sistema retornará um código HTTP 400 Bad Request ou 404 Not Found, respectivamente. Para excluir um material, é enviado uma solicitação DELETE para /material/{pk}/; se a exclusão for realizada com sucesso, um código HTTP 204 No Content é enviado. O sistema também valida os dados e fornece mensagens detalhadas para ajudar na correção de erros.
 
+## Teste de Unidade
+* [Arquivo de Teste](https://github.com/GomesLuan/SigBordado/blob/dev/backend/api/tests.py)
+Implementar os testes para o gerenciamento de materiais envolveu verificar a funcionalidade de diferentes partes do sistema. No modelo Material, garanti que as instâncias eram criadas corretamente e que o método __str__ retornava a representação esperada. Esses testes confirmaram que o modelo armazenava e recuperava os dados conforme o esperado.
+Para o serializador MaterialSerializer, os testes focaram em validar se os dados serializados continham os campos corretos e se o processo de criação de novos materiais funcionava bem com dados válidos e inválidos. Além disso, os testes da view MaterialView cobriram todas as operações CRUD, assegurando que as requisições para criar, consultar, atualizar e excluir materiais retornavam os status HTTP corretos e manipulavam os dados de forma adequada.
+
+
+
+
+
