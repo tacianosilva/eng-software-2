@@ -111,3 +111,11 @@ Mocks (ou "objetos simulados") são um conceito fundamental em testes de unidade
 
 Em resumo, tive dificuldade. Mas o Django ajudou muito.
 https://github.com/flaviogui/TechCell-Pro/blob/main/projeto/aparelhoApp/tests.py
+
+## Teste Unitário ou de Integração
+
+Verifica a interação e a integração entre diferentes componentes ou sistemas para garantir que funcionem juntos corretamente.
+
+Fiz teste unitário.
+
+Teste de integração verifica a interação e a integração entre diferentes componentes ou sistemas. O unitário verifica o funcionamento correto de unidades individuais de código, como funções, métodos ou classes, de forma isolada.
