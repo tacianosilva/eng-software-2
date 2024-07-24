@@ -42,3 +42,9 @@ O VSCode é um editor de código popular que oferece diversas ferramentas de deb
 Nesse [curso](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/) você vai aprender o básico do framework Django, onde será desenvolvido um CRUD.
 
 Nesse [artigo](https://medium.com/itautech/o-que-s%C3%A3o-testes-unit%C3%A1rios-e-como-execut%C3%A1-los-em-python-4d4a1b780fd6) tem um pequeno tutorial sobre testes de unidade utilizando o Pytest.
+
+
+## Mock Objects
+
+Mock objects são objetos simulados que imitam o comportamento de objetos reais de maneira controlada. Eles são amplamente utilizados em testes de unidade para isolar a unidade de código que está sendo testada, permitindo que o desenvolvedor se concentre apenas na funcionalidade da unidade em questão sem depender de outras partes do sistema.
+
