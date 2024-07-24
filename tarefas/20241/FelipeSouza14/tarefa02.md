@@ -62,3 +62,17 @@ Minha experiência implementando os Testes de Unidade foi bem interessante e bas
 
 #### Link para conferir os [Testes de Unidade](https://github.com/melquetrindade/sigQueijaria/tree/main/back_end/api/core/tests)
 
+### Testes de Integração
+
+Os Testes de Integração são fundamentais no desenvolvimento de software, garantindo que diferentes módulos funcionem corretamente juntos. Eles verificam a interação entre componentes, como a comunicação entre serviços e a consistência de dados. Existem várias abordagens, como Big Bang, Top-Down, Bottom-Up e Sandwich, cada uma com suas vantagens e desafios. Esses testes ajudam a detectar problemas de integração precocemente, melhorando a qualidade do software e facilitando sua manutenção, apesar de apresentarem complexidade na configuração de ambientes de teste e dependência de serviços externos.
+
+#### Teste que apliquei:
+
+Os testes que apliquei são testes unitários, visto que eles focam na verificação de pequenas unidades de código.
+
+#### Principais diferenças entre Testes Unitários e de Integração
+
+**Testes Unitários** focam na verificação de pequenas unidades de código, como funções ou métodos, isoladamente. O objetivo é garantir que cada unidade funcione corretamente de forma independente, sem depender de outros componentes. Esses testes são rápidos e fáceis de manter porque se concentram em partes simples do código e frequentemente utilizam mocks ou stubs para substituir dependências externas.
+
+Por outro lado, **Testes de Integração** avaliam a interação entre diferentes módulos ou componentes de um sistema. O objetivo é verificar se esses componentes funcionam corretamente quando combinados e se a comunicação entre eles é eficaz. Esses testes geralmente são mais complexos e demorados, pois envolvem a integração de várias partes do sistema e dependências externas, como bancos de dados e serviços web. Eles ajudam a identificar problemas na interface entre módulos e são realizados em um ambiente que simula a configuração de produção.
+
