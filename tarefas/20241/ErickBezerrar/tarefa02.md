@@ -55,4 +55,6 @@ Facilita a identificação de como uma função foi chamada e o contexto em que 
 #tutorial do CRUD em Django
 https://www.youtube.com/watch?v=GGBzMpIAgz4
 
+Mock objects são objetos simulados que imitam o comportamento de objetos reais em testes de unidade. Eles são usados para isolar o código em teste, substituindo dependências externas ou complexas que o código possa ter, como chamadas a banco de dados, serviços web ou outras interações de rede. A utilização de mock objects facilita a criação de testes previsíveis e controlados, focando na lógica interna do código em vez de sua interação com o ambiente externo.
+
 </div>
