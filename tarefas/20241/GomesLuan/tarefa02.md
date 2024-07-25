@@ -57,3 +57,17 @@ O vídeo acima mostra como configurar o pytest utilizando um ambiente django, be
 ## Mocks Objects
 
 Mocks Objects são objetos simulados que replicam o comportamento de objetos reais em testes de unidade. Eles são usados para isolar o componente que está sendo testado ao substituir dependências externas, como serviços, bancos de dados ou APIs, com versões controladas e previsíveis. Isso permite focar o teste na funcionalidade específica do código em análise, garantindo que os testes sejam rápidos, confiáveis e repetíveis. Além de simular comportamentos, mocks podem verificar se certos métodos foram chamados, com os parâmetros esperados, ajudando a validar interações entre componentes. Frameworks populares como unittest (com seu submódulo unittest.mock) e pytest (com o plugin pytest-mock) facilitam a criação e uso de mocks em testes de unidade.
+
+## Descrição de CRUD - Manter Funcionário
+
+Um CRUD que implementei foi o de Funcionário, com as operações incluir, consultar, alterar e deletar. Um funcionário armazena informações uma pessoa que trabalha na casa de bordados, que tem acesso ao sistema.
+
+## Implementação dos testes
+
+Implementei testes de unidade para model, serializer e view de Funcionário. De modo geral, os testes tentam realizar as operações básicas do CRUD para conjuntos de dados válidos e inválidos.
+
+Disponível em: https://github.com/GomesLuan/SigBordado/blob/dev/backend/api/tests.py
+
+## Testes de Integração
+
+Testes de integração são uma etapa do processo de testes de software focada em verificar a interação e integração entre diferentes módulos ou componentes do sistema. Ao contrário dos testes de unidade, que isolam e testam partes individuais do código, os testes de integração verificam se os módulos funcionam corretamente juntos, garantindo que a comunicação, as interfaces e as dependências entre eles estejam funcionando conforme esperado. Esses testes ajudam a identificar problemas que podem surgir quando componentes separados são combinados, como incompatibilidades de interface ou falhas na comunicação entre sistemas. Os testes que implementei até o momento no projeto da disciplina se limitam a testes de unidade.
