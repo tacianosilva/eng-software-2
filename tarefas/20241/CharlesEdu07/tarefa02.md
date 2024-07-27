@@ -121,3 +121,29 @@ Aqui estão alguns pontos-chave sobre mocks no contexto de testes unitários:
 - **Isolamento:** Permitem que a unidade de código sob teste (Unit Under Test - UUT) seja testada de maneira isolada, sem a influência de dependências externas como bancos de dados, serviços web, ou outras unidades de código.
 - **Controle:** Dão controle completo sobre o comportamento das dependências, permitindo que você simule diferentes cenários, como respostas bem-sucedidas, falhas, exceções, etc.
 - **Verificação:** Permitem verificar se certos métodos foram chamados com os argumentos esperados, ajudando a garantir que a UUT está interagindo corretamente com suas dependências.
+
+### Descrição do Repositório
+
+### CRUD
+
+Atuei na implementação de 2 user storys, sendo eles o product (produto) e supplier (fornecedor). Cada um desses CRUDs apresenta as 4 operações básicas.
+
+Para o desenvolvimento dos testes, foquei no product.
+
+Link para o service e seus respectivos testes:
+
+- [Testes do CRUD de produto](https://github.com/leonardobezrr/sig-estoque-back-end/tree/dev/src/services/product)
+
+#### Experiência com os testes
+
+Implementar testes unitários envolve criar testes que verificam o funcionamento correto de unidades individuais de código, como funções ou métodos.
+
+Primeiramente, é necessário criar um repositório simulado (mocked repository) ou um repositório em memória (in-memory repository) que imite as operações básicas do CRUD.
+
+Em seguida, os testes podem ser elaborados, fornecendo objetos simulados (mock objects) para o repositório em memória e verificando se os resultados obtidos correspondem aos resultados esperados.
+
+#### Teste de Integração
+
+Testes de integração verificam como diferentes módulos ou sistemas interagem entre si. Eles são essenciais para garantir que as unidades individuais de um sistema, que foram testadas de forma isolada, funcionem corretamente quando integradas.
+
+Nessa atividade, não foram feitos testes de integração e sim de unidade. Nesse caso, os testes estão isolando os serviços específicos e usando uma implementação simplificada (InMemoryProductsRepository) para verificar seu comportamento. Isso se encaixa melhor como um teste de unidade, pois não está testando a interação real entre o serviço e um banco de dados real ou outros sistemas externos.
