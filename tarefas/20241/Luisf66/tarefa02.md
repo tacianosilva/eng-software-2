@@ -56,6 +56,12 @@ https://github.com/Luisf66/Inicializa-o-em-Web.git
 
 O CRUD disponibilizado foi feito baseado no tutorial do tópico acima, onde no mesmo é possível realizar o cadastro, leitura e eliminação de um usuário.
 
+### Teste do projeto
+
+* [Teste Unitário](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
+
+O código apresentado é um conjunto de testes automatizados para o serviço de autenticação de usuários, utilizando o framework vitest. O objetivo dos testes é garantir que o serviço de autenticação funcione corretamente em diferentes cenários.
+
 ### Teste de integração
 
 O teste de integração é um passo subsequente ao teste unitário, onde unidades previamente testadas são combinadas e testadas em grupos maiores.
