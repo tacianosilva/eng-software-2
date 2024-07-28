@@ -15,4 +15,15 @@ Os testes de unidade são um componente crucial do desenvolvimento de software, 
 ### B)
 No projeto da disciplina, foi utilizada a linguagem Python para o backend com o framework Django Rest Framework, e TypeScript para o frontend com Vue.js. Essa combinação permite um desenvolvimento eficiente e robusto tanto no servidor quanto no cliente, aproveitando as vantagens de cada tecnologia.
 
+### C)
+#### Python - Django
+Para o backend em Django, utilizamos o framework de testes `unittest`. O `unittest` é uma biblioteca padrão do Python que fornece uma infraestrutura para a criação e execução de testes automatizados. Ele é inspirado no JUnit, um framework de testes para Java, e suporta uma ampla gama de assertivas, além de oferecer um rico conjunto de ferramentas para a criação de testes complexos.
+
+- [Unittest Documentation](https://docs.python.org/3/library/unittest.html)
+
+#### TypeScript - Vue
+
+Para o frontend, utilizamos o `Vitest`, um framework de testes unitários projetado para trabalhar perfeitamente com aplicações Vue.js. O `Vitest` é inspirado no `Jest`, conhecido por sua simplicidade e eficiência, oferecendo uma experiência de testes rápida e integrada com o ecossistema Vue.
+
+- [Vitest Documentation](https://vitest.dev/)
 
