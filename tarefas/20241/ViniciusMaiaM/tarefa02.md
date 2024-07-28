@@ -36,3 +36,7 @@ A IDE utilizada para o desenvolvimento do projeto é o Visual Studio Code (VSCod
 - [Django CRUD and Testing Tutorial]( https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing)
 
 Este tutorial guia o desenvolvedor desde a configuração inicial do Django, passando pela criação das operações CRUD, até a implementação de testes de unidade para garantir que todas as partes do aplicativo funcionem corretamente.
+
+### F)
+
+Mocks são objetos simulados que imitam o comportamento de objetos reais em um ambiente controlado. Eles são extremamente úteis em testes de unidade para isolar o código que está sendo testado e evitar dependências externas, como chamadas a APIs ou interações com bancos de dados. Mocks permitem que os testes sejam executados de forma rápida e confiável, fornecendo respostas pré-programadas às chamadas de métodos. Bibliotecas como `unittest.mock` em Python facilitam a criação e manipulação de mocks.
