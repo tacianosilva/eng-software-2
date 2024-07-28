@@ -27,3 +27,7 @@ Para o frontend, utilizamos o `Vitest`, um framework de testes unitários projet
 
 - [Vitest Documentation](https://vitest.dev/)
 
+### D)
+
+A IDE utilizada para o desenvolvimento do projeto é o Visual Studio Code (VSCode). O VSCode é uma ferramenta poderosa e altamente extensível, com suporte para uma ampla variedade de linguagens de programação e frameworks. Ele oferece ferramentas de debug integradas, permitindo a inspeção detalhada do estado da aplicação durante a execução, pontos de interrupção, e análise de variáveis em tempo real. Além disso, possui uma vasta biblioteca de extensões que aumentam ainda mais sua funcionalidade.
+
