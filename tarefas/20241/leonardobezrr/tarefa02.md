@@ -5,3 +5,12 @@
 * leonardobezerra05@gmail.com
 * [Projeto front-end](https://github.com/leonardobezrr/sig-estoque-front-end) - Link 1/2 projeto
 * [Projeto back-end](https://github.com/leonardobezrr/sig-estoque-back-end) - Link 2/2 projeto
+
+## Testes de software
+
+### Testes de unidade
+Os testes de unidade são um tipo de teste de software focado na verificação da menor unidade testável de um aplicativo. Essas unidades geralmente são funções, métodos ou classes individuais em linguagens orientadas a objetos.
+
+O principal objetivo deles, é validar que cada unidade de código funciona conforme o esperado isoladamente. Isso ajuda a garantir que cada parte do código esteja correta antes de integrá-la com outras partes.
+
+Os testes de unidade são essenciais para a garantia da qualidade no desenvolvimento de software, focando na verificação de pequenas partes do código de forma isolada. Eles permitem uma detecção precoce de erros, facilitam a manutenção e refatoração do código e podem ser automatizados para melhorar a eficiência do processo de desenvolvimento. Ferramentas específicas para diferentes linguagens de programação ajudam a implementar esses testes de maneira eficaz.
