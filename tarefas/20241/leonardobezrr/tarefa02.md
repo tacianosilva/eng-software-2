@@ -44,3 +44,9 @@ Vitest é um framework de testes para aplicações JavaScript e TypeScript que �
 * Conditional Breakpoints: Define breakpoints condicionais que pausam a execução somente quando determinadas condições são atendidas.
 
 * Logpoints: Insere mensagens de log no console de debug sem alterar o código-fonte, útil para rastreamento de execução sem interromper o fluxo.
+
+## Tutorial CRUD
+
+* [Rest API com Node e Fastify](https://www.youtube.com/watch?v=E6mZSJFozvM&ab_channel=WilliamFaria%7CDev)
+
+Nesse tutorial nós podemos ver a construção de um CRUD completo para manipular informações sobre livros. Através de métodos como GET para listar todos os livros e GET por ID para acessar detalhes específicos. Além disso, aprendemos como usar POST para adicionar novos livros à sua coleção e PATCH para atualizar atributos essenciais, como indicar se um livro está sendo lido, é um favorito ou foi concluído.
