@@ -10,4 +10,4 @@ Os testes de unidade são uma prática essencial no desenvolvimento de software,
 
 # Linguagem de programação e stack 
 
-No nosso projeto, será usado Python no backend, e a stack para o backend incluirá o Django Rest Framework. Essa tecnologia, construída sobre o Django Framework, permite a criação de APIs REST de forma rápida e segura.
+No nosso projeto, será usado Python no backend, e a stack para o backend incluirá o Django Rest Framework. Essa tecnologia, construída sobre o Django Framework, permite a criação de APIs REST de forma rápida e segura. No frontend, usamos TypeScript com Vue.js, proporcionando uma experiência de desenvolvimento mais segura e produtiva, além de interfaces de usuário dinâmicas e reativas.
