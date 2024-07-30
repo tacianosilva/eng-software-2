@@ -87,3 +87,8 @@ Outras Funcionalidades
 Extensões de Depuração: O VSCode possui um ecossistema de extensões que adiciona suporte a depuração para várias linguagens e frameworks, ampliando suas capacidades além do suporte nativo.
 Integração com Git: Oferece suporte integrado para controle de versão, facilitando o gerenciamento de código e a colaboração em equipe.
 Terminal Integrado: Permite que você execute comandos e scripts diretamente dentro do VSCode, sem precisar alternar para uma linha de comando separada.
+
+Tecnologia Escolhida para CRUD
+
+O site explica um pouco de como fazer Crud usando o Django, e depois faz um tutorial sobre como fazer.
+link: https://awari.com.br/aprenda-a-criar-um-crud-com-python-e-django-guia-completo-para-iniciantes/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Aprenda%20a%20Criar%20um%20Crud%20com%20Python%20e%20Django:%20Guia%20Completo%20para%20Iniciantes
