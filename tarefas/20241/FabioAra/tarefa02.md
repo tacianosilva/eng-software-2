@@ -107,5 +107,7 @@ No entanto, é importante usar mocks com discernimento. Um excesso de mocks pode
 
 Em resumo, mocks objects são ferramentas valiosas em testes de unidade, permitindo a simulação de componentes externos e o isolamento do código sob teste. Isso facilita a criação de testes mais focados e controlados, ajudando a garantir a integridade e a qualidade do software. No entanto, deve-se balancear seu uso com outros métodos de teste para garantir uma cobertura completa e precisa do comportamento do sistema.
 
+### seção10
 
+Ainda não implentei a minha parte no Projeto, espero poder começar a contribuir a partir dessa semana 30/07/2024
 
