@@ -25,4 +25,14 @@ Adotar boas práticas é essencial para garantir que os testes de unidade sejam 
 Em resumo, os testes de unidade são uma prática fundamental para garantir a robustez e a confiabilidade do software, permitindo que os desenvolvedores verifiquem e mantenham a qualidade do código à medida que ele evolui.
 
 
+###  linguagem de programação, e stack
 
+A escolha da linguagem de programação deve levar em conta vários fatores, como o tipo de projeto, requisitos específicos, familiaridade da equipe com a linguagem e suporte para bibliotecas e frameworks. Aqui estão algumas linguagens populares e suas características:
+
+Python
+
+- Características: Fácil de aprender e usar, excelente para prototipagem rápida, rica em bibliotecas e frameworks.
+- Usos Comuns: Desenvolvimento web, ciência de dados, automação, scripts.
+- Frameworks: Django e Flask (para web), Pandas e NumPy (para ciência de dados).
+
+Uma stack tecnológica é uma combinação de ferramentas e tecnologias usadas para desenvolver um projeto.
