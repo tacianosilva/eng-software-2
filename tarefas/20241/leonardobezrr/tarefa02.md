@@ -62,3 +62,11 @@ Mock Objects são objetos simulados que imitam o comportamento de objetos reais 
 * Velocidade: Aceleram os testes, substituindo dependências que podem ser lentas, como chamadas de rede ou operações de I/O.
 
 * Determinismo: Garantem que os testes sejam consistentes e reproduzíveis, pois o comportamento dos mocks é previsível e controlado.
+
+## Testes de integração e teste unitário
+
+* O teste de integração é um nível de teste de software que visa validar a interação entre diferentes módulos ou componentes de um sistema. Em outras palavras, ele verifica se os módulos individuais, quando combinados, funcionam corretamente juntos.
+
+* O teste unitário é um nível de teste de software que se concentra na verificação de componentes individuais, geralmente funções ou métodos, para garantir que eles funcionem conforme o esperado de forma isolada.
+
+Ambos os tipos de testes são essenciais para garantir a qualidade e a confiabilidade do software. Os testes unitários ajudam a identificar problemas em unidades específicas de código rapidamente, enquanto os testes de integração garantem que essas unidades funcionem bem juntas em um sistema maior.
