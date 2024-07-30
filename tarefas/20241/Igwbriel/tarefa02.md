@@ -54,3 +54,11 @@ Clique >[AQUI](https://www.luiztools.com.br/post/tutorial-de-crud-com-typescript
 ##### 9.F
 
 Mock Objects são objetos simulados que imitam o comportamento de objetos reais em um ambiente controlado. Eles são utilizados em testes de unidade para isolar o código a ser testado e garantir que ele funcione corretamente sem depender de outras partes do sistema. Ao usar Mock Objects, é possível simular respostas de métodos, verificar interações e controlar o estado do objeto, permitindo que os testes se concentrem apenas na funcionalidade específica que está sendo verificada.
+
+#### Questão 10
+
+#####
+
+**Teste de Integração** é um tipo de teste que verifica como diferentes partes de um sistema funcionam juntas. O objetivo é assegurar que os componentes ou módulos interajam corretamente e que a aplicação se comporte conforme o esperado quando esses componentes colaboram. O teste que eu criei no projeto tratava-se de um teste de integração, eis a principal diferença entre os testes de integração e unitários:
+
+**Teste unitário** tem um escopo mais reduzido, focando em uma unidade isolada de código, como uma função ou método. O objetivo é verificar a lógica interna da unidade sem depender de outros componentes ou serviços, como um teste de uma função de handleRegister isolada. Enquanto o **Teste de integração** tem um escopo maior, avaliando a interação entre múltiplos componentes ou métodos do sistema. Esse tipo de teste garante que as parte do sistema trabalham corretamente em conjunto, podemos exemplificar esse tipo de teste ao testar um componente register com a API e o roteador para verificar se o formulário e redirecionamentos funcionam conforme o esperado.
