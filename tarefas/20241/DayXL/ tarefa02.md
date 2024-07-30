@@ -15,3 +15,6 @@ No nosso projeto, será usado Python no backend, e a stack para o backend inclui
 # Framework de Testes de Unidade
 Para o backend estamos usando o [unittest](https://docs.python.org/3/library/unittest.html), ele é o framework de testes unitários padrão em Python, é uma ferramenta poderosa e flexível para escrever testes unitários em Python, oferecendo uma ampla gama de funcionalidades para garantir a qualidade do código.
 Para o frontend estamos usando o [Vitest](https://vitest.dev/guide/), ele é uma ferramenta moderna de testes unitários projetada para o ecossistema JavaScript/TypeScript. Inspirado no Jest, Vitest é desenvolvido pelos mesmos criadores do Vite, um popular build tool para aplicações front-end.
+
+# IDE usada no projeto
+A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
