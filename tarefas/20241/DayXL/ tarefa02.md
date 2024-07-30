@@ -18,3 +18,6 @@ Para o frontend estamos usando o [Vitest](https://vitest.dev/guide/), ele é uma
 
 # IDE usada no projeto
 A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
+
+# Mocks Objects
+[Mocks Objects](https://www.escoladnc.com.br/blog/a-importancia-dos-mocks-em-testes-unitarios-como-utilizalos-corretamente/#:~:text=Os%20mocks%20s%C3%A3o%20objetos%20simulados,sem%20depender%20da%20infraestrutura%20real.) são cruciais para isolar de forma eficaz os testes unitários e eliminar dependências de fatores externos, como bancos de dados e APIs de terceiros. Eles possibilitam a adaptação dos testes a diversos contextos, permitindo isolar completamente a lógica que está sendo avaliada.
