@@ -36,3 +36,22 @@ Python
 - Frameworks: Django e Flask (para web), Pandas e NumPy (para ciência de dados).
 
 Uma stack tecnológica é uma combinação de ferramentas e tecnologias usadas para desenvolver um projeto.
+
+###framework de Testes de Unidade
+
+O pytest é um framework de testes para Python que facilita a escrita de testes simples e escaláveis. Ele se destaca por sua sintaxe intuitiva e por fornecer uma série de funcionalidades avançadas para tornar os testes mais poderosos e expressivos. O pytest permite a criação de testes com menos código e proporciona recursos como fixtures, parametrização e uma rica configuração de relatórios de erros, o que torna o processo de teste mais eficiente e abrangente.
+
+Características Principais:
+
+- Simplicidade: Os testes podem ser escritos com uma sintaxe simples e clara. Não há necessidade de criar classes para os testes, o que reduz a verbosidade.
+- Fixtures: Permitem configurar e fornecer dados e objetos para os testes, promovendo a reutilização e a organização do código de teste.
+- Parametrização: Permite executar o mesmo teste com diferentes conjuntos de dados, ajudando a cobrir uma gama mais ampla de casos de teste com menos código.
+- Plugins: O pytest possui uma arquitetura de plugins extensível, oferecendo suporte para uma ampla gama de funcionalidades adicionais, como cobertura de código, testes paralelos e relatórios avançados.
+- Compatibilidade: É compatível com os testes escritos usando o framework unittest e também com outros frameworks de testes mais antigos.
+
+- Links para Recursos:
+
+Site Oficial: pytest.org
+Documentação: pytest Documentation
+Repositório GitHub: pytest GitHub Repository
+O pytest é uma escolha recomendada para quem busca um framework robusto e flexível para testes de unidade em Python. Com sua rica gama de funcionalidades e suporte ativo da comunidade, ele facilita a manutenção de testes e a garantia da qualidade do código.
