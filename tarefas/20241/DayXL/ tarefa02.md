@@ -19,5 +19,8 @@ Para o frontend estamos usando o [Vitest](https://vitest.dev/guide/), ele é uma
 # IDE usada no projeto
 A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
 
+# Tutorial Django com CRUD e testes
+Como já mostrado na [tarefa01](https://github.com/DayXL/eng-software-2/blob/master/tarefas/20241/DayXL/tarefa01.md) temos o turorial do [Django](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction), nesse tutorial ele apresenta o django para quem nunca teve contato, é uma forma interessante de começar a entender sobre esse framework, vai desde a implementação básica até ensinar como se pode criar [testes de unidades para sua aplicação](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing).
+
 # Mocks Objects
 [Mocks Objects](https://www.escoladnc.com.br/blog/a-importancia-dos-mocks-em-testes-unitarios-como-utilizalos-corretamente/#:~:text=Os%20mocks%20s%C3%A3o%20objetos%20simulados,sem%20depender%20da%20infraestrutura%20real.) são cruciais para isolar de forma eficaz os testes unitários e eliminar dependências de fatores externos, como bancos de dados e APIs de terceiros. Eles possibilitam a adaptação dos testes a diversos contextos, permitindo isolar completamente a lógica que está sendo avaliada.
