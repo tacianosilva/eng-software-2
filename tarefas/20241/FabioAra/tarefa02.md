@@ -55,3 +55,35 @@ Site Oficial: pytest.org
 Documentação: pytest Documentation
 Repositório GitHub: pytest GitHub Repository
 O pytest é uma escolha recomendada para quem busca um framework robusto e flexível para testes de unidade em Python. Com sua rica gama de funcionalidades e suporte ativo da comunidade, ele facilita a manutenção de testes e a garantia da qualidade do código.
+
+
+### Ide ultilizada
+
+O Visual Studio Code (VSCode) é uma das IDEs (Ambientes de Desenvolvimento Integrado) mais populares e amplamente utilizadas para desenvolvimento de software. Desenvolvida pela Microsoft, ela é conhecida por sua leveza, extensibilidade e suporte para uma ampla gama de linguagens de programação e ferramentas. Além disso, oferece uma série de funcionalidades de depuração integradas que facilitam a identificação e a correção de problemas no código.
+
+Recursos de Depuração Integrados no VSCode
+Depuração de Código
+
+Pontos de Interrupção (Breakpoints): Permite que você defina pontos específicos no código onde a execução será pausada. Isso é útil para inspecionar o estado do programa em momentos críticos.
+Execução Passo a Passo: Oferece a capacidade de executar o código linha por linha (Step Over), entrar em funções (Step Into) e sair delas (Step Out), o que facilita a análise detalhada do fluxo de execução.
+Visualização de Variáveis: Permite observar o valor das variáveis enquanto o código está em execução. As variáveis podem ser inspecionadas na janela de variáveis, e você também pode avaliar expressões personalizadas.
+Console de Depuração
+
+Console Integrado: Mostra a saída do programa e mensagens de log durante a depuração. Além disso, você pode interagir com o console para executar comandos e avaliar expressões enquanto o código está pausado.
+Watch Expressions
+
+Avaliação de Expressões: Permite que você defina expressões a serem avaliadas durante a execução do código. Isso é útil para monitorar o valor de variáveis ou expressões específicas em tempo real.
+Call Stack
+
+Pilhas de Chamadas: Mostra a pilha de chamadas, permitindo que você visualize a sequência de funções chamadas que levaram ao ponto atual de execução. Isso ajuda a entender o fluxo de execução e identificar onde o problema pode ter começado.
+Breakpoints Condicionais e de Registro
+
+Breakpoints Condicionais: Permite definir condições para um breakpoint ser ativado, ajudando a interromper a execução apenas quando certas condições são atendidas.
+Breakpoints de Registro: Permite registrar informações no console sem pausar a execução do código, útil para obter informações sobre o estado do programa sem interromper o fluxo.
+Depuração Remota
+
+Suporte a Depuração Remota: Permite conectar-se e depurar aplicativos que estão sendo executados em máquinas remotas ou contêineres, o que é útil para ambientes de desenvolvimento distribuídos ou em nuvem.
+Outras Funcionalidades
+Extensões de Depuração: O VSCode possui um ecossistema de extensões que adiciona suporte a depuração para várias linguagens e frameworks, ampliando suas capacidades além do suporte nativo.
+Integração com Git: Oferece suporte integrado para controle de versão, facilitando o gerenciamento de código e a colaboração em equipe.
+Terminal Integrado: Permite que você execute comandos e scripts diretamente dentro do VSCode, sem precisar alternar para uma linha de comando separada.
