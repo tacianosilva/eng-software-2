@@ -17,8 +17,8 @@ E-mail: talmeidasf@gmail.com
 </ol>
 
 ### Questão 10
-<ol ype="a">
-    <li></li>
-    <li></li>
-    <li></li>
+<ol type="a">
+    <li>Atualmente, estou trabalhando no CRUD de reservas. O progresso está lento, pois são 3 tipos de reservas com diferentes regras de negócio para cada uma, resultando em 3 CRUDS diferentes em um. Além de inserir, atualizar, consultar e deletar, precisa-se fazer validações e conversões de datas e horários entre as reservas para saber os locais vagos. No momento, esse User Story conta apenas com as operações de criação, mas as outras serão implementadas logo, já que a parte mais complicada já foi feita.</li>
+    <li>A experiência de implementar testes é simples. Como nosso aplicativo é monolítico, costumamos testar principalmente os códigos HTTP recebidos das solicitações, além do tipo de payload e método que deve ser enviado em cada URL. Os testes do nosso projeto se encontram <a href="https://github.com/tgo-mas/SIGApoio/blob/main/proj_SIGApoio/app/tests.py">nesse link</a>.</li>
+    <li>Um teste de integração, ao contrário do de unidade, verifica mais de uma parte do sistema. Ele pode executar uma operação que vá do front-end ao banco de dados, por exemplo, ou a conexão do front-end com a API utilizada. Alguns dos nossos testes são de integração, pois podemos testar o salvamento de objetos no banco de dados enviando-os pelo front-end.</li>
 </ol>
