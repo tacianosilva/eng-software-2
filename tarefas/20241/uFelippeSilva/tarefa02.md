@@ -142,3 +142,43 @@ https://www.youtube.com/watch?v=_lDXeKuw-ys
 ## Sobre
 
 O tutorial em si fala sobre o uso das tecnologias e suas formas de serem utilizidas para a construção do CRUD completo.
+
+# Mock Objects em Testes de Unidade
+
+## O que são Mock Objects?
+
+Mock Objects são objetos simulados que imitam o comportamento de objetos reais em um ambiente controlado de testes. Eles são utilizados em testes de unidade para isolar a parte do código que está sendo testada, substituindo dependências externas com comportamentos pré-definidos. Isso permite que os testes se concentrem na lógica interna da unidade de código sem serem influenciados por fatores externos.
+
+## Por que usar Mock Objects?
+
+- **Isolamento**: Permitem testar uma unidade de código isoladamente, sem depender de outros componentes do sistema.
+- **Controle**: Oferecem controle total sobre o comportamento das dependências, permitindo simular diferentes cenários e condições de erro.
+- **Performance**: Reduzem o tempo de execução dos testes, evitando a necessidade de chamar serviços externos, como bancos de dados ou APIs.
+- **Confiabilidade**: Tornam os testes mais confiáveis e repetíveis, uma vez que eliminam a variabilidade das dependências externas.
+
+## Exemplos de Uso
+
+### Exemplo 1: Simulando uma Dependência Externa
+
+Imagine que você tem uma classe `UserService` que depende de um `UserRepository` para buscar dados de usuários. Em vez de usar o `UserRepository` real, você pode criar um mock para simular seu comportamento.
+
+```python
+from unittest.mock import Mock
+
+# Classe real que depende do UserRepository
+class UserService:
+    def __init__(self, user_repository):
+        self.user_repository = user_repository
+
+    def get_user(self, user_id):
+        return self.user_repository.find_user_by_id(user_id)
+
+# Mock do UserRepository
+mock_user_repository = Mock()
+mock_user_repository.find_user_by_id.return_value = {"id": 1, "name": "Alice"}
+
+# Testando o UserService com o mock
+user_service = UserService(mock_user_repository)
+user = user_service.get_user(1)
+
+assert user == {"id": 1, "name": "Alice"}
