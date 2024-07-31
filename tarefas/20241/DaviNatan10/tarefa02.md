@@ -43,3 +43,18 @@ Performance e Eficiência: Vitest é conhecido por ser rápido, aproveitando ao 
 
 # Links para vitest:  https://vitest.dev/
 # Tutorial de teste: https://www.youtube.com/watch?v=j3nAKSF_jbU
+
+# IDE Utilizada
+
+O Visual Studio Code (VSCode) é uma das IDEs (Ambiente de Desenvolvimento Integrado) mais populares e versáteis. Desenvolvida pela Microsoft, é uma ferramenta de código aberto que suporta uma ampla gama de linguagens de programação e é conhecida por sua leveza, personalização e extensibilidade.
+
+### Ferramenta de Debug no Vscode
+O VSCode possui uma poderosa ferramenta de debug integrada que pode ser personalizada para diferentes linguagens e ambientes. Aqui estão algumas das funcionalidades de debug:
+
+Breakpoints: Permite definir pontos de interrupção no código para pausar a execução e inspecionar o estado atual da aplicação.
+
+Watch: É possível adicionar expressões para serem monitoradas durante a execução do programa, permitindo observar como os valores mudam em tempo real.
+
+Call Stack: Exibe a pilha de chamadas, mostrando quais funções foram chamadas para chegar ao ponto atual no código.
+
+Variable Inspection: Permite inspecionar o valor de variáveis no ponto de interrupção, incluindo a capacidade de explorar objetos e arrays.
