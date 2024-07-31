@@ -28,3 +28,8 @@ O Pytest é uma ferramenta poderosa e popular para realizar testes em Python. El
 Outras informações à respeito podem ser encontradas no [Site oficial do pytest](https://docs.pytest.org/en/stable/) além de exemplos práticos no
 [tutorial de pytest](https://medium.com/assertqualityassurance/tutorial-de-pytest-para-iniciantes-cbdd81c6d761).
 
+
+### IDE utilizada (VS Code)
+
+O Visual Studio Code (VS Code) é um editor de código-fonte leve, poderoso e altamente personalizável, desenvolvido pela Microsoft. Ele se tornou um dos editores de código mais populares entre desenvolvedores devido à sua interface intuitiva, extensibilidade e ampla gama de recursos. Oferece ferramentas integradas de debug e controle de versão. <br> Para debug, ele suporta pontos de interrupção, inspeção de variáveis e console interativo. <br> Para controle de versão, tem uma interface intuitiva para o Git, indicadores visuais de alterações e integração com o GitHub. <br> Em resumo, o Visual Studio Code oferece ferramentas de debug poderosas e uma integração perfeita com sistemas de controle de versão, tornando-o uma escolha popular entre desenvolvedores para projetos de software de qualquer tamanho.
+
