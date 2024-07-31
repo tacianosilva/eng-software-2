@@ -4,4 +4,5 @@
 **Usuário GitHub:** uFelippeSilva
 **E-mail:** felippe23silva@gmail.com
 
-**Lunk do projeto:** https://github.com/Gedsonfa/ScheduleSphere
+**Link do projeto:** https://github.com/Gedsonfa/ScheduleSphere
+

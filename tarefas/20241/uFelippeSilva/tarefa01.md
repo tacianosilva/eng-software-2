@@ -72,38 +72,6 @@ O ScheduleSphere é um sistema de gerenciamento de horários, facilitando a admi
 | Versionamento Semântico | Versionamento Semântico, em inglês “Semantic Versioning”, é um padrão de regras para manter um acompanhamento de versões no desenvolvimento de códigos. Um modelo geral que todas as pessoas usuárias podem entender e utilizar. |
 | Conventional Commits | A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit. |
 
----
-
-### Testes de Unidade
-
-**Definição:**  
-Testes de unidade são testes automatizados escritos e executados por desenvolvedores para garantir que uma pequena parte específica do software, geralmente uma função ou método, funcione corretamente. Esses testes isolam a unidade do código e validam sua correção.
-
-**Objetivo:**  
-O principal objetivo dos testes de unidade é verificar a exatidão do comportamento de unidades individuais de código. Isso ajuda a identificar e corrigir bugs desde cedo no ciclo de desenvolvimento, antes que eles se propaguem para outras partes do software.
-
-**Benefícios:**
-- **Detecção Precoce de Erros:** Permitem identificar problemas no início do processo de desenvolvimento.
-- **Facilitam Refatorações:** Proporcionam segurança para modificar o código, sabendo que o comportamento desejado está sendo preservado.
-- **Documentação Viva:** Servem como documentação do comportamento esperado do código.
-- **Manutenção Simples:** Reduzem o custo e o esforço de manutenção ao garantir que pequenas partes do sistema estejam funcionando corretamente.
-
-**Ferramentas Comuns:**
-- **JUnit:** Usada para testes de unidade em Java.
-- **NUnit:** Usada para testes de unidade em .NET.
-- **pytest:** Popular em Python.
-- **Jest:** Comum para testes em JavaScript/TypeScript.
-
-**Boas Práticas:**
-- **Isolamento:** Cada teste deve ser independente e não depender de outros testes.
-- **Reprodutibilidade:** Testes devem produzir os mesmos resultados todas as vezes que são executados.
-- **Clareza:** Testes devem ser claros e fáceis de entender.
-- **Automatização:** Devem ser automatizados para execução contínua.
-
-Testes de unidade são uma parte essencial da garantia de qualidade no desenvolvimento de software, ajudando a criar aplicações robustas e confiáveis.
-
----
-
 ### Linguagem de Programação e Stack para Desenvolvimento do Projeto
 
 **Linguagem de Programação:**
