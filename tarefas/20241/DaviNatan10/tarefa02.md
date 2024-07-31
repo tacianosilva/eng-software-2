@@ -66,3 +66,16 @@ Video no youtube sobre Crud em TypeScript[Clique aqui](https://www.youtube.com/w
 Descubra como estruturar seu projeto de forma modular e separar as preocupações para um código mais limpo e escalável.
  Utilização de TypeScript: Aprenda como o TypeScript pode elevar a qualidade do seu código, proporcionando tipagem estática e prevenção de erros.
  Hands-on com Next.js: Veja na prática como tirar proveito desse incrível framework para criação de aplicações React com renderização no lado do servidor.
+
+ # Mocks Objects
+
+Mocks, ou objetos mock, são ferramentas fundamentais em testes de unidade que simulam o comportamento de objetos reais de forma controlada. Eles permitem que os desenvolvedores isolem a unidade de código que estão testando, substituindo as dependências externas por objetos simulados que imitam o comportamento dessas dependências de maneira previsível e controlada.
+
+Principais Características e Uso de Mocks
+Isolamento: Mocks são usados para testar uma unidade de código em isolamento, sem dependências de serviços externos, bancos de dados, APIs, ou outros componentes que possam introduzir variabilidade ou complexidade.
+
+Controle de Comportamento: Com mocks, os desenvolvedores podem controlar as respostas das dependências de forma precisa. Por exemplo, podem simular respostas de sucesso, falhas ou exceções, permitindo que os testes cubram uma ampla gama de cenários.
+
+Verificação de Interações: Além de fornecer respostas simuladas, mocks podem ser usados para verificar se certas interações ocorreram, como se um método específico foi chamado, quantas vezes foi chamado, ou com quais argumentos.
+
+Rapidez e Eficiência: Como os mocks evitam interações reais com recursos externos, os testes de unidade que os utilizam geralmente são mais rápidos e menos propensos a falhas intermitentes.
