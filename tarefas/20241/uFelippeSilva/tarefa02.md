@@ -92,3 +92,44 @@ O Vitest é uma ferramenta de teste de unidade voltada para aplicações JavaScr
 - **Desempenho**: A performance é uma das maiores vantagens, especialmente em projetos grandes, onde o tempo de execução dos testes pode ser significativamente reduzido.
 - **Ecossistema Moderno**: Projetado para funcionar bem com o ecossistema moderno de desenvolvimento front-end, aproveitando as vantagens do Vite.
 - **Facilidade de Uso**: A compatibilidade com Jest torna a adoção do Vitest mais simples para desenvolvedores que já estão familiarizados com essa ferramenta.
+
+# Visual Studio Code (VSCode)
+
+Visual Studio Code, comumente chamado de VSCode, é um editor de código-fonte leve e poderoso desenvolvido pela Microsoft. Lançado em 2015, ele rapidamente ganhou popularidade devido à sua combinação de simplicidade, extensibilidade e recursos avançados.
+
+## Características Principais
+
+1. **Multi-linguagem**: VSCode suporta uma vasta gama de linguagens de programação, incluindo JavaScript, TypeScript, Python, Java, C++, e muitas outras, através de extensões.
+
+2. **Extensível**: Possui um marketplace de extensões robusto onde os desenvolvedores podem encontrar ferramentas para ampliar a funcionalidade do editor, como temas, debuggers, linters, snippets, e integrações com diversas ferramentas de desenvolvimento.
+
+3. **IntelliSense**: Oferece autocompletar inteligente que fornece sugestões baseadas na sintaxe e semântica do código, aumentando a produtividade dos desenvolvedores.
+
+4. **Terminal Integrado**: Possui um terminal embutido que permite aos desenvolvedores executar comandos sem sair do editor, facilitando o fluxo de trabalho.
+
+5. **Controle de Versão Integrado**: VSCode tem suporte nativo para Git e outras ferramentas de controle de versão, permitindo que os desenvolvedores gerenciem seu código-fonte e colaborem com outros diretamente do editor.
+
+6. **Depuração**: O VSCode possui um poderoso sistema de depuração que pode ser utilizado para várias linguagens de programação e frameworks, com suporte para pontos de interrupção, inspeção de variáveis, e muito mais.
+
+## Ferramenta de Debug
+
+A ferramenta de debug padrão no VSCode é baseada no **Debug Adapter Protocol** (DAP), um protocolo aberto que permite que depuradores de diferentes linguagens sejam usados de forma consistente. O VSCode fornece depuradores integrados para várias linguagens e também permite que os desenvolvedores instalem extensões para depuradores específicos.
+
+### Principais Características do Debug no VSCode
+
+- **Breakpoints**: Permite definir pontos de interrupção no código onde a execução será pausada.
+- **Watch**: Monitora expressões específicas e variáveis durante a execução do programa.
+- **Call Stack**: Visualiza a pilha de chamadas para entender a sequência de execução.
+- **Variables**: Inspeciona e altera o valor de variáveis em tempo de execução.
+- **Debug Console**: Executa comandos durante a depuração.
+
+### Suporte para Diversas Linguagens
+
+- **JavaScript/TypeScript**: Debug embutido e suporte através do Node.js e extensões.
+- **Python**: Suporte via a extensão oficial do Python para VSCode.
+- **Java**: Suporte através da extensão do Java.
+- **C++**: Suporte via a extensão do C/C++ fornecida pela Microsoft.
+
+## Conclusão
+
+Visual Studio Code é uma ferramenta versátil que combina um editor de código leve com funcionalidades avançadas, como IntelliSense, controle de versão integrado e um sistema de depuração poderoso. Sua extensibilidade através do marketplace de extensões e a integração com diversas linguagens de programação o tornam uma escolha popular entre desenvolvedores de todo o mundo.
