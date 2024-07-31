@@ -50,3 +50,15 @@ Sendo assim o chamado consiste em uma mensagem vinculada à uma reserva, de form
 
 ### b)
 Implementar os testes foi uma experiência nova visto que não se havia o hábito de o fazer em outros projetos. O uso de Mock Objects facilitou a simulação das interações, permitindo que os testes se concentrassem em verificar a lógica de chamada dos métodos e o tratamento de dados sem a necessidade de uma implementação real. Como nosso aplicativo é monolítico, testamos principalmente os códigos HTTP recebidos das solicitações, além do tipo de payload e método que deve ser enviado em cada URL. Os testes do nosso projeto se encontram [nesse link](https://github.com/tgo-mas/SIGApoio/blob/main/proj_SIGApoio/app/tests.py).
+
+### c)
+
+Diferentemente dos testes de unidade, que focam em testar partes isoladas do código, os testes de integração como o nome intuitivamente sugere, testam a integração entre diferentes componentes do sistema, tendo o objetivo de garantir que essas partes funcionem juntas corretamente. 
+
+exemplo de teste de integração:
+
+    def test_efetuar_chamado_post(self):
+        res = self.client.post(reverse('efetuar-chamado'), data={
+            'chamado':'HDMI não funciona!',
+            'reserva':1})
+        self.assertEqual(res.status_code, status.HTTP_200_OK)
