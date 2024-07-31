@@ -133,3 +133,12 @@ A ferramenta de debug padrão no VSCode é baseada no **Debug Adapter Protocol**
 ## Conclusão
 
 Visual Studio Code é uma ferramenta versátil que combina um editor de código leve com funcionalidades avançadas, como IntelliSense, controle de versão integrado e um sistema de depuração poderoso. Sua extensibilidade através do marketplace de extensões e a integração com diversas linguagens de programação o tornam uma escolha popular entre desenvolvedores de todo o mundo.
+
+
+### Lindo do Tutorial
+
+https://www.youtube.com/watch?v=_lDXeKuw-ys
+
+## Sobre
+
+O tutorial em si fala sobre o uso das tecnologias e suas formas de serem utilizidas para a construção do CRUD completo.
