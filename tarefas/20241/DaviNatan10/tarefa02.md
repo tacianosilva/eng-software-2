@@ -28,3 +28,18 @@ Next.js é um framework de desenvolvimento baseado em React que permite a constr
 Docker
 Docker é uma plataforma que permite a criação, distribuição e execução de aplicativos em contêineres. Um contêiner é uma unidade de software que empacota código e todas as suas dependências, garantindo que o aplicativo funcione de forma consistente em qualquer ambiente. Docker facilita o desenvolvimento, teste e implantação de software, promovendo a portabilidade e escalabilidade.
 
+# FrameWork de Teste
+Vitest é uma ferramenta de testes de unidade para JavaScript e TypeScript, projetada para ser rápida, leve e fácil de usar. Ela é construída com foco na experiência do desenvolvedor, oferecendo uma sintaxe simples e suporte para funcionalidades modernas de linguagem, como módulos ES e tipagem TypeScript. Vitest é uma alternativa a outras bibliotecas de testes como Jest, Mocha e Jasmine, mas é conhecida por sua integração nativa com Vite, um bundler e servidor de desenvolvimento rápido para aplicações web modernas.
+
+
+## Características principais do Vitest:
+Integração com Vite: Vitest é projetado para funcionar em conjunto com Vite, o que proporciona uma experiência de desenvolvimento muito rápida, especialmente para projetos baseados em frontend, como aqueles usando frameworks como Vue, React, ou Svelte.
+
+Suporte a Módulos ES: Ao contrário de algumas bibliotecas de testes mais antigas que dependem de CommonJS, Vitest suporta nativamente módulos ES, que são o padrão moderno para módulos em JavaScript. Isso é particularmente útil para projetos que utilizam as últimas especificações do ECMAScript.
+
+Tipagem Estática com TypeScript: Vitest oferece suporte completo para TypeScript, permitindo a verificação de tipos durante a escrita dos testes. Isso ajuda a detectar erros de tipo antecipadamente e melhora a robustez do código.
+
+Performance e Eficiência: Vitest é conhecido por ser rápido, aproveitando ao máximo o cache de módulos de Vite para acelerar a execução dos testes. Isso é especialmente importante em grandes bases de código, onde a velocidade de feedback é crucial.
+
+# Links para vitest:  https://vitest.dev/
+# Tutorial de teste: https://www.youtube.com/watch?v=j3nAKSF_jbU
