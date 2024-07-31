@@ -46,3 +46,7 @@ Os mocks são objetos simulados que imitam o comportamento de objetos reais dent
 ### a)
 O CRUD pelo qual eu sou responsável É o crud de Chamado, vinculado diretamente às Reservas possuindo algumas operações como listagem e consultas em comum. Dentro do escopo do projeto, no momento em que um usuário está com um local reservado em determinado horário, durante o período em que a reserva está ativa, pode ser necessário a solicitação de um chamado para os bolsistas do setor responsável. <br>
 Sendo assim o chamado consiste em uma mensagem vinculada à uma reserva, de forma que uma reserva pode ter nenhum ou mais de um chamado vinculado à ela, e cada chamado pode ter o status de pendente ou resolvido.
+
+
+### b)
+Implementar os testes foi uma experiência nova visto que não se havia o hábito de o fazer em outros projetos. O uso de Mock Objects facilitou a simulação das interações, permitindo que os testes se concentrassem em verificar a lógica de chamada dos métodos e o tratamento de dados sem a necessidade de uma implementação real. Como nosso aplicativo é monolítico, testamos principalmente os códigos HTTP recebidos das solicitações, além do tipo de payload e método que deve ser enviado em cada URL. Os testes do nosso projeto se encontram [nesse link](https://github.com/tgo-mas/SIGApoio/blob/main/proj_SIGApoio/app/tests.py).
