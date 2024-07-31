@@ -73,3 +73,22 @@ A stack de desenvolvimento consiste no conjunto de tecnologias e ferramentas que
 - **Robustez e Escalabilidade:** Possibilidade de construir aplicações robustas e escaláveis.
 
 Esta stack proporciona uma base sólida para o desenvolvimento do projeto, garantindo que tenhamos as ferramentas e tecnologias adequadas para atingir nossos objetivos.
+
+# Vitest
+
+O Vitest é uma ferramenta de teste de unidade voltada para aplicações JavaScript, TypeScript e frameworks modernos, como Vue e React. Ela é inspirada pelo Jest, mas otimizada para ser mais rápida e integrar-se melhor com ferramentas de construção modernas, como Vite.
+
+## Características Principais
+
+1. **Rápido e Leve**: Vitest é projetado para ser extremamente rápido, aproveitando o sistema de módulos do Vite para compilar e executar testes de forma eficiente.
+2. **Suporte a Múltiplos Ambientes**: Ele pode rodar testes em diversos ambientes, incluindo Node.js e navegadores, oferecendo flexibilidade para diferentes tipos de projetos.
+3. **Integração com Vite**: Sendo criado com a mesma filosofia do Vite, o Vitest se integra perfeitamente com ele, proporcionando uma experiência de desenvolvimento coesa e otimizada.
+4. **APIs Compatíveis com Jest**: Muitas das APIs do Vitest são compatíveis com Jest, facilitando a migração de projetos existentes que já utilizam Jest.
+5. **Testes em Modo Observação**: Vitest oferece suporte para rodar testes em modo observação (watch mode), permitindo que os testes sejam reexecutados automaticamente quando arquivos são alterados.
+6. **Snapshots**: Ele suporta a criação e comparação de snapshots, uma funcionalidade popular para garantir que a saída de componentes e funções permaneça consistente ao longo do tempo.
+
+## Vantagens do Vitest
+
+- **Desempenho**: A performance é uma das maiores vantagens, especialmente em projetos grandes, onde o tempo de execução dos testes pode ser significativamente reduzido.
+- **Ecossistema Moderno**: Projetado para funcionar bem com o ecossistema moderno de desenvolvimento front-end, aproveitando as vantagens do Vite.
+- **Facilidade de Uso**: A compatibilidade com Jest torna a adoção do Vitest mais simples para desenvolvedores que já estão familiarizados com essa ferramenta.
