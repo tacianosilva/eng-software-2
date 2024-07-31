@@ -41,3 +41,11 @@ O visual Studio Code, além de ser uma ferramenta editor de texto de código abe
 
 ### Mocks Objects
 Durante testes, pode haver momentos que o objeto a ser testado tenha um comportamento imprevisível, relativo ou até mesmo que dependa de outro sistema ou serviço, como por exemplo um banco de dados que precisa ser inicializado, visto isso, para simular esse objeto real, é usado um Mock object, agilizando e focando assim no próprio teste em si, por exemplo, o código de um alarme, que dispara apenas em determinada hora, como isso depende do tempo, acaba atrasando o teste, mas com mock object programado para ser disparado como se fosse a determinada hora, o teste será instantâneo.
+
+
+# Questão 10
+
+### Descrever crud implementado
+
+Eu implementei a parte funcional frontend do crud de manter funcionário, tendo uma tela com três partes, a primeira sendo uma seção em cima com um campo de busca, as duas outras aparecem em forma de colunas, o lado esquerdo com botões para criar um funcionário e listar funcionário, a tela da direita mostra o resultado em interface, um formulário para cada campo de funcionário na hora da criação, e na listagem, mostrando cada funcionário como cards clicáveis, ao clicar um pop-up aparece mostrando as informações, com três botões, um para fechar o pop-up, outro excluir, e por último, o botão editar que leva para a tela igual ao criar. cada operação, criar, listar, editar e excluir, faz chamadas a api.
+
