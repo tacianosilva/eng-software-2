@@ -51,3 +51,7 @@ Eu implementei a parte funcional frontend do crud de manter funcionário, tendo 
 
 ### Experiencia de testes
 A experiência de testar a api foi simples, eu pedi ao chatGPT para que analisase os códigos de funcionario e funcionarioService e gerasse o código correspondente do teste além da tela padrão de teste de código do Qunit, após limpar todos os dados previamente do banco local, e abrir o test.html, o resultado foi que ele não estava usando mocks, criando e usando a api real, mas após uma pequena mudança, passou a usar mocks, e os testes foram todos validados corretamente.
+
+### Teste de integração ou unidade?
+
+O teste de integração consiste em testar dois ou mais componentes, diferente do teste de unidade como por exemplo a interface e a api, no caso o que testei foi apenas foram apenas funções individuais da apii, então o que fiz foi teste de unidade.
