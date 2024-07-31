@@ -37,3 +37,6 @@ O Visual Studio Code (VS Code) é um editor de código-fonte leve, poderoso e al
 ### Tutorial CRUD + testes
 Um exemplo de [tutorial](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction) bastante completo com relação ao django, desde a introdução para quem nunca teve contato com o framework, até a implementação de [testes](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing). Alem desse tutorial também há outros exemplos como:<br>
 [Curso Django:](https://www.udemy.com/course/introducao-ao-django-4-crud-completo-com-banco-de-dados/) curso gratuito, aprenda o básico sobre o Django fraemwork através de uma abordagem prática e hands on onde você desenvolverá um CRUD.
+
+### Mocks Objects
+Os mocks são objetos simulados que imitam o comportamento de objetos reais dentro dos testes de unidade. Eles são criados para representar bancos de dados, APIs externas, funções e métodos, permitindo isolar a lógica a ser testada sem depender da infraestrutura real. Ao definir o comportamento desses Mocks e quais valores devem ser retornados, é possível testar cenários específicos e comportamentos sem a necessidade de componentes reais. Isso facilita a detecção de erros e a garantia de que o código funciona conforme esperado, mesmo em condições controladas.
