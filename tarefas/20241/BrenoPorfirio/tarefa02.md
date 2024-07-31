@@ -57,17 +57,30 @@ Simular respostas de serviços externos para testar como a unidade lida com dife
 ## Validar Comportamento
 Assegurar que uma unidade de código se comporta corretamente ao interagir com dependências simuladas.
 
-# CRUD de Manager
+# CRUD de Supplier
 
-Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
+Permite criar, editar, buscar e excluir fornecedores que são do tipo Supplier. Os Suppliers são do tipo User.
 
 # Testes de unidade
 
-* [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
+* [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/tree/dev/src/services/supplier)
 
-Neste teste de autenticação de usuário, podemos observar três testes de unidade. Um deles cria um usuário e, em seguida, realiza a autenticação. Além disso, os dados são mockados em um arquivo exclusivo para testes.
+Neste conjunto de testes de unidade para fornecedores, são realizados cinco testes distintos:
 
-* [Link para o arquivo de Mock](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-users-repository.ts)
+1. **Criação de Supplier (create.test.ts):** Este teste verifica se é possível criar um novo fornecedor e garante que o fornecedor seja salvo corretamente no repositório em memória.
+
+2. **Busca de Todos os Suppliers (fetch-all-supplier.test.ts):** Este teste valida a funcionalidade de buscar todos os fornecedores registrados, assegurando que todos os fornecedores ativos sejam retornados corretamente.
+
+3. **Busca de Suppliers por Nome da Empresa (fetch-many-supplier-by-company-name.test.ts):** Este teste verifica se é possível buscar fornecedores com base no nome da empresa. Ele confirma que o sistema retorna apenas os fornecedores cuja empresa corresponde ao nome fornecido.
+
+4. **Busca de Suppliers por Nome Social (fetch-many-supplier-by-social-name.test.ts):** Este teste avalia a funcionalidade de buscar fornecedores pelo nome social. O teste garante que o sistema retorne os fornecedores cujo nome social corresponda ao fornecido.
+
+5. **Busca de Supplier por ID (find-supplier-by-id.test.ts):** Este teste verifica se é possível encontrar um fornecedor específico pelo seu ID. O teste assegura que o sistema retorne o fornecedor correto ou lance um erro apropriado se o fornecedor não for encontrado.
+
+Além disso, os dados utilizados para esses testes são mockados em um arquivo exclusivo para garantir a integridade e a repetibilidade dos testes.
+
+
+* [Link para o arquivo de Mock](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-supplier-repository.ts)
 
 Após a implementação dos testes, ficou evidente a importância de se obter uma boa cobertura de testes em um sistema. A experiência foi extremamente positiva e contribuiu significativamente para o meu desenvolvimento e aprendizado.
 
