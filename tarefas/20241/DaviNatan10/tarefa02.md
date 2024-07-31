@@ -58,3 +58,11 @@ Watch: É possível adicionar expressões para serem monitoradas durante a execu
 Call Stack: Exibe a pilha de chamadas, mostrando quais funções foram chamadas para chegar ao ponto atual no código.
 
 Variable Inspection: Permite inspecionar o valor de variáveis no ponto de interrupção, incluindo a capacidade de explorar objetos e arrays.
+
+# Tutorial de Crud na tecnologia escolhida
+
+Video no youtube sobre Crud em TypeScript[Clique aqui](https://www.youtube.com/watch?v=_lDXeKuw-ys)
+## Sobre o vídeo
+Descubra como estruturar seu projeto de forma modular e separar as preocupações para um código mais limpo e escalável.
+ Utilização de TypeScript: Aprenda como o TypeScript pode elevar a qualidade do seu código, proporcionando tipagem estática e prevenção de erros.
+ Hands-on com Next.js: Veja na prática como tirar proveito desse incrível framework para criação de aplicações React com renderização no lado do servidor.
