@@ -40,3 +40,9 @@ Um exemplo de [tutorial](https://developer.mozilla.org/pt-BR/docs/Learn/Server-s
 
 ### Mocks Objects
 Os mocks são objetos simulados que imitam o comportamento de objetos reais dentro dos testes de unidade. Eles são criados para representar bancos de dados, APIs externas, funções e métodos, permitindo isolar a lógica a ser testada sem depender da infraestrutura real. Ao definir o comportamento desses Mocks e quais valores devem ser retornados, é possível testar cenários específicos e comportamentos sem a necessidade de componentes reais. Isso facilita a detecção de erros e a garantia de que o código funciona conforme esperado, mesmo em condições controladas.
+
+## 10
+
+### a)
+O CRUD pelo qual eu sou responsável É o crud de Chamado, vinculado diretamente às Reservas possuindo algumas operações como listagem e consultas em comum. Dentro do escopo do projeto, no momento em que um usuário está com um local reservado em determinado horário, durante o período em que a reserva está ativa, pode ser necessário a solicitação de um chamado para os bolsistas do setor responsável. <br>
+Sendo assim o chamado consiste em uma mensagem vinculada à uma reserva, de forma que uma reserva pode ter nenhum ou mais de um chamado vinculado à ela, e cada chamado pode ter o status de pendente ou resolvido.
