@@ -81,10 +81,9 @@ Requesitos envolvidos:
 
 ### Implementação de testes de unidade
 
-**Link do arquivo de teste do repositório:** [LINK](https://github.com/flaviogui/TechCell-Pro/blob/main/projeto/clienteApp/tests.py)
+**Link do arquivo de teste do repositório:** [LINK](https://github.com/flaviogui/TechCell-Pro/blob/flavio/projeto/funcionarioApp/tests.py)
 
-Os testes implementados diferentes funcionalidades das views, incluindo criação, listagem, atualização e deleção de clientes, assim como, há testes para validação de rotas (URLs), lógica do modelo (Cliente) e formulário (ClienteForm). Também foi utilizado dados bem definidos (como o cliente de teste) para verificar o comportamento esperado do sistema em cada cenário. 
-Foi implementado testes para formulários (como ClienteFormTest) que ajudam a garantir que os dados de entrada estejam sendo validados corretamente. Ao implementar testes unitários, ganhei estabilidade e segurança no código e na previsibilidade do seu comportamento. 
+Os testes que implementei visam garantir o funcionamento correto das views e URLs para o funcionarioApp. A classe FuncionarioViewsTest verifica a criação, listagem, edição e exclusão de funcionários, assegurando que as views retornem os status e templates esperados, além de confirmar a presença do formulário correto e a manipulação adequada dos dados. Já a classe TestUrls testa se as URLs são resolvidas para as views corretas, validando a configuração das rotas do aplicativo. Esses testes ajudam a assegurar que as funcionalidades de CRUD para funcionários estejam implementadas e acessíveis conforme o esperado.
 
 ### Comparação entre Teste de Integração e Teste de Unidade
 Os Testes de Integração complementam os Testes Unitários, verificando como diferentes módulos do seu software se comunicam e funcionam juntos. Enquanto os testes unitários focam em unidades de código isoladas, os testes de integração garantem que a integração entre essas unidades funcione conforme o esperado. No projeto fiz apenas teste de unidade. 
