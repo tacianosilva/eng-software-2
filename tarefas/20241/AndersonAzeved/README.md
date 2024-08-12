@@ -2,5 +2,5 @@
 
 ## Tarefas
 
-* [Tarefa 01 - Git e GitHub com Markdown](AndersonAzeved/tarefa01.md)
-* [Tarefa 02 - Teste de Unidade](AndersonAzeved/tarefa02.md)
+* [Tarefa 01 - Git e GitHub com Markdown](tarefa01.md)
+* [Tarefa 02 - Teste de Unidade](tarefa02.md)
