@@ -68,7 +68,15 @@ Operações:
 ## Testes de Unidade do projeto
 * Implementar os testes de unidade para cada operação do CRUD foi uma experiência fluida. O uso de Mock Objects facilitou a simulação das interações com o repositório de dados, permitindo que os testes se concentrassem em verificar a lógica de chamada dos métodos e o tratamento de dados sem a necessidade de uma implementação real do repositório. Isso garantiu que cada operação fosse testada isoladamente e ajudou a manter o código modular e testável.
 
-### Exemplo de teste
+* Aqui você pode encontrar os **[Testes](https://github.com/tgo-mas/SIGApoio/blob/main/proj_SIGApoio/app/tests.py)** efetuados no projeto, todos os testes implementados pelos membros do grupo estão em um arquivo só, sinta-se a vontade para verificar os que estão implementados, são eles: 
+* *test_cad_local_post()*
+* *test_cad_recurso_get()*
+* *test_cad_recurso_post()*
+  <p>Dentre outros testes também implementados por mim
+
+
+
+### Exemplo de teste encontrado no arquivo disponibilizado acima
 
     def test_cad_local_post(self):
         res = self.client.post(reverse('cad_local'), data={
