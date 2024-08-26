@@ -53,3 +53,7 @@ Mais informações em:  https://qunitjs.com
 * [Documentação](https://qunitjs.com/api/)
 
 A documentação oficial do QUnit oferece um guia completo sobre como configurar o ambiente de testes, escrever testes de unidade, e executar testes tanto em navegadores quanto em ambientes de integração contínua. Além disso, são fornecidos exemplos práticos de testes de unidade e de integração, facilitando o aprendizado e a aplicação do framework em diferentes cenários.
+
+## Mocks Objects
+
+Mock Objects são simulacros de objetos reais usados em testes de unidade para isolar o código que está sendo testado. No contexto do QUnit, mocks são frequentemente utilizados para substituir dependências externas, como APIs, serviços ou interações com o DOM, com versões controladas e previsíveis. Isso permite que os testes se concentrem exclusivamente na lógica interna do componente, garantindo que os resultados sejam consistentes e que o comportamento esperado seja verificado de forma precisa. Para facilitar o uso de mocks no QUnit, podem ser utilizados frameworks como Sinon.js, que oferece funcionalidades avançadas para criar e gerenciar mocks, stubs e spies, permitindo uma verificação detalhada das interações dentro dos testes.
