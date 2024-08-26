@@ -44,3 +44,12 @@ Será utilizada a IDE Visual Studio Code, conhecida por sua leveza, rapidez e ex
 QUnit é um framework de testes de unidade em JavaScript amplamente utilizado para testar código JavaScript em navegadores e Node.js. Ele é simples de usar e permite a escrita de testes de forma concisa e legível. Com QUnit, é possível organizar testes em módulos, fornecer asserções claras e detalhadas, e executar testes tanto em ambientes de desenvolvimento quanto de produção. Além disso, QUnit é extensível, suportando a adição de plugins para estender sua funcionalidade conforme necessário.
 
 Mais informações em:  https://qunitjs.com
+
+
+
+
+## Link de Documentação usada para fazer testes na tecnologia escolhida
+
+* [Documentação](https://qunitjs.com/api/)
+
+A documentação oficial do QUnit oferece um guia completo sobre como configurar o ambiente de testes, escrever testes de unidade, e executar testes tanto em navegadores quanto em ambientes de integração contínua. Além disso, são fornecidos exemplos práticos de testes de unidade e de integração, facilitando o aprendizado e a aplicação do framework em diferentes cenários.
