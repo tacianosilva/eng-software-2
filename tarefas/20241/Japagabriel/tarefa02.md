@@ -37,3 +37,10 @@ Banco de dados: Postgres e Docker
 ## IDE utilizada
 
 Será utilizada a IDE Visual Studio Code, conhecida por sua leveza, rapidez e extensibilidade. O VS Code possui um depurador integrado para debug, permitindo que os desenvolvedores inspecionem variáveis, definam pontos de interrupção, executem passo a passo e monitorem o estado do aplicativo durante a execução. Além disso, a IDE possui integração nativa com o Git, o sistema de controle de versão mais popular. Ele fornece uma interface gráfica para executar operações Git comuns, como commit, pull, push, merge, entre outras. Os desenvolvedores podem visualizar as alterações nos arquivos, comparar versões, e gerenciar branches diretamente no editor.
+
+
+## Framework: QUnit
+
+QUnit é um framework de testes de unidade em JavaScript amplamente utilizado para testar código JavaScript em navegadores e Node.js. Ele é simples de usar e permite a escrita de testes de forma concisa e legível. Com QUnit, é possível organizar testes em módulos, fornecer asserções claras e detalhadas, e executar testes tanto em ambientes de desenvolvimento quanto de produção. Além disso, QUnit é extensível, suportando a adição de plugins para estender sua funcionalidade conforme necessário.
+
+Mais informações em:  https://qunitjs.com
