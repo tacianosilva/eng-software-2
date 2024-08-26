@@ -61,3 +61,9 @@ Mock Objects são simulacros de objetos reais usados em testes de unidade para i
 ## Descrição de CRUD - Manter Funcionário
 
 Um CRUD que implementei foi o de Funcionário, com as operações incluir, consultar, alterar e deletar. Um funcionário armazena informações uma pessoa que trabalha na casa de bordados, que tem acesso ao sistema.
+
+## Implementação dos testes
+
+Implementei testes de unidade para model, serializer e view de Funcionário. De modo geral, os testes tentam realizar as operações básicas do CRUD para conjuntos de dados válidos e inválidos.
+
+Disponível em: https://github.com/GomesLuan/SigBordado/blob/dev/frontend/src/tests.js
