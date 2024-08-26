@@ -57,3 +57,7 @@ A documentação oficial do QUnit oferece um guia completo sobre como configurar
 ## Mocks Objects
 
 Mock Objects são simulacros de objetos reais usados em testes de unidade para isolar o código que está sendo testado. No contexto do QUnit, mocks são frequentemente utilizados para substituir dependências externas, como APIs, serviços ou interações com o DOM, com versões controladas e previsíveis. Isso permite que os testes se concentrem exclusivamente na lógica interna do componente, garantindo que os resultados sejam consistentes e que o comportamento esperado seja verificado de forma precisa. Para facilitar o uso de mocks no QUnit, podem ser utilizados frameworks como Sinon.js, que oferece funcionalidades avançadas para criar e gerenciar mocks, stubs e spies, permitindo uma verificação detalhada das interações dentro dos testes.
+
+## Descrição de CRUD - Manter Funcionário
+
+Um CRUD que implementei foi o de Funcionário, com as operações incluir, consultar, alterar e deletar. Um funcionário armazena informações uma pessoa que trabalha na casa de bordados, que tem acesso ao sistema.
