@@ -244,3 +244,42 @@ Este User Story e as operações CRUD descritas garantem que o sistema de gerenc
 - **Teste de Tela Vue JS :** [github](https://github.com/tallysdev/eventSync/blob/main/frontend/eventsync_front/src/tests/CreateEvent.test.ts)
 
 - **Minha experiência:** A minha experiência com testes envolvendo Vue Js para o front foi bem tranquila, a ferramente de testes do Vue é muito prática ela se chama "vitest" e dá todo o suporte necessário para fazer todos os testes necessários.
+
+
+# Teste de Integração
+
+**Definição:** Teste de integração é uma prática de teste de software que verifica a interação entre diferentes módulos ou componentes de um sistema para garantir que eles funcionem corretamente em conjunto. O objetivo é validar que os módulos que foram testados de forma isolada (através de testes de unidade) integrem-se adequadamente e cumpram os requisitos do sistema como um todo.
+
+## Características dos Testes de Integração
+
+- **Escopo Ampliado:** Testa como diferentes partes do sistema interagem, em vez de testar apenas uma unidade isolada.
+- **Ambiente Realista:** Muitas vezes, envolve o uso de um ambiente de teste que simula o ambiente de produção, incluindo interações com bancos de dados, APIs e outros serviços.
+- **Verificação de Fluxos de Trabalho:** Garante que os fluxos de trabalho complexos que envolvem múltiplos componentes funcionem conforme esperado.
+- **Menor Isolamento:** Ao contrário dos testes de unidade, que isolam a funcionalidade de uma unidade específica, os testes de integração focam na integração e interação entre unidades.
+
+**Exemplo:** Em um sistema de e-commerce, um teste de integração pode verificar se o processo de compra funciona corretamente ao integrar o módulo de carrinho de compras com o módulo de pagamento e o sistema de estoque.
+
+## Teste Unitário vs. Teste de Integração
+
+**Teste Unitário:**
+
+- **Foco:** Testa unidades de código isoladas, como funções ou métodos específicos.
+- **Objetivo:** Garantir que uma pequena parte do sistema funciona corretamente de forma isolada.
+- **Ambiente:** Utiliza mocks e stubs para simular dependências externas e isolar o código.
+- **Velocidade:** Geralmente rápido para executar e deve ser executado frequentemente durante o desenvolvimento.
+- **Exemplo:** Testar uma função que calcula o total de uma compra, garantindo que o cálculo esteja correto com base em entradas específicas.
+
+**Teste de Integração:**
+
+- **Foco:** Testa a interação entre múltiplos módulos ou componentes do sistema.
+- **Objetivo:** Garantir que diferentes partes do sistema funcionem corretamente quando integradas.
+- **Ambiente:** Pode utilizar um ambiente de teste que inclui bancos de dados e outros serviços reais ou simulados.
+- **Velocidade:** Geralmente mais lento que os testes unitários e pode exigir configurações mais complexas.
+- **Exemplo:** Testar o fluxo completo de uma transação de compra, desde a adição de produtos ao carrinho até a finalização do pagamento e atualização do estoque.
+
+## O Que Eu Fiz
+
+No projeto mencionado, eu implementei **testes de unidade** para as operações CRUD. Os testes de unidade foram focados em verificar o funcionamento correto de cada operação individualmente, como criar, atualizar, deletar e consultar eventos. Eles garantem que cada parte isolada do código (por exemplo, a criação de um evento) funcione como esperado.
+
+Os testes de unidade são essenciais para garantir que o código funcione conforme o esperado em nível de componente. No entanto, para uma cobertura completa, também seria importante realizar **testes de integração** para verificar a interação entre esses componentes e garantir que todo o fluxo de dados e operações no sistema funcione corretamente quando integrado.
+
