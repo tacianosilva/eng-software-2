@@ -71,3 +71,21 @@ A combinação de Django e Vue.js permite uma arquitetura moderna e eficaz, apro
 - **Frontend (Vue.js):** Cria uma interface de usuário dinâmica e responsiva, proporcionando uma experiência de usuário rica e interativa.
 
 Essa stack fornece uma base sólida para o desenvolvimento de aplicações web complexas e de alta performance, unindo a robustez e a escalabilidade do Django com a flexibilidade e a simplicidade do Vue.js.
+
+
+# Pytest
+
+**Descrição:** Pytest é um framework de testes de unidade para Python que é muito popular devido à sua simplicidade e flexibilidade. Ele é projetado para permitir a escrita de testes de maneira fácil e intuitiva, suportando uma ampla gama de casos de teste, desde os mais simples até os mais complexos.
+
+**Principais Características:**
+- **Simples e Intuitivo:** Pytest permite escrever testes de forma simples, usando assertivas padrão do Python. Não é necessário utilizar classes ou métodos especiais para escrever testes.
+- **Fixtures:** Oferece um sistema poderoso de fixtures para configurar e fornecer dados ou estados necessários para os testes. Isso facilita a reutilização de código de configuração entre diferentes testes.
+- **Parâmetros de Teste:** Permite a execução de um teste com múltiplos conjuntos de dados através de parâmetros, facilitando a cobertura de diferentes cenários com menos código.
+- **Plugins:** Suporta uma ampla variedade de plugins que podem adicionar funcionalidades extras, como relatórios de cobertura de código e integração com ferramentas de CI/CD.
+- **Integração com Django:** Possui suporte integrado para testes com Django, permitindo testar projetos Django com facilidade.
+
+**Links Úteis:**
+- **Documentação Oficial do Pytest:** [Pytest Documentation](https://docs.pytest.org/en/stable/)
+- **Pytest no PyPI (Python Package Index):** [Pytest on PyPI](https://pypi.org/project/pytest/)
+
+Pytest é uma escolha excelente para quem deseja uma ferramenta de teste poderosa e flexível para Python, tornando o processo de desenvolvimento mais eficiente e confiável através de testes bem estruturados e fáceis de manter.
