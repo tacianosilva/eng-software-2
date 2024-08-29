@@ -121,3 +121,10 @@ VS Code oferece uma série de ferramentas de depuração integradas que ajudam a
 
 VS Code é uma ferramenta altamente eficiente para o desenvolvimento e depuração de software, oferecendo um ambiente de desenvolvimento completo e extensível para atender às necessidades dos desenvolvedores.
 
+
+# CRUD e Testes em Django
+
+**Links Do tutorial:**
+- **Python DJango Crud:** [video](https://www.youtube.com/watch?v=REhBTwubGzo)
+
+**Descrição:** Neste tutorial o apresentar está criando testes TDD (Test Driven Development) em django, mostrando os testes de todas as etapas do CRUD, desde a criação, listagem, update e delete.
