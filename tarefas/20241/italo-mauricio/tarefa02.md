@@ -238,3 +238,9 @@ No meu projeto, implementei o User Storie de Manter Eventos, logo abaixo descrev
 Este User Story e as operações CRUD descritas garantem que o sistema de gerenciamento de eventos permita uma administração eficiente e intuitiva dos eventos, atendendo às necessidades dos usuários.
 
 
+# Experiência com o Teste de Unidade Utilizado
+
+**Links Do Teste de Frontend:**
+- **Teste de Tela Vue JS :** [github](https://github.com/tallysdev/eventSync/blob/main/frontend/eventsync_front/src/tests/CreateEvent.test.ts)
+
+- **Minha experiência:** A minha experiência com testes envolvendo Vue Js para o front foi bem tranquila, a ferramente de testes do Vue é muito prática ela se chama "vitest" e dá todo o suporte necessário para fazer todos os testes necessários.
