@@ -89,3 +89,35 @@ Essa stack fornece uma base sólida para o desenvolvimento de aplicações web c
 - **Pytest no PyPI (Python Package Index):** [Pytest on PyPI](https://pypi.org/project/pytest/)
 
 Pytest é uma escolha excelente para quem deseja uma ferramenta de teste poderosa e flexível para Python, tornando o processo de desenvolvimento mais eficiente e confiável através de testes bem estruturados e fáceis de manter.
+
+
+# Visual Studio Code (VS Code)
+
+**Descrição:** Visual Studio Code (VS Code) é uma IDE (Ambiente de Desenvolvimento Integrado) leve e poderosa, desenvolvida pela Microsoft. É amplamente utilizada por desenvolvedores devido à sua flexibilidade, extensibilidade e suporte para uma ampla variedade de linguagens e ferramentas de desenvolvimento.
+
+## Ferramentas de Depuração Integradas
+
+VS Code oferece uma série de ferramentas de depuração integradas que ajudam a identificar e corrigir problemas no código de maneira eficiente:
+
+- **Pontos de Interrupção (Breakpoints):** Permitem pausar a execução do código em pontos específicos para inspecionar o estado das variáveis e a execução do programa. É possível adicionar, remover e gerenciar pontos de interrupção diretamente no editor de código.
+
+- **Janela de Depuração:** Fornece uma interface para controlar a execução do código, como iniciar, pausar, continuar e parar a execução. Também mostra informações detalhadas sobre o processo de depuração, como variáveis, chamadas de pilha e pontos de interrupção ativos.
+
+- **Inspeção de Variáveis:** Permite visualizar e modificar o valor das variáveis durante a depuração. Você pode inspecionar variáveis locais e globais, além de ver os valores em tempo real enquanto o código está pausado.
+
+- **Watch Expressions:** Permite adicionar expressões personalizadas para monitorar durante a depuração. Você pode acompanhar o valor de expressões específicas e ver como elas mudam ao longo da execução do código.
+
+- **Console de Depuração:** Oferece um console interativo para executar comandos e ver a saída do código durante a depuração. Isso é útil para avaliar a execução em tempo real e testar pequenas alterações.
+
+- **Step Over, Step Into, e Step Out:** São ferramentas para controlar a execução do código em nível de linha. "Step Over" executa a linha atual e avança, "Step Into" entra em funções chamadas na linha atual, e "Step Out" sai da função atual e retorna ao nível anterior.
+
+- **Depuração de Código Remoto:** VS Code suporta a depuração de código que está sendo executado em um servidor remoto ou em um contêiner Docker. Isso é feito através de extensões e configurações específicas para ambientes remotos.
+
+- **Extensões de Depuração:** O VS Code possui uma vasta gama de extensões disponíveis para suporte a diferentes linguagens e frameworks. Essas extensões adicionam funcionalidades específicas de depuração e ajudam a configurar o ambiente de depuração para várias tecnologias.
+
+**Links Úteis:**
+- **Documentação Oficial do VS Code:** [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- **Configuração de Depuração no VS Code:** [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
+
+VS Code é uma ferramenta altamente eficiente para o desenvolvimento e depuração de software, oferecendo um ambiente de desenvolvimento completo e extensível para atender às necessidades dos desenvolvedores.
+
