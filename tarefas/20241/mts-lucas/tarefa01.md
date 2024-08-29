@@ -1,45 +1,52 @@
-# 9)
+# Tarefa 01 - Git e GitHub com Markdown
 
-## A)
+**nome:** Lucas Mateus da Silva
 
-Os testes de software são uma etapa muito importante no desenvolvimento de software, que visam garantir a qualidade e o bom funcionamento do sistema. Os testes envolvem a execução de um programa ou aplicação com a intenção de encontrar falhas, bugs ou defeitos. O objetivo principal é identificar e corrigir problemas antes que o software seja lançado para os usuários finais. Os testes de software podem ser classificados em várias categorias, como testes funcionais, testes de integração, testes de sistema, testes de aceitação, entre outros. Os testes unitários são uma das formas mais fundamentais de teste de software. Eles focam em validar a funcionalidade de componentes individuais de um sistema, normalmente a nível de função ou método.
+**github:** mts-lucas
 
-## B)
+**email:** lucas.mateus.130@ufrn.edu.br
 
-A linguagem que sera utilizada no projeto para o backend é python, e como stack para o backend será utilizado o framework Django Rest Framework que é uma tecnologia feita em cima do Django Framework para criação de APIs REST de forma rápida e segura.
+## Seção A:
 
-## C)
+### Event Sync
 
-unittest é um framework de teste padrão do Python, inspirado na biblioteca JUnit do Java. Ele fornece uma maneira estruturada de criar, organizar e executar testes de unidade, garantindo que o código funcione conforme o esperado. Embora o Django use unittest como seu framework de teste padrão, ele estende essa funcionalidade para melhor suportar as necessidades específicas das aplicações Django. Isso permite que os desenvolvedores aproveitem ao máximo as capacidades do unittest juntamente com as extensões do Django
+Uma proposta de gerenciador de eventos
 
-https://docs.python.org/3/library/unittest.html
+**Equipe:**
 
-## D)
+- Dayanne Xavier Lucena 
+- Lucas Mateus da Silva
+- Vinícius Maia Marinho 
+- Tallys Aureliano
+- Ítalo Maurício
 
-O Visual Studio Code (VSCode) é um editor de código-fonte desenvolvido pela Microsoft. É conhecido por sua leveza, flexibilidade e pelo grande numero de extensões que melhoram a produtividade.  Suas ferramentas de debug integradas incluem funcionalidades como breakpoints, inspeção de variáveis, expressões de vigilância, console de debug interativo e visualização da pilha de chamadas, além de valores inline.
+## Seção B:
 
-## E)
+As linguagens que serão utilizados no projeto serão python e javascript, toda a equipe tem conhecimetos básicos dessas tecnologias. Sendo 1 membro mais experiente com python e 2 membros experientes com JS.
 
-O tutorial do mozila aborda todos os conceitos mais básicos usando o framework django, consstruindo uma aplicação junto com o leitor e propondo desafios no processo. O tutorial além disso fornece uma sessão inteira ensinando a escrever os testes e testar usando unittest, como visto em:
+## Seção C:
 
-https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Testing
+O framework para backend será Django Rest Framework que é uma tecnologia feita em cima do Django Framework para criação de APIs REST de forma rápida e segura.
 
-## F)
+## Seção D:
 
-Mock objects, ou objetos simulados, são uma técnica utilizada em testes de unidade para simular o comportamento de objetos reais. Essa técnica permite que durante a etapa de testes eu possa agilizar o processo sem ter de consultar anda externamente como um banco de dados ou ate mesmo a aplicação. Dessa maneira eu simulo um objeto real, porem com todo o controle que precise durante os testes.
+No projeto serão utilizados git para versionamento de código, e github para armazenamento remoto.
 
-# 10)
 
-## A) 
+## Seção E:
 
-Eu implementei o primeiro UserStory, que se trata do controle de usuários, implementei endpoints de listagem de usuario, de edição e por fim um endpoint de cadastro e login com a API, e uma função de poder deletar um usuario.
+[Tutorial](https://github.com/mts-lucas/desafio-triagil/tree/main)
 
-## B)
+O tutorial do mozila traz todo o básico do framework, desde o a criação do projeto, passando por models, views e testes;
 
-Os testes foram tranquilo de implementar, pois ja tinha a experiencia com isso, acabei por não utilizar dados gerados automaticamente como os que podem ser fornecidos pela biblioteca **Faker** , então coloquei os dados hardcoded, mas futuramente planejo melhorar esses testes com os dados mockados automanticamente.
+## Seção F:
 
-https://github.com/tallysdev/eventSync/blob/main/backend/eventsync_api/api/tests/tests_users.py
+Branches são cópias independentes do código-fonte dentro de um repositório de controle de versão, como o Git. Eles permitem que os desenvolvedores trabalhem em novas funcionalidades ou correções de bugs sem afetar o código principal. Pull requests, por outro lado, são propostas para mesclar alterações de uma ramificação (branch) para outra, geralmente da ramificação de uma feature para a branch principal, como o "master". Eles fornecem uma maneira estruturada para revisar, discutir e aprovar as mudanças antes de serem integradas ao código principal, garantindo assim a qualidade e consistência do código-fonte.
 
-## C)
+## Seção G:
 
-O testes de integração vem depois dos testes unitários, eles buscam verificar o funcionamento da aplicação como um todo, ou em blocos maiores. O que fiz até agora foram testes unitários que testam cada função que fiz individualmente.
+O versionamento semântico é uma prática que envolve atribuir significado semântico específico a números de versão de software. Ele segue um padrão bem definido, geralmente no formato "MAJOR.MINOR.PATCH", onde incrementos no número maior (MAJOR) indicam mudanças incompatíveis, incrementos no número menor (MINOR) adicionam funcionalidades de maneira compatível com versões anteriores, e incrementos no número de correção (PATCH) indicam correções de bugs compatíveis com versões anteriores. Essa abordagem oferece uma clareza semântica sobre as mudanças introduzidas em cada versão, facilitando a comunicação entre desenvolvedores e usuários sobre o impacto das atualizações do software.
+
+## Seção H:
+
+Commits convencionais são uma convenção de nomenclatura para mensagens de commit em sistemas de controle de versão, como o Git. Essa convenção define um formato padronizado para descrever as mudanças introduzidas em um commit. Geralmente, as mensagens de commit seguem o formato "tipo(scope): descrição", onde o tipo descreve a natureza da alteração (por exemplo, "feat" para uma nova funcionalidade, "fix" para uma correção de bug) e o escopo opcional indica o contexto da alteração (por exemplo, o módulo ou componente afetado). A descrição fornece uma explicação concisa do que foi feito. O uso de commits convencionais facilita a geração de logs de alterações automáticos, a geração de changelogs e a comunicação eficaz entre membros da equipe sobre o progresso do desenvolvimento.
