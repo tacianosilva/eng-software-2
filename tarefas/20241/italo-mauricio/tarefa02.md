@@ -164,3 +164,77 @@ VS Code é uma ferramenta altamente eficiente para o desenvolvimento e depuraç�
 - **Sinon.js (JavaScript):** [Sinon.js Documentation](https://sinonjs.org/)
 
 Mocks são uma ferramenta poderosa em testes de unidade, proporcionando uma maneira de testar componentes de forma isolada e garantir que as interações com suas dependências estejam corretas.
+
+
+# User Story: Manter Eventos
+
+No meu projeto, implementei o User Storie de Manter Eventos, logo abaixo descrevo todas as operações utilizadas.
+
+## Operações do CRUD
+
+### 1. Inserir Evento
+
+**Descrição:** Permite ao usuário criar um novo evento no sistema.
+
+- **Ação:** O usuário preenche um formulário com detalhes do evento, incluindo nome, data, descrição, localização e tipo de evento.
+- **Campos Necessários:**
+  - Nome do Evento
+  - Data de Início
+  - Data de Término
+  - Descrição
+  - Localização
+  - Tipo de Evento (ex: conferência, workshop, seminário)
+- **Resultado Esperado:** O evento é criado e adicionado à lista de eventos no sistema. O usuário recebe uma confirmação de que o evento foi criado com sucesso.
+
+### 2. Atualizar Evento
+
+**Descrição:** Permite ao usuário modificar as informações de um evento existente.
+
+- **Ação:** O usuário acessa a página de detalhes do evento, edita as informações desejadas e salva as alterações.
+- **Campos Editáveis:**
+  - Nome do Evento
+  - Data de Início
+  - Data de Término
+  - Descrição
+  - Localização
+  - Tipo de Evento
+- **Resultado Esperado:** As informações do evento são atualizadas no sistema e refletidas na lista de eventos. O usuário recebe uma confirmação de que as alterações foram salvas com sucesso.
+
+### 3. Deletar Evento
+
+**Descrição:** Permite ao usuário remover um evento do sistema.
+
+- **Ação:** O usuário seleciona o evento a ser deletado e confirma a exclusão.
+- **Confirmação:** O sistema solicita uma confirmação para evitar exclusões acidentais.
+- **Resultado Esperado:** O evento é removido do sistema e não aparece mais na lista de eventos. O usuário recebe uma confirmação de que o evento foi excluído com sucesso.
+
+### 4. Consultar Evento
+
+**Descrição:** Permite ao usuário buscar e visualizar detalhes dos eventos existentes.
+
+- **Ação:** O usuário acessa a lista de eventos ou realiza uma busca usando filtros como nome, data, localização ou tipo de evento.
+- **Campos de Pesquisa:**
+  - Nome do Evento
+  - Data de Início
+  - Data de Término
+  - Localização
+  - Tipo de Evento
+- **Resultado Esperado:** O sistema exibe a lista de eventos que correspondem aos critérios de pesquisa. O usuário pode visualizar detalhes de cada evento e acessar informações adicionais.
+
+### 5. Listar Eventos
+
+**Descrição:** Permite ao usuário visualizar todos os eventos cadastrados no sistema.
+
+- **Ação:** O usuário acessa uma página que mostra uma lista de todos os eventos, com informações básicas como nome, data e localização.
+- **Resultado Esperado:** A lista de eventos é exibida de forma organizada, permitindo ao usuário navegar pelos eventos e acessar detalhes específicos.
+
+## Requisitos Técnicos
+
+- **Backend:** Implementar endpoints para cada operação CRUD (criação, atualização, exclusão e consulta) usando a tecnologia escolhida (por exemplo, Django).
+- **Frontend:** Criar formulários e páginas para interação com o usuário, permitindo o gerenciamento dos eventos.
+- **Validações:** Garantir que as entradas do usuário sejam validadas corretamente para evitar erros e inconsistências.
+- **Testes:** Implementar testes de unidade e integração para verificar o correto funcionamento das operações CRUD.
+
+Este User Story e as operações CRUD descritas garantem que o sistema de gerenciamento de eventos permita uma administração eficiente e intuitiva dos eventos, atendendo às necessidades dos usuários.
+
+
