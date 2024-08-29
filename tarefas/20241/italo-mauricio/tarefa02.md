@@ -128,3 +128,39 @@ VS Code é uma ferramenta altamente eficiente para o desenvolvimento e depuraç�
 - **Python DJango Crud:** [video](https://www.youtube.com/watch?v=REhBTwubGzo)
 
 **Descrição:** Neste tutorial o apresentar está criando testes TDD (Test Driven Development) em django, mostrando os testes de todas as etapas do CRUD, desde a criação, listagem, update e delete.
+
+
+# Mock Objects em Testes de Unidade
+
+**Definição:** Mock objects (ou simplesmente mocks) são objetos simulados usados em testes de unidade para imitar o comportamento de dependências externas do código que está sendo testado. Eles permitem que você controle e verifique o comportamento das dependências sem precisar usar implementações reais, o que facilita a criação de testes mais isolados e confiáveis.
+
+## Principais Características
+
+- **Isolamento:** Mocks ajudam a isolar a unidade de código sendo testada, garantindo que os testes não sejam afetados por outras partes do sistema, como bancos de dados, APIs externas ou serviços de terceiros.
+- **Controle:** Permitem definir com precisão como as dependências devem se comportar durante o teste, fornecendo respostas específicas a chamadas de métodos e permitindo que você simule condições de erro ou comportamentos específicos.
+- **Verificação:** Facilitam a verificação se o código em teste interage com as dependências da maneira esperada. É possível verificar se métodos foram chamados, quantas vezes foram chamados e com quais parâmetros.
+
+## Uso Comum
+
+- **Simulação de Dependências:** Usado para simular objetos complexos ou externos que a unidade de código precisa interagir, como serviços web, bancos de dados ou outros módulos.
+- **Testes de Integração:** Ajuda a testar a integração da unidade de código com suas dependências de maneira controlada.
+- **Verificação de Interações:** Permite verificar se o código faz chamadas esperadas para as dependências, ajudando a garantir que a lógica de interação está correta.
+
+## Ferramentas Comuns
+
+- **Python:** `unittest.mock`, `pytest-mock`
+- **Java:** Mockito
+- **JavaScript:** Sinon.js
+- **C#:** Moq
+
+## Exemplos de Uso
+
+- **Simulação de Métodos:** Criar um mock de um serviço externo que retorna uma resposta simulada quando um método específico é chamado.
+- **Verificação de Chamadas:** Verificar se um método foi chamado com os parâmetros corretos e quantas vezes ele foi chamado durante a execução dos testes.
+
+**Links Úteis:**
+- **Documentação do `unittest.mock` (Python):** [unittest.mock Documentation](https://docs.python.org/3/library/unittest.mock.html)
+- **Mockito (Java):** [Mockito Documentation](https://site.mockito.org/)
+- **Sinon.js (JavaScript):** [Sinon.js Documentation](https://sinonjs.org/)
+
+Mocks são uma ferramenta poderosa em testes de unidade, proporcionando uma maneira de testar componentes de forma isolada e garantir que as interações com suas dependências estejam corretas.
