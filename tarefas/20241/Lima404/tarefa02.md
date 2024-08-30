@@ -64,3 +64,13 @@ Determinismo: Garantem que os testes sejam consistentes e reproduzíveis, pois o
 ## CRUD de Manager
 
 Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
+
+## Testes de autenticação de usuário
+
+* [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
+
+Nesse teste de autenticação de usuário, podemos ver três testes de unidade, um deles é um teste que cria um usuário e em seguida faz a autenticação. Além disso, os dados estão mockados em um arquivo exclusivo para testes:
+
+* [Link para o arquivo de mock (in-memory)](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-users-repository.ts)
+
+Após a implementação dos testes, percebe-se a importância de uma boa cobertura de testes em um sistema. Foi uma experiência muito boa e contribuiu bastante pro meu aprendizado.
