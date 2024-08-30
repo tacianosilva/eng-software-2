@@ -42,3 +42,7 @@ Debug Console: Permite a execução de expressões e comandos durante a depuraç
 Conditional Breakpoints: Define breakpoints condicionais que pausam a execução somente quando determinadas condições são atendidas.
 
 Logpoints: Insere mensagens de log no console de debug sem alterar o código-fonte, útil para rastreamento de execução sem interromper o fluxo.
+
+## Link de CRUD com Node + Fastify
+
+* [Rest API com Node e Fastify](https://www.youtube.com/watch?v=E6mZSJFozvM)
