@@ -60,3 +60,7 @@ Controle: Oferecem controle total sobre o comportamento das dependências, permi
 Velocidade: Aceleram os testes, substituindo dependências que podem ser lentas, como chamadas de rede ou operações de I/O.
 
 Determinismo: Garantem que os testes sejam consistentes e reproduzíveis, pois o comportamento dos mocks é previsível e controlado.
+
+## CRUD de Manager
+
+Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
