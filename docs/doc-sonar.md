@@ -40,6 +40,5 @@ A PASTA_PROJETO é o caminho do diretório do projeto onde o arquivo sonar-proje
 
 ```console
 docker run --rm -e SONAR_HOST_URL="http://labens.dct.ufrn.br/sonarqube" \
-           -e SONAR_LOGIN="TOKEN_PROJETO" -v "PASTA_PROJETO:/usr/src" \
-           sonarsource/sonar-scanner-cli
+           -v "PASTA_PROJETO:/usr/src" sonarsource/sonar-scanner-cli -Dsonar.login=TOKEN_PROJETO
 ```
