@@ -149,11 +149,88 @@ RF09.04 - Deletar Grupo        | Deleta um grupo informando o nome. | Administra
 
 ### Modelo Conceitual
 
-Abaixo apresentamos o modelo conceitual usando o **YUML**.
+Abaixo apresentamos o modelo conceitual usando o **Mermaid**.
 
- ![Modelo UML](yuml/monitoria-modelo.png)
+```mermaid
+erDiagram
+    CENTRO {
+        string codigo PK
+        string nome
+        string sigla
+        string endereco
+        string site
+    }
 
-O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md). O detalhamento dos modelos conceitual e de dados do projeto estão no [Documento de Modelos](doc-modelos.md).
+
+    DEPARTAMENTO {
+        string codigo PK
+        string nome
+        string sigla
+        string endereco
+    }
+    DEPARTAMENTO ||--o{ CENTRO : "pertence a"
+
+    SALA {
+        string numero PK
+        string nome
+        int capacidade
+        float tamanho
+        string bloco
+    }
+    SALA ||--o{ CENTRO : "pertence a"
+
+    COMPONENTE {
+        string codigo PK
+        string nome
+        text ementa
+        int cargaHoraria
+        string modalidade
+        date dataCriacao
+    }
+    COMPONENTE ||--o{ DEPARTAMENTO : "é de"
+    COMPONENTE }o--o{ COMPONENTE : "tem equivalências/requisitos"
+
+    HORARIO {
+        int id PK
+        string diaSemana
+        string turno
+        int ordem
+        time horaInicio
+        time horaFim
+    }
+
+    PROFESSOR {
+        string matricula PK
+        string nome
+        string email
+        string telefone
+    }
+    PROFESSOR ||--o{ DEPARTAMENTO : "pertence a"
+
+    TURMA {
+        string codigo PK
+    }
+    TURMA ||--o{ COMPONENTE : "é de"
+    TURMA ||--o{ PROFESSOR : "é ministrada por"
+    TURMA ||--o{ SALA : "é realizada em"
+    TURMA ||--o{ HORARIO : "tem"
+
+    USUARIO {
+        string email PK
+        string nome
+        string senha
+    }
+    USUARIO }o--o{ GRUPO : "pertence a"
+
+    GRUPO {
+        string nome PK
+    }
+    GRUPO ||--o{ PERMISSAO : "tem"
+
+    PERMISSAO {
+        string nome PK
+    }
+```
 
 #### Descrição das Entidades
 
