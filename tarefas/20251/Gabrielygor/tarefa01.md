@@ -131,4 +131,5 @@ git commit -m "fix(api): fix error in /users endpoint response"
 git commit -m "docs(readme): update installation instructions"
 ```
 
-
+## 🔗 Cadastro no AcademicDevFlow
+Realizei o cadastro no **Academic Dev Flow** e achei o processo bastante intuitivo e rápido. A interface do sistema é amigável, facilitando a navegação e o entendimento das funcionalidades disponíveis. Essa experiência inicial positiva contribui para uma interação mais eficiente com a plataforma.
