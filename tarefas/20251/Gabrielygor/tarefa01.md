@@ -39,4 +39,38 @@ Recursos principais:
 - **Debug:** O VSCode possui um depurador embutido que suporta várias linguagens e permite inspeção de variáveis em tempo real.
 - **Controle de versão:** Integração nativa com Git, permitindo commits, criação de branches e resolução de conflitos diretamente na interface.
 
+## 📚 Tutorial CRUD
+Para desenvolver uma aplicação CRUD utilizando **Django** no backend e **React** com **TypeScript** no frontend, recomendo os seguintes recursos:
+
+1. **Tutorial: Construindo uma Aplicação CRUD com Django e React**
+
+   Este tutorial, publicado na *DEV Community*, orienta na criação de uma API REST com Django e Django Rest Framework, além de uma SPA (Single Page Application) com React para realizar operações CRUD. Embora o tutorial utilize JavaScript no frontend, os conceitos podem ser adaptados para TypeScript. [Link para o tutorial](https://dev.to/koladev/build-a-crud-application-using-django-and-react-5389)
+
+2. **Artigo: Configuração de Produção com Django, Django-Restframework e React em TypeScript**
+
+   Este artigo detalha a configuração de um ambiente de produção integrando Django no backend com React em TypeScript no frontend. Embora não seja um tutorial passo a passo, oferece insights valiosos sobre a integração dessas tecnologias. [Link para o artigo](https://medium.com/@Jangascodingplace/django-django-restframework-typescript-react-production-setup-7ac11de14969)
+
+3. **Vídeo: Aprenda React e Django em 1 Hora | Para Iniciantes**
+
+   Este vídeo apresenta um tutorial prático para iniciantes, abordando a configuração de ambos os frameworks e a construção de uma aplicação full-stack. Embora o foco seja em JavaScript, os conceitos podem ser aplicados ao uso de TypeScript.
+
+   [![Aprenda React e Django em 1 Hora | Para Iniciantes](https://img.youtube.com/vi/xldTxXtNiuk/0.jpg)](https://www.youtube.com/watch?v=xldTxXtNiuk)
+
+**Resumo do Conteúdo:**
+
+- **Backend com Django:**
+  - Configuração do ambiente virtual e instalação do Django.
+  - Criação de um projeto e aplicação Django.
+  - Definição de modelos (*models*) para representar os dados.
+  - Configuração de *serializers* e *viewsets* utilizando Django Rest Framework.
+  - Configuração de rotas para expor a API REST.
+
+- **Frontend com React e TypeScript:**
+  - Configuração do ambiente React com TypeScript.
+  - Criação de componentes funcionais para listar, adicionar, editar e excluir itens.
+  - Utilização de bibliotecas como Axios para realizar requisições HTTP para a API Django.
+  - Gerenciamento de estado e efeitos colaterais com *hooks* como `useState` e `useEffect`.
+
+Ao seguir esses recursos, você obterá uma compreensão sólida de como integrar Django com React e TypeScript para construir aplicações CRUD eficientes.
+
 
