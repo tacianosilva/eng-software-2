@@ -49,3 +49,13 @@ O GitFlow é uma metodologia de branching para organizar o desenvolvimento de so
 - **Hotfix branches (`hotfix/nome-do-hotfix`)**: Criadas para corrigir bugs críticos em produção.
 
 Os **Pull Requests (PRs)** são usados para revisar e integrar alterações. No GitHub, podemos criar um PR para mesclar uma feature branch na develop ou um hotfix na main, garantindo qualidade e revisão do código.
+
+## Versionamento Semântico
+
+O **Versionamento Semântico** (SemVer) define um padrão para nomear versões de software no formato `MAJOR.MINOR.PATCH`:
+
+- **MAJOR**: Alterações que quebram compatibilidade com versões anteriores.
+- **MINOR**: Novas funcionalidades que mantêm compatibilidade com versões anteriores.
+- **PATCH**: Correções de bugs e pequenas melhorias sem impacto na compatibilidade.
+
+Exemplo: `1.2.3` (Major 1, Minor 2, Patch 3).
