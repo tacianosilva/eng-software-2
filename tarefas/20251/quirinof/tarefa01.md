@@ -67,3 +67,17 @@ O vscode tem integração nativa com Git, mas também suporta outros sistemas (c
 No Git, uma **branch** é uma linha independente de desenvolvimento, permitindo que você trabalhe sem afetar o código principal. O GitFlow, em particular, define uma estrutura para o gerenciamento de branches em um projeto Git. Ele sugere a criação de diferentes tipos de branches, como "feature", "release", "hotfix", entre outros, para isolar diferentes tipos de trabalho e facilitar a colaboração entre membros da equipe. Por exemplo, uma equipe pode criar uma branch de "feature" para trabalhar em uma nova funcionalidade, enquanto a branch principal ("master" ou "main") permanece estável.
 
 Um **pull request** (ou merge request) é uma solicitação para que as mudanças feitas em um branch sejam incorporadas ao branch principal do repositório. No GitFlow, quando uma nova funcionalidade é desenvolvida em uma branch de "feature", por exemplo, e está pronta para ser integrada ao código principal, um membro da equipe cria um pull request para revisão. Isso permite que outros membros da equipe revisem as mudanças, forneçam feedback e, se tudo estiver correto, realizem o merge das alterações na branch principal. O GitHub fornece uma interface amigável para criar e revisar pull requests, incluindo recursos como comentários, revisões de código e integração contínua.
+
+### Versionamento semântico
+
+O versionamento semântico é um padrão de atribuição de versão de software que estabelece que o número de versão de um software será composto por três partes separadas por pontos: MAJOR.MINOR.PATCH. Cada parte tem um significado específico:
+
+MAJOR: Incrementado quando são feitas alterações incompatíveis na API.
+MINOR: Incrementado quando funcionalidades são adicionadas de forma compatível com versões anteriores.
+PATCH: Incrementado quando correções de bugs são feitas de forma compatível com versões anteriores.
+
+Por exemplo:
+
+```
+2.0.0
+```
