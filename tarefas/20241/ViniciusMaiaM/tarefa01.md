@@ -64,12 +64,11 @@ MAJOR: Incrementado quando são feitas alterações incompatíveis na API.
 MINOR: Incrementado quando funcionalidades são adicionadas de forma compatível com versões anteriores.
 PATCH: Incrementado quando correções de bugs são feitas de forma compatível com versões anteriores.
 
-Por exemplo: 
+Por exemplo:
 
 ```
 2.0.0
-``` 
-
+```
 
 ### Conventional commits
 
@@ -79,7 +78,28 @@ Conventional commits são convenções adotas as mensagens de commits para deixa
 <typo>[escopo]: <descrição>
 ```
 
-Alguns exemplos: 
+Alguns exemplos:
+
+- feat: para novas funcionalidades
+- fix: para correção de bugs
+- docs: para alterações na documentação
+- style: para alterações que não afetam o significado do código (formatação, pontuação, etc.)
+- refactor: para refatorações de código
+- test: para adição ou modificação de testes
+- chore: para tarefas de build, configuração, etc.
+
+Seguir essa convenção ajuda na compreensão do histórico de alterações do projeto e na automação de tarefas relacionadas ao desenvolvimento, como a geração automática de notas de lançamento (changelogs).
+
+### Conventional commits
+
+Conventional commits são convenções adotas as mensagens de commits para deixalas de fácil compreensão e consistentes.
+
+```bash
+<typo>[escopo]: <descrição>
+```
+
+Alguns exemplos:
+
 - feat: para novas funcionalidades
 - fix: para correção de bugs
 - docs: para alterações na documentação
