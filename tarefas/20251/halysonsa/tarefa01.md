@@ -59,3 +59,28 @@ O **Versionamento Semântico** (SemVer) define um padrão para nomear versões d
 - **PATCH**: Correções de bugs e pequenas melhorias sem impacto na compatibilidade.
 
 Exemplo: `1.2.3` (Major 1, Minor 2, Patch 3).
+
+## Conventional Commits
+
+Os **Conventional Commits** estabelecem um padrão para mensagens de commit, tornando o histórico mais legível. O formato básico é:
+
+```
+tipo(escopo opcional): descrição
+```
+
+Tipos comuns:
+
+- `feat`: Nova funcionalidade
+- `fix`: Correção de bug
+- `docs`: Alteração na documentação
+- `style`: Mudanças de formatação (sem alterar código)
+- `refactor`: Refatoração do código
+- `test`: Adição ou modificação de testes
+
+Exemplo:
+
+```
+feat(auth): adicionar login com JWT
+```
+
+Isso facilita a automação de changelogs e o entendimento do histórico de commits.
