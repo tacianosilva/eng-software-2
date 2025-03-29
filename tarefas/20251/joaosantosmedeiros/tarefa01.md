@@ -20,3 +20,6 @@ A equipe possui um bom entendimento a cerca da linguagem, tendo feito alguns pro
 ## Framework
 O framework escolhido pela equipe foi NodeJs no backend e a biblioteca React como Frontend. 
 
+## IDE
+A IDE utilizada tanto no frontend como no backend é o VsCode, que possui ótimas ferramentas tanto para o debug quanto para o controle de versão. O Visual Studio possui integração nativa com o github e é possível realizar grande parte do versionamento mais básico diretamente dele.
+
