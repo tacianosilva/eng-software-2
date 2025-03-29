@@ -26,3 +26,7 @@ A IDE utilizada tanto no frontend como no backend é o VsCode, que possui ótima
 ## Tutorial
 [Este tutorial](https://www.youtube.com/watch?v=_7UQPve99r4) é uma boa base para quem deseja fazer um crud básico em Node. Caso o MongoDb não seja o banco de dados utilizado ou preferido, pode-se trocar por outro facilmente.
 
+## Git Flow
+Git Flow é umm estratégia propõer auxiliar na organização do versionamento de códigos. Foi feito pelo engenheiro de software holandês Vincent Driessen. Tem como princpal objetivo melhorar as organizações das branches dentro de          repositórios.
+
+O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais.
