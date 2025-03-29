@@ -6,7 +6,7 @@
 
 ### Email: matheusquirinof@gmail.com
 
-### Descrição:
+### Descrição do projeto:
 
 O projeto **TechFix** consiste no desenvolvimento de um sistema de gestão de assistência técnica de informática, que permitirá
 o gerenciamento eficiente das atividades relacionadas ao reparo, manutenção e suporte técnico de equipamentos de informática.
@@ -24,7 +24,7 @@ emissão de relatórios e um controle de contas a receber.
 - Artur Morais
 - Isayan Deivid
 
-### Linguagens de programação usadas:
+### Linguagens de programação:
 
 #### TypeScript e JavaScript
 
@@ -61,3 +61,9 @@ O vscode tem integração nativa com Git, mas também suporta outros sistemas (c
 [CRUD RestAPI em node, express, postgres e docker](https://youtu.be/TYB-Lz8YGFk?si=ae1uGVRyQTUWahph)
 
 [Aplicação web fullstack usando node, next, express, prisma, postgres e docker](https://www.youtube.com/live/NaqNk2TbeRE?si=q308hzY3aZNWkqTY)
+
+### Branch e Pull Request (ou merge request)
+
+No Git, uma **branch** é uma linha independente de desenvolvimento, permitindo que você trabalhe sem afetar o código principal. O GitFlow, em particular, define uma estrutura para o gerenciamento de branches em um projeto Git. Ele sugere a criação de diferentes tipos de branches, como "feature", "release", "hotfix", entre outros, para isolar diferentes tipos de trabalho e facilitar a colaboração entre membros da equipe. Por exemplo, uma equipe pode criar uma branch de "feature" para trabalhar em uma nova funcionalidade, enquanto a branch principal ("master" ou "main") permanece estável.
+
+Um **pull request** (ou merge request) é uma solicitação para que as mudanças feitas em um branch sejam incorporadas ao branch principal do repositório. No GitFlow, quando uma nova funcionalidade é desenvolvida em uma branch de "feature", por exemplo, e está pronta para ser integrada ao código principal, um membro da equipe cria um pull request para revisão. Isso permite que outros membros da equipe revisem as mudanças, forneçam feedback e, se tudo estiver correto, realizem o merge das alterações na branch principal. O GitHub fornece uma interface amigável para criar e revisar pull requests, incluindo recursos como comentários, revisões de código e integração contínua.
