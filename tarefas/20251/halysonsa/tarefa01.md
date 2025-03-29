@@ -32,3 +32,8 @@ O frontend será desenvolvido com **Next.js**, um framework baseado em React que
 ## IDE e Ferramentas
 
 A equipe utilizará o **Visual Studio Code (VSCode)** como IDE. O VSCode possui suporte integrado para **debugging**, permitindo a inspeção de variáveis e breakpoints diretamente na interface. Além disso, conta com integração com o **Git**, facilitando controle de versão, commits e pull requests sem precisar sair do editor.
+
+## Tutorial CRUD
+
+**Link:** [Tutorial CRUD com Express e PostgreSQL](https://www.youtube.com/watch?v=TYB-Lz8YGFk&t=180s)  
+**Descrição:** O tutorial ensina a criar uma aplicação CRUD utilizando **Express.js** no backend e gerenciar os dados no PostgreSQL. Ele aborda a configuração do ambiente, a definição do banco de dados e a implementação das rotas de API.
