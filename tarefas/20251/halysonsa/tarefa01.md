@@ -28,3 +28,7 @@ O projeto utilizará **JavaScript** e **TypeScript**. A equipe já possui conhec
 ## Framework
 
 O frontend será desenvolvido com **Next.js**, um framework baseado em React que permite renderização híbrida (SSR e SSG). No backend, utilizaremos **Express.js**, um framework minimalista para Node.js, permitindo a criação de APIs rápidas e escaláveis. Para comunicação com o banco de dados **PostgreSQL**, usaremos o **Prisma ORM**, facilitando consultas e manutenção.
+
+## IDE e Ferramentas
+
+A equipe utilizará o **Visual Studio Code (VSCode)** como IDE. O VSCode possui suporte integrado para **debugging**, permitindo a inspeção de variáveis e breakpoints diretamente na interface. Além disso, conta com integração com o **Git**, facilitando controle de versão, commits e pull requests sem precisar sair do editor.
