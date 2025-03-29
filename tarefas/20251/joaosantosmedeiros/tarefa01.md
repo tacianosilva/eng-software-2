@@ -30,3 +30,8 @@ A IDE utilizada tanto no frontend como no backend é o VsCode, que possui ótima
 Git Flow é umm estratégia propõer auxiliar na organização do versionamento de códigos. Foi feito pelo engenheiro de software holandês Vincent Driessen. Tem como princpal objetivo melhorar as organizações das branches dentro de          repositórios.
 
 O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais.
+
+## Versionamento Semântico
+Dentro do mundo do desenvolvimento de software é possível que aconteça o chamado "dependency hell", em sistemas que apresentam muitas dependências acopladas ou vagamente específicas.
+
+Para que o sistema funcione, primeiro você precisa declarar uma API pública. Depois de identificada a API pública, você comunica as mudanças com incrementos específicos para o seu número de versão. Considere o formato de versão X.Y.Z (Maior.Menor.Correção). Correção de falhas (bug fixes) que não afetam a API, incrementa a versão de Correção, adições/alterações compatíveis com as versões anteriores da API incrementa a versão Menor, e alterações incompatíveis com as versões anteriores da API incrementa a versão Maior.
