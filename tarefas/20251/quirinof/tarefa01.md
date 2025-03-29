@@ -23,3 +23,23 @@ emissão de relatórios e um controle de contas a receber.
 - Halyson Santos
 - Artur Morais
 - Isayan Deivid
+
+### Linguagens de programação usadas:
+
+#### TypeScript
+
+O TypeScript foi criado com o objetivo de incluir recursos que não estão presentes no JS. Ele será predominante em todo o projeto e possui vantagens como tipagem estática para redução de erros, melhoria no autocomplemento e documentação em tempo real e também facilita na manutenção de código.
+
+#### JavaScript
+
+Poderá ser utilizado pontualmente em alguma configuração ou script de automação.
+
+### Tecnologias usadas:
+
+#### Next
+
+É um framework React usado para construção de aplicações web modernas com renderização híbrida (SSR, SSG e CSR).
+
+#### Express
+
+Já o express é um framework minimalista para a plataforma Node.js que simplifica a criação de APIs RESTful e se comunica diretamente com o banco de dados.
