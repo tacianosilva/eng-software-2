@@ -35,3 +35,8 @@ O Git Flow trabalha com duas branches principais, a Develop e a Master, que dura
 Dentro do mundo do desenvolvimento de software é possível que aconteça o chamado "dependency hell", em sistemas que apresentam muitas dependências acopladas ou vagamente específicas.
 
 Para que o sistema funcione, primeiro você precisa declarar uma API pública. Depois de identificada a API pública, você comunica as mudanças com incrementos específicos para o seu número de versão. Considere o formato de versão X.Y.Z (Maior.Menor.Correção). Correção de falhas (bug fixes) que não afetam a API, incrementa a versão de Correção, adições/alterações compatíveis com as versões anteriores da API incrementa a versão Menor, e alterações incompatíveis com as versões anteriores da API incrementa a versão Maior.
+
+## Conventional Commits
+Especifica um padrão para a realização de commits, se encaixando perfeitamente em ferramentas baseadas em especificação como o SemVer e facilitando o entendimento de qualquer um que estiver olhando os commits.
+
+Há alguma bibliotecas que ao serem introduzidas força com que o desenvolvedor realize commits com mensagens que seguem o padrão dos commits convencionais.
