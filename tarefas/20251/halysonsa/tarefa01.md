@@ -20,3 +20,7 @@ emissão de relatórios e um controle de contas a receber.
 
 **Repositório Back:** [GitHub - TechFix](https://github.com/quirinof/techFix-backend)
 **Repositório Front:** [GitHub - TechFix](https://github.com/quirinof/techFix-frontend)
+
+## Linguagem de Programação
+
+O projeto utilizará **JavaScript** e **TypeScript**. A equipe já possui conhecimento básico da linguagem, incluindo manipulação de dados, estruturação de código e utilização de bibliotecas populares como React e Express.
