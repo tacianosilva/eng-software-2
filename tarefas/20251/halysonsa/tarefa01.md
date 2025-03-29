@@ -37,3 +37,15 @@ A equipe utilizará o **Visual Studio Code (VSCode)** como IDE. O VSCode possui 
 
 **Link:** [Tutorial CRUD com Express e PostgreSQL](https://www.youtube.com/watch?v=TYB-Lz8YGFk&t=180s)  
 **Descrição:** O tutorial ensina a criar uma aplicação CRUD utilizando **Express.js** no backend e gerenciar os dados no PostgreSQL. Ele aborda a configuração do ambiente, a definição do banco de dados e a implementação das rotas de API.
+
+## Branches e Pull Requests no GitFlow
+
+O GitFlow é uma metodologia de branching para organizar o desenvolvimento de software. Nele, utilizamos:
+
+- **Branch `main`**: Versão estável e pronta para produção.
+- **Branch `develop`**: Contém o código em desenvolvimento.
+- **Feature branches (`feature/nome-da-feature`)**: Criadas para desenvolver novas funcionalidades.
+- **Release branches (`release/vX.Y.Z`)**: Utilizadas para preparar versões antes de serem lançadas.
+- **Hotfix branches (`hotfix/nome-do-hotfix`)**: Criadas para corrigir bugs críticos em produção.
+
+Os **Pull Requests (PRs)** são usados para revisar e integrar alterações. No GitHub, podemos criar um PR para mesclar uma feature branch na develop ou um hotfix na main, garantindo qualidade e revisão do código.
