@@ -40,3 +40,8 @@ O VS Code oferece um conjunto completo de ferramentas para depuração, permitin
 #### Controle de Versão Integrado
 O VS Code também possui uma integração eficiente com Git, tornando o controle de versão mais acessível e intuitivo. A interface gráfica simplifica tarefas como commits, push, pull e merges, eliminando a necessidade de comandos manuais no terminal. Além disso, o editor permite comparar diferentes versões de um arquivo, destacando as mudanças feitas ao longo do tempo para facilitar a revisão de código. Outra funcionalidade essencial é o gerenciamento de branches, que possibilita criar, alternar e mesclar ramificações diretamente no editor, o que facilita o desenvolvimento colaborativo. Embora o Git seja a ferramenta principal integrada, o VS Code também suporta outras soluções de controle de versão, como SVN e Mercurial, através de extensões disponíveis no Marketplace.
 
+## CRUD
+[MDN - Tutorial Django: Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website)
+O tutorial da MDN sobre Django guia o usuário na criação de um site para gerenciar o catálogo de uma biblioteca local. Ele cobre desde a configuração do projeto até a implantação, abordando modelagem de dados, views, templates, autenticação, formulários e testes automatizados. O projeto ensina os fundamentos do Django de forma prática e completa.
+
+
