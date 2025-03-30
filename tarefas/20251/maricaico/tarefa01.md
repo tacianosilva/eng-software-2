@@ -73,5 +73,30 @@ O GitFlow ainda prevê branches especializados para situações específicas:
 
 Essa estrutura combinada com a disciplina nos pull requests cria um equilíbrio entre desenvolvimento ágil e manutenção da estabilidade, permitindo que times colaborativos trabalhem de forma organizada e segura. O resultado é um histórico de projeto limpo e um processo de integração contínua mais confiável.
 
+## Versionamento Semântico
+O Versionamento Semântico (ou Semantic Versioning, SemVer) é um padrão amplamente adotado para numerar versões de software de forma significativa e consistente. Ele ajuda a comunicar claramente o impacto das mudanças em uma nova versão, facilitando a gestão de dependências e a compatibilidade entre sistemas.
+Estrutura Básica: MAIOR.MENOR.PATCH
+
+O número de versão segue o formato X.Y.Z, onde:
+
+> * MAIOR (X.0.0) → Mudanças que quebram compatibilidade com versões anteriores.
+
+> * MENOR (0.Y.0) → Novas funcionalidades adicionadas, sem afetar versões anteriores.
+
+> * PATCH (0.0.Z) → Correções de bugs e pequenas melhorias, sem impactar o funcionamento do software.
+
+Outras Regras Importantes
+
+> * A partir da versão 1.0.0, a API é considerada estável.
+
+> * Versões pré-lançamento são indicadas por sufixos como -alpha, -beta (exemplo: 2.1.0-beta.1).
+
+> * É possível incluir metadados, como 1.0.0+20231001, para informações extras sem afetar a compatibilidade.
+
+Por Que Usar?
+
+> * Previsibilidade: Saber se uma atualização pode quebrar seu sistema.
+> * Controle de Dependências: Evita conflitos em projetos que dependem do seu código.
+> * Clareza: Comunica o impacto da atualização (bugfix, feature ou breaking change).
 
 
