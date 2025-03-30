@@ -44,4 +44,34 @@ O VS Code também possui uma integração eficiente com Git, tornando o controle
 [MDN - Tutorial Django: Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website)
 O tutorial da MDN sobre Django guia o usuário na criação de um site para gerenciar o catálogo de uma biblioteca local. Ele cobre desde a configuração do projeto até a implantação, abordando modelagem de dados, views, templates, autenticação, formulários e testes automatizados. O projeto ensina os fundamentos do Django de forma prática e completa.
 
+## Branches, Pull Request e GitFlow
+No desenvolvimento de software, o GitFlow estabelece um sistema organizado para gerenciar diferentes versões do código através de branches (ramos). Esses ramos funcionam como linhas paralelas de desenvolvimento, permitindo que múltiplas alterações sejam trabalhadas simultaneamente sem interferir no código estável.
+
+O processo começa com dois branches fundamentais:
+
+> * main/master: armazena o código de produção, sempre estável e pronto para uso
+
+> * develop: serve como base para o desenvolvimento contínuo, agregando novas funcionalidades
+
+Quando um desenvolvedor inicia um novo trabalho, cria um branch específico (como feature/nova-funcionalidade ou hotfix/correcao-urgente). Esse isolamento permite experimentos e desenvolvimentos sem riscos para o projeto principal. Cada commit nesses branches mantém um histórico independente até o momento da integração.
+
+Os pull requests representam o mecanismo de controle de qualidade nesse fluxo. Ao invés de mesclar alterações diretamente, o desenvolvedor submete suas mudanças para revisão através de um PR. Esse processo inclui:
+
+> * Uma comparação clara das modificações propostas
+
+> * Espaço para discussão técnica entre os membros da equipe
+
+> * Verificações automáticas de qualidade e testes
+
+> * Aprovação formal antes da integração
+
+O GitFlow ainda prevê branches especializados para situações específicas:
+
+> * release/*: para preparação de novas versões
+
+> * hotfix/*: para correções emergenciais em produção
+
+Essa estrutura combinada com a disciplina nos pull requests cria um equilíbrio entre desenvolvimento ágil e manutenção da estabilidade, permitindo que times colaborativos trabalhem de forma organizada e segura. O resultado é um histórico de projeto limpo e um processo de integração contínua mais confiável.
+
+
 
