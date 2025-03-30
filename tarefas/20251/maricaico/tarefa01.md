@@ -99,4 +99,18 @@ Por Que Usar?
 > * Controle de Dependências: Evita conflitos em projetos que dependem do seu código.
 > * Clareza: Comunica o impacto da atualização (bugfix, feature ou breaking change).
 
+## Conventional Commits
+A especificação do Conventional Commits estabelece um padrão para mensagens de commit, tornando o histórico do projeto mais claro e estruturado. Essa convenção segue as diretrizes do Versionamento Semântico (SemVer) e define como registrar novos recursos, correções e alterações que quebram a compatibilidade da API.
+
+Cada commit deve seguir um formato específico, contendo um tipo, um escopo opcional, uma descrição breve e, se necessário, um corpo com mais detalhes e um rodapé. Os principais tipos são:
+
+> * feat: usado para introduzir um novo recurso (equivalente a uma mudança MINOR no SemVer).
+
+> * fix: indica a correção de um erro no código (corresponde a um PATCH no SemVer).
+
+> * BREAKING CHANGE: pode ser adicionado no rodapé ou representado por um ! no tipo do commit para sinalizar uma alteração incompatível com versões anteriores (alteração MAJOR no SemVer).
+
+Além desses, outros tipos como docs, style, refactor, test e chore podem ser usados para categorizar melhor as mudanças.
+
+Seguir essa convenção traz benefícios como a automação de changelogs, a determinação precisa da versão do software e a melhora na comunicação entre desenvolvedores, tornando o processo de desenvolvimento mais organizado e eficiente.
 
