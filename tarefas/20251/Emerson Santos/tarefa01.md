@@ -30,3 +30,22 @@ A IDE utilizada tanto no frontend como no backend é o VsCode, que possui ótima
 Git Flow é umm estratégia propõer auxiliar na organização do versionamento de códigos. Foi feito pelo engenheiro de software holandês Vincent Driessen. Tem como princpal objetivo melhorar as organizações das branches dentro de          repositórios.
 
 O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais.
+
+## Versionamento Semântico
+**Versionamento Semântico (SemVer)** é um sistema para gerenciar versões de software com base em mudanças na API e compatibilidade. O formato é **MAJOR.MINOR.PATCH**:
+
+- **MAJOR**: Incrementa quando há mudanças **incompatíveis** com versões anteriores.
+- **MINOR**: Incrementa quando são adicionadas **funcionalidades compatíveis**.
+- **PATCH**: Incrementa para **correções de bugs** mantendo a compatibilidade.
+
+### Pré-lançamento e Metadados
+- **Pré-lançamento**: Indica versão instável (ex: `1.0.0-alpha`).
+- **Metadados de construção**: Informações de construção sem afetar a precedência (ex: `1.0.0+20130313144700`).
+
+### Por que usar SemVer?
+SemVer ajuda a evitar problemas com **dependências** e facilita a **comunicação** sobre mudanças no código, promovendo versões mais previsíveis e controladas.
+
+### Exemplo de versões:
+- **1.0.0**: Primeira versão estável.
+- **1.1.0**: Funcionalidades novas, compatíveis.
+- **1.0.1**: Correção de bugs, compatível.
