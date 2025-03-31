@@ -29,3 +29,9 @@ _Repositório:_
 <div style="text-align: justify">
 Estaremos utilizando Python como linguagem principal para o desenvolvimento do back-end do projeto e javascript como primária do front-end. A equipe possui um bom domínio das linguagens, com experiência em projetos anteriores e participação em cursos relacionados.
 </div>
+
+### Framework:
+<div style="text-align: justify">
+Em pról de um desenvolvimento mais sólido, a equipe optou por utilizar uma framework back end com Python (Ainda está para ser escolhida), sendo a principal opção o Django. Para o front end, React.
+</div>
+
