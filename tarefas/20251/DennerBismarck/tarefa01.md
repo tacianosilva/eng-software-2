@@ -58,3 +58,7 @@ Para organização do fluxo de trabalho, estaremos utilizando o GitFlow. Isso no
 O Versionamento Semântico é uma abordagem para atribuir significado a versões de software. Ele define um conjunto de regras e convenções para atribuir números de versão com base nas mudanças no software. Isso facilita a compreensão do impacto das atualizações e ajuda na comunicação entre desenvolvedores e usuários.
 </div>
 
+### Conventional Commits:
+<div style="text-align: justify">
+Conventional Commits é uma convenção para mensagens de commits que permite uma melhor compreensão das alterações realizadas no código. Ele define um formato padrão para as mensagens de commit, incluindo prefixos como fix, feat, chore, entre outros, facilitando o rastreamento de mudanças e automação de processos relacionados ao versionamento do software.
+</div>
