@@ -24,3 +24,8 @@ _Equipe:_
 
 _Repositório:_
 (https://github.com/AlecYalcin/KNN-Barber-App)
+
+### Linguagem de Programação:
+<div style="text-align: justify">
+Estaremos utilizando Python como linguagem principal para o desenvolvimento do back-end do projeto e javascript como primária do front-end. A equipe possui um bom domínio das linguagens, com experiência em projetos anteriores e participação em cursos relacionados.
+</div>
