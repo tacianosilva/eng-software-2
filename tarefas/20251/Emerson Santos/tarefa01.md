@@ -27,7 +27,7 @@ A IDE utilizada tanto no frontend como no backend é o VsCode, que possui ótima
 [Este tutorial](https://www.youtube.com/watch?v=_7UQPve99r4) é uma boa base para quem deseja fazer um crud básico em Node. Caso o MongoDb não seja o banco de dados utilizado ou preferido, pode-se trocar por outro facilmente.
 
 ## Git Flow
-Git Flow é umm estratégia propõer auxiliar na organização do versionamento de códigos. Foi feito pelo engenheiro de software holandês Vincent Driessen. Tem como princpal objetivo melhorar as organizações das branches dentro de          repositórios.
+Git Flow é umm estratégia propõer auxiliar na organização do versionamento de códigos. Foi feito pelo engenheiro de software holandês Vincent Driessen. Tem como princpal objetivo melhorar as organizações das branches dentro de repositórios.
 
 O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais.
 
@@ -38,14 +38,12 @@ O Git Flow trabalha com duas branches principais, a Develop e a Master, que dura
 - **MINOR**: Incrementa quando são adicionadas **funcionalidades compatíveis**.
 - **PATCH**: Incrementa para **correções de bugs** mantendo a compatibilidade.
 
-### Pré-lançamento e Metadados
-- **Pré-lançamento**: Indica versão instável (ex: `1.0.0-alpha`).
-- **Metadados de construção**: Informações de construção sem afetar a precedência (ex: `1.0.0+20130313144700`).
-
 ### Por que usar SemVer?
 SemVer ajuda a evitar problemas com **dependências** e facilita a **comunicação** sobre mudanças no código, promovendo versões mais previsíveis e controladas.
 
-### Exemplo de versões:
-- **1.0.0**: Primeira versão estável.
-- **1.1.0**: Funcionalidades novas, compatíveis.
-- **1.0.1**: Correção de bugs, compatível.
+## Conventional Commits
+É uma convenção para padronizar mensagens de commit, facilitando a automação de ferramentas (como CHANGELOGs) e alinhando-se ao versionamento semântico (SemVer).  
+A estrutura básica inclui um **tipo** (`feat`, `fix`, etc.), **escopo opcional**, **descrição** e seções adicionais (**corpo** e **rodapé**).  
+Commits do tipo `fix` correlacionam-se a **PATCH**, `feat` a **MINOR**, e `BREAKING CHANGE` (no rodapé ou com `!`) a **MAJOR**.  
+Outros tipos (ex: `docs`, `chore`) são permitidos, mas só afetam o versionamento se incluírem mudanças que quebram compatibilidade.  
+A convenção prioriza clareza no histórico de alterações, auxiliando colaboradores e processos de desenvolvimento.
