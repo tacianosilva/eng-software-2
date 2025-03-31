@@ -48,3 +48,8 @@ Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto.
 Tutoriais CRUD e Testes:
 - [Tutorial React + Django CRUD](https://www.youtube.com/watch?v=xldTxXtNiuk)
 
+### Branches e Pull Requests com GitFlow:
+<div style="text-align: justify">
+Para organização do fluxo de trabalho, estaremos utilizando o GitFlow. Isso nos permite ter branches específicas para features, releases, hotfixes, entre outras, facilitando o gerenciamento do código. Os pull requests serão utilizados para revisão de código e integração das alterações.
+</div>
+
