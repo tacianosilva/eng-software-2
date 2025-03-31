@@ -15,12 +15,12 @@ Sistema feito para uma barbearia, automatizando cadastros de horários para aten
 
 </div>
 
-
-
 _Equipe:_
 - Alec Can Yalçin
 - Denner Bismarck de Lucena França
-- Gabriel Antônio Ferreira Lima
-- Leonardo Alves da Costa
-- Luis Felipe dos Santos
+- Guilherme de Medeiros Santos
+- Júlio César Costa de Azevedo
+- Stênio Éric Barreto da Costa
 
+_Repositório:_
+(https://github.com/AlecYalcin/KNN-Barber-App)
