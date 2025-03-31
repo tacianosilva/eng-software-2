@@ -22,3 +22,6 @@ O framework escolhido pela equipe foi NodeJs no backend e a biblioteca React com
 
 ## IDE
 A IDE utilizada tanto no frontend como no backend é o VsCode, que possui ótimas ferramentas tanto para o debug quanto para o controle de versão. O Visual Studio possui integração nativa com o github e é possível realizar grande parte do versionamento mais básico diretamente dele.
+
+## Tutorial
+[Este tutorial](https://www.youtube.com/watch?v=_7UQPve99r4) é uma boa base para quem deseja fazer um crud básico em Node. Caso o MongoDb não seja o banco de dados utilizado ou preferido, pode-se trocar por outro facilmente.
