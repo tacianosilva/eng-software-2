@@ -16,3 +16,6 @@ Reinaldo Alves <br>
 ## Linguagem
 A linguagem utilizada para tanto frontend como frontend é o Typescript, feita pelo Google ela adiciona vários elementos ao Javascript, a principal delas sendo a tipagem de variáveis.<br>
 A equipe possui um bom entendimento a cerca da linguagem, tendo feito alguns projetos para portfólio e agregar no conhecimento da linguagem.
+
+## Framework
+O framework escolhido pela equipe foi NodeJs no backend e a biblioteca React como Frontend. 
