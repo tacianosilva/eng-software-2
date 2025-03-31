@@ -82,3 +82,42 @@ O **GitFlow** é um modelo de fluxo de trabalho para organizar o desenvolvimento
 4. O código é então incorporado à `develop`, garantindo qualidade e organização.
 
 Esse processo melhora a colaboração e reduz riscos ao manter um código mais seguro. 
+
+
+## Versionamento Semântico (SemVer)
+O **Versionamento Semântico** adota um formato **MAJOR.MINOR.PATCH**:
+
+* **MAJOR** (X.0.0) – Mudanças significativas que podem quebrar compatibilidade.
+* **MINOR** (0.X.0) – Adição de funcionalidades sem impacto na compatibilidade.
+* **PATCH** (0.0.X) – Correções e melhorias menores.
+
+Exemplo:
+Se a versão atual for **1.2.3**:
+* Uma nova funcionalidade resultaria em **1.3.0**.
+* Uma correção de bug mudaria para **1.2.4**.
+* Alterações que quebram compatibilidade levariam a **2.0.0**.
+
+Mais detalhes em: [semver.org](https://semver.org/)
+
+## Commits Padronizados com Conventional Commits
+O **Conventional Commits** propõe um padrão para mensagens de commit, tornando-as mais descritivas e organizadas.
+
+### 🔹 Principais Tipos de Commits:
+* **feat:** Implementação de uma nova funcionalidade.
+* **fix:** Correção de um bug.
+* **docs:** Atualizações na documentação.
+* **style:** Ajustes na formatação do código.
+* **refactor:** Melhorias no código sem alterar a lógica.
+* **test:** Inclusão ou atualização de testes.
+* **chore:** Tarefas de manutenção do projeto.
+
+**Exemplos:**
+```bash
+ git commit -m "feat(login): adiciona autenticação via Google"
+ git commit -m "fix(api): corrige erro na resposta do endpoint /users"
+ git commit -m "docs(readme): atualiza instruções de instalação"
+```
+
+## Cadastro no AcademicDevFlow
+Foi feito o cadastro no site, e deixado um feedback. Muito bem estruturado e fluido, apenas pecou um pouco na questão da responsividade do site no mobile, seria uma melhoria a se fazer.
+
