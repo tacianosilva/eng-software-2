@@ -40,3 +40,11 @@ Em pról de um desenvolvimento mais sólido, a equipe optou por utilizar uma fra
 A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
 </div>
 
+### Tutorial CRUD:
+<div style="text-align: justify">
+Encontramos tutoriais úteis que irão nos ajudar no desenvolvimento do projeto.
+</div>
+
+Tutoriais CRUD e Testes:
+- [Tutorial React + Django CRUD](https://www.youtube.com/watch?v=xldTxXtNiuk)
+
