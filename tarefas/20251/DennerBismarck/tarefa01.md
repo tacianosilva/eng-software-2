@@ -35,3 +35,8 @@ Estaremos utilizando Python como linguagem principal para o desenvolvimento do b
 Em pról de um desenvolvimento mais sólido, a equipe optou por utilizar uma framework back end com Python (Ainda está para ser escolhida), sendo a principal opção o Django. Para o front end, React.
 </div>
 
+### IDE:
+<div style="text-align: justify">
+A IDE escolhida para o desenvolvimento é o Visual Studio Code. Ela oferece excelentes ferramentas de debug, integração com Git e GitHub, além de uma grande variedade de extensões para melhorar a produtividade da equipe.
+</div>
+
