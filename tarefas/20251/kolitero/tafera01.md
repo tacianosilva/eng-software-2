@@ -11,3 +11,18 @@ O projeto TechFix consiste no desenvolvimento de um sistema de gestão de assist
 
 - [techFix-backend](https://github.com/quirinof/techFix-backend.git)
 - [techFix-frontend](https://github.com/quirinof/techFix-frontend.git)
+
+### Equipe:
+
+- Matheus Quirino
+- Halyson Santos
+- Artur Morais
+- Isayan Deivid
+
+### Linguagens de programação:
+
+JavaScript é uma linguagem criado origialmente para deixar paginas webs mais dinamicas.\
+TypeScript é um superconjunto sintático estrito de JavaScript,que a adoção ajudara imensamente a equipe.
+
+experiencia:a equipe ja tem experiencia desde p.web pelo curso de Sistemas de informação da UFRN, alem de projetos proprios.
+
