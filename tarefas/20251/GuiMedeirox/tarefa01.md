@@ -32,3 +32,13 @@ Resumo do tutorial:
 - Criação de modelos de dados e endpoints CRUD.
 - Utilização do Pydantic para validação.
 
+**Branches e Pull Requests no GitFlow**
+
+O GitFlow é um modelo de branching que organiza o desenvolvimento em diferentes tipos de branches:
+- **Main**: Contém a versão estável do projeto.
+- **Develop**: Branch principal de desenvolvimento.
+- **Feature branches**: Usadas para novas funcionalidades, derivadas de *develop* e mescladas de volta ao final.
+- **Release branches**: Preparadas para lançamentos, permitindo correções antes da versão final.
+- **Hotfix branches**: Criadas para correções urgentes na *main*.
+
+O **Pull Request (PR)** é a solicitação de mesclagem de código entre branches. No GitHub, ele permite revisão de código, aprovação e merge controlado.
