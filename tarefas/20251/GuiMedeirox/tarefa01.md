@@ -22,3 +22,13 @@ Usaremos JavaScript com React para o front-end e Python com FastAPI para o back-
 
 Usaremos o **Visual Studio Code (VSCode)**, uma IDE leve e altamente extensível. O VSCode possui suporte a depuração para diversas linguagens através de extensões, permitindo a configuração de breakpoints e execução passo a passo do código. No controle de versão, utilizaremos **Git via terminal** para gerenciar os commits, branches e merge requests.
 
+**Tutorial de CRUD com FastAPI**
+
+Um tutorial excelente para aprender a criar um CRUD com FastAPI pode ser encontrado neste link: [https://fastapi.tiangolo.com/tutorial/sql-databases/](https://fastapi.tiangolo.com/tutorial/sql-databases/).
+
+Resumo do tutorial:
+- Configuração de um banco de dados SQLite.
+- Uso do SQLAlchemy para interagir com o banco.
+- Criação de modelos de dados e endpoints CRUD.
+- Utilização do Pydantic para validação.
+
