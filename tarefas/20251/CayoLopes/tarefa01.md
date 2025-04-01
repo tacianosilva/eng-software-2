@@ -26,3 +26,9 @@ Para o desenvolvimento do sistema, utilizaremos o framework Django, que oferece 
 # Seção D
 
 No projeto serão utilizados git para versionamento de código, e github para armazenamento remoto.
+
+# Seção E
+
+[Tutorial](https://github.com/prosenjeetshil/django-crud-operations-tutorial)
+
+Este tutorial ensina a criar um projeto CRUD (Create, Read, Update, Delete) em Django utilizando function-based views. 
