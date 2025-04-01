@@ -46,3 +46,23 @@ O projeto será desenvolvido utilizando a linguagem de programação **Python** 
 
 A equipe tem uma sólida base em Python e Django, com experiência variada em outras linguagens, o que permite uma adaptação eficiente e um bom aproveitamento do framework para o desenvolvimento do sistema.
 
+---
+
+### **IDE Escolhida: Visual Studio Code (VS Code)**  
+A IDE escolhida para o desenvolvimento do projeto é o **Visual Studio Code (VS Code)**, uma das mais populares e amplamente utilizadas por desenvolvedores. O VS Code oferece diversos recursos que ajudam no aumento da produtividade e na qualidade do código.
+
+#### **Ferramentas de Debug Integradas:**
+O VS Code possui uma poderosa ferramenta de **debugging** integrada que facilita a detecção e resolução de problemas no código. Com ela, é possível:
+- Definir breakpoints para interromper a execução em pontos específicos do código.
+- Inspecionar variáveis e ver seus valores em tempo real.
+- Controlar a execução do código (passar, avançar, continuar, etc.).
+- Depurar código em várias linguagens, incluindo Python (com o plugin apropriado).
+  
+#### **Ferramentas de Controle de Versão (Git):**
+O VS Code também possui integração nativa com **Git**, permitindo:
+- Visualizar alterações no código com uma interface gráfica intuitiva.
+- Cometer alterações, criar branches e realizar merges diretamente pela interface do editor.
+- Resolver conflitos de merge facilmente.
+- Acompanhar o histórico de commits e visualizar o status do repositório.
+  
+Essas funcionalidades fazem do VS Code uma escolha robusta e eficiente para o desenvolvimento do projeto, além de otimizar o fluxo de trabalho da equipe.
