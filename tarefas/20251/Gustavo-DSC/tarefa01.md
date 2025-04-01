@@ -28,3 +28,8 @@ A principal IDE será o **VS Code**, que possui:
 ## Seção E
 [O GUIA INICIAL COMPLETO DE PYTHON E DJANGO](https://youtu.be/YW113aC8TII?si=7vBYD_ckRb2TRXBD)  
 Esse tutorial ensina conceitos iniciais sobre o desenvolvimento web com Python e o framework Django.
+
+## Seção F
+O **GitFlow** é uma estratégia de gerenciamento de branches que organiza o fluxo de trabalho em um repositório Git.  
+- A branch `main` é usada para versões estáveis e a `develop` para desenvolvimento contínuo.  
+- Novas funcionalidades são desenvolvidas em branches secundárias (`feature/nomedafuncionalidade`) e depois integradas via **Pull Request (PR)**.  
