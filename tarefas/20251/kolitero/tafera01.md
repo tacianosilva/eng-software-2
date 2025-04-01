@@ -47,3 +47,18 @@ experiencia:a equipe ja tem experiencia desde p.web pelo curso de Sistemas de in
 ## Branch e Pull Request (ou merge request)
 No GitFlow, branches são usadas para organizar o desenvolvimento, com branches como main, develop, feature, release e hotfix. Um Pull Request (ou Merge Request) é a solicitação para mesclar as alterações de uma branch para outra, sendo revisado antes de ser integrado. GitFlow ajuda a estruturar o fluxo de trabalho, garantindo uma integração contínua e controlada no projeto.
 
+## versionamento 
+
+O versionamento semântico é um padrão de atribuição de versão de software que estabelece que o número de versão de um software será composto por três partes separadas por pontos: MAJOR.MINOR.PATCH. Cada parte tem um significado específico:
+
+MAJOR: Incrementado quando são feitas alterações incompatíveis na API.
+
+MINOR: Incrementado quando funcionalidades são adicionadas de forma compatível com versões anteriores.
+
+PATCH: Incrementado quando correções de bugs são feitas de forma compatível com versões anteriores.
+
+Por exemplo:
+
+```
+1.2.1
+```
