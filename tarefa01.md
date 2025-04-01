@@ -45,3 +45,10 @@ O Visual Studio Code foi escolhido para ser o ambiente de desenvolvimento. Apesa
 
 Esse o link de uma playlist que eu utilizei enquanto aprendia a usar o Django. Vi todas as aulas para fazer um projeto da  matéria de programação no IFRN. Basicamente, ao longo dos vídeos, ele apresenta o conceitos básicos do Django, conceito da web e conceitos na parte de programação. Após algumas aulas, ele fazer um tutorial de como implementar todas as partes de um CRUD.
 
+# Branches e Pull Requests
+
+O GitFlow é um modelo de organização do Git que define diferentes tipos de branches para facilitar o desenvolvimento de software. Ele divide as branches em principais e de suporte. As principais são a master (código pronto para produção) e a develop (onde novas funcionalidades são integradas). As de suporte incluem as feature branches (para novas funcionalidades), release branches (para preparar versões antes do lançamento) e hotfix branches (para correções urgentes em produção).
+
+Os Pull Requests (ou Merge Requests) são usados para revisar e integrar mudanças no código. No GitFlow, eles são criados para mesclar feature branches na develop, release branches na master e hotfix branches diretamente na master (depois sendo levadas para develop também). Esse processo garante um controle de qualidade eficiente, permitindo revisões de código antes da integração.
+
+O uso de Pull Requests com GitFlow melhora a colaboração e evita erros, já que cada alteração passa por uma revisão antes de ser incorporada ao projeto. Além disso, práticas como testes automatizados podem ser aplicadas nos PRs para garantir a estabilidade do código antes da sua fusão.
