@@ -62,3 +62,23 @@ Por exemplo:
 ```
 1.2.1
 ```
+
+### Conventional commits
+
+Conventional commits são convenções adotas as mensagens de commits para deixalas de fácil compreensão e consistentes.
+
+Alguns exemplos de tipo:
+
+- feat: para novas funcionalidades
+- fix: para correção de bugs
+- docs: para alterações na documentação
+- style: para alterações que não afetam o significado do código (formatação, pontuação, etc.)
+- refactor: para refatorações de código
+- test: para adição ou modificação de testes
+- chore: para tarefas de build, configuração, etc.
+
+#### exemplo 
+
+```bash
+fix(pagina de login): background invertido
+```
