@@ -31,5 +31,10 @@ experiencia:a equipe ja tem experiencia desde p.web pelo curso de Sistemas de in
  tambem usaremos prisma como ORM sendo o banco de dados
  um PostgreSQL
 
+ ## idle:
+ usaremos visual studio code e suas extensoes
+
+ 
+
 
 
