@@ -39,3 +39,10 @@ O versionamento semântico usa o formato MAJOR.MINOR.PATCH para indicar mudança
 MAJOR: Mudanças que quebram compatibilidade.
 MINOR: Novas funcionalidades compatíveis com versões anteriores.
 PATCH: Correções de bugs sem alterar funcionalidades.
+
+## Seção H
+O **Conventional Commits** define um padrão para mensagens de commit no Git, facilitando a rastreabilidade.
+Exemplos:  
+- `feat: adiciona funcionalidade de login`  
+- `fix: corrige bug na página de checkout`  
+- `docs: melhora documentação do projeto`  
