@@ -26,6 +26,11 @@ Para o desenvolvimento do projeto, utilizamos o **Visual Studio Code (VS Code)**
 - **Controle de Versão (Git Integration)**: O suporte nativo ao **Git** permite clonar repositórios, criar branches, fazer commits e push diretamente pela interface da IDE.
 - **Extensões**: A equipe utiliza extensões como **Python**, **Django**, **PostgreSQL** e **GitLens** para aumentar a produtividade e facilitar o desenvolvimento.
 
+## Link de Tutorial
+Para aprender a fazer um CRUD com Django, confira este tutorial em vídeo no YouTube: [Tutorial CRUD Django](https://www.youtube.com/watch?v=GGBzMpIAgz4)
+
+### Sobre o Tutorial
+Este tutorial em vídeo ensina a construir um CRUD básico utilizando o Django, cobrindo desde a instalação e configuração até a criação das funcionalidades de criação, leitura, atualização e exclusão de dados em uma aplicação web. É ideal para quem está começando com Django e quer entender os conceitos fundamentais do framework enquanto cria uma aplicação real.
 
 ## Equipe
 - **Renan Costa**
