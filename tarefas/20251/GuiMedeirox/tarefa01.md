@@ -7,3 +7,7 @@ Guilherme - GuiMedeirox - guilherme.medeiros.706@ufrn.edu.br
 **Equipe e Link para o Repositório**
 
 A equipe é composta por integrantes com conhecimento básico em JavaScript/React e Python/FastAPI, com a intenção de aprofundar esses conhecimentos conforme as demandas do projeto surgirem. O repositório do projeto pode ser acessado aqui https:/www.github.com/AlecYalcin/KNN-Barber-App
+
+**Linguagem de Programação**
+
+Usaremos JavaScript com React para o front-end e Python com FastAPI para o back-end. O conhecimento da equipe nessas tecnologias é básico, mas estamos comprometidos em aprofundá-lo ao longo do desenvolvimento do projeto.
