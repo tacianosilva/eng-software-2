@@ -146,4 +146,8 @@ Essa convenção ajuda a manter o histórico de commits organizado, permitindo q
 
 ---
 
+## 🔗 Feedback sobre o Sistema Academic Dev Flow
 
+Achei bastante prático o processo de cadastro no sistema, facilitando a integração dos discentes com os docentes e permitindo atividades e projetos em equipes.
+
+---
