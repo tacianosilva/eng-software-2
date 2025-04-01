@@ -32,3 +32,13 @@ No projeto serão utilizados git para versionamento de código, e github para ar
 [Tutorial](https://github.com/prosenjeetshil/django-crud-operations-tutorial)
 
 Este tutorial ensina a criar um projeto CRUD (Create, Read, Update, Delete) em Django utilizando function-based views. 
+
+# Seção F
+
+No Git e GitHub, branches permitem que os desenvolvedores trabalhem em novas funcionalidades ou correções sem afetar o código principal do projeto. O GitFlow é um fluxo de trabalho que organiza o uso de branches para manter um desenvolvimento estruturado e seguro.
+
+Branches no GitFlow
+O GitFlow define diferentes tipos de branches para gerenciar o desenvolvimento do software:
+
+Pull Requests (Merge Requests)
+Um Pull Request , também chamado de Merge Request , é uma solicitação para mesclar mudanças de uma branch em outra.
