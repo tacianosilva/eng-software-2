@@ -32,6 +32,23 @@ Para aprender a fazer um CRUD com Django, confira este tutorial em vídeo no You
 ### Sobre o Tutorial
 Este tutorial em vídeo ensina a construir um CRUD básico utilizando o Django, cobrindo desde a instalação e configuração até a criação das funcionalidades de criação, leitura, atualização e exclusão de dados em uma aplicação web. É ideal para quem está começando com Django e quer entender os conceitos fundamentais do framework enquanto cria uma aplicação real.
 
+## Branches e Pull Requests com GitFlow
+No fluxo de trabalho com o GitFlow, a utilização de **branches** e **pull requests (PRs)** (também conhecidos como **merge requests**) é uma prática fundamental para garantir a colaboração eficiente entre os desenvolvedores e manter o código organizado.
+
+### Branches
+O conceito de **branch** (ramo) no Git permite que diferentes desenvolvedores trabalhem em partes distintas de um projeto sem afetar a versão estável do código. Cada branch representa uma linha de desenvolvimento, onde novas funcionalidades, correções de bugs e melhorias podem ser feitas de forma isolada. Ao seguir o modelo **GitFlow**, as principais branches são:
+
+- **master**: Representa a versão de produção, sempre estável.
+- **develop**: A branch onde o desenvolvimento contínuo acontece. Funciona como a base para as futuras releases.
+- **feature branches**: Criadas a partir da branch **develop**, essas branches são usadas para o desenvolvimento de novas funcionalidades.
+- **release branches**: Quando a **develop** está pronta para ser lançada, uma **release branch** é criada para preparar o código para produção.
+- **hotfix branches**: Utilizadas para corrigir problemas urgentes na versão de produção.
+
+### Pull Requests (PRs) e Merge Requests
+Após concluir o trabalho em uma branch de **feature** ou **hotfix**, o desenvolvedor cria um **pull request** (PR) para solicitar que suas alterações sejam integradas ao código principal. O processo de **merge** é realizado após a revisão e aprovação do código, garantindo que as mudanças não quebrem a funcionalidade existente e estejam de acordo com os padrões do projeto.
+
+Os **pull requests** são fundamentais no GitFlow, pois facilitam a colaboração entre os membros da equipe e proporcionam uma maneira estruturada de revisar e integrar alterações. Além disso, os PRs oferecem a possibilidade de comentar e sugerir melhorias antes que as alterações sejam mescladas com o código principal.
+
 ## Equipe
 - **Renan Costa**
 - **Luiz Miguel**  
