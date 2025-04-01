@@ -34,7 +34,13 @@ experiencia:a equipe ja tem experiencia desde p.web pelo curso de Sistemas de in
  ## idle:
  usaremos visual studio code e suas extensoes
 
- 
 
 
+### Tutoriais
+
+[CRUD em next.js - para iniciantes](https://youtu.be/iJejohAs9EY?si=n4rTXfRdAr9vxXN2)
+
+[CRUD RestAPI em node, express, postgres e docker](https://youtu.be/TYB-Lz8YGFk?si=ae1uGVRyQTUWahph)
+
+[Aplicação web fullstack usando node, next, express, prisma, postgres e docker](https://www.youtube.com/live/NaqNk2TbeRE?si=q308hzY3aZNWkqTY)
 
