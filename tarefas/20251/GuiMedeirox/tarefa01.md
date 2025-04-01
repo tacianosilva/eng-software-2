@@ -52,3 +52,23 @@ O Versionamento Semântico (“SemVer”) segue o formato `MAJOR.MINOR.PATCH`:
 - **PATCH**: Atualizado para correção de bugs e melhorias menores.
 
 Exemplo: `1.2.3` indica versão 1 com segunda adição de funcionalidade e terceira correção de bug.
+
+
+**Conventional Commits**
+
+O Conventional Commits padroniza mensagens de commits, tornando o histórico mais legível. Ele segue o formato:
+
+```
+tipo(escopo opcional): descrição breve
+
+[corpo opcional]
+[rodapé opcional]
+```
+
+Exemplos:
+- `feat(auth): adiciona login por Google` (nova funcionalidade)
+- `fix(api): corrige bug no endpoint de usuários` (correção de bug)
+
+Isso facilita a automação de versionamento e geração de changelogs.
+
+(itens I e J -> ok)
