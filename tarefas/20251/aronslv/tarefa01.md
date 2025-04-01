@@ -120,3 +120,30 @@ Além disso, versões de pré-lançamento e metadados de construção podem ser 
 Adotar o Versionamento Semântico ajuda a manter a clareza sobre a evolução do software, permitindo que desenvolvedores e usuários compreendam rapidamente a natureza das mudanças entre as versões.
 
 ---
+
+### **Conventional Commits**
+
+**Conventional Commits** é uma especificação que define convenções para mensagens de commit, visando criar um histórico de commits claro e estruturado. Essa convenção facilita a automação de processos, como a geração de changelogs e versionamento semântico. [Fonte](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+
+**Estrutura da Mensagem de Commit:**
+
+A mensagem de commit deve seguir o formato:
+
+
+- **tipo**: Define a categoria da mudança (exemplo: `feat` para novas funcionalidades ou `fix` para correções).
+- **escopo (opcional)**: Especifica a área do código afetada pela mudança.
+- **descrição**: Um resumo conciso sobre a alteração.
+- **corpo (opcional)**: Detalhes adicionais sobre as mudanças.
+- **rodapé (opcional)**: Informações adicionais, como referências a issues ou notas sobre alterações que quebram a compatibilidade.
+
+**Exemplos de Mensagens de Commit:**
+
+- Adicionar uma nova funcionalidade de tradução:
+- Corrigir um erro de digitação no código:
+- Remover suporte para uma versão antiga do Node.js, resultando em uma mudança incompatível:
+
+Essa convenção ajuda a manter o histórico de commits organizado, permitindo que ferramentas automatizadas possam gerenciar versões e mudanças de maneira mais eficiente.
+
+---
+
+
