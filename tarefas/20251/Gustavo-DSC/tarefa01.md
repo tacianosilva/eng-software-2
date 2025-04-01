@@ -5,7 +5,7 @@
 
 ## Seção A 
 **Título:** SGO (Sistema de Gerenciamento de Ótica)  
-**Descrição:** Um sistema web para gerenciar o estoque, vendas e clientes de uma ótica, facilitando a administração e controle de produtos.  
+**Descrição:** Um sistema web para gerenciar o estoque, vendas e clientes de uma ótica, facilitando a administração e controle de produtos da ótica.
 **Equipe:**  
 - Gustavo Douglas Silva Cruz  
 - Joyce Oliveira dos Santos  
