@@ -18,3 +18,7 @@ Sistema para controle eficiente de estoque em óticas, com funcionalidades para 
 # Seção B 
 
 A linguagem escolhida para o desenvolvimento do aplicativo foi Python, devido à sua sintaxe relativamente simples e intuitiva. Além disso, todos os membros do grupo possuem experiência prévia utilizando Python, o que facilita a colaboração e o desenvolvimento eficiente do projeto.
+
+# Seção C
+
+Para o desenvolvimento do sistema, utilizaremos o framework Django, que oferece uma estrutura robusta e escalável para a construção de aplicações web. Django fornece uma arquitetura baseada no padrão MVC (Model-View-Controller), facilitando a organização do código e a manutenção do projeto.
