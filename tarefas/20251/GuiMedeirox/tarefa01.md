@@ -42,3 +42,13 @@ O GitFlow é um modelo de branching que organiza o desenvolvimento em diferentes
 - **Hotfix branches**: Criadas para correções urgentes na *main*.
 
 O **Pull Request (PR)** é a solicitação de mesclagem de código entre branches. No GitHub, ele permite revisão de código, aprovação e merge controlado.
+
+
+**Versionamento Semântico**
+
+O Versionamento Semântico (“SemVer”) segue o formato `MAJOR.MINOR.PATCH`:
+- **MAJOR**: Alterado quando há modificações incompatíveis com versões anteriores.
+- **MINOR**: Incrementado para novas funcionalidades compatíveis.
+- **PATCH**: Atualizado para correção de bugs e melhorias menores.
+
+Exemplo: `1.2.3` indica versão 1 com segunda adição de funcionalidade e terceira correção de bug.
