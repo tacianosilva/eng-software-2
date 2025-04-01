@@ -38,3 +38,10 @@ Quatro dos seis integrantes têm experiência com Django, e, somado aos benefíc
 # IDE
 
 O Visual Studio Code foi escolhido para ser o ambiente de desenvolvimento. Apesar de não ser uma IDE propriamente dita, é um editor de código altamente extensível que pode funcionar como uma IDE por meio de suas extensões. Para depuração, o VSCode conta com um debugger integrado, permitindo a execução passo a passo do código, inspeção de variáveis e definição de pontos de interrupção. Além disso, possui suporte nativo ao Git, oferecendo uma interface mais amigável para o controle básico de versionamento.
+
+# Tutorial
+
+[Playlist Crud em Django](https://www.youtube.com/watch?v=UIvnNCQnejw&list=PLHWfNMxB2F4HdKbo8zdgXyxVDOxH429Ko)
+
+Esse o link de uma playlist que eu utilizei enquanto aprendia a usar o Django. Vi todas as aulas para fazer um projeto da  matéria de programação no IFRN. Basicamente, ao longo dos vídeos, ele apresenta o conceitos básicos do Django, conceito da web e conceitos na parte de programação. Após algumas aulas, ele fazer um tutorial de como implementar todas as partes de um CRUD.
+
