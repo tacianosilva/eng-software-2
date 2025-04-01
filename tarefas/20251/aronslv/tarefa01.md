@@ -97,3 +97,26 @@ Os **Pull Requests** (PR) — ou **Merge Requests** — são ferramentas essenci
 7. **Limpeza**: Após o merge, a branch de funcionalidade pode ser deletada para manter o repositório organizado.
 
 Utilizando o GitFlow e PRs, é possível manter um fluxo de trabalho organizado, garantindo que todas as alterações sejam bem documentadas, revisadas e integradas de forma controlada.
+
+---
+
+### **Versionamento Semântico (SemVer)**  
+O **Versionamento Semântico**, ou **SemVer**, é um sistema que define regras sobre como os números de versão são atribuídos e incrementados, com o objetivo de comunicar de forma clara a natureza das mudanças em cada versão do software. Isso facilita o entendimento sobre a compatibilidade e o impacto das alterações feitas.  
+[SemVer - Site Oficial](https://semver.org/lang/pt-BR/)
+
+**Formato da Versão:**
+O número de versão no SemVer segue o formato **MAJOR.MINOR.PATCH**, onde:
+- **MAJOR**: Incrementado quando há mudanças incompatíveis na API pública.
+- **MINOR**: Incrementado quando são adicionadas funcionalidades compatíveis com versões anteriores.
+- **PATCH**: Incrementado quando há correções de bugs compatíveis com versões anteriores.
+
+Além disso, versões de pré-lançamento e metadados de construção podem ser adicionados para fornecer informações adicionais sobre o estado da versão.
+
+**Princípios Fundamentais:**
+- **Declaração de API Pública**: O software deve definir claramente sua API pública, seja por meio de documentação ou código, garantindo que seja precisa e compreensível.
+- **Imutabilidade de Versões Lançadas**: Uma vez que uma versão é lançada, seu conteúdo não deve ser alterado. Quaisquer modificações devem resultar em uma nova versão.
+- **Estabilidade Progressiva**: Versões com número MAJOR igual a zero (0.y.z) indicam que o software está em desenvolvimento inicial, e mudanças podem ocorrer a qualquer momento. A versão 1.0.0 marca a definição de uma API estável.
+
+Adotar o Versionamento Semântico ajuda a manter a clareza sobre a evolução do software, permitindo que desenvolvedores e usuários compreendam rapidamente a natureza das mudanças entre as versões.
+
+---
