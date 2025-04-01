@@ -46,3 +46,7 @@ Um Pull Request , também chamado de Merge Request , é uma solicitação para m
 # Seção G
 
 O versionamento semântico (SemVer) é um padrão para controle de versões de software, garantindo compatibilidade e clareza nas atualizações.
+
+# Seção H 
+
+O Conventional Commits é uma especificação para padronizar mensagens de commit no Git. Ele define regras que tornam o histórico do repositório mais legível e permitem automação, como geração de changelogs e versionamento semântico.
