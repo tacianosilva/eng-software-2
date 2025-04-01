@@ -71,3 +71,29 @@ Essas funcionalidades fazem do VS Code uma escolha robusta e eficiente para o de
 
 [MDN - Tutorial Django: Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website)
  O tutorial da MDN sobre Django guia o usuário na criação de um site para gerenciar o catálogo de uma biblioteca local. Ele cobre desde a configuração do projeto até a implantação, abordando modelagem de dados, views, templates, autenticação, formulários e testes automatizados. O projeto ensina os fundamentos do Django de forma prática e completa.
+
+---
+
+### **GitFlow, Branches e Pull Requests**
+
+#### **GitFlow: Modelo de Ramificação**
+O **GitFlow** é um modelo de ramificação que organiza o fluxo de trabalho no Git, facilitando a gestão do código e suas versões. Ele é amplamente utilizado em equipes de desenvolvimento para manter o controle e a qualidade do código. Aqui estão as principais branches utilizadas no GitFlow:
+
+- **`master`**: Representa o estado de produção do código. Cada commit nesta branch deve estar em funcionamento e pronto para ser implantado.
+- **`develop`**: A branch de desenvolvimento principal, onde as funcionalidades são integradas antes de serem lançadas para produção.
+- **Branches de Funcionalidade (`feature/*`)**: Criadas a partir de `develop`, essas branches são usadas para desenvolver novas funcionalidades. Após concluídas, são mescladas de volta em `develop`.
+- **Branches de Release (`release/*`)**: Originadas de `develop`, são utilizadas para preparar novas versões de produção. Elas permitem a correção de bugs e ajustes finais antes da liberação para `master`.
+- **Branches de Hotfix (`hotfix/*`)**: Derivadas de `master`, são usadas para corrigir problemas críticos em produção. Após a correção, as alterações são mescladas em `master` e `develop`.
+
+#### **Pull Requests (PR) e Merge Requests**
+Os **Pull Requests** (PR) — ou **Merge Requests** — são ferramentas essenciais para revisar e integrar código de maneira controlada. Eles permitem que os desenvolvedores notifiquem a equipe sobre alterações concluídas, solicitando a revisão antes da integração. O fluxo de trabalho básico com PRs é o seguinte:
+
+1. **Criação de uma Branch de Funcionalidade**: Crie uma branch separada da `develop` para implementar uma nova funcionalidade.
+2. **Desenvolvimento e Commit**: Realize as alterações e faça commits frequentemente para documentar o progresso.
+3. **Push para o Repositório Remoto**: Envie a branch para o repositório remoto no GitHub.
+4. **Criação do Pull Request**: Abra um PR no GitHub, direcionando a branch para `develop` (ou `master`, dependendo do caso).
+5. **Revisão e Feedback**: Revisores analisam o código e fornecem feedback. Ajustes podem ser feitos até que o código esteja pronto para ser integrado.
+6. **Aprovação e Merge**: Após aprovação, o PR é mesclado na branch de destino (`develop` ou `master`).
+7. **Limpeza**: Após o merge, a branch de funcionalidade pode ser deletada para manter o repositório organizado.
+
+Utilizando o GitFlow e PRs, é possível manter um fluxo de trabalho organizado, garantindo que todas as alterações sejam bem documentadas, revisadas e integradas de forma controlada.
