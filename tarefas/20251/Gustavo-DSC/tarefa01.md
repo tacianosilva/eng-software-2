@@ -12,3 +12,6 @@
 - Gabriel Gomes Dos Santos  
 - Cayo César da Costa Lopes  
 **Repositório do Projeto:** [https://github.com/Joyce8900/SGO---EngII]
+
+## Seção B
+O projeto será desenvolvido em **Python**. A equipe possui conhecimento básico na linguagem, mas pretende aprofundá-lo ao longo do desenvolvimento.  
