@@ -20,3 +20,7 @@ O projeto **Caderneta Virtual de Vendas (CVV)** é um sistema de gerenciamento d
 ## Repositório
 
 https://github.com/Lleusxam/caderneta-virtual
+
+# Linguagem de Programação
+
+A linguagem escolhida para o desenvolvimento do projeto é Python, devido à sua simplicidade, legibilidade e vasta gama de bibliotecas, servindo para o propósito da nossa aplicação. Além disso, todos os integrantes tem experiência com a linguagem, o que torna sua escolha justificável.
