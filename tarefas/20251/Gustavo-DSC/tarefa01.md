@@ -24,3 +24,7 @@ A principal IDE será o **VS Code**, que possui:
 - Suporte a extensões para Python e Django  
 - Ferramentas de debug integradas  
 - Integração com Git e GitHub  
+
+## Seção E
+[O GUIA INICIAL COMPLETO DE PYTHON E DJANGO](https://youtu.be/YW113aC8TII?si=7vBYD_ckRb2TRXBD)  
+Esse tutorial ensina conceitos iniciais sobre o desenvolvimento web com Python e o framework Django.
