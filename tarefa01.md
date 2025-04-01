@@ -52,3 +52,12 @@ O GitFlow é um modelo de organização do Git que define diferentes tipos de br
 Os Pull Requests (ou Merge Requests) são usados para revisar e integrar mudanças no código. No GitFlow, eles são criados para mesclar feature branches na develop, release branches na master e hotfix branches diretamente na master (depois sendo levadas para develop também). Esse processo garante um controle de qualidade eficiente, permitindo revisões de código antes da integração.
 
 O uso de Pull Requests com GitFlow melhora a colaboração e evita erros, já que cada alteração passa por uma revisão antes de ser incorporada ao projeto. Além disso, práticas como testes automatizados podem ser aplicadas nos PRs para garantir a estabilidade do código antes da sua fusão.
+
+# Versionamento semântico
+
+​O Versionamento Semântico é um sistema que atribui números de versão a softwares de forma a indicar claramente o tipo e a importância das mudanças realizadas. Cada versão é representada por três números no formato MAJOR.MINOR.PATCH, onde: 
+- MAJOR: Incrementado quando há alterações incompatíveis na API.
+- MINOR: Incrementado ao adicionar funcionalidades compatíveis com versões anteriores.
+- PATCH: Incrementado ao corrigir falhas mantendo a compatibilidade com versões anteriores.
+
+Além disso, é possível adicionar rótulos para pré-lançamento (por exemplo, -alpha, -beta) e metadados de construção (por exemplo, +001) para fornecer informações adicionais sobre a versão. Esse sistema facilita a comunicação entre desenvolvedores e usuários, indicando claramente o impacto das mudanças realizadas no software.
