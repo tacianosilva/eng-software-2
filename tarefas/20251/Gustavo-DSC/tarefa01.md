@@ -15,3 +15,6 @@
 
 ## Seção B
 O projeto será desenvolvido em **Python**. A equipe possui conhecimento básico na linguagem, mas pretende aprofundá-lo ao longo do desenvolvimento.  
+
+## Seção C 
+Será utilizado **Django**, um framework web escrito em Python que segue o padrão MVC (Model-View-Controller).
