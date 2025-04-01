@@ -22,3 +22,7 @@ A linguagem escolhida para o desenvolvimento do aplicativo foi Python, devido à
 # Seção C
 
 Para o desenvolvimento do sistema, utilizaremos o framework Django, que oferece uma estrutura robusta e escalável para a construção de aplicações web. Django fornece uma arquitetura baseada no padrão MVC (Model-View-Controller), facilitando a organização do código e a manutenção do projeto.
+
+# Seção D
+
+No projeto serão utilizados git para versionamento de código, e github para armazenamento remoto.
