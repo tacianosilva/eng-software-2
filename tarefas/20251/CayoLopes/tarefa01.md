@@ -3,6 +3,18 @@
 **E-mail** cayocesarlopes@gmail.com
 **Usuário** CayoLopes
 
+# Seção A
+
+### SGO
+
+Sistema para controle eficiente de estoque em óticas, com funcionalidades para gerenciar produtos, fornecedores, funcionários e gerar relatórios financeiros.
+
+- Cayo César da Costa Lopes
+- Gabriel Gomes dos Santos
+- Gustavo Douglas Silva Cruz
+- Joyce Oliveira dos Santos
+[Link Repositório](https://github.com/Joyce8900/SGO-EngII)
+
 # Seção B 
 
 A linguagem escolhida para o desenvolvimento do aplicativo foi Python, devido à sua sintaxe relativamente simples e intuitiva. Além disso, todos os membros do grupo possuem experiência prévia utilizando Python, o que facilita a colaboração e o desenvolvimento eficiente do projeto.
