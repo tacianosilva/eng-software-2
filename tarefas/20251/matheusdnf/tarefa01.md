@@ -44,3 +44,19 @@ O Visual Studio Code foi escolhido para ser o ambiente de desenvolvimento. Apesa
 [link Tutorial](https://youtu.be/Q2tEqNfgIXM?si=8m9gCEgmVseMsXoA)
 
 resumidamente o vídeo ensina passo a passo de como criar e estruturar um CRUD em jungle, as peculiaridades e cuidados que devem se ter em sua criação, integrado juntamente a criação de api utilzando um banco não relacional. além da arquitetura do próprio django.
+
+# Branches e Pull Request
+
+### Branches:
+
+Branches são utilizadas para criar versões isoladas de um mesmo código, permitindo que várias pessoas implementem diferentes funcionalidades (features) a partir de uma base comum, sem depender das mudanças de outras partes do projeto. Isso garante que o trabalho de cada desenvolvedor não afete o código principal. Existem diferentes tipos de branches, como:
+
+    Main: Onde se encontra o código principal, a base de tudo,geralmente a versão estável e em produção.
+
+    Feature: Branch destinada à implementação de novas funcionalidades do sistema.
+
+    Release: Branches criadas para a liberação e integração das novas funcionalidades com o código principal.
+
+### Pull Request (PR) ou Merge Request (MR):
+
+Pull Request (ou Merge Request) é a fase de integração de tudo aquilo que foi produzido em uma branch para o código principal. Eles são usados para revisar e unir as alterações feitas em outras branches com o branch principal do projeto, garantindo controle de versionamento,revisão do código e a qualidade do código,usados para garantir que as alterações estejam bem implementadas e não quebrem funcionalidades existentes. O uso do GitFlow com PRs facilita a gestão de versões e a colaboração entre equipes, mantendo o código estável e bem estruturado durante o desenvolvimento e os lançamentos.
