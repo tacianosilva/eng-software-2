@@ -26,3 +26,10 @@ TypeScript é um superconjunto sintático estrito de JavaScript,que a adoção a
 
 experiencia:a equipe ja tem experiencia desde p.web pelo curso de Sistemas de informação da UFRN, alem de projetos proprios.
 
+## framework:
+ usaremos Next.js que é um framework React para construção de aplicações web e sites dinâmicos com renderização do lado do servidor (SSR) e Express.js que é um framework minimalista para Node.js, facilitando a criação de APIs e servidores.\
+ tambem usaremos prisma como ORM sendo o banco de dados
+ um PostgreSQL
+
+
+
