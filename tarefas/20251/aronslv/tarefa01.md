@@ -66,3 +66,8 @@ O VS Code também possui integração nativa com **Git**, permitindo:
 - Acompanhar o histórico de commits e visualizar o status do repositório.
   
 Essas funcionalidades fazem do VS Code uma escolha robusta e eficiente para o desenvolvimento do projeto, além de otimizar o fluxo de trabalho da equipe.
+
+### Tutorial
+
+[MDN - Tutorial Django: Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website)
+ O tutorial da MDN sobre Django guia o usuário na criação de um site para gerenciar o catálogo de uma biblioteca local. Ele cobre desde a configuração do projeto até a implantação, abordando modelagem de dados, views, templates, autenticação, formulários e testes automatizados. O projeto ensina os fundamentos do Django de forma prática e completa.
