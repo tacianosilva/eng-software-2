@@ -34,3 +34,7 @@ Vamos usar o framework Django que por sua vez usa a linguagem Python.
 ## Experiência da equipe
 
 Quatro dos seis integrantes têm experiência com Django, e, somado aos benefícios de modularização e produtividade do framework, isso torna sua escolha altamente justificável. Além disso, os outros dois integrantes demonstraram interesse em estudar a ferramenta, reforçando ainda mais a viabilidade da decisão.
+
+# IDE
+
+O Visual Studio Code foi escolhido para ser o ambiente de desenvolvimento. Apesar de não ser uma IDE propriamente dita, é um editor de código altamente extensível que pode funcionar como uma IDE por meio de suas extensões. Para depuração, o VSCode conta com um debugger integrado, permitindo a execução passo a passo do código, inspeção de variáveis e definição de pontos de interrupção. Além disso, possui suporte nativo ao Git, oferecendo uma interface mais amigável para o controle básico de versionamento.
