@@ -33,3 +33,9 @@ Esse tutorial ensina conceitos iniciais sobre o desenvolvimento web com Python e
 O **GitFlow** é uma estratégia de gerenciamento de branches que organiza o fluxo de trabalho em um repositório Git.  
 - A branch `main` é usada para versões estáveis e a `develop` para desenvolvimento contínuo.  
 - Novas funcionalidades são desenvolvidas em branches secundárias (`feature/nomedafuncionalidade`) e depois integradas via **Pull Request (PR)**.  
+
+## Seção G
+O versionamento semântico usa o formato MAJOR.MINOR.PATCH para indicar mudanças no software:
+MAJOR: Mudanças que quebram compatibilidade.
+MINOR: Novas funcionalidades compatíveis com versões anteriores.
+PATCH: Correções de bugs sem alterar funcionalidades.
