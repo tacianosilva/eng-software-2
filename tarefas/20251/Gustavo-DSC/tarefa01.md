@@ -18,3 +18,9 @@ O projeto será desenvolvido em **Python**. A equipe possui conhecimento básico
 
 ## Seção C 
 Será utilizado **Django**, um framework web escrito em Python que segue o padrão MVC (Model-View-Controller).
+
+## Seção D 
+A principal IDE será o **VS Code**, que possui:  
+- Suporte a extensões para Python e Django  
+- Ferramentas de debug integradas  
+- Integração com Git e GitHub  
