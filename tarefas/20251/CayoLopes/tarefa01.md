@@ -42,3 +42,7 @@ O GitFlow define diferentes tipos de branches para gerenciar o desenvolvimento d
 
 Pull Requests (Merge Requests)
 Um Pull Request , também chamado de Merge Request , é uma solicitação para mesclar mudanças de uma branch em outra.
+
+# Seção G
+
+O versionamento semântico (SemVer) é um padrão para controle de versões de software, garantindo compatibilidade e clareza nas atualizações.
