@@ -26,37 +26,3 @@ O projeto _Caderneta Virtual de Vendas (CVV)_ é um sistema de gerenciamento des
 ## Repositório
 
 https://github.com/Lleusxam/caderneta-virtual
-
-## Django
-
-É um framework web em Python focado em produtividade, modularização, segurança e escalabilidade. Para isso, oferece diversas funcionalidades prontas que agilizam o desenvolvimento, como um painel de administração, sistema de autenticação, ORM e proteções de segurança embutidas. Seu sistema de apps independentes funciona como módulos reutilizáveis, permitindo um desenvolvimento simultâneo e extensível de funcionalidades. Além disso, sua arquitetura baseada em MVT é intuitiva e facilita a organização do código.
-
-## Experiência da equipe
-
-Quatro dos seis integrantes têm experiência com Django, e, somado aos benefícios de modularização e produtividade do framework, isso torna sua escolha altamente justificável. Além disso, os outros dois integrantes demonstraram interesse em estudar a ferramenta, reforçando ainda mais a viabilidade da decisão.
-
-# IDE
-
-O Visual Studio Code foi escolhido para ser o ambiente de desenvolvimento. Apesar de não ser uma IDE propriamente dita, é um editor de código altamente extensível que pode funcionar como uma IDE por meio de suas extensões. Para depuração, o VSCode conta com um debugger integrado, permitindo a execução passo a passo do código, inspeção de variáveis e definição de pontos de interrupção. Além disso, possui suporte nativo ao Git, oferecendo uma interface mais amigável para o controle básico de versionamento.
-
-# Tutorial Crud
-
-[link Tutorial](https://youtu.be/Q2tEqNfgIXM?si=8m9gCEgmVseMsXoA)
-
-resumidamente o vídeo ensina passo a passo de como criar e estruturar um CRUD em jungle, as peculiaridades e cuidados que devem se ter em sua criação, integrado juntamente a criação de api utilzando um banco não relacional. além da arquitetura do próprio django.
-
-# Branches e Pull Request
-
-### Branches:
-
-Branches são utilizadas para criar versões isoladas de um mesmo código, permitindo que várias pessoas implementem diferentes funcionalidades (features) a partir de uma base comum, sem depender das mudanças de outras partes do projeto. Isso garante que o trabalho de cada desenvolvedor não afete o código principal. Existem diferentes tipos de branches, como:
-
-    Main: Onde se encontra o código principal, a base de tudo,geralmente a versão estável e em produção.
-
-    Feature: Branch destinada à implementação de novas funcionalidades do sistema.
-
-    Release: Branches criadas para a liberação e integração das novas funcionalidades com o código principal.
-
-### Pull Request (PR) ou Merge Request (MR):
-
-Pull Request (ou Merge Request) é a fase de integração de tudo aquilo que foi produzido em uma branch para o código principal. Eles são usados para revisar e unir as alterações feitas em outras branches com o branch principal do projeto, garantindo controle de versionamento,revisão do código e a qualidade do código,usados para garantir que as alterações estejam bem implementadas e não quebrem funcionalidades existentes. O uso do GitFlow com PRs facilita a gestão de versões e a colaboração entre equipes, mantendo o código estável e bem estruturado durante o desenvolvimento e os lançamentos.
