@@ -49,6 +49,20 @@ Após concluir o trabalho em uma branch de **feature** ou **hotfix**, o desenvol
 
 Os **pull requests** são fundamentais no GitFlow, pois facilitam a colaboração entre os membros da equipe e proporcionam uma maneira estruturada de revisar e integrar alterações. Além disso, os PRs oferecem a possibilidade de comentar e sugerir melhorias antes que as alterações sejam mescladas com o código principal.
 
+# Versionamento Semântico (SemVer)
+
+O **Versionamento Semântico** (SemVer) é um sistema que atribui números de versão a softwares para refletir a compatibilidade das alterações realizadas. O formato é **X.Y.Z**, onde:
+
+- **X** (Major): Mudanças incompatíveis na API.
+- **Y** (Minor): Novas funcionalidades compatíveis.
+- **Z** (Patch): Correções de bugs compatíveis.
+
+**Princípios**: 
+- A versão é imutável após ser lançada.
+- A partir da versão **1.0.0**, espera-se estabilidade na API.
+
+Mais detalhes em: [semver.org](https://semver.org/lang/pt-BR/)
+
 ## Equipe
 - **Renan Costa**
 - **Luiz Miguel**  
