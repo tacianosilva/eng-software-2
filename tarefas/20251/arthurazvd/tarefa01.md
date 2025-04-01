@@ -63,6 +63,23 @@ O **Versionamento Semântico** (SemVer) é um sistema que atribui números de ve
 
 Mais detalhes em: [semver.org](https://semver.org/lang/pt-BR/)
 
+# Conventional Commits
+
+**Conventional Commits** é uma convenção para mensagens de commit que busca manter um histórico de alterações claro e estruturado, facilitando a automação e compreensão do código.
+
+### Estrutura da Mensagem de Commit:
+- **Tipo**: Indica o propósito do commit (ex: `feat`, `fix`, `BREAKING CHANGE`).
+- **Escopo** (opcional): Descreve a área do código afetada.
+- **Descrição**: Resumo das mudanças realizadas.
+- **Rodapé** (opcional): Detalhes adicionais, como links para issues.
+
+### Exemplos:
+- `feat(auth): adicionar autenticação de dois fatores`
+- `fix(parser): corrigir erro de parsing em entradas vazias`
+- `BREAKING CHANGE: remover suporte para versões antigas do Node.js`
+
+Para mais detalhes, acesse: [conventionalcommits.org](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+
 ## Equipe
 - **Renan Costa**
 - **Luiz Miguel**  
