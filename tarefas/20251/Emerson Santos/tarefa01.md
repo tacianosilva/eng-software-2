@@ -11,7 +11,7 @@ Diego Dantas <br>
 Emerson da Silva <br>
 João Pedro dos Santos <br>
 Reinaldo Alves <br>
-**Repositório**: https://github.com/joaosantosmedeiros/eng-software-2
+**Repositório**: https://github.com/Simio123/eng-software-2
 
 ## Linguagem
 A linguagem utilizada para tanto frontend como frontend é o Typescript, feita pelo Google ela adiciona vários elementos ao Javascript, a principal delas sendo a tipagem de variáveis.<br>
