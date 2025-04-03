@@ -14,3 +14,23 @@ Com o sistema, é possível um melhor controle e gerenciamento eficaz das ativid
 gerais da empresa, facilitando e agilizando todos os processos para a equipe e para os
 clientes. Este software é uma ferramenta valiosa para a administração do estúdio,
 contribuindo para a eficiência operacional e o sucesso do negócio.
+## Equipe e repositório
+
+Membro     |     Papel   |   E-mail   |
+---------  | ----------- | ---------- |
+Aron       | Analista           | aronsilvagm@gmail.com
+Beatriz    | Analista           | beatriz.costa.151@ufrn.edu.br
+Eloisa     | Analista           | maria-eloisa-santos@outlook.com
+Giovanna   | Analista           | giovanna.melo.710@ufrn.edu.br
+Mariana    | Líder técnico      | mari_caico@yahoo.com.br
+Virlânia   | Analista           | virlaniacanuto190@gmail.com
+
+**Link do repositório:** https://github.com/EL0ISA/estudio_pilates.git 
+
+## Linguagem de programação e domínio da equipe 
+
+A framework escolhida para o backend do projeto foi Django. O principal motivo dessa escolha foi o conhecimento e experiência de 3 membros da equipe nessa tecnologia. Os demais componentes possuem familiaridade e experiência com Pyhton, que é a linguagem utilizada no Django. 
+
+
+
+
