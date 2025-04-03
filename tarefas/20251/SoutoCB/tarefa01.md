@@ -26,3 +26,13 @@ O propósito do Sistema da Bonelaria Militar será desenvolver um sistema de inf
 ## **Link do Repositório**
 
     https://github.com/mtzdantas/sistema-bonelaria
+
+## **Linguagem de programação utilizada**
+
+### **Dart**
+
+Será utilizado o framework Flutter, que é baseado na linguagem de programação Dart, desenvolvida pelo Google para o desenvolvimento de aplicativos multiplataforma. Dart é uma linguagem moderna, rápida e orientada a objetos, ideal para aplicações eficientes e responsivas.
+
+### **Experiência da equipe com a linguagem**
+
+Todos possuem, no mínimo, conhecimento básico da linguagem, pois ela foi utilizada em um projeto para uma disciplina cursada por todos.
