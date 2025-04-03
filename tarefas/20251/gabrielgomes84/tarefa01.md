@@ -35,3 +35,13 @@ A linguagem escolhida para o desenvolvimento do aplicativo foi Python, devido à
 
 ## **Framework Utilizado**
 Para o desenvolvimento do sistema, utilizaremos o framework Django, que oferece uma estrutura robusta e escalável para a construção de aplicações web. Django fornece uma arquitetura baseada no padrão MVC (Model-View-Controller), facilitando a organização do código e a manutenção do projeto.
+
+## **IDE**
+## IDE Utilizada
+
+O projeto será desenvolvido utilizando a IDE **Visual Studio Code (VS Code)**.  
+Essa IDE possui as seguintes ferramentas integradas que auxiliam no desenvolvimento:  
+
+- **Debug:** Suporte a breakpoints, inspeção de variáveis e execução passo a passo.  
+- **Controle de versão:** Integração com Git, permitindo commits, push, pull e gerenciamento de branches diretamente na interface.  
+- **Outras funcionalidades:** Suporte a extensões, terminal integrado e autocompletar inteligente.  
