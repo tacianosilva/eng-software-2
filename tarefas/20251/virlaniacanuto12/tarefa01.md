@@ -98,5 +98,10 @@ O Versionamento Semântico é um padrão que organiza as versões de software no
 
 Essa abordagem reduz o caos em atualizações e facilita a manutenção de sistemas complexos.
 
+## Convencional commits 
+
+A especificação do Conventional Commits é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se encaixa com o SemVer, descrevendo os recursos, correções e modificações que quebram a compatibilidade nas mensagens de commit.
+
+
 
 
