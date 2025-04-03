@@ -74,6 +74,13 @@ Para depurar no VS Code, pode seguir os seguintes passos:
 - Examinar as variáveis e o estado do programa
 - Utilizar os botões de controle na barra superior para continuar a execução, pular para a próxima linha ou sair da depuração
 
+## Tutorial para CRUD em django 
+
+**Link do tutorial:** https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website 
+
+**Descrição:** LocalLibrary é o nome do site que será criado. A proposta do site é fornecer um catálogo online para uma pequena biblioteca local, onde os usuários podem procurar por livros disponíveis e gerenciar suas contas.
+
+
 
 
 
