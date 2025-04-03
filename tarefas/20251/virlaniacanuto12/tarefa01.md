@@ -31,6 +31,16 @@ Virlânia   | Analista           | virlaniacanuto190@gmail.com
 
 A framework escolhida para o backend do projeto foi Django. O principal motivo dessa escolha foi o conhecimento e experiência de 3 membros da equipe nessa tecnologia. Os demais componentes possuem familiaridade e experiência com Pyhton, que é a linguagem utilizada no Django. 
 
+## Contextualizando a framework que será utilizada - Django 
+
+O Django é um framework web Python de código aberto, que se destaca por oferecer um ambiente que simplifica a criação de soluções web escaláveis, ao mesmo tempo, em que promove o desenvolvimento rápido e um design limpo, proporcionando ferramentas robustas e eficientes para pessoas desenvolvedoras.
+
+Sendo uma das linguagens mais populares atualmente, Python têm se destacado devido à sua sintaxe enxuta e simples, robustez e versatilidade. Amplamente adotada para o desenvolvimento de modelos de machine learning, inteligência artificial e análise de dados, mas também é utilizada para desenvolvimento de sistemas Web.
+
+O Django surgiu com a ideia de fornecer uma estrutura robusta com recursos para facilitar o processo de desenvolvimento para Web, dispensando a necessidade de reinventar a roda, ou seja, reescrever códigos comuns a todos os projetos web em Python.
+
+O Framework disponibiliza, portanto, uma estrutura pré-configurada e bibliotecas com código pronto, que automatizam a maior parte dos trabalhos repetitivos. Assim, as pessoas responsáveis pelo desenvolvimento de aplicações Web em Python podem focar no produto desenvolvido, sem ter muitas preocupações com configurações de ambiente e escrita de códigos comuns.
+
 
 
 
