@@ -40,3 +40,7 @@ Todos possuem, no mínimo, conhecimento básico da linguagem, pois ela foi utili
 ## Framework (Flutter)
 
 Para o desenvolvimento do projeto, escolhemos Flutter, um framework multiplataforma baseado na linguagem Dart. O Flutter permite a criação de aplicativos para Android, iOS, Web e Desktop, garantindo uma interface visual moderna, desempenho otimizado e um desenvolvimento ágil graças ao seu recurso de Hot Reload, que facilita a visualização instantânea das mudanças no código.
+
+## Ambiente de Desenvolvimento Integrado (IDE) usado
+
+Vamos utilizar o Visual Studio Code (VS Code), que é uma ferramenta leve, extensível e amplamente conhecida. Essa IDE conta com uma ferramenta integrada para debug, o depurador permite configurar breakpoints, inspecionar variáveis e analisar a call stack. O controle de versão possui suporte nativo ao Git, permitindo a criação e o gerenciamento de branches, commits e a sincronização com repositórios remotos.
