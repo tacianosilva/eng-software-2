@@ -41,6 +41,39 @@ O Django surgiu com a ideia de fornecer uma estrutura robusta com recursos para 
 
 O Framework disponibiliza, portanto, uma estrutura pré-configurada e bibliotecas com código pronto, que automatizam a maior parte dos trabalhos repetitivos. Assim, as pessoas responsáveis pelo desenvolvimento de aplicações Web em Python podem focar no produto desenvolvido, sem ter muitas preocupações com configurações de ambiente e escrita de códigos comuns.
 
+## IDE utilizada e seu controle de versão e ferramentas de debug
+
+O Visual Studio Code (VS Code) é um editor de código-fonte desenvolvido pela Microsoft, conhecido por ser leve, altamente personalizável e com suporte a diversas linguagens de programação. Ele é gratuito, open-source e roda em Windows, macOS e Linux.
+
+### Controle de Versão no VS Code
+O VS Code tem suporte nativo ao Git, mas também funciona com outros sistemas via extensões (SVN, Mercurial).
+
+#### Funcionalidades do Git Integrado
+
+- Barra de Status – Mostra o branch atual e alterações pendentes.
+
+- Diff Tool – Visualiza mudanças entre versões diretamente no editor.
+
+- Commit & Push – Realiza commits sem sair do VS Code.
+
+- Ctrl+Enter (Commit)
+
+- Sync (Push/Pull)
+
+- Gerenciamento de Branchs – Cria, alterna e mescla branchs facilmente.
+
+- Resolução de Conflitos – Interface amigável para resolver merge conflicts.
+
+#### Depuração no VScode
+
+A depuração no Visual Studio Code (VS Code) permite localizar e corrigir erros no código-fonte. Para isso, é possível definir pontos de interrupção, examinar variáveis e o estado do programa. 
+Para depurar no VS Code, pode seguir os seguintes passos:
+
+- Definir um ponto de interrupção na linha do código onde deseja iniciar a depuração
+- Pressionar F5 ou ir em "Run" > "Start Debugging"(quando o código atingir o ponto de interrupção, a execução será pausada)
+- Examinar as variáveis e o estado do programa
+- Utilizar os botões de controle na barra superior para continuar a execução, pular para a próxima linha ou sair da depuração
+
 
 
 
