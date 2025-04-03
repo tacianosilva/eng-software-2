@@ -86,7 +86,17 @@ Um Pull Request é uma funcionalidade comum em plataformas de hospedagem de cód
 
 Branches (ou ramos, em português) são uma das funcionalidades mais poderosas do Git. Eles permitem que você trabalhe em diferentes versões do seu projeto simultaneamente, isolando mudanças experimentais, desenvolvendo novas funcionalidades ou corrigindo bugs sem afetar o código principal.
 
+## Versionamento semântico
 
+O Versionamento Semântico é um padrão que organiza as versões de software no formato X.Y.Z (Maior.Menor.Correção), ajudando a evitar conflitos em dependências. A versão Maior (X) aumenta quando há mudanças incompatíveis, a Menor (Y) quando novas funcionalidades são adicionadas (sem quebrar compatibilidade), e a Correção (Z) para ajustes de bugs que não afetam a API.
+
+**Por que adotar?**
+
+- Clareza: Os números indicam o impacto das mudanças.
+- Controle: Dependências podem especificar faixas seguras (ex.: >=1.2.0 <2.0.0).
+- Colaboração: Padroniza a comunicação entre times e projetos.
+
+Essa abordagem reduz o caos em atualizações e facilita a manutenção de sistemas complexos.
 
 
 
