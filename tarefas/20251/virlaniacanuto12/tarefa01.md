@@ -80,6 +80,12 @@ Para depurar no VS Code, pode seguir os seguintes passos:
 
 **Descrição:** LocalLibrary é o nome do site que será criado. A proposta do site é fornecer um catálogo online para uma pequena biblioteca local, onde os usuários podem procurar por livros disponíveis e gerenciar suas contas.
 
+## Pull Request e Branchs
+
+Um Pull Request é uma funcionalidade comum em plataformas de hospedagem de código como GitHub, GitLab ou Bitbucket, que permite solicitar a integração de suas alterações em um repositório remoto (geralmente no branch principal, como main ou master). Então o Pull Request é uma solicitação para que o mantenedor de um projeto analise e mescle (merge) suas alterações em um branch específico. Funciona como um processo de revisão, onde outros colaboradores podem discutir, sugerir modificações ou aprovar as mudanças antes que elas sejam incorporadas.
+
+Branches (ou ramos, em português) são uma das funcionalidades mais poderosas do Git. Eles permitem que você trabalhe em diferentes versões do seu projeto simultaneamente, isolando mudanças experimentais, desenvolvendo novas funcionalidades ou corrigindo bugs sem afetar o código principal.
+
 
 
 
