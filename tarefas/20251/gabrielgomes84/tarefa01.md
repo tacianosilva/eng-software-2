@@ -28,3 +28,7 @@
 | Arthur         | Cliente         | stegelemon.com.br@gmail.com   |
 
 **Repositório do Projeto:** [SGO-EngII](https://github.com/Joyce8900/SGO-EngII)
+
+
+## **Linguagem de Programação**
+A linguagem escolhida para o desenvolvimento do aplicativo foi Python, devido à sua sintaxe relativamente simples e intuitiva. Além disso, todos os membros do grupo possuem experiência prévia utilizando Python, o que facilita a colaboração e o desenvolvimento eficiente do projeto.
