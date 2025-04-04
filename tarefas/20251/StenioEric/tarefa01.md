@@ -109,3 +109,17 @@ Um **Pull Request (PR)** é o processo de solicitação para mesclar uma branch 
 
 Os Pull Requests garantem **colaboração eficiente, revisão de código e um histórico organizado** no repositório.  
 </div>
+
+
+### Versionamento Semântico (SemVer)
+
+<div style="text-align: justify">
+
+O **Versionamento Semântico** é um sistema padronizado para atribuição de números de versão a softwares, facilitando a identificação das mudanças e garantindo compatibilidade entre versões. Segundo essa convenção, cada versão é representada por três números no formato **X.Y.Z**, onde:
+
+- **X (Major)**: Incrementado quando há alterações incompatíveis na API.
+- **Y (Minor)**: Incrementado ao adicionar funcionalidades compatíveis com versões anteriores.
+- **Z (Patch)**: Incrementado ao corrigir falhas mantendo a compatibilidade com versões anteriores.
+
+Essa abordagem permite que desenvolvedores e usuários compreendam facilmente o impacto das atualizações e mantenham a integridade das dependências em seus projetos.
+</div>
