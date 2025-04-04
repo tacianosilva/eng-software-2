@@ -68,5 +68,18 @@ O VS Code possui **integração nativa com Git e GitHub**, permitindo que os des
 
 Essas funcionalidades tornam o **VS Code** uma excelente escolha para o nosso projeto, proporcionando um ambiente de desenvolvimento eficiente e organizado.
 
+</div>
+
+### Tutorial de CRUD utilizando FastApi
+
+<div style="text-align: justify">
+
+ Lindo do vídeo: https://fastapi.tiangolo.com/tutorial/sql-databases/
+
+ ### **O que podemos aprender com o tutorial?**  
+- Configuração e uso do banco de dados **SQLite** no projeto.  
+- Integração com **SQLAlchemy** para manipulação dos dados.  
+- Definição de modelos de dados e implementação de endpoints CRUD.  
+- Aplicação do **Pydantic** para validação e estruturação dos dados.  
 
 </div>
