@@ -37,3 +37,12 @@ _Repositório:_
 No nosso projeto, escolhemos JavaScript/React para o front-end e Python/FastAPI para o back-end. Nossa equipe é composta por integrantes com níveis de experiência que variam do básico ao intermediário, dependendo da área em que cada um atua no momento.
 </div>
 
+### Frameworks:
+
+<div style="text-align: justify">
+
+ **FastApi**: Um framework moderno para desenvolvimento de APIs em Python, projetado para alto desempenho e simplicidade. Ele utiliza tipagem estática, gerando automaticamente documentação interativa e oferecendo suporte à validação de dados com Pydantic. Para construir um CRUD com FastAPI, é necessário definir os modelos de dados usando Pydantic, configurar os endpoints com `@app.post()`, `@app.get()`, `@app.put()` e `@app.delete()`, além de integrar um banco de dados com SQLAlchemy.
+
+**React**: Uma biblioteca JavaScript voltada para a criação de interfaces dinâmicas e componentizadas. Sua abordagem modular facilita o desenvolvimento de aplicações Single Page Applications (SPA), permitindo a reutilização de componentes e otimizando a experiência do usuário.
+
+</div>
