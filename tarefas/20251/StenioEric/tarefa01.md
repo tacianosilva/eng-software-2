@@ -83,3 +83,29 @@ Essas funcionalidades tornam o **VS Code** uma excelente escolha para o nosso pr
 - Aplicação do **Pydantic** para validação e estruturação dos dados.  
 
 </div>
+
+### Branches e Pull Requests no GitHub com GitFlow
+
+<div style="text-align: justify">
+
+#### **Branches no GitFlow**  
+No GitFlow, as **branches** (ramificações) são utilizadas para organizar o fluxo de desenvolvimento. Algumas das principais são:  
+
+- **`main`**: Contém o código estável e pronto para produção.  
+- **`develop`**: Onde ocorre o desenvolvimento contínuo antes de ser integrado à `main`.  
+- **`feature/nova-funcionalidade`**: Criada a partir da `develop` para implementar novas funcionalidades.  
+- **`release/x.y.z`**: Usada para preparar uma nova versão antes de ser mesclada na `main`.  
+- **`hotfix/correção-bug`**: Criada a partir da `main` para correção emergencial de bugs em produção.  
+
+#### **Pull Request (Merge Request)**  
+Um **Pull Request (PR)** é o processo de solicitação para mesclar uma branch em outra, garantindo que as mudanças sejam revisadas antes da integração.  
+
+**Fluxo de um Pull Request no GitFlow:**  
+1. Criar uma branch (`feature/nova-funcionalidade`) a partir da `develop`.  
+2. Desenvolver e realizar commits regularmente.  
+3. Criar um **Pull Request** para mesclar a feature na `develop`.  
+4. O código é revisado e, se aprovado, a branch é mesclada.  
+5. A branch de feature pode ser deletada após a mesclagem.  
+
+Os Pull Requests garantem **colaboração eficiente, revisão de código e um histórico organizado** no repositório.  
+</div>
