@@ -30,3 +30,10 @@ _Equipe:_
 _Repositório:_
 [Clique aqui](https://github.com/AlecYalcin/KNN-Barber-App)
 
+
+### Liguagem de Programação:
+
+<div style="text-align: justify">
+No nosso projeto, escolhemos JavaScript/React para o front-end e Python/FastAPI para o back-end. Nossa equipe é composta por integrantes com níveis de experiência que variam do básico ao intermediário, dependendo da área em que cada um atua no momento.
+</div>
+
