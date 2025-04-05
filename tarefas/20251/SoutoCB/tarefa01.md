@@ -37,10 +37,31 @@ Será utilizado o framework Flutter, que é baseado na linguagem de programaçã
 
 Todos possuem, no mínimo, conhecimento básico da linguagem, pois ela foi utilizada em um projeto para uma disciplina cursada por todos.
 
-## Framework (Flutter)
+## **Framework (Flutter)**
 
 Para o desenvolvimento do projeto, escolhemos Flutter, um framework multiplataforma baseado na linguagem Dart. O Flutter permite a criação de aplicativos para Android, iOS, Web e Desktop, garantindo uma interface visual moderna, desempenho otimizado e um desenvolvimento ágil graças ao seu recurso de Hot Reload, que facilita a visualização instantânea das mudanças no código.
 
-## Ambiente de Desenvolvimento Integrado (IDE) usado
+## **Ambiente de Desenvolvimento Integrado (IDE) usado**
 
 Vamos utilizar o Visual Studio Code (VS Code), que é uma ferramenta leve, extensível e amplamente conhecida. Essa IDE conta com uma ferramenta integrada para debug, o depurador permite configurar breakpoints, inspecionar variáveis e analisar a call stack. O controle de versão possui suporte nativo ao Git, permitindo a criação e o gerenciamento de branches, commits e a sincronização com repositórios remotos.
+
+## **Tutorial de Flutter** 
+
+### **FLUTTER TODO App With Hive DB, Task Management App, Hive CRUD Operation Tutorial | Flutter Tutorial**
+
+ **Feito por [Programming With FlexZ](https://www.youtube.com/@ProgrammingWithFlexZ)** 
+
+ **Link:**
+
+    https://www.youtube.com/watch?v=RQlhC_rDrsc
+
+**Resumo do video:**
+No vídeo, é mostrado como desenvolver um aplicativo de lista de tarefas do zero, utilizando Flutter e o banco de dados Hive. O conteúdo é organizado da seguinte forma:
+
+- Capítulo 1: Pacotes Essenciais e Estrutura de Pastas
+- Capítulo 2: Construindo a Tela Inicial: Interface e Funcionalidades Principais
+- Capítulo 3: Adicionando Animações: Drawer Animado e Ícones
+- Capítulo 4: Sistema de Gerenciamento de Tarefas: Desenvolvimento da Tela de Tarefas e Exploração de Widgets
+- Capítulo 5: Integração com Banco de Dados e Configuração de Alertas e Notificações
+- Capítulo 6: Técnicas Avançadas de Interface e Operações no Banco de Dados
+- Conclusão: Encerramento 
