@@ -71,6 +71,7 @@ No vídeo, é mostrado como desenvolver um aplicativo de lista de tarefas do zer
 Um branch é uma cópia do seu código principal, onde você pode trabalhar de forma isolada, sem modificar diretamente o código original. A branch principal normalmente é chamada de **master** ou **main**. A principal vantagem do uso de branches é a possibilidade de várias pessoas trabalharem simultaneamente no projeto sem causar conflitos.
 
 ### **GitFlow**
+
 GitFlow é uma estratégia de ramificação (branching) que organiza as branches em um projeto. É bem útil em projetos de maior porte. Os principais tipos de branches no GitFlow são:
 
 - **main** (ou master): é o código principal do projeto, estável e pronto para produção.
@@ -81,6 +82,7 @@ GitFlow é uma estratégia de ramificação (branching) que organiza as branches
 - **bugfix**: utilizada para resolver problemas menores ainda em fase de desenvolvimento, geralmente criada a partir da **develop**.
 
 ### **Pull Request (ou Merge Request)**
+
 Após finalizar o trabalho em uma branch, é necessário criar um **Pull Request** (ou **Merge Request**) para integrar o código da branch ao código principal. O pull request permite que outros desenvolvedores revisem o seu código antes que ele seja mesclado ao projeto principal.
 
 ## **Versionamento Semântico**
@@ -91,3 +93,26 @@ Versionamento Semântico é um padrão de regras para controle de versões que s
 - MINOR (versão secundária): incrementada quando novas são adicionadas funcionalidades e não são incompativeis com outras versões .
 
 - PATCH (correção): incrementada para correções de bugs que não afetam a compatibilidade.
+
+## **Conventional Commits (Convenções para Mensagens de Commits)**
+
+Conventional Commits é uma convenção para escrever mensagens de commit de forma padronizada. Facilita a leitura do histórico de commits, automatiza o controle de versão (como com o SemVer), e ajuda em ferramentas de integração contínua e geração de changelogs.
+
+**Formato basico:**
+
+    <tipo>[escopo opcional]: <mensagem curta>
+
+**Principais tipos:**
+- **feat**: nova funcionalidade
+
+- **fix**: correção de bug
+
+- **docs**: mudanças na documentação
+
+- **style**: mudanças de formatação, sem alteração de código
+
+- **refactor**: mudanças no código que não corrigem bugs nem adicionam funcionalidades
+
+- **test**: adição ou modificação de testes
+
+- **chore**: mudanças em tarefas de build ou ferramentas, sem impacto no código-fonte
