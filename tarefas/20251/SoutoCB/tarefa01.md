@@ -65,3 +65,20 @@ No vídeo, é mostrado como desenvolver um aplicativo de lista de tarefas do zer
 - Capítulo 5: Integração com Banco de Dados e Configuração de Alertas e Notificações
 - Capítulo 6: Técnicas Avançadas de Interface e Operações no Banco de Dados
 - Conclusão: Encerramento 
+
+## **Branches**
+
+Um branch é uma cópia do seu código principal, onde você pode trabalhar de forma isolada, sem modificar diretamente o código original. A branch principal normalmente é chamada de **master** ou **main**. A principal vantagem do uso de branches é a possibilidade de várias pessoas trabalharem simultaneamente no projeto sem causar conflitos.
+
+### **GitFlow**
+GitFlow é uma estratégia de ramificação (branching) que organiza as branches em um projeto. É bem útil em projetos de maior porte. Os principais tipos de branches no GitFlow são:
+
+- **main** (ou master): é o código principal do projeto, estável e pronto para produção.
+- **develop**: é a branch de desenvolvimento, onde novas funcionalidades ainda não publicadas são integradas.
+- **feature**: usada para desenvolver funcionalidades específicas. É criada a partir da branch ****develop**.
+- **release**: funciona como uma ponte entre **develop** e **main**. É um ambiente de preparação onde são realizados testes finais antes da entrega.
+- **hotfix**: usada para corrigir problemas críticos diretamente na **main**, como bugs em produção.
+- **bugfix**: utilizada para resolver problemas menores ainda em fase de desenvolvimento, geralmente criada a partir da **develop**.
+
+### **Pull Request (ou Merge Request)**
+Após finalizar o trabalho em uma branch, é necessário criar um **Pull Request** (ou **Merge Request**) para integrar o código da branch ao código principal. O pull request permite que outros desenvolvedores revisem o seu código antes que ele seja mesclado ao projeto principal.
