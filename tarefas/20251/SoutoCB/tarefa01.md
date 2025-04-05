@@ -82,3 +82,12 @@ GitFlow é uma estratégia de ramificação (branching) que organiza as branches
 
 ### **Pull Request (ou Merge Request)**
 Após finalizar o trabalho em uma branch, é necessário criar um **Pull Request** (ou **Merge Request**) para integrar o código da branch ao código principal. O pull request permite que outros desenvolvedores revisem o seu código antes que ele seja mesclado ao projeto principal.
+
+## **Versionamento Semântico**
+Versionamento Semântico é um padrão de regras para controle de versões que segue o formato **MAJOR.MINOR.PATCH (exemplo: 1.4.2)**, organizando e comunicando mudanças de forma padronizada
+
+- MAJOR (versão principal): incrementada quando há mudanças incompatíveis com outras versões.
+
+- MINOR (versão secundária): incrementada quando novas são adicionadas funcionalidades e não são incompativeis com outras versões .
+
+- PATCH (correção): incrementada para correções de bugs que não afetam a compatibilidade.
