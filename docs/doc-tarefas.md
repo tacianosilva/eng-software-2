@@ -33,17 +33,17 @@ As atividades da **Iteração 1** são:
     * Versão inicial do **Documento de User Stories** ([Modelo aqui!](../docs/doc-userstories.md));
 * Coloque **links para a documentação** no README.md do repositório;
 
-O gerente deve enviar nesta tarefa o link do repositório e o link dos dois documentos que devem estar no mesmo repositório.
+O Líder Técnico deve enviar nesta tarefa o link do repositório e o link dos dois documentos que devem estar no mesmo repositório.
 
-Nesta iteração temos atividades diferentes para dois perfis **Gerentes** e **Analistas**:
+Nesta iteração temos atividades diferentes para dois perfis **Líder Técnico** e **Analistas**:
 
-#### Gerentes
+#### Líder Técnico
 
 * Criar Milestones para a Iteração 1;
 * Definir e descrever as tarefas (issues) da Iteração 1 (milestone) e alocar as issues para cada membro da equipe;
 * Definir que parte do *Documento de Visão* cada membro da equipe vai preparar;
 * Definir que parte do *Documento de Modelos* cada membro da equipe vai preparar;
-* Definir os **User Stories** do *Documento Lista de User Stories* cada membro da equipe vai detalhar, pelo menos um detalhamento por membro (incluindo o gerente);
+* Definir os **User Stories** do *Documento Lista de User Stories* cada membro da equipe vai detalhar, pelo menos um detalhamento por membro (incluindo o líder técnico);
   * Um User Store pode ser formado de um ou mais requisitos funcionais;
   * Definir qual será o User Story (Caso de Uso) *base* para implementação, chame de US01;
   * [Modelo de Lista de User Stories!](https://docs.google.com/document/d/1Ns2J9KTpLgNOpCZjXJXw_RSCSijTJhUx4zgFhYecEJg/edit#);
@@ -58,9 +58,9 @@ Nesta iteração temos atividades diferentes para dois perfis **Gerentes** e **A
 * Enviar commits do User Story que detalhou;
   * Deve detalhar pelo menos um;
   * Detalhar ou Especificar um US é criar a descrição (estória do usuário) e os testes de aceitação);
-* Avisar ao gerente quando concluir uma tarefa;
+* Avisar ao líder técnico quando concluir uma tarefa;
 
-O gerente deve enviar nesta tarefa o link do repositório e o link dos dois documentos no SIGAA.
+O líder técnico deve enviar nesta tarefa o link do repositório e o link dos dois documentos no SIGAA.
 
 ### T02 - Iteração 2 - Desenvolvimento
 
@@ -86,7 +86,7 @@ As atividades da **Iteração 2** são:
   * Pesquise modelos deste documento para comparar;
   * [Modelo do Google Docs](https://docs.google.com/document/d/1xGwEppR2qmQ7H3EdevWBCWferzY3RuoZim_GEz6LZ90/edit?usp=sharing);
 
-#### Gerentes It02
+#### Líder Técnico It02
 
 * Criar Milestones da Iteração 2;
 * Definir e descrever as tarefas (issues) da Iteração 2 (milestones) e
@@ -94,7 +94,7 @@ alocar as issues para cada membro da equipe;
 * Definir qual User Story cada membro da equipe vai especificar/detalhar;
   * Detalhar ou Especificar um US é criar a descrição (estória do usuário) e os testes de aceitação;
 * Definir quem vai construir a Arquitetura Geral do Sistema que faz parte do **Documento Projeto Arquitetural** e o que cada membro da equipe vai preparar;
-* O gerente deve fazer a contagem indicativa do tamanho funcional de Projeto;
+* O líder técnico deve fazer a contagem indicativa do tamanho funcional de Projeto;
 * Definir quem vai fazer a contagem detalhada do tamanho funcional de cada User Story;
 * Fechar tarefas se concluída;
 
@@ -104,21 +104,21 @@ alocar as issues para cada membro da equipe;
 * Enviar commits do User Story que detalhou;
 * Enviar commits da contagem do User Story que detalhou;
 * Enviar commits das outras tarefas;
-* Avisar ao gerente quando concluir uma tarefa;
+* Avisar ao líder técnico quando concluir uma tarefa;
 
 #### Desenvolvedor It02
 
 * Trabalhar nas tarefas e realizar pequenos commits marcando com a hashtag da issue;
 * Enviar commits da implementação do User Story;
 * Enviar commits da implementação de **Testes de Unidade** do User Story que implementou;
-* Avisar ao gerente quando concluir uma tarefa;
+* Avisar ao líder técnico quando concluir uma tarefa;
 
 #### Testador It02
 
 * Trabalhar nas tarefas e realizar pequenos commits marcando com a hashtag da issue;
 * Executar cada teste de aceitação do User Story, anotando o resultado em um Markdown dos Resultados dos Testes de Aceitação;
 * Cadastrar issues de bugs caso os Testes de Aceitação não passem;
-* Avisar ao gerente quando concluir uma tarefa;
+* Avisar ao líder técnico quando concluir uma tarefa;
 
 ### T03 - Iteração 3 - Desenvolvimento
 
@@ -138,7 +138,7 @@ A Iteração 3 começou dia 03/07/2020 e vai até 12/07/2020. As atividades dess
   * O relatório de Testes deve serguir esse [Modelo aqui!](https://docs.google.com/document/d/11hLKf0FcspQrDRfo3gRMXzuY1028cUeniv_Aob8DX_0/edit?usp=sharing)
 * Cadastrar issues de bugs caso os Testes de Aceitação não passem;
 
-#### Gerentes It03
+#### Líder Técnico It03
 
 * Criar Milestones da Iteração 3;
 * Definir e descrever as tarefas (issues) da Iteração 3 (milestones) e
@@ -147,7 +147,7 @@ alocar as issues para cada membro da equipe;
 * Definir qual User Story cada membro da equipe vai descrever/detalhar;
   * Detalhar ou Descrever um US é criar a descrição (estória do usuário) e os testes de aceitação);
 * Definir quem vai detalhar a Arquitetura do Sistema que faz parte do **Documento Projeto Arquitetural** e o que cada membro da equipe vai preparar;
-* O gerente deve fazer a contagem indicativa do tamanho funcional de Projeto;
+* O líder técnico deve fazer a contagem indicativa do tamanho funcional de Projeto;
 * Verificar a Contagem Detalhada do tamanho funcional do Sistema;
 * Executar análise do SonarCloud.io;
 * Verificar os problemas detectados pelo SonarCloud e criar tarefas no github;
@@ -171,9 +171,9 @@ alocar as issues para cada membro da equipe;
 * Enviar commits da implementação do User Story da Iteração;
 * Enviar commits da implementação de **Testes de Unidade** do User Story que implementou;
 * Verificar se o SonarCloud.io detectou problemas no seu código;
-* Resolver os problemas detectados pelo SonarCloud que o gerente alocou para você;
+* Resolver os problemas detectados pelo SonarCloud que o líder alocou para você;
 * Deixar a Cobertura dos Testes de Unidade para pelo menos 30%;
-* Avisar ao gerente quando concluir uma tarefa;
+* Avisar ao líder quando concluir uma tarefa;
 
 #### Testador It03
 
@@ -181,5 +181,5 @@ alocar as issues para cada membro da equipe;
 * Executar cada teste de aceitação do User Story, anotando o resultado em um Markdown dos Resultados dos Testes de Aceitação;
   * O relatório de Testes deve serguir esse [Modelo](https://docs.google.com/document/d/11hLKf0FcspQrDRfo3gRMXzuY1028cUeniv_Aob8DX_0/edit?usp=sharing)
 * Cadastrar issues de bugs caso os Testes de Aceitação não passem;
-* Avisar ao getente os bugs e correções necessárias descritas relatório de testes;
-* Avisar ao gerente quando concluir uma tarefa;
+* Avisar ao líder os bugs e correções necessárias descritas relatório de testes;
+* Avisar ao líder quando concluir uma tarefa;
