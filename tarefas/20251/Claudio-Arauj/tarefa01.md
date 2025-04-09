@@ -27,8 +27,16 @@ O propósito do Sistema da Bonelaria Militar será desenvolver um sistema de inf
 
 ### Linguagem de programação usada no projeto
 
-#### Linguagem de Programação: Python
+#### Linguagem de Programação: Dart
 
 * O projeto será desenvolvido em Dart, uma linguagem moderna e eficiente, ideal para aplicações multiplataforma, especialmente com o uso do framework Flutter. Dart oferece boa performance, sintaxe clara e foco na produtividade do desenvolvedor.
 
 * A equipe possui conhecimento intermediário em Dart, visto anteriormente no terceiro período na disciplina de Programação Orientada á Objetos, o que permite desenvolver, manter e evoluir o projeto com segurança e eficiência, aproveitando os recursos da linguagem de forma adequada. 
+
+#### Framework: Flutter 
+
+* O projeto utilizará o Flutter, um framework de código aberto desenvolvido pelo Google para a criação de aplicações nativas para múltiplas plataformas com uma única base de código. Com o Flutter, é possível desenvolver interfaces modernas, responsivas e de alto desempenho para Android, iOS, web e desktop.
+
+* Sua arquitetura baseada em widgets permite grande flexibilidade na construção de interfaces personalizadas, além de oferecer um conjunto robusto de ferramentas e bibliotecas que aceleram o desenvolvimento. O recurso de hot reload também contribui para maior agilidade nos testes e ajustes durante o processo de programação.
+
+#
