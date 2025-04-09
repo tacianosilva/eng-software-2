@@ -33,6 +33,11 @@ Nesse tutorial é ensinado:
 Branches são basicamente uma cópia do repositório principal ou de outra branch, mas que as alterações nela, de início, não afeta nenhuma outra branch, a menos que haja o merge, ou pull request, que é o processo de mergear, mixar, juntar duas branches diferentes, isso pode ocasionar em conflitos, mas é possível corrigí-los no processo.
 
 # Versionamento Semântico
+Ajuda a definir uma versão do código deixando organizado e indicando que tipo de atualização foi adicionada. Essa versão possui 3 números: MAJOR.MINOR.PATCH.
+Imaginando um app que está na versão 2.4.1:
+- Corrigiu um bug > 2.4.2 (PATCH).
+- Adicionou um recurso novo, compatível com versões anteriores > 2.5.0 (MINOR).
+- Mudou algo que quebra compatibilidade com versões anteriores > 3.0.0 (MAJOR).
 
 # Conventional Commits
 
