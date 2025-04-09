@@ -67,3 +67,4 @@ docs: ortografia correta de CHANGELOG #21
 Feito
 
 # Lider adicionar no projeto
+Feito
