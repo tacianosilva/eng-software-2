@@ -26,3 +26,11 @@ O projeto _Caderneta Virtual de Vendas (CVV)_ é um sistema de gerenciamento des
 ## Repositório
 
 https://github.com/Lleusxam/caderneta-virtual
+
+## Django
+
+É um framework web em Python focado em produtividade, modularização, segurança e escalabilidade. Para isso, oferece diversas funcionalidades prontas que agilizam o desenvolvimento, como um painel de administração, sistema de autenticação, ORM e proteções de segurança embutidas. Seu sistema de apps independentes funciona como módulos reutilizáveis, permitindo um desenvolvimento simultâneo e extensível de funcionalidades. Além disso, sua arquitetura baseada em MVT é intuitiva e facilita a organização do código.
+
+## Experiência da equipe
+
+Quatro dos seis integrantes têm experiência com Django, e, somado aos benefícios de modularização e produtividade do framework, isso torna sua escolha altamente justificável. Além disso, os outros dois integrantes demonstraram interesse em estudar a ferramenta, reforçando ainda mais a viabilidade da decisão.
