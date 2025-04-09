@@ -64,3 +64,15 @@ Pull Request (ou Merge Request) é a fase de integração de tudo aquilo que foi
 # Versionamento Semântico
 
 A principal motivação para a criação do Versionamento Semântico foi evitar o caos que a falta de controle de dependências pode gerar, levando a problemas complexos e dificuldades no gerenciamento do código. Esse problema pode ser comparado aos princípios de Low Coupling (baixo acoplamento) e High Cohesion (alta coesão), que visam facilitar a manutenção e a escalabilidade do software. O Versionamento Semântico utiliza a estrutura MAJOR.MINOR.PATCH para indicar o tipo de mudanças em um software. O número MAJOR é incrementado quando há mudanças incompatíveis com versões anteriores, o MINOR quando novas funcionalidades são adicionadas de forma compatível e o PATCH para correções de bugs ou ajustes que não afetam a compatibilidade. Esse sistema melhora a comunicação sobre as atualizações, permitindo que desenvolvedores e usuários compreendam rapidamente o impacto de cada versão e a relação entre elas.
+
+# Conventional Commits
+
+O **Conventional Commits** é uma abordagem para padronizar os tipos de commits realizados em um projeto. Utilizando convenções como
+
+- **feat** (nova funcionalidade)
+- **docs** (documentação)
+- **style** (estilo de código)
+- **refactor** (refatoração)
+- **fix** (correção de bugs)
+
+Entre outros padrões, essa prática torna mais intuitivo o tipo de alteração feita, além de facilitar a leitura e compreensão das mensagens de commit. Isso torna o processo de versionamento de código mais eficiente e organizado, pois a comunicação sobre as mudanças fica clara e estruturada. Há um repostiório que deixa isso bastante intuitivo e prático sendo este -> [repositório](https://github.com/iuricode/padroes-de-commits.git).
