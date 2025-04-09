@@ -14,6 +14,7 @@ Vamos utilizar python, já que todos do grupo já são familiarizados com a ling
 Usaremos o framework Django por ser um framework fácil de se aprender e usar, e quase todos do grupo têm experiência com ele.
 
 # IDE que será utilizada
+A IDE mais comum é o VSCode, mas há outras como o neovim, já que existem ferramentas de versionamento e de debug para ambas, fica à escolha do integrante.
 
 # Tutorial
 
