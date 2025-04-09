@@ -40,3 +40,39 @@ O propósito do Sistema da Bonelaria Militar será desenvolver um sistema de inf
 * Sua arquitetura baseada em widgets permite grande flexibilidade na construção de interfaces personalizadas, além de oferecer um conjunto robusto de ferramentas e bibliotecas que aceleram o desenvolvimento. O recurso de hot reload também contribui para maior agilidade nos testes e ajustes durante o processo de programação.
 
 #
+
+### IDE: Visual Studio Code
+
+O **Visual Studio Code (VS Code)** é um editor de código-fonte leve, gratuito e multiplataforma, desenvolvido pela Microsoft. Compatível com **Windows**, **macOS** e **Linux**, ele se destaca pela sua flexibilidade, vasta biblioteca de extensões e desempenho ágil.
+
+Para projetos em **Flutter**, o VS Code é uma das ferramentas mais recomendadas por sua integração prática com o SDK do Flutter e o suporte completo à linguagem Dart.
+
+
+#### Suporte ao Flutter e Dart
+
+Com as extensões oficiais do Flutter e do Dart instaladas, o VS Code oferece:
+
+- Sugestões de código (IntelliSense) específicas para Flutter/Dart  
+- Hot Reload integrado para testes rápidos de UI  
+- Templates e snippets para acelerar o desenvolvimento de interfaces com widgets  
+- Execução de comandos Flutter diretamente pelo terminal do VS Code
+
+
+#### Ferramentas de Depuração
+
+O VS Code permite debugar aplicações Flutter de forma eficiente, oferecendo:
+
+- Inserção de *breakpoints* em arquivos Dart  
+- Visualização de variáveis em tempo real  
+- Navegação pela **pilha de chamadas**  
+- Terminal de depuração para análises dinâmicas
+
+
+#### Integração com Controle de Versão
+
+Possui suporte integrado ao **Git**, permitindo:
+
+- Criação e gerenciamento de repositórios  
+- Visualização de alterações no código  
+- Realização de *commits*, *pushes*, *pulls* e resolução de conflitos  
+- Navegação entre *branches* e histórico de versões
