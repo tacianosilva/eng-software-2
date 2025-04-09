@@ -11,6 +11,7 @@ emanuel.alves.702@ufrn.edu.br
 Vamos utilizar python, já que todos do grupo já são familiarizados com a linguagem.
 
 # Framework que será utilizado no projeto
+Usaremos o framework Django por ser um framework fácil de se aprender e usar, e quase todos do grupo têm experiência com ele.
 
 # IDE que será utilizada
 
