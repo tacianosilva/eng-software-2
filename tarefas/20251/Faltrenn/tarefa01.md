@@ -30,6 +30,7 @@ Nesse tutorial é ensinado:
 9. Como acessar o django admin panel.
 
 # Branches e pull request
+Branches são basicamente uma cópia do repositório principal ou de outra branch, mas que as alterações nela, de início, não afeta nenhuma outra branch, a menos que haja o merge, ou pull request, que é o processo de mergear, mixar, juntar duas branches diferentes, isso pode ocasionar em conflitos, mas é possível corrigí-los no processo.
 
 # Versionamento Semântico
 
