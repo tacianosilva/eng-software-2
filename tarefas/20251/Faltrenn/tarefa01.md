@@ -40,6 +40,28 @@ Imaginando um app que está na versão 2.4.1:
 - Mudou algo que quebra compatibilidade com versões anteriores > 3.0.0 (MAJOR).
 
 # Conventional Commits
+Serve para manter um padrão na escrita das mensagens dos commits, para transmitir com clareza e rapidez o motivo daquele commit.
+Exemplo:
+```
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+```
+Exemplo prático:
+```
+fix: corrige pequenos erros de digitação no código
+
+veja o ticket para detalhes sobre os erros de digitação corrigidos
+
+Revisado por: Daniel Nass
+Refs #133
+```
+Mas geralmente é utilizada a forma mais curta.
+```
+docs: ortografia correta de CHANGELOG #21
+```
 
 # Cadastro de conta e feedback
 Feito
