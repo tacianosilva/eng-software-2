@@ -17,6 +17,17 @@ Usaremos o framework Django por ser um framework fácil de se aprender e usar, e
 A IDE mais comum é o VSCode, mas há outras como o neovim, já que existem ferramentas de versionamento e de debug para ambas, fica à escolha do integrante.
 
 # Tutorial
+https://www.youtube.com/watch?v=nGIg40xs9e4
+Nesse tutorial é ensinado:
+1. Como que baixa o django com o pip.
+2. Como o arquivo de configurações funciona.
+3. Como criar um application e para que serve.
+4. Definir a url do projeto.
+5. Como executar.
+6. Como funciona os templates HTML(jinja).
+7. Como criar tabelas, manipulá-las e fazer as migrations.
+8. Como pegar dados do banco de dados e mostrar com o jinja.
+9. Como acessar o django admin panel.
 
 # Branches e pull request
 
