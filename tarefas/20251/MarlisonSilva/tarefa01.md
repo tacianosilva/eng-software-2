@@ -43,3 +43,11 @@ Dos seis integrantes da equipe, quatro já possuem experiência prévia com Djan
 Django é um framework de desenvolvimento web de alto nível escrito em Python. Ele foi criado com o objetivo de facilitar a criação de aplicações web de forma rápida, segura e escalável.
 
 Originalmente desenvolvido por uma equipe de desenvolvedores de um jornal online (o Lawrence Journal-World), Django foi lançado como open source em 2005 e desde então vem sendo amplamente utilizado em diversos projetos, de startups a grandes empresas.
+
+## VSCODE
+
+O Visual Studio Code (VS Code) é um editor de código-fonte leve, gratuito e multiplataforma, desenvolvido pela Microsoft. Ele se destaca por sua interface intuitiva, desempenho ágil e grande capacidade de personalização por meio de extensões. Compatível com diversas linguagens de programação como Python, JavaScript, Java, C++ e muitas outras, o VS Code se tornou uma das ferramentas mais populares entre desenvolvedores de todos os níveis.
+
+Um dos grandes diferenciais do VS Code é seu sistema de debug integrado. Ele permite que o desenvolvedor adicione breakpoints, inspecione variáveis em tempo real, acompanhe a pilha de chamadas e execute o código linha por linha, tudo diretamente do editor. Com suporte a diversas linguagens através de extensões (como a de Python, por exemplo), o processo de depuração se torna muito mais eficiente e acessível, eliminando a necessidade de ferramentas externas.
+
+Além disso, o VS Code possui uma excelente integração com o Git, facilitando o controle de versão do código. É possível clonar repositórios, criar e gerenciar branches, fazer commits, visualizar mudanças em arquivos e resolver conflitos de merge diretamente pela interface gráfica. Com o apoio de extensões como o GitLens, o desenvolvedor ainda pode visualizar o histórico de alterações e identificar quem modificou cada linha de código, tornando o processo de versionamento mais transparente e colaborativo.
