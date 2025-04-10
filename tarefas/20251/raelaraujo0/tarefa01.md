@@ -26,4 +26,8 @@
 
   A equipe possui experiência intermediária com essas tecnologias e está aprimorando suas habilidades ao longo do projeto.
 
+- **Python (Django):** Framework web robusto e escalável, ideal para aplicações seguras e bem estruturadas.  
+- **React com TypeScript:** Combina a flexibilidade do React com a tipagem forte do TypeScript, aumentando a segurança do código e a produtividade da equipe.
+
+
 
