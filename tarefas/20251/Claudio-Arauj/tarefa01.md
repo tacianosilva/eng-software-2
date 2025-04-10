@@ -84,3 +84,24 @@ Possui suporte integrado ao **Git**, permitindo:
 * No [curso gratuito](https://www.youtube.com/watch?v=ViahqKZzZ7Y), são abordados os conceitos básicos do framework Flutter por meio de uma abordagem prática. Durante a aula, é desenvolvido um CRUD completo, o que facilita a compreensão dos principais recursos da ferramenta.
 
 #
+
+### Branches e Pull Requests com GitFlow
+
+No controle de versões com Git e GitHub, o uso de **branches** permite o desenvolvimento paralelo de funcionalidades, correções ou melhorias sem afetar o código principal. Dentro do **GitFlow**, uma estratégia comum de ramificação, os principais tipos de branches são:
+
+* `main` (ou `master`): representa o código em produção.
+* `develop`: integra funcionalidades em desenvolvimento.
+* `feature/*`: usado para novas funcionalidades, criados a partir de `develop`.
+* `release/*`: prepara versões para produção, criados a partir de `develop`.
+* `hotfix/*`: corrige problemas em produção, criados a partir de `main`.
+
+Após o desenvolvimento em uma branch (por exemplo, `feature/login`), utiliza-se um **Pull Request (PR)** — também chamado de **Merge Request** — para solicitar a revisão e fusão do código na branch de destino, geralmente `develop`.
+
+O PR permite:
+* Análise de código por outros membros da equipe;
+* Execução de testes automatizados;
+* Discussões e ajustes antes da integração final.
+
+Esse fluxo organiza o trabalho em equipe, evita conflitos e mantém o repositório principal sempre estável.
+
+#
