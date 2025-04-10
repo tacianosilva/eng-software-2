@@ -114,5 +114,6 @@ git commit -m "feat(login): add Google authentication"
 git commit -m "fix(api): fix error in /users endpoint response"
 git commit -m "docs(readme): update installation instructions"
 ```
+Realizei o cadastro no **Academic Dev Flow** e e achei o proecsso de cadastro e login de facil entedimentoe facil
 
 
