@@ -65,6 +65,36 @@ Ao seguir esses recursos, você obterá uma compreensão sólida de como integra
 ## 🔀 Branches e Pull Requests com GitFlow
 O **GitFlow** é um fluxo de trabalho baseado em Git que ajuda a organizar o desenvolvimento de software de maneira eficiente. Ele utiliza diferentes **branches** para separar funcionalidades, correções e versões estáveis.
 
+### 🔄 Branches Temporárias:
+- **feature/** – Para desenvolver novas funcionalidades. Criadas a partir de `develop` e, ao concluir a feature, são mescladas de volta para `develop`.
+- **release/** – Criadas quando uma nova versão está prestes a ser lançada. Permitem testes e correções antes de serem mescladas em `main` e `develop`.
+- **hotfix/** – Para correções urgentes de bugs em produção. Criadas a partir de `main` e, após a correção, são mescladas de volta em `main` e `develop`.
+
+### 🔁 Pull Requests:
+
+O fluxo GitFlow recomenda o uso de **Pull Requests (PRs)** para revisar código antes de mesclá-lo.  
+1. Um desenvolvedor cria um **branch feature/** e implementa a funcionalidade.
+2. Quando finalizado, abre um **Pull Request** para `develop` no GitHub.
+3. Outros membros da equipe revisam o código, sugerem melhorias e aprovam a mesclagem.
+4. Após a aprovação, o código é mesclado em `develop`.
+
+Esse fluxo melhora a colaboração, garante um código mais seguro e evita problemas na versão de produção. 🚀
+
+
+## 🔢 Versionamento Semântico:
+
+O **Versionamento Semântico (SemVer)** é um sistema de numeração de versões que segue o formato **MAJOR.MINOR.PATCH**:
+
+- **MAJOR** (X.0.0) – Alterações que quebram compatibilidade com versões anteriores.  
+- **MINOR** (0.X.0) – Novas funcionalidades adicionadas sem quebrar a compatibilidade.  
+- **PATCH** (0.0.X) – Correções de bugs e melhorias sem alterar funcionalidades existentes.  
+
+Exemplo:  
+Se a versão atual for **1.2.3** e for lançada uma nova funcionalidade sem quebrar compatibilidade, a versão se tornaria **1.3.0**.  
+Se fosse uma correção de bug, seria **1.2.4**.  
+Caso houvesse uma mudança que quebrasse compatibilidade, passaria para **2.0.0**.
+
+Mais detalhes em: [semver.org](https://semver.org/)  
 
 
 
