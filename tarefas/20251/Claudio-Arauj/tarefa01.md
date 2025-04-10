@@ -119,3 +119,32 @@ Esse padrão facilita o entendimento sobre o impacto das mudanças em um softwar
 Mais detalhes em: [https://semver.org/lang/pt-BR/](https://semver.org/lang/pt-BR/)
 
 #
+
+### Conventional Commits (Convenções para Mensagens de Commits)
+
+**Conventional Commits** é uma convenção para escrever mensagens de commit padronizadas, com o objetivo de tornar o histórico de mudanças mais legível e automatizável.
+
+O formato básico é: ```<tipo>[escopo opcional]: <mensagem curta>```
+
+
+Exemplos:
+* `feat: adicionar funcionalidade de login`
+* `fix: corrigir bug na validação de formulário`
+* `docs: atualizar README com instruções de instalação`
+
+Principais tipos:
+* **feat**: nova funcionalidade
+* **fix**: correção de bug
+* **docs**: alterações em documentação
+* **style**: formatação, sem mudança de código
+* **refactor**: refatoração de código
+* **test**: adição ou modificação de testes
+* **chore**: tarefas que não afetam o código de produção
+
+Essa padronização facilita:
+- Geração automática de changelogs;
+- Organização e entendimento do histórico de commits;
+- Integração com ferramentas de CI/CD e versionamento semântico.
+
+Mais informações: [conventionalcommits.org](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+
