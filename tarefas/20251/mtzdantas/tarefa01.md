@@ -31,3 +31,23 @@ A equipe tem uma certa facilidade para trabalhar com Dart pois todos já utiliza
 ### Framework
 
 O framework utilizado será o Flutter, framework esse que trouxe muito destaque para o Dart. Com ele, é possível criar apps com interface gráfica nativa para Android, iOS, Web e Desktop, a partir de uma única base de código.
+
+### IDE
+
+A IDE escolhida foi o Visual Studio Code. Ele é um editor de código-fonte leve, gratuito e de código aberto. Sua vasta coleção de extensões o torna uma IDE muito completa e uma das mais utilizadas atualmente.
+
+**Debug:**  
+O VS Code possui um sistema de debugging integrado muito eficiente, oferecendo funcionalidades como:
+- Breakpoints (pontos de parada);
+- Step Over / Step Into / Continue (controle linha a linha);
+- Watch e Variables (monitoramento de variáveis em tempo real);
+- Call Stack (pilha de chamadas);
+- Terminal integrado (execução direta no editor).
+
+**Controle de versão:**  
+O VS Code tem suporte nativo ao Git, o que facilita bastante o controle de versão e a integração com o GitHub. Ele permite:
+- Visualizar mudanças nos arquivos (diffs);
+- Realizar commits diretamente pela interface;
+- Criar e alternar entre branches facilmente;
+- Executar push, pull e fetch com apenas um clique;
+- Integrar com o GitHub para criação de Pull Requests, visualização de issues, entre outros.
