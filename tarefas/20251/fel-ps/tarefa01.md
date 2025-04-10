@@ -23,3 +23,8 @@ Danilo Gabriel    |  https://github.com/DaniloMano
 Mateus Dantas       |  https://github.com/mtzdantas
 
 #### Repositório do projeto: https://github.com/mtzdantas/sistema-bonelaria
+
+# Linguagem de programação usada no projeto
+
+#### No nosso projeto será usado Dart, os membros participantes já possuem um pouco de experiência com essas linguagens, alguns já possuem um conhecimento com elas no ambiente profissional.
+
