@@ -73,3 +73,10 @@ O vídeo apresenta um tutorial completo sobre como implementar operações CRUD 
 
 O Versionamento Semântico é uma convenção para definir versões de software de forma clara e padronizada, facilitando a compreensão sobre a natureza das mudanças em cada atualização. Ele utiliza o formato MAJOR.MINOR.PATCH, por exemplo: 2.4.1.
 
+### Conventional Commits
+
+Conventional Commits é uma convenção para escrever mensagens de commit padronizadas e informativas. Ela facilita o entendimento da história do projeto, melhora a automação de processos (como geração de changelogs e versionamento) e ajuda na colaboração em equipe. <br>
+A mensagem de commit segue o padrão "tipo(escopo opcional): descrição". Alguns exemplos de uso:
+- `feat: adiciona função de login com autenticação`
+- `fix: corrige erro de validação no formulário`
+- `docs: atualiza README com instruções de instalação`
