@@ -68,3 +68,8 @@ O vídeo apresenta um tutorial completo sobre como implementar operações CRUD 
 - feature/*: Usada para desenvolver novas funcionalidades. Parte da develop.
 - release/*: Usada para preparar uma nova versão. Sai da develop e depois vai para main e develop.
 - hotfix/*: Corrige erros críticos diretamente na main, e depois é fundida também com a develop
+
+### Versionamento Semântico
+
+O Versionamento Semântico é uma convenção para definir versões de software de forma clara e padronizada, facilitando a compreensão sobre a natureza das mudanças em cada atualização. Ele utiliza o formato MAJOR.MINOR.PATCH, por exemplo: 2.4.1.
+
