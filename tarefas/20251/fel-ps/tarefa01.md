@@ -31,3 +31,7 @@ Mateus Dantas       |  https://github.com/mtzdantas
 # Framework usado no projeto
 
 #### Iremos usar o Flutter, ele é um framework para quem quer desenvolvolver para dispositivos móveis de forma híbrida, se adaptando tanto para Android, Ios ou Web. Ele é escrito em dart, os membros participantes já possuem um pouco de experiência com esse framework.
+
+# IDE usada no projeto
+
+#### A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
