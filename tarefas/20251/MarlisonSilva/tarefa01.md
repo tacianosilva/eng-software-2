@@ -51,3 +51,11 @@ O Visual Studio Code (VS Code) é um editor de código-fonte leve, gratuito e mu
 Um dos grandes diferenciais do VS Code é seu sistema de debug integrado. Ele permite que o desenvolvedor adicione breakpoints, inspecione variáveis em tempo real, acompanhe a pilha de chamadas e execute o código linha por linha, tudo diretamente do editor. Com suporte a diversas linguagens através de extensões (como a de Python, por exemplo), o processo de depuração se torna muito mais eficiente e acessível, eliminando a necessidade de ferramentas externas.
 
 Além disso, o VS Code possui uma excelente integração com o Git, facilitando o controle de versão do código. É possível clonar repositórios, criar e gerenciar branches, fazer commits, visualizar mudanças em arquivos e resolver conflitos de merge diretamente pela interface gráfica. Com o apoio de extensões como o GitLens, o desenvolvedor ainda pode visualizar o histórico de alterações e identificar quem modificou cada linha de código, tornando o processo de versionamento mais transparente e colaborativo.
+
+## CRUD Django
+
+Building a Simple Python-Django CRUD Application from Scratch: Este guia do DEV Community orienta na criação de uma aplicação CRUD simples de "Todo" utilizando Django. O tutorial abrange desde a configuração do ambiente até a criação de modelos, views, URLs e templates, proporcionando uma compreensão prática do desenvolvimento com Django. ​
+
+
+[Tutorial DEV Community](https://dev.to/aadarsh-nagrath/building-a-django-crud-todo-app-from-scratch-fe3)
+
