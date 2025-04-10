@@ -28,3 +28,6 @@ Mateus Dantas       |  https://github.com/mtzdantas
 
 #### No nosso projeto será usado Dart, os membros participantes já possuem um pouco de experiência com essas linguagens, alguns já possuem um conhecimento com elas no ambiente profissional.
 
+# Framework usado no projeto
+
+#### Iremos usar o Flutter, ele é um framework para quem quer desenvolvolver para dispositivos móveis de forma híbrida, se adaptando tanto para Android, Ios ou Web. Ele é escrito em dart, os membros participantes já possuem um pouco de experiência com esse framework.
