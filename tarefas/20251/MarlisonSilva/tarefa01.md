@@ -91,3 +91,7 @@ O SemVer também permite a adição de versões de pré-lançamento e metadados.
 - `fix`: correção de bug  
 - `docs`, `style`, `refactor`, `test`, entre outros  
 - `BREAKING CHANGE`: indica mudanças incompatíveis
+
+## AcademicFlow
+
+Feedback: Sistema bonito e design agradável, o que torna o software deleitoso de utilizar.
