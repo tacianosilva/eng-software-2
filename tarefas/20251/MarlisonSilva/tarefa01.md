@@ -29,3 +29,11 @@ O projeto _Caderneta Virtual de Vendas (CVV)_ é um sistema de gerenciamento des
 ## Repositório
 
 https://github.com/Lleusxam/caderneta-virtual
+
+## Python
+
+**Python** é uma linguagem de programação de alto nível, criada por **Guido van Rossum** e lançada em 1991. É conhecida por sua sintaxe clara, simplicidade e legibilidade, o que a torna ideal tanto para iniciantes quanto para desenvolvedores experientes.
+
+## Experiência da equipe 
+
+Dos seis integrantes da equipe, quatro já possuem experiência prévia com Django, o que, aliado às vantagens de modularização e alta produtividade que o framework oferece, torna sua escolha bastante sólida. Os outros dois membros também demonstraram interesse em aprender a ferramenta, o que reforça ainda mais a viabilidade dessa decisão.
