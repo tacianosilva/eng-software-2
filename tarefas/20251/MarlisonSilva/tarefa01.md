@@ -79,3 +79,15 @@ O Versionamento Semântico (SemVer) é um sistema de versionamento usado para ge
 
 O SemVer também permite a adição de versões de pré-lançamento e metadados. Esse sistema visa evitar problemas de dependências e garantir que as mudanças sejam claramente comunicadas aos usuários.
 
+## Convenção de commits
+
+**Conventional Commits** é uma convenção para padronizar mensagens de commit, facilitando a leitura do histórico e a automação de processos como geração de changelogs e versionamento semântico.
+
+### Estrutura:
+`<tipo>[escopo opcional]: <descrição curta>`
+
+### Exemplos de tipos:
+- `feat`: nova funcionalidade  
+- `fix`: correção de bug  
+- `docs`, `style`, `refactor`, `test`, entre outros  
+- `BREAKING CHANGE`: indica mudanças incompatíveis
