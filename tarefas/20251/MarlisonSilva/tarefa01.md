@@ -66,3 +66,16 @@ Branches no Git permitem trabalhar em funcionalidades ou correções sem afetar 
 Um pull request (PR) (ou merge request) é a solicitação para mesclar as alterações feitas em uma branch de volta à branch principal. No GitHub, ele permite que outros desenvolvedores revisem e comentem o código antes de aprová-lo.
 
 O GitFlow é um modelo que organiza o fluxo de trabalho com branches como main, develop, feature, bugfix, release, e hotfix. Funcionalidades são desenvolvidas em branches separadas e, depois, integradas à branch develop. Quando tudo está pronto, é feita a integração final com a main para lançamento.
+
+## Versionamento Semântico
+
+O Versionamento Semântico (SemVer) é um sistema de versionamento usado para gerenciar dependências de software. Ele define que as versões de software devem seguir o formato MAJOR.MINOR.PATCH, onde:
+
+- MAJOR: Incrementado quando há mudanças incompatíveis na API.
+
+- MINOR: Incrementado quando novas funcionalidades são adicionadas de forma compatível.
+
+- PATCH: Incrementado para correções de bugs sem quebrar a compatibilidade.
+
+O SemVer também permite a adição de versões de pré-lançamento e metadados. Esse sistema visa evitar problemas de dependências e garantir que as mudanças sejam claramente comunicadas aos usuários.
+
