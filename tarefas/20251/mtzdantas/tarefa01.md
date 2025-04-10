@@ -57,3 +57,14 @@ O VS Code tem suporte nativo ao Git, o que facilita bastante o controle de vers�
 **Link:** https://www.youtube.com/watch?v=qyP1NOXT9GU
 
 O vídeo apresenta um tutorial completo sobre como implementar operações CRUD (Criar, Ler, Atualizar, Excluir) em um aplicativo Flutter utilizando o Firebase Firestore como banco de dados. Por meio de um projeto prático e simples, ideal para iniciantes, o instrutor ensina passo a passo como criar formulários de cadastro de empregados, integrar Firebase tanto no Android quanto no iOS, exibir dados em tempo real com StreamBuilder, e realizar atualizações e exclusões de registros com feedback visual no app. O conteúdo é focado em boas práticas, organização de código e oferece orientações claras para quem está começando no desenvolvimento mobile com Flutter e Firebase.
+
+### Branches e GitFlow
+
+**Branches:** O uso de branches para o versionamento de código é essencial para organizar o trabalho e permitir que várias pessoas colaborem simultaneamente sem conflitos. Uma branch é basicamente uma linha separada de desenvolvimento, permitindo criar novas funcionalidades, corrigir bugs ou testar ideias sem afetar o código principal. <br>
+
+**Gitflow:** O GitFlow é uma estratégia de gerenciamento de branches muito popular, especialmente em equipes que seguem boas práticas de versionamento e entrega contínua. Ele define um modelo claro e organizado de como criar, testar e integrar código. As principais branches no GitFlow são:
+- main ou master: Contém o código em produção.
+- develop: Contém o código de desenvolvimento (última versão testada, mas ainda não liberada em produção).
+- feature/*: Usada para desenvolver novas funcionalidades. Parte da develop.
+- release/*: Usada para preparar uma nova versão. Sai da develop e depois vai para main e develop.
+- hotfix/*: Corrige erros críticos diretamente na main, e depois é fundida também com a develop
