@@ -43,3 +43,18 @@ Mateus Dantas       |  https://github.com/mtzdantas
 # Branches e pull request
 
 #### A branch é uma ramificação do código principal, ela é usada com a finalidade de facilitar que várias pessoas trabalhem no mesmo projeto sem interferir no código principal. Sendo assim, ao usar as branches precisamos do pull request para fazer com que o código que esteja nela seja mesclado com o código principal, sendo uma forma de controle para não implementar código quebrado.
+
+# Versionamento Semântico
+#### É uma prática utilizada para fazer controle de versão de software
+
+## MAJOR
+
+#### Aumenta quando são feitas mudanças incompatíveis, indicando uma versão significativamente nova do software.
+
+## MINOR
+
+#### Aumenta quando funcionalidades são adicionadas de forma compatível com versões anteriores.
+
+## PATCH
+
+#### Aumenta quando são feitas correções de bugs ou pequenas melhorias que não alteram a funcionalidade principal do software.
