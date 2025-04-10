@@ -39,3 +39,7 @@ Mateus Dantas       |  https://github.com/mtzdantas
 # Tutorial de CRUD em Flutter
 
 #### [Flutter](https://youtu.be/ViahqKZzZ7Y?si=Kge3_jGe4LQ_TSgA), nesse tutorial ele apresenta como fazer um crud bem fácil com o flutter, é uma forma interessante de começar a entender sobre esse framework.
+
+# Branches e pull request
+
+#### A branch é uma ramificação do código principal, ela é usada com a finalidade de facilitar que várias pessoas trabalhem no mesmo projeto sem interferir no código principal. Sendo assim, ao usar as branches precisamos do pull request para fazer com que o código que esteja nela seja mesclado com o código principal, sendo uma forma de controle para não implementar código quebrado.
