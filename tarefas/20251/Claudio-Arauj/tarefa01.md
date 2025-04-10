@@ -105,3 +105,17 @@ O PR permite:
 Esse fluxo organiza o trabalho em equipe, evita conflitos e mantém o repositório principal sempre estável.
 
 #
+
+### Versionamento Semântico (SemVer)
+
+O **Versionamento Semântico** é um sistema de controle de versões que segue o formato `MAJOR.MINOR.PATCH` (Ex: `2.1.4`). Cada parte tem um significado específico:
+
+- **MAJOR**: Incrementado quando há mudanças incompatíveis na API.
+- **MINOR**: Incrementado ao adicionar funcionalidades de forma retrocompatível.
+- **PATCH**: Incrementado ao corrigir bugs de forma retrocompatível.
+
+Esse padrão facilita o entendimento sobre o impacto das mudanças em um software, promovendo maior previsibilidade e confiabilidade para quem consome a aplicação ou biblioteca.
+
+Mais detalhes em: [https://semver.org/lang/pt-BR/](https://semver.org/lang/pt-BR/)
+
+#
