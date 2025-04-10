@@ -35,3 +35,7 @@ Mateus Dantas       |  https://github.com/mtzdantas
 # IDE usada no projeto
 
 #### A IDE que escolhemos foi o VS code, é um editor de código onde podemos facilmente preparar o nosso ambiente de trabalho para as linguagens e frameworks escolhidos, facilitando assim o desenvolvimento do projeto e ajudando no debug e no controle das versões.
+
+# Tutorial de CRUD em Flutter
+
+#### [Flutter](https://youtu.be/ViahqKZzZ7Y?si=Kge3_jGe4LQ_TSgA), nesse tutorial ele apresenta como fazer um crud bem fácil com o flutter, é uma forma interessante de começar a entender sobre esse framework.
