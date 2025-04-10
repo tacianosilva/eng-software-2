@@ -59,3 +59,10 @@ Building a Simple Python-Django CRUD Application from Scratch: Este guia do DEV 
 
 [Tutorial DEV Community](https://dev.to/aadarsh-nagrath/building-a-django-crud-todo-app-from-scratch-fe3)
 
+## Branches, Pull Request e GitFlow
+
+Branches no Git permitem trabalhar em funcionalidades ou correções sem afetar o código principal. A branch main (ou master) contém o código estável, e novas branches podem ser criadas para diferentes tarefas, como feature/login ou bugfix/header.
+
+Um pull request (PR) (ou merge request) é a solicitação para mesclar as alterações feitas em uma branch de volta à branch principal. No GitHub, ele permite que outros desenvolvedores revisem e comentem o código antes de aprová-lo.
+
+O GitFlow é um modelo que organiza o fluxo de trabalho com branches como main, develop, feature, bugfix, release, e hotfix. Funcionalidades são desenvolvidas em branches separadas e, depois, integradas à branch develop. Quando tudo está pronto, é feita a integração final com a main para lançamento.
