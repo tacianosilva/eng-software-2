@@ -37,3 +37,9 @@ https://github.com/Lleusxam/caderneta-virtual
 ## Experiência da equipe 
 
 Dos seis integrantes da equipe, quatro já possuem experiência prévia com Django, o que, aliado às vantagens de modularização e alta produtividade que o framework oferece, torna sua escolha bastante sólida. Os outros dois membros também demonstraram interesse em aprender a ferramenta, o que reforça ainda mais a viabilidade dessa decisão.
+
+## Django
+
+Django é um framework de desenvolvimento web de alto nível escrito em Python. Ele foi criado com o objetivo de facilitar a criação de aplicações web de forma rápida, segura e escalável.
+
+Originalmente desenvolvido por uma equipe de desenvolvedores de um jornal online (o Lawrence Journal-World), Django foi lançado como open source em 2005 e desde então vem sendo amplamente utilizado em diversos projetos, de startups a grandes empresas.
