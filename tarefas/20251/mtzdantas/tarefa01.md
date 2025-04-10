@@ -51,3 +51,9 @@ O VS Code tem suporte nativo ao Git, o que facilita bastante o controle de vers�
 - Criar e alternar entre branches facilmente;
 - Executar push, pull e fetch com apenas um clique;
 - Integrar com o GitHub para criação de Pull Requests, visualização de issues, entre outros.
+
+### Tutorial
+
+**Link:** https://www.youtube.com/watch?v=qyP1NOXT9GU
+
+O vídeo apresenta um tutorial completo sobre como implementar operações CRUD (Criar, Ler, Atualizar, Excluir) em um aplicativo Flutter utilizando o Firebase Firestore como banco de dados. Por meio de um projeto prático e simples, ideal para iniciantes, o instrutor ensina passo a passo como criar formulários de cadastro de empregados, integrar Firebase tanto no Android quanto no iOS, exibir dados em tempo real com StreamBuilder, e realizar atualizações e exclusões de registros com feedback visual no app. O conteúdo é focado em boas práticas, organização de código e oferece orientações claras para quem está começando no desenvolvimento mobile com Flutter e Firebase.
