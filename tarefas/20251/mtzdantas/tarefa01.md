@@ -27,3 +27,7 @@ https://github.com/mtzdantas/sistema-bonelaria.git
 Para o front-end o projeto será desenvolvido em Dart, uma linguagem que foi criada com o objetivo de ser uma linguagem moderna, produtiva e com alto desempenho, voltada principalmente para aplicações front-end, tanto para web quanto para mobile e desktop. <br>
 
 A equipe tem uma certa facilidade para trabalhar com Dart pois todos já utilizamos dessa ferramenta para desenvolvimento de interfaces na disciplina de POO.
+
+### Framework
+
+O framework utilizado será o Flutter, framework esse que trouxe muito destaque para o Dart. Com ele, é possível criar apps com interface gráfica nativa para Android, iOS, Web e Desktop, a partir de uma única base de código.
