@@ -52,27 +52,35 @@ Para projetos em **Flutter**, o VS Code é uma das ferramentas mais recomendadas
 
 Com as extensões oficiais do Flutter e do Dart instaladas, o VS Code oferece:
 
-- Sugestões de código (IntelliSense) específicas para Flutter/Dart  
-- Hot Reload integrado para testes rápidos de UI  
-- Templates e snippets para acelerar o desenvolvimento de interfaces com widgets  
-- Execução de comandos Flutter diretamente pelo terminal do VS Code
+* Sugestões de código (IntelliSense) específicas para Flutter/Dart  
+* Hot Reload integrado para testes rápidos de UI  
+* Templates e snippets para acelerar o desenvolvimento de interfaces com widgets  
+* Execução de comandos Flutter diretamente pelo terminal do VS Code
 
 
 #### Ferramentas de Depuração
 
 O VS Code permite debugar aplicações Flutter de forma eficiente, oferecendo:
 
-- Inserção de *breakpoints* em arquivos Dart  
-- Visualização de variáveis em tempo real  
-- Navegação pela **pilha de chamadas**  
-- Terminal de depuração para análises dinâmicas
+* Inserção de *breakpoints* em arquivos Dart  
+* Visualização de variáveis em tempo real  
+* Navegação pela **pilha de chamadas**  
+* Terminal de depuração para análises dinâmicas
 
 
 #### Integração com Controle de Versão
 
 Possui suporte integrado ao **Git**, permitindo:
 
-- Criação e gerenciamento de repositórios  
-- Visualização de alterações no código  
-- Realização de *commits*, *pushes*, *pulls* e resolução de conflitos  
-- Navegação entre *branches* e histórico de versões
+* Criação e gerenciamento de repositórios  
+* Visualização de alterações no código  
+* Realização de *commits*, *pushes*, *pulls* e resolução de conflitos  
+* Navegação entre *branches* e histórico de versões
+
+#
+
+### Tutorial de um CRUD em Dart com Flutter framework 
+> Curso gratuito do canal Cod3r Cursos: [Link](https://www.youtube.com/watch?v=ViahqKZzZ7Y)
+* No [curso gratuito](https://www.youtube.com/watch?v=ViahqKZzZ7Y), são abordados os conceitos básicos do framework Flutter por meio de uma abordagem prática. Durante a aula, é desenvolvido um CRUD completo, o que facilita a compreensão dos principais recursos da ferramenta.
+
+#
