@@ -31,3 +31,7 @@ O framework utilizado será o Django, um framework web de alto nível para Pytho
 
 **IDE:**  
 A equipe utilizará o Visual Studio Code (VSCode), uma IDE leve e extensível. Ela oferece recursos integrados como controle de versão com Git, terminal embutido, depurador (debugger), além de suporte a extensões como Python, Django e GitLens, que otimizam o desenvolvimento e o gerenciamento do código.
+
+**Tutorial:**  
+Utilizaremos o tutorial [Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website) da MDN Web Docs. Este guia ensina a criar um site completo com Django, abordando desde a criação de modelos e formulários até a implementação de funcionalidades de criação, leitura, atualização e exclusão de registros. O tutorial também explora autenticação de usuários, permissões, sessões e testes automatizados, proporcionando uma compreensão abrangente do desenvolvimento web com Django.
+
