@@ -51,3 +51,18 @@ No vídeo, é mostrado como desenvolver um aplicativo de lista de tarefas do zer
 - Capítulo 4: Sistema de Gerenciamento de Tarefas: Desenvolvimento da Tela de Tarefas e Exploração de Widgets
 - Capítulo 5: Integração com Banco de Dados e Configuração de Alertas e Notificações
 - Capítulo 6: Técnicas Avançadas de Interface e Operações no Banco de Dados
+
+## Branches e Pull Request usando git e github com GitFlow
+
+No Git, uma **branch** é uma ramificação independente usada para desenvolver e implementar novas funcionalidades e correções, sem afetar o código principal, da **branch principal**. O **GitHub** facilita a criação e o gerenciamento dessas branches de forma mais visual.
+
+Um **pull request** (ou *merge request*) é uma requisição feita pedindo para integrar modificações feitas em uma branch ao repositório principal. Ele permite que outros membros da equipe possam fazer a revisão do código antes de dar *merge*, garantindo maior qualidade e controle no processo de desenvolvimento em equipe.
+
+Já o **GitFlow** é um modelo de branches que organiza o fluxo de desenvolvimento em regras bem definidas. Ele propõe o uso de branches diferentes para funções diferentes:
+
+- `main` ou `master`: contém a versão segura do projeto.
+- `develop`: branch de desenvolvimento principal.
+- `feature`: branch para desenvolver novas funcionalidades.
+- `hotfix`: branch para correção de problemas.
+
+Com o GitFlow, cada nova funcionalidade do projeto é desenvolvida em uma branch `feature`, que quando concluída é integrada à branch `develop` por meio de um pull request. Esse fluxo de branches garante organização, paralelismo no trabalho em equipe e um controle eficaz de versões.
