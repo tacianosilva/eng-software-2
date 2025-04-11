@@ -64,7 +64,7 @@ Resumo: O tutorial ensina a criar um CRUD usando Django, abordando desde a confi
 
 ---
 
-<!-- ## f. Branches e Pull Requests com GitFlow
+## f. Branches e Pull Requests com GitFlow
 
 O GitFlow é uma estratégia de organização de branches no Git que facilita o controle de versões em equipes. Ele define papéis claros para cada branch:
 
@@ -82,7 +82,7 @@ Pull Requests (ou Merge Requests) são usados para submeter mudanças feitas em 
 
 ---
 
-## g. Versionamento Semântico
+<!-- ## g. Versionamento Semântico
 
 O Versionamento Semântico (SemVer) é um padrão que usa três números para identificar versões de software no formato MAJOR.MINOR.PATCH, como por exemplo 1.2.3.
 
