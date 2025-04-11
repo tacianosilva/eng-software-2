@@ -25,12 +25,12 @@ O projeto *Caderneta Virtual de Vendas (CVV)* é um sistema de gerenciamento des
 
 ---
 
-<!-- ## b. Linguagem de Programação
+## b. Linguagem de Programação
 
 A linguagem escolhida para o projeto é **Python**.  
 Python é versátil, simples de aprender e possui ampla documentação. A maioria da equipe tem familiaridade com a linguagem, o que facilita a produtividade e o entendimento do código. Seu ecossistema de bibliotecas também é um diferencial para desenvolvimento rápido de aplicações web.
 
----
+<!-- ---
 
 ## c. Framework Utilizado
 
@@ -100,6 +100,6 @@ Esse modelo facilita o entendimento das mudanças entre versões e ajuda a mante
 
 O Conventional Commits é um padrão para mensagens de commit que segue uma estrutura pré-definida, facilitando a leitura, o versionamento e a automação do projeto. Cada commit começa com um tipo (como feat, fix, docs, entre outros), seguido de uma descrição breve. Isso ajuda a manter um histórico claro e consistente das alterações no código.
 
---- -->
+--- 
 
-
+ -->
