@@ -32,3 +32,10 @@ Além disso, todos os integrantes da equipe já possuem experiência prévia e d
 
 ## Framework
 O framework escolhido para o projeto é o Django, uma ferramenta de alto nível, escrita em Python e voltada para o desenvolvimento de aplicações web. O Django foi projetado para acelerar o processo de desenvolvimento, promovendo segurança, escalabilidade e reutilização de código. Sua arquitetura segue o padrão MTV (Model-Template-View), o que contribui para uma organização eficiente da aplicação.
+
+## IDE
+A IDE escolhida para o desenvolvimento do projeto é o Visual Studio Code (VS Code), um editor de código-fonte leve e poderoso, desenvolvido pela Microsoft. O VS Code oferece amplos recursos que otimizam a produtividade dos desenvolvedores, como realce de sintaxe, autocompletar inteligente, snippets, refatoração de código e uma extensa galeria de extensões que permitem personalizar e expandir suas funcionalidades.
+
+O VS Code também permite executar e depurar aplicações diretamente no editor, com suporte a breakpoints, inspeção de variáveis em tempo real, watch expressions e controle do fluxo de execução. Tudo isso pode ser configurado com facilidade para diferentes linguagens, como Python, através dos seus recursos de extensões como "Python Extension for VS Code".
+
+O editor ainda possui integração nativa com o Git, possibilitando a realização de commits, push, pull, criação de branches e visualização de históricos de alterações diretamente pela interface gráfica, sem a necessidade de usar o terminal. Isso torna o gerenciamento do repositório mais prático e intuitivo.
