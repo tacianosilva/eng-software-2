@@ -42,3 +42,33 @@ O editor ainda possui integração nativa com o Git, possibilitando a realizaç�
 
 ## Tutorial
 O tutorial da MDN intitulado [Tutorial: website de biblioteca local com Django (MDN)](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website) ensina, passo a passo, como criar uma aplicação web funcional usando o framework Django atraves de um sistema de gerenciamento de biblioteca, permitindo o cadastro e empréstimo de livros. Nele, você se aprende a configurar um projeto Django do zero, criar modelos, rotas, views e templates, a utilização do Django Admin, implementação da autenticação de usuários e também a trabalhar com formulários e relacionamentos entre modelos.
+
+## Branches e Pull Requests
+### Branches
+Branches são versões paralelas de um código. Elas permitem que se trabalhe em novas funcionalidades, correções de bugs ou testes sem interferir diretamente no código principal.
+
+No GitFlow, as principais branches são:
+
+> main: contém o código em produção, sempre estável.
+
+> develop: usada para o desenvolvimento com os recursos mais atualizados que ainda não foram lançados.
+
+> feature: usada para desenvolver novas funcionalidades.
+
+> release: usada para preparar uma nova versão.
+
+> hotfix: usada para corrigir rapidamente erros em produção.
+
+### Pull Request (ou Merge Request)
+Um pull request (PR) é uma solicitação para mesclar uma branch com outra. Esse recurso permite que a equipe revise o código antes da integração.
+
+No GitHub, o processo costuma seguir este fluxo:
+
+- Se cria uma branch a partir da develop (ex: feature/login).
+
+- Se faz as alterações e commits nessa branch.
+
+- Quando se termina, abre um pull request para mesclar a feature/login com a develop.
+
+- Outros membros da equipe revisam o código, sugerem melhorias e, se aprovado, o código é integrado.
+
