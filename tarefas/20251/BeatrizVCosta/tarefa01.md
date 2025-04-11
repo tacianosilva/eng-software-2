@@ -24,3 +24,7 @@ Sistema para gestão de estúdios de Pilates de pequeno porte, oferecendo cadast
 ## Link do repositório
 
 [Repositório Estúdio Pilates](https://github.com/EL0ISA/estudio_pilates)
+
+## Linguagem de programação que será usada no projeto
+
+Python foi escolhido para o desenvolvimento deste projeto por sua versatilidade, eficiência e ampla adoção no mercado. Sua sintaxe clara e intuitiva facilita a colaboração entre os membros da equipe e acelera o processo de desenvolvimento. Além disso, sua grande variedade de bibliotecas permite implementar funcionalidades de forma rápida e prática. Outro ponto importante é a experiência da equipe com a linguagem, o que contribui para um fluxo de trabalho mais ágil e produtivo.
