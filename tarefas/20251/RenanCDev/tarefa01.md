@@ -112,7 +112,6 @@ Caso houvesse uma mudança que quebrasse compatibilidade, passaria para **2.0.0*
 Mais detalhes em: [semver.org](https://semver.org/)  
 
 ---
-
 ## 📑 Conventional Commits
 O **Conventional Commits** é uma convenção para padronizar mensagens de commit, tornando-as mais descritivas e organizadas. O formato básico é:
 
@@ -131,3 +130,7 @@ git commit -m "feat(login): add Google authentication"
 git commit -m "fix(api): fix error in /users endpoint response"
 git commit -m "docs(readme): update installation instructions"
 ```
+
+## 🔗 Cadastro no AcademicDevFlow
+Realizei meu cadastro no **Academic Dev Flow** e achei o processo simples e ágil. A interface do sistema é bastante intuitiva, o que facilita a navegação e a compreensão das funcionalidades. Essa boa experiência inicial torna a interação com a plataforma mais fluida e eficiente.
+
