@@ -66,3 +66,17 @@ Já o **GitFlow** é um modelo de branches que organiza o fluxo de desenvolvimen
 - `hotfix`: branch para correção de problemas.
 
 Com o GitFlow, cada nova funcionalidade do projeto é desenvolvida em uma branch `feature`, que quando concluída é integrada à branch `develop` por meio de um pull request. Esse fluxo de branches garante organização, paralelismo no trabalho em equipe e um controle eficaz de versões.
+
+## **Versionamento Semântico (SemVer)**
+
+Versionamento Semântico é um padrão de regras para controle de versões que segue o formato `MAJOR.MINOR.PATCH`, que organiza e comunica mudanças de versões de forma padrão. Dado um número de versão do formato `MAJOR.MINOR.PATCH` (ex: 2.1.3):
+
+- **MAJOR** é incrementado quando há mudanças incompatíveis na API.
+- **MINOR** é incrementado quando funcionalidades novas são adicionadas de forma compatível.
+- **PATCH** é incrementado para correções de bugs que mantêm compatibilidade.
+
+Além disso, podem ser adicionados rótulos para:
+- **Pré-lançamento**: `1.0.0-alpha`, `2.1.0-beta.2`
+- **Metadados de build**: `1.0.0+exp.sha.5114f85`
+
+Esse sistema ajuda a gerenciar dependências e garantir compatibilidade entre versões, facilitando a evolução segura dos projetos.
