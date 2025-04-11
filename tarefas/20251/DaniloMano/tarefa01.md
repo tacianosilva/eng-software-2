@@ -35,3 +35,19 @@ Para este projeto, escolhemos o framework Flutter, um framework multiplataforma 
 ## Ambiente de Desenvolvimento Integrado (IDE) usada: Visual Studio Code (VS Code)
  
 A IDE escolhida para o projeto é o Visual Studio Code (VS Code). Ela possui ferramentas integradas de debug, como definição de breakpoints, inspeção de variáveis e análise da pilha de execução. Também oferece suporte nativo ao Git, permitindo realizar commits, gerenciar branches e sincronizar com repositórios remotos de forma simples e eficiente.
+
+## **Tutorial de CRUD com Flutter** 
+ 
+### [**FLUTTER TODO App With Hive DB, Task Management App, Hive CRUD Operation Tutorial | Flutter Tutorial**](https://www.youtube.com/watch?v=RQlhC_rDrsc)
+ 
+**by: [Programming With FlexZ](https://www.youtube.com/@ProgrammingWithFlexZ)** 
+ 
+**Resumo do Tutorial:**
+No vídeo, é mostrado como desenvolver um aplicativo de lista de tarefas do zero, utilizando Flutter e o banco de dados Hive. O conteúdo é organizado da seguinte forma:
+
+- Capítulo 1: Pacotes Essenciais e Estrutura de Pastas
+- Capítulo 2: Construindo a Tela Inicial: Interface e Funcionalidades Principais
+- Capítulo 3: Adicionando Animações: Drawer Animado e Ícones
+- Capítulo 4: Sistema de Gerenciamento de Tarefas: Desenvolvimento da Tela de Tarefas e Exploração de Widgets
+- Capítulo 5: Integração com Banco de Dados e Configuração de Alertas e Notificações
+- Capítulo 6: Técnicas Avançadas de Interface e Operações no Banco de Dados
