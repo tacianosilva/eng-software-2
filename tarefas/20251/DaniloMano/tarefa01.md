@@ -27,3 +27,7 @@ Será utilizado o framework Flutter, que é baseado na linguagem de programaçã
  
 ### **Experiência da equipe com a linguagem:**
 A equipe possui experiência prévia com a linguagem Dart e o framework Flutter, adquirida durante o desenvolvimento de um projeto prático na disciplina de Programação Orientada a Objetos (POO). Esse projeto proporcionou uma base nos principais conceitos da linguagem e familiaridade com a estrutura de desenvolvimento de aplicações utilizando Flutter. Dessa forma, os membros do grupo detêm o conhecimento necessário para aplicar a tecnologia neste projeto.
+
+## Framework do Projeto: Flutter
+
+Para este projeto, escolhemos o framework Flutter, um framework multiplataforma baseado na linguagem Dart. O Flutter permite a criação de aplicativos para Mobile, Web e Desktop, garantindo uma interface visual moderna, desempenho otimizado e um desenvolvimento ágil graças ao seu recurso de Hot Reload, que facilita a visualização instantânea das mudanças no código.
