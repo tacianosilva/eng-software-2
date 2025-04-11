@@ -35,3 +35,7 @@ A equipe utilizará o Visual Studio Code (VSCode), uma IDE leve e extensível. E
 **Tutorial:**  
 Utilizaremos o tutorial [Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website) da MDN Web Docs. Este guia ensina a criar um site completo com Django, abordando desde a criação de modelos e formulários até a implementação de funcionalidades de criação, leitura, atualização e exclusão de registros. O tutorial também explora autenticação de usuários, permissões, sessões e testes automatizados, proporcionando uma compreensão abrangente do desenvolvimento web com Django.
 
+**Branches e Pull Requests com GitFlow:**  
+O GitFlow é uma estratégia de ramificação que organiza o fluxo de trabalho em projetos colaborativos. Nele, a ramificação principal (main ou master) armazena versões estáveis e prontas para produção, enquanto novas funcionalidades ou correções são desenvolvidas em branches específicas. Por exemplo, branch develop para integrar desenvolvimentos, feature para novas funcionalidades, hotfix para correções rápidas e release para preparar novas versões.
+
+Pull Requests (ou Merge Requests) são usados para propor alterações feitas em uma branch para que sejam integradas a outra, geralmente com revisão do código. No GitHub, essa prática ajuda a garantir qualidade e colaboração, pois outros membros da equipe podem revisar, comentar e aprovar as mudanças antes de adicioná-las ao projeto principal.
