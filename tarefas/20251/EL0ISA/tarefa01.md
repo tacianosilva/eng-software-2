@@ -24,3 +24,8 @@
 > Virlânia Micarla Medeiros Canuto
 
 **Repositório:** [PilatesInspire](https://github.com/EL0ISA/estudio_pilates.git)  
+
+## Linguagem de Programação
+A linguagem de programação adotada para este projeto é o Python, uma linguagem interpretada, de alto nível e com foco na simplicidade e legibilidade do código. Sua sintaxe limpa e intuitiva facilita o desenvolvimento e a manutenção do software, tornando-a uma excelente escolha para projetos colaborativos e de rápida evolução.
+
+Além disso, todos os integrantes da equipe já possuem experiência prévia e domínio da linguagem, o que contribui para um desenvolvimento mais eficiente e assertivo.
