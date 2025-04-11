@@ -32,3 +32,9 @@ A equipe possui experiência intermediária com essas tecnologias e está aprimo
 ## 🚀 Framework Utilizado
 - **Python (Django):** Framework web robusto e escalável, ideal para aplicações seguras e bem estruturadas.  
 - **React com TypeScript:** Combina a flexibilidade do React com a tipagem forte do TypeScript, aumentando a segurança do código e a produtividade da equipe.
+
+## 🛠️ IDE Escolhida
+A IDE escolhida para o projeto é o **Visual Studio Code (VSCode)**.  
+Recursos principais:
+- **Debug:** O VSCode possui um depurador embutido que suporta várias linguagens e permite inspeção de variáveis em tempo real.
+- **Controle de versão:** Integração nativa com Git, permitindo commits, criação de branches e resolução de conflitos diretamente na interface.
