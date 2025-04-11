@@ -80,3 +80,49 @@ Além disso, podem ser adicionados rótulos para:
 - **Metadados de build**: `1.0.0+exp.sha.5114f85`
 
 Esse sistema ajuda a gerenciar dependências e garantir compatibilidade entre versões, facilitando a evolução segura dos projetos.
+
+## **Conventional Commits**
+
+O **Conventional Commits** é uma convenção simples para utilizar nas mensagens de commit, ela deixa o histórico de alterações mais claro e facilita automações como geração de changelog e controle de versionamento semântico.
+
+#### **Formato da mensagem**
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+
+
+### Tipos comuns de Conventional Commits
+
+| Tipo        | Descrição                                                                 |
+|-------------|---------------------------------------------------------------------------|
+| `feat`      | Adição de uma nova funcionalidade                                         |
+| `fix`       | Correção de um bug                                                        |
+| `docs`      | Alterações apenas na documentação (README, comentários, etc.)            |
+| `style`     | Alterações de formatação, espaçamento, ponto e vírgula, etc.             |
+| `refactor`  | Refatoração de código que **não corrige bug** nem **adiciona funcionalidade** |
+| `perf`      | Melhorias de desempenho                                                   |
+| `test`      | Adição ou modificação de testes                                           |
+| `build`     | Mudanças que afetam o sistema de build ou dependências externas          |
+| `ci`        | Alterações em arquivos e scripts de integração contínua (CI)             |
+| `chore`     | Tarefas diversas de manutenção, que não afetam o código de produção      |
+| `revert`    | Reversão de um commit anterior                                            |
+
+**BREAKING CHANGE** pode ser usado em qualquer tipo de commit para indicar uma mudança que quebra compatibilidade.
+
+
+#### **Exemplos:**
+- `feat: adiciona botão de login`
+- `fix(api): corrige erro de autenticação`
+- `feat!: altera formato do retorno da API`
+- `chore!: remove suporte ao Node 12`  
+  `BREAKING CHANGE: uso de recursos não compatíveis com Node 12`
+
+#### **Vantagens:**
+- Geração automática de changelogs
+- Controle automático de versionamento com base em SemVer
+- Comunicação clara das mudanças
+- Facilita a colaboração em projetos
+
+Essa convenção melhora a legibilidade do histórico de commits e padroniza o processo de desenvolvimento.
