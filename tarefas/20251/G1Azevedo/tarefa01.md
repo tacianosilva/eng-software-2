@@ -82,7 +82,7 @@ Pull Requests (ou Merge Requests) são usados para submeter mudanças feitas em 
 
 ---
 
-<!-- ## g. Versionamento Semântico
+## g. Versionamento Semântico
 
 O Versionamento Semântico (SemVer) é um padrão que usa três números para identificar versões de software no formato MAJOR.MINOR.PATCH, como por exemplo 1.2.3.
 
@@ -96,7 +96,7 @@ Esse modelo facilita o entendimento das mudanças entre versões e ajuda a mante
 
 ---
 
-## h. Conventional Commits
+<!-- ## h. Conventional Commits
 
 O Conventional Commits é um padrão para mensagens de commit que segue uma estrutura pré-definida, facilitando a leitura, o versionamento e a automação do projeto. Cada commit começa com um tipo (como feat, fix, docs, entre outros), seguido de uma descrição breve. Isso ajuda a manter um histórico claro e consistente das alterações no código.
 
