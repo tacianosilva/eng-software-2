@@ -25,3 +25,6 @@ O Sistema de Gestão PilatesInspire é uma solução desenvolvida para otimizar 
 
 **Linguagem de programação:**  
 O projeto será desenvolvido em Python, uma linguagem interpretada, de alto nível e com tipagem dinâmica. Sua sintaxe clara e objetiva torna o código mais fácil de escrever e manter. A equipe possui experiência com Python e já utilizou a linguagem em projetos anteriores, e metade dos integrantes já tem experiência com o framework Django, o que contribuirá positivamente para o andamento do projeto.
+
+**Framework:**  
+O framework utilizado será o Django, um framework web de alto nível para Python. Ele oferece uma estrutura robusta e segura para o desenvolvimento rápido de aplicações web. Com ferramentas integradas para autenticação, administração, ORM e roteamento, o Django facilita o desenvolvimento e manutenção do projeto.
