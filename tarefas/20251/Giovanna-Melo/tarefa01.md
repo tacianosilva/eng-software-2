@@ -48,3 +48,17 @@ O versionamento semântico é um sistema que utiliza três números para represe
 - O número PATCH muda quando são feitas correções de bugs, também de forma retrocompatível.
 
 Esse modelo facilita o entendimento sobre o tipo de mudança que uma nova versão traz, ajudando desenvolvedores e usuários a evitarem problemas de compatibilidade.
+
+**Conventional commits:**  
+Conventional Commits é uma convenção para escrever mensagens de commit de forma padronizada.
+Cada mensagem segue um formato do tipo:
+
+Alguns tipos comuns:
+
+`feat: adição de nova funcionalidade`  
+`fix: correção de bug`   
+`docs: mudanças na documentação`  
+`style: formatação de código (sem alteração de lógica)`   
+`refactor: refatoração de código`
+
+Essa padronização facilita a leitura do histórico do projeto, a automação de changelogs e o controle de versões com versionamento semântico.
