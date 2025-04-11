@@ -30,7 +30,7 @@ O projeto *Caderneta Virtual de Vendas (CVV)* é um sistema de gerenciamento des
 A linguagem escolhida para o projeto é **Python**.  
 Python é versátil, simples de aprender e possui ampla documentação. A maioria da equipe tem familiaridade com a linguagem, o que facilita a produtividade e o entendimento do código. Seu ecossistema de bibliotecas também é um diferencial para desenvolvimento rápido de aplicações web.
 
-<!-- ---
+---
 
 ## c. Framework Utilizado
 
@@ -57,7 +57,7 @@ Recursos importantes:
 
 ---
 
-## e. Tutorial de CRUD
+<!-- ## e. Tutorial de CRUD
 
 Tutorial: [https://www.youtube.com/watch?v=Q2tEqNfgIXM]  
 Resumo: O tutorial ensina a criar um CRUD usando Django, abordando desde a configuração do projeto até a criação de modelos, views, formulários e templates, permitindo a manipulação de dados em um banco de dados relacional de forma prática.
@@ -100,6 +100,4 @@ Esse modelo facilita o entendimento das mudanças entre versões e ajuda a mante
 
 O Conventional Commits é um padrão para mensagens de commit que segue uma estrutura pré-definida, facilitando a leitura, o versionamento e a automação do projeto. Cada commit começa com um tipo (como feat, fix, docs, entre outros), seguido de uma descrição breve. Isso ajuda a manter um histórico claro e consistente das alterações no código.
 
---- 
-
- -->
+--- -->
