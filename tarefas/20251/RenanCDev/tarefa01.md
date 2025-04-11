@@ -72,3 +72,6 @@ Para desenvolver uma aplicação CRUD utilizando **Django** no backend e **React
   - Gerenciamento de estado e efeitos colaterais com *hooks* como `useState` e `useEffect`.
 
 Ao seguir esses recursos, você obterá uma compreensão sólida de como integrar Django com React e TypeScript para construir aplicações CRUD eficientes.
+
+## 🔀 Branches e Pull Requests com GitFlow
+O **GitFlow** é um fluxo de trabalho baseado em Git que ajuda a organizar o desenvolvimento de software de maneira eficiente. Ele utiliza diferentes **branches** para separar funcionalidades, correções e versões estáveis.
