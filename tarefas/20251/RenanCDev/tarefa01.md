@@ -133,4 +133,3 @@ git commit -m "docs(readme): update installation instructions"
 
 ## 🔗 Cadastro no AcademicDevFlow
 Realizei meu cadastro no **Academic Dev Flow** e achei o processo simples e ágil. A interface do sistema é bastante intuitiva, o que facilita a navegação e a compreensão das funcionalidades. Essa boa experiência inicial torna a interação com a plataforma mais fluida e eficiente.
-
