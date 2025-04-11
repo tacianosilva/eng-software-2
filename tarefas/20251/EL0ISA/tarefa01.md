@@ -72,3 +72,19 @@ No GitHub, o processo costuma seguir este fluxo:
 
 - Outros membros da equipe revisam o código, sugerem melhorias e, se aprovado, o código é integrado.
 
+## Versionamento Semântico
+O Versionamento Semântico (ou SemVer, de Semantic Versioning) é um sistema de numeração de versões de software que segue um formato padronizado para indicar o tipo de mudança feita no código. Ele usa o seguinte formato:
+
+> MAJOR.MINOR.PATCH
+
+Cada parte da versão tem um significado específico:
+
+- MAJOR (versão principal): muda quando há alterações incompatíveis na API.
+
+- MINOR (versão secundária): muda quando novas funcionalidades são adicionadas de forma compatível.
+
+- PATCH (correção): muda quando são feitas correções de bugs compatíveis com versões anteriores.
+
+Além disso, pode-se adicionar rótulos de pré-lançamento (-alpha, -beta, etc.) e metadados de build, se necessário.
+
+Seguir o versionamento semântico, ajuda desenvolvedores e usuários a saberem se a nova versão quebra compatibilidade com versões anteriores, se ela adiciona funcionalidades de forma segura ou ainda se apenas corrige problemas existentes.
