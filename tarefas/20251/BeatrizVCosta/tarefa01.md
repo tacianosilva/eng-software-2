@@ -87,3 +87,35 @@ git checkout -b feature/login  # Cria uma branch para nova funcionalidade
 git push origin feature/login
 
 ```
+
+# 📌 Versionamento Semântico (SemVer)
+
+O **Versionamento Semântico** é um padrão para nomear versões de software no formato:
+
+### Componentes:
+
+- **MAJOR**: Mudanças incompatíveis na API.  
+  Ex: `1.0.0 → 2.0.0`
+
+- **MINOR**: Novas funcionalidades compatíveis.  
+  Ex: `1.2.0 → 1.3.0`
+
+- **PATCH**: Correções de bugs compatíveis.  
+  Ex: `1.2.3 → 1.2.4`
+
+---
+
+### Pré-lançamentos:
+
+- Usam sufixos como `-alpha`, `-beta`, `-rc.1`.  
+  Ex: `2.0.0-beta`
+
+---
+
+### Vantagens:
+
+- Indica claramente o tipo de mudança.
+- Ajuda a evitar problemas ao atualizar dependências.
+- Facilita a comunicação entre desenvolvedores.
+
+🔗 [Saiba mais em semver.org](https://semver.org/lang/pt-BR/)
