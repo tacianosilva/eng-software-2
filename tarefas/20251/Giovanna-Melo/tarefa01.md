@@ -28,3 +28,6 @@ O projeto será desenvolvido em Python, uma linguagem interpretada, de alto nív
 
 **Framework:**  
 O framework utilizado será o Django, um framework web de alto nível para Python. Ele oferece uma estrutura robusta e segura para o desenvolvimento rápido de aplicações web. Com ferramentas integradas para autenticação, administração, ORM e roteamento, o Django facilita o desenvolvimento e manutenção do projeto.
+
+**IDE:**  
+A equipe utilizará o Visual Studio Code (VSCode), uma IDE leve e extensível. Ela oferece recursos integrados como controle de versão com Git, terminal embutido, depurador (debugger), além de suporte a extensões como Python, Django e GitLens, que otimizam o desenvolvimento e o gerenciamento do código.
