@@ -32,3 +32,7 @@ Python foi escolhido para o desenvolvimento deste projeto por sua versatilidade,
 ## Framework que será usado no projeto
 
 Django é um framework web de alto nível escrito em Python, projetado para otimizar o desenvolvimento de aplicações robustas e escaláveis. Ele segue o padrão MVC, organizando a estrutura do projeto de forma clara e eficiente. Com uma abordagem "baterias incluídas", Django fornece diversas funcionalidades prontas para uso, reduzindo a necessidade de código repetitivo. Além disso, sua segurança integrada e boas práticas tornam o desenvolvimento mais ágil e confiável, permitindo que a equipe se concentre na lógica do negócio em vez de lidar com detalhes complexos da infraestrutura web.
+
+## IDE de programação que será usada no projeto
+
+O Visual Studio Code (VS Code) foi escolhido como ambiente de desenvolvimento para este projeto devido à sua leveza, rapidez e grande flexibilidade. Criado pela Microsoft, este editor de código-fonte se tornou uma das ferramentas mais populares entre desenvolvedores por ser gratuito, de código aberto e altamente extensível, permitindo personalizações conforme as necessidades do projeto.
