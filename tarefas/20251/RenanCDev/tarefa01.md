@@ -1,4 +1,3 @@
-
 # Tarefa 01 - Git e GitHub com Markdown
 
 **Nome:** Renan Missias Rodrigues Alves da Costa
@@ -24,3 +23,8 @@
 
  Back: https://github.com/RenanCDev/TraininSync-Back-end  
  Front: https://github.com/RenanCDev/TraininSync-Front-end
+
+## 💻 Linguagem de Programação
+O projeto utilizará **Python com Django** no backend e **React com TypeScript** no frontend.
+
+A equipe possui experiência intermediária com essas tecnologias e está aprimorando suas habilidades ao longo do projeto.
