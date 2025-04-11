@@ -126,3 +126,7 @@ O **Conventional Commits** é uma convenção simples para utilizar nas mensagen
 - Facilita a colaboração em projetos
 
 Essa convenção melhora a legibilidade do histórico de commits e padroniza o processo de desenvolvimento.
+
+## AcademicDevFlow
+Conta no  AcademicDevFlow Criada
+##
