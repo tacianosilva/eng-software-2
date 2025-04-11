@@ -88,3 +88,24 @@ Cada parte da versão tem um significado específico:
 Além disso, pode-se adicionar rótulos de pré-lançamento (-alpha, -beta, etc.) e metadados de build, se necessário.
 
 Seguir o versionamento semântico, ajuda desenvolvedores e usuários a saberem se a nova versão quebra compatibilidade com versões anteriores, se ela adiciona funcionalidades de forma segura ou ainda se apenas corrige problemas existentes.
+
+## Conventional Commits
+Conventional Commits é uma convenção padronizada para escrever mensagens de commits no Git, com o objetivo de tornar o histórico de alterações mais legível, organizado e automatizável. Ela ajuda a equipe a entender melhor o histórico de mudanças, facilita automatizações como o versionamento semântico e a geração de changelogs, além de tornar os projetos mais profissionais.
+
+A estrutura básica da mensagem é:
+> < tipo > [escopo opcional]: < descrição >
+
+Tipos comuns:
+- feat: nova funcionalidade
+
+- fix: correção de bug
+
+- docs: mudanças na documentação
+
+- style: ajustes de formatação (espaços, ponto e vírgula etc.)
+
+- refactor: refatoração de código (sem mudar funcionalidade)
+
+- test: adição ou ajuste de testes
+
+- chore: tarefas internas que não afetam o código da aplicação (ex: atualizações de dependências)
