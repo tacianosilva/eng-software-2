@@ -39,3 +39,12 @@ Utilizaremos o tutorial [Website da Biblioteca Local](https://developer.mozilla.
 O GitFlow é uma estratégia de ramificação que organiza o fluxo de trabalho em projetos colaborativos. Nele, a ramificação principal (main ou master) armazena versões estáveis e prontas para produção, enquanto novas funcionalidades ou correções são desenvolvidas em branches específicas. Por exemplo, branch develop para integrar desenvolvimentos, feature para novas funcionalidades, hotfix para correções rápidas e release para preparar novas versões.
 
 Pull Requests (ou Merge Requests) são usados para propor alterações feitas em uma branch para que sejam integradas a outra, geralmente com revisão do código. No GitHub, essa prática ajuda a garantir qualidade e colaboração, pois outros membros da equipe podem revisar, comentar e aprovar as mudanças antes de adicioná-las ao projeto principal.
+
+**Versionamento semântico:**  
+O versionamento semântico é um sistema que utiliza três números para representar as versões de um software (MAJOR.MINOR.PATCH).
+
+- O número MAJOR muda quando são feitas alterações incompatíveis na API.
+- O número MINOR muda quando são adicionadas funcionalidades de forma retrocompatível.
+- O número PATCH muda quando são feitas correções de bugs, também de forma retrocompatível.
+
+Esse modelo facilita o entendimento sobre o tipo de mudança que uma nova versão traz, ajudando desenvolvedores e usuários a evitarem problemas de compatibilidade.
