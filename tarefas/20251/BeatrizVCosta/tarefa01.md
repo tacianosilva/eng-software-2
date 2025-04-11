@@ -119,3 +119,24 @@ O **Versionamento Semântico** é um padrão para nomear versões de software no
 - Facilita a comunicação entre desenvolvedores.
 
 🔗 [Saiba mais em semver.org](https://semver.org/lang/pt-BR/)
+
+# 📝 Conventional Commits
+
+**Conventional Commits** é uma convenção para escrever mensagens de commit de forma **padronizada**, **clara** e **automatizável**.
+
+🔗 Site oficial: [conventionalcommits.org/pt-br/v1.0.0](https://www.conventionalcommits.org/pt-br/v1.0.0)
+
+---
+
+## Estrutura da mensagem
+
+<tipo>[escopo opcional]: <descrição breve>
+
+### 🔍 Exemplos:
+
+```bash
+feat: adiciona funcionalidade de login
+fix: corrige bug na validação de email
+docs: atualiza instruções no README
+
+```
