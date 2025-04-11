@@ -36,3 +36,16 @@ Django é um framework web de alto nível escrito em Python, projetado para otim
 ## IDE de programação que será usada no projeto
 
 O Visual Studio Code (VS Code) foi escolhido como ambiente de desenvolvimento para este projeto devido à sua leveza, rapidez e grande flexibilidade. Criado pela Microsoft, este editor de código-fonte se tornou uma das ferramentas mais populares entre desenvolvedores por ser gratuito, de código aberto e altamente extensível, permitindo personalizações conforme as necessidades do projeto.
+
+#### Ferramentas de Depuração
+
+O VS Code oferece um conjunto completo de ferramentas para depuração, permitindo que os desenvolvedores encontrem e corrijam problemas no código de maneira eficiente. Um dos principais recursos é o console de depuração, que exibe logs detalhados durante a execução, auxiliando no diagnóstico de erros. Além disso, a ferramenta possibilita interromper a execução do código em pontos específicos (breakpoints), permitindo uma análise precisa do estado do programa naquele momento. Para uma investigação mais aprofundada, o VS Code permite monitorar o valor das variáveis em tempo real, possibilitando verificar se os dados estão sendo manipulados corretamente. Outra funcionalidade essencial é a execução passo a passo, que permite avançar pelo código linha por linha, ajudando a identificar exatamente onde um comportamento inesperado ocorre.
+
+#### Controle de Versão Integrado
+
+O VS Code também possui uma integração eficiente com Git, tornando o controle de versão mais acessível e intuitivo. A interface gráfica simplifica tarefas como commits, push, pull e merges, eliminando a necessidade de comandos manuais no terminal. Além disso, o editor permite comparar diferentes versões de um arquivo, destacando as mudanças feitas ao longo do tempo para facilitar a revisão de código. Outra funcionalidade essencial é o gerenciamento de branches, que possibilita criar, alternar e mesclar ramificações diretamente no editor, o que facilita o desenvolvimento colaborativo. Embora o Git seja a ferramenta principal integrada, o VS Code também suporta outras soluções de controle de versão, como SVN e Mercurial, através de extensões disponíveis no Marketplace.
+
+## CRUD
+
+[MDN - Tutorial Django: Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website)
+O tutorial da MDN sobre Django guia o usuário na criação de um site para gerenciar o catálogo de uma biblioteca local. Ele cobre desde a configuração do projeto até a implantação, abordando modelagem de dados, views, templates, autenticação, formulários e testes automatizados. O projeto ensina os fundamentos do Django de forma prática e completa.
