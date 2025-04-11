@@ -96,8 +96,8 @@ Esse modelo facilita o entendimento das mudanças entre versões e ajuda a mante
 
 ---
 
-<!-- ## h. Conventional Commits
+## h. Conventional Commits
 
 O Conventional Commits é um padrão para mensagens de commit que segue uma estrutura pré-definida, facilitando a leitura, o versionamento e a automação do projeto. Cada commit começa com um tipo (como feat, fix, docs, entre outros), seguido de uma descrição breve. Isso ajuda a manter um histórico claro e consistente das alterações no código.
 
---- -->
+---
