@@ -49,3 +49,41 @@ O VS Code também possui uma integração eficiente com Git, tornando o controle
 
 [MDN - Tutorial Django: Website da Biblioteca Local](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Tutorial_local_library_website)
 O tutorial da MDN sobre Django guia o usuário na criação de um site para gerenciar o catálogo de uma biblioteca local. Ele cobre desde a configuração do projeto até a implantação, abordando modelagem de dados, views, templates, autenticação, formulários e testes automatizados. O projeto ensina os fundamentos do Django de forma prática e completa.
+
+# 🚀 Git, GitHub, GitFlow: Branches e Pull Requests
+
+## 🔀 Branches no Git e GitHub
+
+Uma **branch** (ramo) é uma linha de desenvolvimento independente. Ela permite que você trabalhe em novas funcionalidades ou correções sem interferir no código principal.
+
+### Exemplos comuns de branches:
+
+- `main` ou `master`: versão estável, pronta para produção.
+- `develop`: versão de desenvolvimento contínuo.
+- `feature/nome-da-feature`: para criar novas funcionalidades.
+- `release/nome-da-release`: preparação de novas versões.
+- `hotfix/nome-do-hotfix`: correções rápidas e urgentes em produção.
+
+---
+
+## 🔧 GitFlow
+
+O **GitFlow** é uma estratégia de ramificação que organiza o fluxo de trabalho no Git, trazendo clareza e organização ao desenvolvimento em equipe.
+
+### Principais tipos de branch no GitFlow:
+
+- `main`: código de produção.
+- `develop`: base de desenvolvimento.
+- `feature/*`: novas funcionalidades, partem de `develop`.
+- `release/*`: preparação de releases, partem de `develop`.
+- `hotfix/*`: correções urgentes, partem de `main`.
+
+### Exemplo de fluxo GitFlow:
+
+```bash
+git checkout develop
+git checkout -b feature/login  # Cria uma branch para nova funcionalidade
+# ... desenvolver, fazer commits ...
+git push origin feature/login
+
+```
