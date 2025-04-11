@@ -112,3 +112,22 @@ Caso houvesse uma mudança que quebrasse compatibilidade, passaria para **2.0.0*
 Mais detalhes em: [semver.org](https://semver.org/)  
 
 ---
+
+## 📑 Conventional Commits
+O **Conventional Commits** é uma convenção para padronizar mensagens de commit, tornando-as mais descritivas e organizadas. O formato básico é:
+
+### 🔹 Principais Tipos:
+- **feat:** Nova funcionalidade.  
+- **fix:** Correção de bug.  
+- **docs:** Mudança na documentação.  
+- **style:** Alterações de formatação (espaços, ponto e vírgula, etc.).  
+- **refactor:** Melhorias no código sem mudar comportamento.  
+- **test:** Adição ou modificação de testes.  
+- **chore:** Tarefas de manutenção (ex: atualização de dependências).  
+
+**Exemplos:**
+```bash
+git commit -m "feat(login): add Google authentication"
+git commit -m "fix(api): fix error in /users endpoint response"
+git commit -m "docs(readme): update installation instructions"
+```
