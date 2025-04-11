@@ -20,6 +20,8 @@ O Sistema de Gestão PilatesInspire é uma solução desenvolvida para otimizar 
 - Mariana dos Santos Batista Medeiros - [maricaico](https://github.com/maricaico)
 - Virlânia Micarla Medeiros Canuto - [virlaniacanuto12](https://github.com/virlaniacanuto12)
 
-
 **Repositório:**  
 [Repositório Estúdio Pilates](https://github.com/EL0ISA/estudio_pilates)
+
+**Linguagem de programação:**  
+O projeto será desenvolvido em Python, uma linguagem interpretada, de alto nível e com tipagem dinâmica. Sua sintaxe clara e objetiva torna o código mais fácil de escrever e manter. A equipe possui experiência com Python e já utilizou a linguagem em projetos anteriores, e metade dos integrantes já tem experiência com o framework Django, o que contribuirá positivamente para o andamento do projeto.
