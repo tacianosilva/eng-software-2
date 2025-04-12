@@ -104,3 +104,24 @@ O Versionamento Semântico é um sistema padronizado para atribuição de númer
 - Z (Patch): Incrementado ao corrigir falhas mantendo a compatibilidade com versões anteriores.
 
 Essa abordagem permite que desenvolvedores e usuários compreendam facilmente o impacto das atualizações e mantenham a integridade das dependências em seus projetos.
+
+## Conventional Commits
+
+O Conventional Commits é uma especificação que define um conjunto de regras para criar mensagens de commit claras e padronizadas. Isso facilita a leitura do histórico de commits e possibilita a automação de processos, como geração de changelogs e versionamento semântico. A estrutura básica de uma mensagem de commit conforme essa convenção é:
+
+```
+tipo(escopo opcional): descrição breve
+
+[corpo opcional]
+[rodapé opcional]
+```
+
+Os principais elementos são:
+
+- **tipo**: Indica a natureza da mudança, como `feat` (nova funcionalidade) ou `fix` (correção de bug).
+- **escopo** (opcional): Contextualiza a parte do código afetada pela mudança.
+- **descrição**: Resumo conciso da alteração realizada.
+- **corpo** (opcional): Detalhamento adicional sobre a mudança.
+- **rodapé** (opcional): Informações complementares, como referências a issues ou notas sobre quebras de compatibilidade (`BREAKING CHANGE`).
+
+Ao seguir essa convenção, equipes de desenvolvimento promovem uma comunicação mais eficiente e estruturada sobre as alterações no código, facilitando a manutenção e evolução dos projetos.
