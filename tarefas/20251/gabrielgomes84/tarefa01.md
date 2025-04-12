@@ -79,3 +79,8 @@ O fluxo típico de trabalho com GitFlow é:
 2. Desenvolver e testar a funcionalidade.  
 3. Criar um Pull Request para `develop`.  
 4. Após aprovação, a branch é mesclada e excluída.  
+
+
+**Resumo sobre versionamento semântico**
+No mundo do desenvolvimento de soft. existe uma probleminha que se chama inferno das dependências. e isso ocorre quando um projeto depende de vários pacotes, e atualizar ou trocar qualquer um deles pode dar ruim. ex: quando a versão é muito amarrada e trava tudo ou porque é muito solta e causa erros inesperados.
+Para resolver esse problema foi criado algo chamado Versionamento Semântico (SemVer), ele é quem define as regras para nomear e atualizar versões de um software. o formato que se usa é x.y.x onde: x é a versão maior, y é a versão menor, e z é correção apenas. também dá pra indicar versão de teste ex: 1.0.0-alpha, e metadados ex: 1.0.0+exp.
