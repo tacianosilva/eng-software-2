@@ -84,3 +84,34 @@ O fluxo típico de trabalho com GitFlow é:
 **Resumo sobre versionamento semântico**
 No mundo do desenvolvimento de soft. existe uma probleminha que se chama inferno das dependências. e isso ocorre quando um projeto depende de vários pacotes, e atualizar ou trocar qualquer um deles pode dar ruim. ex: quando a versão é muito amarrada e trava tudo ou porque é muito solta e causa erros inesperados.
 Para resolver esse problema foi criado algo chamado Versionamento Semântico (SemVer), ele é quem define as regras para nomear e atualizar versões de um software. o formato que se usa é x.y.x onde: x é a versão maior, y é a versão menor, e z é correção apenas. também dá pra indicar versão de teste ex: 1.0.0-alpha, e metadados ex: 1.0.0+exp.
+
+**Conventional Commits**
+é uma convenção simples para utilizar nas mensagens de commit. Ela define um conjunto de regras pra criar um histórico de commit de forma explícita. e isso se encaixa com o semver, descrevendo os recursos, correções e modificações. Essa forma organizada ajuda a entender perfeitamente o que mudou no projeto, criar ferramentas automáticas(como gerar históricos de mudanças) e ajudar a controlar melhor as versões do sistema (semver)
+*Estrutura da mensagem*:
+
+
+<tipo>[escopo opcional]: <descrição curta>
+
+[corpo opcional]
+
+[rodapé opcional]
+
+
+tipo= palabra que explica a mudança 
+ex: feat - adicionou uma nova funcionalidade no códico.
+
+escopo= é onde a mudança foi feita, entre parenteses.
+ex: feat(api): adiciona nova rota de login
+
+descrição= é o resumo da mudança. vai sempre depois do : e de um espaço
+
+*Mudança que quebra tudo*
+Chamada de breaking change é quando você faz algo que quebra uma parte importante do sistema, avise assim:
+
+feat!: agora o login exige CPF
+
+ou escrever no final:
+
+feat: agora o login exige CPF
+
+BREAKING CHANGE: o login anterior com email não funciona mais.
