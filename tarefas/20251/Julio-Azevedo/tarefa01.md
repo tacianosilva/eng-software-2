@@ -28,4 +28,8 @@ Ademais, o software pode ser uma ponte para uma nova forma de controle de pagame
 
 [Link](https://github.com/AlecYalcin/KNN-Barber-App)
 
---- 
+
+## Linguagem de Programação
+
+ No nosso projeto, escolhemos JavaScript/React para o front-end e Python/FastAPI para o back-end. Nossa equipe é composta por integrantes com níveis de experiência que variam do básico ao intermediário, dependendo da área em que cada um atua no momento.
+
