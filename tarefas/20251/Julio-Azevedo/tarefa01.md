@@ -60,3 +60,11 @@ O VS Code possui integração nativa com Git e GitHub, permitindo que os desenvo
     Extensões como GitLens, que ajudam a visualizar alterações no código e rastrear contribuições de cada membro da equipe
 
 Essas funcionalidades tornam o VS Code uma excelente escolha para o nosso projeto, proporcionando um ambiente de desenvolvimento eficiente e organizado.
+
+## Tutorial de CRUD utilizando FastApi
+[Link](https://fastapi.tiangolo.com/tutorial/sql-databases)
+
+- Configuração e uso do banco de dados SQLite no projeto.
+- Integração com SQLAlchemy para manipulação dos dados.
+- Definição de modelos de dados e implementação de endpoints CRUD.
+- Aplicação do Pydantic para validação e estruturação dos dados.
