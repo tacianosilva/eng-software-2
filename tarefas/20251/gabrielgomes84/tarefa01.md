@@ -60,3 +60,22 @@ Utilizar também o __str__ pra exibir o nome do aluno quando a  gente printar a 
 depois de criar a tabela, agora a gente parte pra parte do usuário preencher os dados. o primeiro passo é renderizar um formulário, ou seja, um html onde o usuário vai poder digitar as informações. no django a gente cria isso usando uma função com return render(), que recebe a request, o nome do template (tipo 'criar_aluno.html') e um contexto com o formulário. esse template tem que ficar dentro do app, numa pasta chamada templates, e aí dentro dela criar o arquivo criar_aluno.html.
 
 depois disso, dá pra seguir criando as outras partes do crud: uma view pra listar os alunos cadastrados, outra pra editar os dados, e outra pra deletar. cada uma dessas funcionalidades vai ter sua própria rota no urls.py, apontando pra sua respectiva view. a listagem vai usar o Aluno.objects.all() pra buscar os dados, a edição vai usar get_object_or_404() pra carregar os dados certos e depois atualizar com o form, e o delete vai confirmar e apagar com o método delete(). fazendo tudo isso, o crud já fica completo e funcionando com banco, formulários e telas prontas.
+
+## Branches e Pull Requests no GitHub com GitFlow
+
+No desenvolvimento colaborativo, utilizamos o GitFlow para organizar o fluxo de trabalho no Git.  
+O GitFlow define as seguintes branches principais:  
+- **`main`**: Contém a versão estável do projeto.  
+- **`develop`**: Branch onde novas funcionalidades são integradas antes de serem mescladas na `main`.  
+
+Além disso, temos branches auxiliares:  
+- **`feature/nome-da-funcionalidade`**: Usada para desenvolver novas funcionalidades.  
+- **`release/x.y.z`**: Criada para preparar um novo lançamento do projeto.  
+- **`hotfix/nome-da-correção`**: Usada para corrigir bugs críticos diretamente na `main`.  
+
+No GitHub, um **Pull Request (PR)** é utilizado para propor a integração de mudanças de uma branch para outra.  
+O fluxo típico de trabalho com GitFlow é:  
+1. Criar uma nova branch `feature/nova-funcionalidade`.  
+2. Desenvolver e testar a funcionalidade.  
+3. Criar um Pull Request para `develop`.  
+4. Após aprovação, a branch é mesclada e excluída.  
