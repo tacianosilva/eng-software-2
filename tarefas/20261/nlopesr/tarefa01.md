@@ -1,104 +1,109 @@
 ## Tarefa 01 - Git e GitHub com Markdown
 
-# Nathan Lopes Rodrigues    
+# Nathan Lopes Rodrigues
 # nlopesr
-# nathanlpsr@gmail.com## 9.a) Projeto da disciplina
+# nathanlpsr@gmail.com
 
-**Título do projeto:** Academic Task Manager  
-**Descrição:** Sistema web para cadastro, acompanhamento e priorização de tarefas acadêmicas, com quadro Kanban, prazos e alertas. O objetivo é melhorar a organização de atividades da disciplina e da equipe ao longo das iterações.
+## 9.a) Projeto da disciplina
 
-**Equipe (inicial):**
-- Nathan Lopes Rodrigues (líder técnico)
-- Integrante 2 (a definir)
-- Integrante 3 (a definir)
+**TÃ­tulo do projeto:** Em definiÃ§Ã£o pela equipe.
 
-**Repositório do projeto:**
-- https://github.com/nlopesr/academic-task-manager *(ajustar se o nome final for outro)*
+**DescriÃ§Ã£o:** A equipe ainda estÃ¡ refinando o escopo funcional e o tema final do projeto da disciplina. Neste momento, estamos usando como referÃªncia inicial o repositÃ³rio base abaixo para estruturar o frontend e evoluir conforme as decisÃµes das prÃ³ximas reuniÃµes.
 
-## 9.b) Linguagem de programação
+**Equipe:**
+- Nathan Lopes 
+- DiÃªgo Axel
+- TomÃ© Galileu
+- VitÃ³ria
+- Hildemberg
 
-A linguagem principal escolhida para o projeto é **TypeScript** (com Node.js no backend).
+**Link de referÃªncia / repositÃ³rio base:**
+- https://github.com/fundaoimd/projeto_es2_front/
 
-**Domínio e experiência da equipe:**
-- A equipe já possui experiência prévia com JavaScript.
-- TypeScript será usado para aumentar segurança com tipagem estática.
-- O nível atual da equipe com TypeScript é **iniciante a intermediário**, com expectativa de evolução durante o projeto.
+## 9.b) Linguagem de programaÃ§Ã£o
+
+As tecnologias definidas atÃ© agora sÃ£o:
+- **Python** (linguagem principal do backend)
+- **Django** (framework web)
+- **Nginx** (servidor web/reverse proxy para deploy)
+
+**DomÃ­nio e experiÃªncia da equipe:**
+- Atualmente, apenas **Hildemberg** possui experiÃªncia prÃ¡tica mais sÃ³lida com essa stack.
+- Os demais integrantes estÃ£o em processo de aprendizado com acompanhamento da equipe.
 
 ## 9.c) Framework do projeto
 
-O framework definido para o backend é o **NestJS**.
+O framework principal definido Ã© o **Django**.
 
-O NestJS é um framework para Node.js baseado em TypeScript que organiza o projeto por módulos, controladores e serviços. Ele facilita a construção de APIs REST escaláveis, incentiva boas práticas de arquitetura e possui integração com bibliotecas comuns do ecossistema (como TypeORM, Prisma e validação com class-validator).
-
-Como alternativa para frontend, o time pode utilizar **React** ou **Next.js** conforme o escopo da interface evoluir.
+O Django Ã© um framework web em Python que segue a filosofia de "baterias inclusas", trazendo recursos prontos para acelerar o desenvolvimento, como painel administrativo, ORM, roteamento, autenticaÃ§Ã£o e seguranÃ§a padrÃ£o. Para o projeto da disciplina, ele ajuda a construir APIs e regras de negÃ³cio com produtividade e organizaÃ§Ã£o.
 
 ## 9.d) IDE utilizada
 
-A IDE escolhida é o **Visual Studio Code (VS Code)**.
+A IDE escolhida Ã© o **Visual Studio Code (VS Code)**.
 
 **Debug integrado:**
-- Breakpoints para pausar a execução.
-- Inspeção de variáveis em tempo real.
-- Call stack e step-by-step (step over, step into, step out).
-- Debug Console para avaliação de expressões durante a execução.
+- Breakpoints para pausar execuÃ§Ã£o.
+- InspeÃ§Ã£o de variÃ¡veis em tempo real.
+- ExecuÃ§Ã£o passo a passo (step over, step into, step out).
+- Debug Console para avaliar expressÃµes durante a execuÃ§Ã£o.
 
-**Controle de versão integrado:**
-- Painel de Source Control com commit, diff e stage de arquivos.
-- Criação e troca de branches na própria interface.
-- Integração com GitHub via extensões para Pull Requests e Code Review.
+**Controle de versÃ£o integrado:**
+- Painel Source Control com staging, diff e commit.
+- CriaÃ§Ã£o e troca de branches pela interface.
+- IntegraÃ§Ã£o com GitHub via extensÃµes para Pull Requests e revisÃ£o de cÃ³digo.
 
 ## 9.e) Tutorial CRUD na tecnologia escolhida
 
-**Tutorial:** CRUD API com NestJS + TypeORM + PostgreSQL  
-Link: https://docs.nestjs.com/recipes/crud-generator
+**Tutorial:** Django Tutorial - Writing your first Django app  
+Link: https://docs.djangoproject.com/en/stable/intro/tutorial01/
 
 **Resumo curto:**
-O tutorial mostra como criar uma API CRUD em NestJS com geração de recursos, definição de entidades, criação de endpoints REST (create, read, update, delete) e organização em módulos/serviços/controladores.
+A sequÃªncia oficial de tutoriais do Django mostra como criar um projeto, definir modelos, usar o ORM, gerar pÃ¡ginas administrativas e manipular operaÃ§Ãµes de criaÃ§Ã£o, leitura, atualizaÃ§Ã£o e remoÃ§Ã£o de dados.
 
 ## 9.f) Branches e Pull Request com GitFlow
 
-No GitFlow, as branches têm papéis bem definidos:
-- `main`: versões estáveis em produção.
-- `develop`: integração contínua do que está em desenvolvimento.
-- `feature/*`: desenvolvimento de novas funcionalidades.
-- `release/*`: preparação de versão.
-- `hotfix/*`: correções urgentes em produção.
+No GitFlow, as branches tÃªm papÃ©is bem definidos:
+- `main`: versÃµes estÃ¡veis em produÃ§Ã£o.
+- `develop`: integraÃ§Ã£o contÃ­nua do que estÃ¡ em desenvolvimento.
+- `feature/*`: novas funcionalidades.
+- `release/*`: preparaÃ§Ã£o de release.
+- `hotfix/*`: correÃ§Ãµes urgentes em produÃ§Ã£o.
 
-O fluxo comum com GitHub é: criar `feature/*`, desenvolver, abrir **Pull Request** para `develop`, passar por revisão de código e testes, e então fazer o merge. Isso melhora rastreabilidade, colaboração e qualidade das entregas.
+No GitHub, o fluxo comum Ã©: criar `feature/*`, desenvolver, abrir Pull Request para `develop`, passar por revisÃ£o e testes e entÃ£o realizar merge. Isso melhora rastreabilidade e qualidade das entregas.
 
-## 9.g) Resumo de Versionamento Semântico (SemVer)
+## 9.g) Resumo de Versionamento SemÃ¢ntico (SemVer)
 
-O Versionamento Semântico segue o padrão **MAJOR.MINOR.PATCH**:
-- **MAJOR**: mudanças incompatíveis com versões anteriores.
-- **MINOR**: novas funcionalidades compatíveis.
-- **PATCH**: correções compatíveis (bugs e ajustes).
+O Versionamento SemÃ¢ntico segue o padrÃ£o **MAJOR.MINOR.PATCH**:
+- **MAJOR**: mudanÃ§as incompatÃ­veis com versÃµes anteriores.
+- **MINOR**: novas funcionalidades compatÃ­veis.
+- **PATCH**: correÃ§Ãµes compatÃ­veis.
 
-Esse padrão facilita a comunicação entre desenvolvedores e reduz riscos na atualização de dependências.
+Esse padrÃ£o facilita comunicaÃ§Ã£o de impacto de mudanÃ§as e gestÃ£o de versÃµes no projeto.
 
 ## 9.h) Resumo de Conventional Commits
 
-Conventional Commits é uma convenção para padronizar mensagens de commit, no formato:
+Conventional Commits padroniza mensagens de commit no formato:
 
-`tipo(escopo opcional): descrição`
+`tipo(escopo opcional): descriÃ§Ã£o`
 
 Exemplos de tipos:
 - `feat`: nova funcionalidade
-- `fix`: correção de bug
-- `docs`: documentação
-- `refactor`: refatoração sem alterar comportamento esperado
+- `fix`: correÃ§Ã£o de bug
+- `docs`: documentaÃ§Ã£o
+- `refactor`: refatoraÃ§Ã£o
 - `test`: testes
-- `chore`: tarefas de manutenção
+- `chore`: manutenÃ§Ã£o
 
-Esse padrão melhora leitura do histórico, automação de changelog e consistência da colaboração.
+Esse padrÃ£o melhora o histÃ³rico, facilita revisÃ£o e pode automatizar changelog.
 
 ## 9.i) AcademicDevFlow
 
-Atividade prática que depende de acesso individual: criar conta em https://labens.dct.ufrn.br/academicflow/, navegar no sistema e cadastrar pelo menos um feedback.
+Atividade prÃ¡tica que depende de acesso individual: criar conta em https://labens.dct.ufrn.br/academicflow/, navegar no sistema e cadastrar pelo menos um feedback.
 
-**Status:** pendente de execução manual na sua conta.
+**Status:** pendente de execuÃ§Ã£o manual na sua conta.
 
-## 9.j) Criação do projeto no AcademicDevFlow pelo Líder Técnico
+## 9.j) CriaÃ§Ã£o do projeto no AcademicDevFlow pelo LÃ­der TÃ©cnico
 
-Atividade prática no sistema: o líder técnico deve criar o projeto e vincular os membros da equipe.
+Atividade prÃ¡tica no sistema: o lÃ­der tÃ©cnico deve criar o projeto e vincular os membros da equipe.
 
-**Status:** pendente de execução manual na sua conta de líder técnico.
+**Status:** pendente de execuÃ§Ã£o manual na sua conta de lÃ­der tÃ©cnico.
