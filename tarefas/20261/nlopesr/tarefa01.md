@@ -90,3 +90,15 @@ Exemplos de tipos:
 - `chore`: tarefas de manutenção
 
 Esse padrão melhora leitura do histórico, automação de changelog e consistência da colaboração.
+
+## 9.i) AcademicDevFlow
+
+Atividade prática que depende de acesso individual: criar conta em https://labens.dct.ufrn.br/academicflow/, navegar no sistema e cadastrar pelo menos um feedback.
+
+**Status:** pendente de execução manual na sua conta.
+
+## 9.j) Criação do projeto no AcademicDevFlow pelo Líder Técnico
+
+Atividade prática no sistema: o líder técnico deve criar o projeto e vincular os membros da equipe.
+
+**Status:** pendente de execução manual na sua conta de líder técnico.
