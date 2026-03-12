@@ -74,3 +74,19 @@ O Versionamento Semântico segue o padrão **MAJOR.MINOR.PATCH**:
 - **PATCH**: correções compatíveis (bugs e ajustes).
 
 Esse padrão facilita a comunicação entre desenvolvedores e reduz riscos na atualização de dependências.
+
+## 9.h) Resumo de Conventional Commits
+
+Conventional Commits é uma convenção para padronizar mensagens de commit, no formato:
+
+`tipo(escopo opcional): descrição`
+
+Exemplos de tipos:
+- `feat`: nova funcionalidade
+- `fix`: correção de bug
+- `docs`: documentação
+- `refactor`: refatoração sem alterar comportamento esperado
+- `test`: testes
+- `chore`: tarefas de manutenção
+
+Esse padrão melhora leitura do histórico, automação de changelog e consistência da colaboração.
