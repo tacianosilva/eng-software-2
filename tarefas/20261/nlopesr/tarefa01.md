@@ -54,3 +54,14 @@ Link: https://docs.nestjs.com/recipes/crud-generator
 
 **Resumo curto:**
 O tutorial mostra como criar uma API CRUD em NestJS com geração de recursos, definição de entidades, criação de endpoints REST (create, read, update, delete) e organização em módulos/serviços/controladores.
+
+## 9.f) Branches e Pull Request com GitFlow
+
+No GitFlow, as branches têm papéis bem definidos:
+- `main`: versões estáveis em produção.
+- `develop`: integração contínua do que está em desenvolvimento.
+- `feature/*`: desenvolvimento de novas funcionalidades.
+- `release/*`: preparação de versão.
+- `hotfix/*`: correções urgentes em produção.
+
+O fluxo comum com GitHub é: criar `feature/*`, desenvolver, abrir **Pull Request** para `develop`, passar por revisão de código e testes, e então fazer o merge. Isso melhora rastreabilidade, colaboração e qualidade das entregas.
