@@ -6,51 +6,51 @@
 
 ## 9.a) Projeto da disciplina
 
-**TÃ­tulo do projeto:** Em definiÃ§Ã£o pela equipe.
+**Título do projeto:** Em definição pela equipe.
 
-**DescriÃ§Ã£o:** A equipe ainda estÃ¡ refinando o escopo funcional e o tema final do projeto da disciplina. Neste momento, estamos usando como referÃªncia inicial o repositÃ³rio base abaixo para estruturar o frontend e evoluir conforme as decisÃµes das prÃ³ximas reuniÃµes.
+**Descrição:** A equipe ainda está refinando o escopo funcional e o tema final do projeto da disciplina. Neste momento, estamos usando como referência inicial o repositório base abaixo para estruturar o frontend e evoluir conforme as decisões das próximas reuniões.
 
 **Equipe:**
-- Nathan Lopes 
-- DiÃªgo Axel
-- TomÃ© Galileu
-- VitÃ³ria
+- Nathan Lopes
+- Diêgo Axel
+- Tomé Galileu
+- Vitória
 - Hildemberg
 
-**Link de referÃªncia / repositÃ³rio base:**
+**Link de referência / repositório base:**
 - https://github.com/fundaoimd/projeto_es2_front/
 
-## 9.b) Linguagem de programaÃ§Ã£o
+## 9.b) Linguagem de programação
 
-As tecnologias definidas atÃ© agora sÃ£o:
+As tecnologias definidas até agora são:
 - **Python** (linguagem principal do backend)
 - **Django** (framework web)
 - **Nginx** (servidor web/reverse proxy para deploy)
 
-**DomÃ­nio e experiÃªncia da equipe:**
-- Atualmente, apenas **Hildemberg** possui experiÃªncia prÃ¡tica mais sÃ³lida com essa stack.
-- Os demais integrantes estÃ£o em processo de aprendizado com acompanhamento da equipe.
+**Domínio e experiência da equipe:**
+- Atualmente, apenas **Hildemberg** possui experiência prática mais sólida com essa stack.
+- Os demais integrantes estão em processo de aprendizado com acompanhamento da equipe.
 
 ## 9.c) Framework do projeto
 
-O framework principal definido Ã© o **Django**.
+O framework principal definido é o **Django**.
 
-O Django Ã© um framework web em Python que segue a filosofia de "baterias inclusas", trazendo recursos prontos para acelerar o desenvolvimento, como painel administrativo, ORM, roteamento, autenticaÃ§Ã£o e seguranÃ§a padrÃ£o. Para o projeto da disciplina, ele ajuda a construir APIs e regras de negÃ³cio com produtividade e organizaÃ§Ã£o.
+O Django é um framework web em Python que segue a filosofia de "baterias inclusas", trazendo recursos prontos para acelerar o desenvolvimento, como painel administrativo, ORM, roteamento, autenticação e segurança padrão. Para o projeto da disciplina, ele ajuda a construir APIs e regras de negócio com produtividade e organização.
 
 ## 9.d) IDE utilizada
 
-A IDE escolhida Ã© o **Visual Studio Code (VS Code)**.
+A IDE escolhida é o **Visual Studio Code (VS Code)**.
 
 **Debug integrado:**
-- Breakpoints para pausar execuÃ§Ã£o.
-- InspeÃ§Ã£o de variÃ¡veis em tempo real.
-- ExecuÃ§Ã£o passo a passo (step over, step into, step out).
-- Debug Console para avaliar expressÃµes durante a execuÃ§Ã£o.
+- Breakpoints para pausar execução.
+- Inspeção de variáveis em tempo real.
+- Execução passo a passo (step over, step into, step out).
+- Debug Console para avaliar expressões durante a execução.
 
-**Controle de versÃ£o integrado:**
+**Controle de versão integrado:**
 - Painel Source Control com staging, diff e commit.
-- CriaÃ§Ã£o e troca de branches pela interface.
-- IntegraÃ§Ã£o com GitHub via extensÃµes para Pull Requests e revisÃ£o de cÃ³digo.
+- Criação e troca de branches pela interface.
+- Integração com GitHub via extensões para Pull Requests e revisão de código.
 
 ## 9.e) Tutorial CRUD na tecnologia escolhida
 
@@ -58,53 +58,55 @@ A IDE escolhida Ã© o **Visual Studio Code (VS Code)**.
 Link: https://docs.djangoproject.com/en/stable/intro/tutorial01/
 
 **Resumo curto:**
-A sequÃªncia oficial de tutoriais do Django mostra como criar um projeto, definir modelos, usar o ORM, gerar pÃ¡ginas administrativas e manipular operaÃ§Ãµes de criaÃ§Ã£o, leitura, atualizaÃ§Ã£o e remoÃ§Ã£o de dados.
+A sequência oficial de tutoriais do Django mostra como criar um projeto, definir modelos, usar o ORM, gerar páginas administrativas e manipular operações de criação, leitura, atualização e remoção de dados.
 
 ## 9.f) Branches e Pull Request com GitFlow
 
-No GitFlow, as branches tÃªm papÃ©is bem definidos:
-- `main`: versÃµes estÃ¡veis em produÃ§Ã£o.
-- `develop`: integraÃ§Ã£o contÃ­nua do que estÃ¡ em desenvolvimento.
+No GitFlow, as branches têm papéis bem definidos:
+- `main`: versões estáveis em produção.
+- `develop`: integração contínua do que está em desenvolvimento.
 - `feature/*`: novas funcionalidades.
-- `release/*`: preparaÃ§Ã£o de release.
-- `hotfix/*`: correÃ§Ãµes urgentes em produÃ§Ã£o.
+- `release/*`: preparação de release.
+- `hotfix/*`: correções urgentes em produção.
 
-No GitHub, o fluxo comum Ã©: criar `feature/*`, desenvolver, abrir Pull Request para `develop`, passar por revisÃ£o e testes e entÃ£o realizar merge. Isso melhora rastreabilidade e qualidade das entregas.
+No GitHub, o fluxo comum é: criar `feature/*`, desenvolver, abrir Pull Request para `develop`, passar por revisão e testes e então realizar merge. Isso melhora rastreabilidade e qualidade das entregas.
 
-## 9.g) Resumo de Versionamento SemÃ¢ntico (SemVer)
+## 9.g) Resumo de Versionamento Semântico (SemVer)
 
-O Versionamento SemÃ¢ntico segue o padrÃ£o **MAJOR.MINOR.PATCH**:
-- **MAJOR**: mudanÃ§as incompatÃ­veis com versÃµes anteriores.
-- **MINOR**: novas funcionalidades compatÃ­veis.
-- **PATCH**: correÃ§Ãµes compatÃ­veis.
+O Versionamento Semântico segue o padrão **MAJOR.MINOR.PATCH**:
+- **MAJOR**: mudanças incompatíveis com versões anteriores.
+- **MINOR**: novas funcionalidades compatíveis.
+- **PATCH**: correções compatíveis.
 
-Esse padrÃ£o facilita comunicaÃ§Ã£o de impacto de mudanÃ§as e gestÃ£o de versÃµes no projeto.
+Esse padrão facilita comunicação de impacto de mudanças e gestão de versões no projeto.
 
 ## 9.h) Resumo de Conventional Commits
 
 Conventional Commits padroniza mensagens de commit no formato:
 
-`tipo(escopo opcional): descriÃ§Ã£o`
+`tipo(escopo opcional): descrição`
 
 Exemplos de tipos:
 - `feat`: nova funcionalidade
-- `fix`: correÃ§Ã£o de bug
-- `docs`: documentaÃ§Ã£o
-- `refactor`: refatoraÃ§Ã£o
+- `fix`: correção de bug
+- `docs`: documentação
+- `refactor`: refatoração
 - `test`: testes
-- `chore`: manutenÃ§Ã£o
+- `chore`: manutenção
 
-Esse padrÃ£o melhora o histÃ³rico, facilita revisÃ£o e pode automatizar changelog.
+Esse padrão melhora o histórico, facilita revisão e pode automatizar changelog.
 
 ## 9.i) AcademicDevFlow
 
-Conta criada no AcademicDevFlow (https://labens.dct.ufrn.br/academicflow/) e navegaÃ§Ã£o realizada no sistema, incluindo a Ã¡rea de tarefas.
+Conta criada no AcademicDevFlow (https://labens.dct.ufrn.br/academicflow/) e navegação realizada no sistema, incluindo a área de tarefas.
 
-TambÃ©m foi realizado o cadastro de pelo menos um feedback no sistema, conforme solicitado no item.
+Evidência de acesso e navegação:
+- Captura de tela do sistema na rota `aluno/tarefas` (12/03/2026).
+
+Também foi realizado o cadastro de pelo menos um feedback no sistema, conforme solicitado no item.
 
 Minha percepção: a plataforma é muito bacana e fácil de usar.
 
-## 9.j) CriaÃ§Ã£o do projeto no AcademicDevFlow pelo LÃ­der TÃ©cnico
+## 9.j) Criação do projeto no AcademicDevFlow pelo Líder Técnico
 
-O lÃ­der tÃ©cnico (DiÃªgo) deve criar o projeto e vincular os membros da equipe.
-
+O líder técnico (Diêgo) deve criar o projeto e vincular os membros da equipe.
