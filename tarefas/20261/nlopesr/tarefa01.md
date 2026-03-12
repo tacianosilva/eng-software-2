@@ -6,9 +6,9 @@
 
 ## 9.a) Projeto da disciplina
 
-**Título do projeto:** Em definição pela equipe.
+**Título do projeto:** Sistema Complementar de Gestão de Atividade de Extensão (SIGAEX)
 
-**Descrição:** A equipe ainda está refinando o escopo funcional e o tema final do projeto da disciplina. Neste momento, estamos usando como referência inicial o repositório base abaixo para estruturar o frontend e evoluir conforme as decisões das próximas reuniões.
+**Descrição:**  Projeto para o LABENS, uma plataforma completa de gestão de atividades de extensão com controle de presença por QRCODE e mais...
 
 **Equipe:**
 - Nathan Lopes
@@ -18,7 +18,7 @@
 - Hildemberg
 
 **Link de referência / repositório base:**
-- https://github.com/fundaoimd/projeto_es2_front/
+- https://github.com/sigaex/front/
 
 ## 9.b) Linguagem de programação
 
