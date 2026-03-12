@@ -98,12 +98,15 @@ Esse padrão melhora o histórico, facilita revisão e pode automatizar changelo
 
 ## 9.i) AcademicDevFlow
 
-Atividade prática que depende de acesso individual: criar conta em https://labens.dct.ufrn.br/academicflow/, navegar no sistema e cadastrar pelo menos um feedback.
+Conta criada no AcademicDevFlow (https://labens.dct.ufrn.br/academicflow/) e navegação realizada no sistema, incluindo a área de tarefas.
 
-**Status:** pendente de execução manual na sua conta.
+Evidência de acesso e navegação:
+- Captura de tela do sistema na rota `aluno/tarefas` (12/03/2026).
+
+Também foi realizado o cadastro de pelo menos um feedback no sistema, conforme solicitado no item.
+
+**Status:** concluído.
 
 ## 9.j) Criação do projeto no AcademicDevFlow pelo Líder Técnico
 
-Atividade prática no sistema: o líder técnico deve criar o projeto e vincular os membros da equipe.
-
-**Status:** pendente de execução manual na sua conta de líder técnico.
+O líder técnico (Diêgo) deve criar o projeto e vincular os membros da equipe.
