@@ -65,3 +65,12 @@ No GitFlow, as branches têm papéis bem definidos:
 - `hotfix/*`: correções urgentes em produção.
 
 O fluxo comum com GitHub é: criar `feature/*`, desenvolver, abrir **Pull Request** para `develop`, passar por revisão de código e testes, e então fazer o merge. Isso melhora rastreabilidade, colaboração e qualidade das entregas.
+
+## 9.g) Resumo de Versionamento Semântico (SemVer)
+
+O Versionamento Semântico segue o padrão **MAJOR.MINOR.PATCH**:
+- **MAJOR**: mudanças incompatíveis com versões anteriores.
+- **MINOR**: novas funcionalidades compatíveis.
+- **PATCH**: correções compatíveis (bugs e ajustes).
+
+Esse padrão facilita a comunicação entre desenvolvedores e reduz riscos na atualização de dependências.
