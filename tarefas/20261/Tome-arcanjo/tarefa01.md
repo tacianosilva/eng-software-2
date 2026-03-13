@@ -82,3 +82,17 @@ A equipe utilizará o modelo de organização **Gitflow**, que define uma estrut
 Cada integrante da equipe cria uma **branch de feature** para trabalhar em uma nova funcionalidade ou correção. Após finalizar o desenvolvimento, é aberto um **Pull Request (PR)** no GitHub.
 
 O **Pull Request** permite que as alterações sejam revisadas pelos outros membros da equipe antes de serem integradas à branch principal do projeto. Esse processo ajuda a manter a qualidade do código, facilita a colaboração e evita conflitos no desenvolvimento.
+
+## 9.g) Versionamento Semântico
+
+O **Versionamento Semântico (Semantic Versioning)** é uma forma padronizada de numerar versões de um software, facilitando o controle de mudanças e a compreensão da evolução do projeto.
+
+Nesse modelo, as versões seguem o formato:
+
+**MAJOR.MINOR.PATCH** (por exemplo: `1.4.2`)
+
+- **MAJOR**: indica mudanças grandes que podem quebrar compatibilidade com versões anteriores.
+- **MINOR**: indica a adição de novas funcionalidades que são compatíveis com versões anteriores.
+- **PATCH**: indica correções de bugs ou pequenos ajustes que não alteram funcionalidades.
+
+Esse tipo de versionamento ajuda a equipe a organizar melhor as atualizações do sistema e permite que os usuários e desenvolvedores entendam facilmente o tipo de alteração realizada em cada nova versão do software.
