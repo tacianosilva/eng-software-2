@@ -110,3 +110,15 @@ Nesse padrão, cada commit segue uma estrutura que indica claramente o tipo de a
 - **chore:** utilizado para tarefas de manutenção do projeto.
 
 O uso de **Conventional Commits** facilita a leitura do histórico de mudanças, melhora a organização do projeto e pode ser utilizado junto com ferramentas de **versionamento automático e geração de changelog**.
+
+## 9.i) Uso do Academic DevFlow
+
+Foi criada uma conta na plataforma **Academic DevFlow**, disponível em:
+
+https://labens.dct.ufrn.br/academicflow/
+
+Após acessar o sistema e explorar suas funcionalidades, foi realizado um **feedback na área destinada aos alunos**, disponível no link:
+
+https://labens.dct.ufrn.br/academicflow/aluno/feedbacks
+
+O objetivo dessa atividade foi **avaliar a plataforma e contribuir com sugestões ou observações**, ajudando no processo de melhoria do sistema. Esse procedimento também permitiu conhecer melhor o funcionamento da ferramenta utilizada para gerenciamento e acompanhamento de projetos acadêmicos.
