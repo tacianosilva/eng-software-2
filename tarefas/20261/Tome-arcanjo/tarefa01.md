@@ -43,3 +43,17 @@ O **Django** é um framework web de alto nível para **Python**, utilizado para 
 O framework possui diversas funcionalidades prontas, como **ORM para interação com banco de dados**, **painel administrativo automático** e **mecanismos de segurança integrados**, o que acelera o desenvolvimento e reduz a necessidade de bibliotecas externas.
 
 No projeto **SIGAEX**, o Django será utilizado para desenvolver o **backend da aplicação**, gerenciar os dados do sistema e fornecer a lógica necessária para o funcionamento da plataforma.
+
+## 9.d) IDE Utilizada
+
+A **Visual Studio Code (VS Code)** será utilizada como ambiente de desenvolvimento do projeto. Trata-se de uma IDE leve, gratuita e amplamente utilizada no desenvolvimento de software, com suporte a diversas linguagens de programação, incluindo **Python**.
+
+Uma de suas principais vantagens é o **sistema de extensões**, que permite adicionar funcionalidades específicas para cada tecnologia utilizada no projeto, como suporte ao **Django**, formatação de código e análise estática.
+
+### Ferramentas de Debug
+
+O VS Code possui ferramentas integradas de **debug**, permitindo executar o código passo a passo, definir **breakpoints**, inspecionar variáveis e acompanhar o fluxo de execução do programa. Isso facilita a identificação e correção de erros durante o desenvolvimento.
+
+### Controle de Versão
+
+A IDE também possui **integração nativa com Git**, permitindo realizar operações como **commit, push, pull e criação de branches** diretamente pela interface do editor. Essa integração facilita o trabalho colaborativo da equipe e o controle das versões do código no repositório do projeto.
