@@ -96,3 +96,17 @@ Nesse modelo, as versões seguem o formato:
 - **PATCH**: indica correções de bugs ou pequenos ajustes que não alteram funcionalidades.
 
 Esse tipo de versionamento ajuda a equipe a organizar melhor as atualizações do sistema e permite que os usuários e desenvolvedores entendam facilmente o tipo de alteração realizada em cada nova versão do software.
+
+## 9.h) Conventional Commits
+
+**Conventional Commits** é uma convenção para padronizar as mensagens de commit em projetos que utilizam **Git**. O objetivo é tornar o histórico do repositório mais organizado e fácil de entender.
+
+Nesse padrão, cada commit segue uma estrutura que indica claramente o tipo de alteração realizada no código. Alguns exemplos comuns são:
+
+- **feat:** utilizado para indicar a adição de uma nova funcionalidade.
+- **fix:** utilizado para correção de bugs.
+- **docs:** utilizado para alterações na documentação.
+- **refactor:** utilizado para melhorias no código que não alteram seu comportamento.
+- **chore:** utilizado para tarefas de manutenção do projeto.
+
+O uso de **Conventional Commits** facilita a leitura do histórico de mudanças, melhora a organização do projeto e pode ser utilizado junto com ferramentas de **versionamento automático e geração de changelog**.
