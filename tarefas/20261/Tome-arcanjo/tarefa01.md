@@ -122,3 +122,7 @@ Após acessar o sistema e explorar suas funcionalidades, foi realizado um **feed
 https://labens.dct.ufrn.br/academicflow/aluno/feedbacks
 
 O objetivo dessa atividade foi **avaliar a plataforma e contribuir com sugestões ou observações**, ajudando no processo de melhoria do sistema. Esse procedimento também permitiu conhecer melhor o funcionamento da ferramenta utilizada para gerenciamento e acompanhamento de projetos acadêmicos.
+
+## 9.j) Criação do projeto no sistema
+
+O lider técnico Diêgo Axel criou o projeto e vinculou todos os membros da equipe.
