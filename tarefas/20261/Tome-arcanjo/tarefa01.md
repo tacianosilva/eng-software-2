@@ -57,3 +57,14 @@ O VS Code possui ferramentas integradas de **debug**, permitindo executar o cód
 ### Controle de Versão
 
 A IDE também possui **integração nativa com Git**, permitindo realizar operações como **commit, push, pull e criação de branches** diretamente pela interface do editor. Essa integração facilita o trabalho colaborativo da equipe e o controle das versões do código no repositório do projeto.
+
+## 9.e) Tutorial Utilizado
+
+**Link do tutorial:**  
+https://github.com/prosenjeetshil/django-crud-operations-tutorial
+
+O tutorial apresenta a implementação das operações **CRUD (Create, Read, Update e Delete)** em um projeto utilizando o framework **Django**.
+
+Durante o tutorial são demonstradas as funcionalidades de **cadastrar, pesquisar, atualizar e deletar registros**, explicando passo a passo como implementar cada uma dessas operações dentro da estrutura de um projeto Django.
+
+Esse material foi utilizado como **referência para compreender a implementação básica de operações de gerenciamento de dados**, que são fundamentais para o desenvolvimento do sistema.
