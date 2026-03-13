@@ -35,3 +35,11 @@ Os integrantes da equipe possuem **experiência parcial com Python e Django**.
 Entretanto, **apenas Hildemberg possui experiência com toda a stack definida**.
 
 Os demais integrantes **estão atualmente em processo de aprendizado do Nginx**.
+
+## 9.c) Framework Django
+
+O **Django** é um framework web de alto nível para **Python**, utilizado para desenvolver aplicações web de forma rápida, segura e organizada. Ele segue o padrão de arquitetura **MVT (Model–View–Template)**, que separa a lógica de dados, processamento e apresentação da aplicação.
+
+O framework possui diversas funcionalidades prontas, como **ORM para interação com banco de dados**, **painel administrativo automático** e **mecanismos de segurança integrados**, o que acelera o desenvolvimento e reduz a necessidade de bibliotecas externas.
+
+No projeto **SIGAEX**, o Django será utilizado para desenvolver o **backend da aplicação**, gerenciar os dados do sistema e fornecer a lógica necessária para o funcionamento da plataforma.
