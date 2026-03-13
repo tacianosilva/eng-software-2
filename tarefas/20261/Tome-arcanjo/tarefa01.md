@@ -68,3 +68,17 @@ O tutorial apresenta a implementação das operações **CRUD (Create, Read, Upd
 Durante o tutorial são demonstradas as funcionalidades de **cadastrar, pesquisar, atualizar e deletar registros**, explicando passo a passo como implementar cada uma dessas operações dentro da estrutura de um projeto Django.
 
 Esse material foi utilizado como **referência para compreender a implementação básica de operações de gerenciamento de dados**, que são fundamentais para o desenvolvimento do sistema.
+
+## 9.f) Uso de Branches e Pull Requests com Git e GitHub (Gitflow)
+
+Para o desenvolvimento do projeto será utilizado o **Git** como sistema de controle de versão e o **GitHub** para hospedagem e colaboração no repositório.
+
+A equipe utilizará o modelo de organização **Gitflow**, que define uma estrutura de branches para organizar melhor o desenvolvimento. Nesse modelo, normalmente existem branches principais como:
+
+- **main**: contém a versão estável do projeto.
+- **develop**: utilizada para integrar as funcionalidades em desenvolvimento.
+- **feature/***: utilizadas para desenvolver novas funcionalidades específicas.
+
+Cada integrante da equipe cria uma **branch de feature** para trabalhar em uma nova funcionalidade ou correção. Após finalizar o desenvolvimento, é aberto um **Pull Request (PR)** no GitHub.
+
+O **Pull Request** permite que as alterações sejam revisadas pelos outros membros da equipe antes de serem integradas à branch principal do projeto. Esse processo ajuda a manter a qualidade do código, facilita a colaboração e evita conflitos no desenvolvimento.
