@@ -1,7 +1,7 @@
 # **Tarefa 01 - Git e GitHub com Markdown**
 
 ## **Aluno**: Diêgo Axel Bernardo Santos Rodrigues
-### **User:** Diego-Axel
+### **User:** [Diego-Axel](https://github.com/Diego-Axel)
 ### **Email:** diegoaxelbsr@gmail.com
 
 ---
@@ -22,7 +22,7 @@ O sistema importa ou integra as listas de participantes já inscritos em cada at
 Diêgo Axel, Nathan Lopes, Vitória, Tomé Galileu e Hildenberg.
 
 ### **Link para repositórios:**
-[[Backend](https://github.com/SIGAEX/backend)] < / > [[Frontend](https://github.com/SIGAEX/frontend)]
+[Backend](https://github.com/SIGAEX/backend) < / > [Frontend](https://github.com/SIGAEX/frontend)
 
 ---
 
@@ -48,3 +48,30 @@ Lançado em 2005, o Django é um framework de código aberto escrito em Python. 
 - Comunidade: Por ser muito popular, é fácil encontrar soluções para erros e tutoriais na internet.
 
 O Django foca na automação de tarefas repetitivas e na segurança, permitindo que os desenvolvedores foquem no que realmente importa: as funcionalidades do aplicativo.
+
+## **9.d:**
+
+### **Falando um pouco da IDE que será usada (VsCode). Ferramentas de debug e de controle de versão que ela inegra:**
+O Visual Studio Code (VS Code) é, atualmente, o editor de código mais popular do planeta. Embora seja leve como um editor de texto, ele possui o "cérebro" de uma IDE (Ambiente de Desenvolvimento Integrado), especialmente por conta da sua extensibilidade.
+
+**1. Ferramentas de Debug (Depuração)**
+O VS Code elimina a necessidade de usar comandos como print() para entender o que está errado no código. Ele possui um console de depuração nativo que permite:
+
+- Breakpoints: Você pode clicar ao lado do número da linha para "pausar" a execução do programa exatamente ali.
+
+- Variable Inspection: Enquanto o código está pausado, você pode ver o valor atual de todas as variáveis em uma aba lateral.
+
+- Call Stack: Mostra a ordem de funções que foram chamadas até chegar naquele ponto.
+
+- Debug Console: Permite que você digite comandos e teste expressões em tempo real com o programa pausado.
+
+**2. Controle de Versão Integrado (Git)**
+O VS Code já vem com suporte nativo ao Git, o que torna o gerenciamento de versões muito mais visual e intuitivo do que usar apenas o terminal.
+
+- Source Control View: Uma aba dedicada que mostra todos os arquivos alterados, deletados ou criados.
+
+- Stage & Commit: Você pode preparar as alterações (stage) e fazer o "commit" (salvar a versão) apenas digitando uma mensagem em um campo de texto e clicando em um botão.
+
+- Indicadores de Alteração: No próprio código, ele exibe barras coloridas na lateral (azul para editado, verde para novo, vermelho para deletado) para você saber o que mudou em relação ao último commit.
+
+- Merge Conflict: Quando duas pessoas editam a mesma linha, o VS Code abre uma interface visual que permite escolher qual versão manter com apenas um clique.
