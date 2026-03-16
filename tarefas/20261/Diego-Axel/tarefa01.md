@@ -34,3 +34,17 @@ A aplicação é desenvolvida com backend em Django, responsável pela API e reg
 
 ### **Domínio da Equipe com as Tecnologias:**
 Nossa equipe está familiarizada com essas tecnologias, pois na disciplina de Engenharia de Software I, foram usadas essas mesmas stacks. Além do mais, temos membros da equipe que tem experiencia com essas tecnologias em mercado de trabalho. Como o meu caso (Diêgo) com o PostgreSQL e TypeScript e Hildenberg com Vue e  Django.
+
+## **9.c:**
+
+### **Um pouco dos Frameworks que serão usados no projeto. Escolhido(Django):**
+Lançado em 2005, o Django é um framework de código aberto escrito em Python. Ele segue o princípio "batteries included" (baterias inclusas), o que significa que ele já vem com quase tudo o que um desenvolvedor precisa para criar um site robusto sem ter que instalar bibliotecas externas para tarefas básicas.
+
+**Por que usar?**
+- Escalabilidade: Grandes empresas como Instagram, Pinterest e Spotify utilizam Django para lidar com milhões de usuários.
+
+- ORM (Object-Relational Mapper): Você interage com o banco de dados usando código Python puro, sem precisar escrever comandos SQL complexos.
+
+- Comunidade: Por ser muito popular, é fácil encontrar soluções para erros e tutoriais na internet.
+
+O Django foca na automação de tarefas repetitivas e na segurança, permitindo que os desenvolvedores foquem no que realmente importa: as funcionalidades do aplicativo.
