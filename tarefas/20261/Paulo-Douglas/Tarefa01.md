@@ -111,3 +111,9 @@ Alguns tipos comuns são:
 Essa padronização facilita a leitura do histórico, melhora a comunicação entre desenvolvedores e permite automatizar processos como geração de changelog e versionamento do projeto. :contentReference[oaicite:0]{index=0}
 
 🔗 Link oficial: https://www.conventionalcommits.org/pt-br/v1.0.0/
+
+---
+
+## 📝 Feedback no Sistema
+
+Foi realizado o cadastro no sistema AcademicDevFlow e enviado um feedback sobre a redundância no preenchimento de e-mail no cadastro de desenvolvedor.
