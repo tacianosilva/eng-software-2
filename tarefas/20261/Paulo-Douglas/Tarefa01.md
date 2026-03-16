@@ -17,3 +17,13 @@
 | 🎵 Nome do Projeto | **Touchfy** |
 | 👥 Equipe | [Paulo Douglas](https://github.com/Paulo-Douglas), [Mosiah Adam](https://github.com/akemi-adam), [Diana Rodrigues](https://github.com/dianaRodriguess), [Anderson Gabriel](https://github.com/andersoncruzdev) |
 | 💻 Repositórios | [touchfy-api](https://github.com/douglas-e-amigos/touchfy-api) • [touchfy-ui](https://github.com/douglas-e-amigos/touchfy-ui) |
+
+---
+
+## 💻 Tecnologias e Experiência da Equipe
+
+O projeto será desenvolvido utilizando **Java com Spring Boot** no backend e **TypeScript com React** no frontend.
+
+No backend, a equipe possui um nível **intermediário** de domínio. O integrante Mosiah Adam já possui experiência prática com **Java e Spring Boot**, enquanto os demais membros já têm base sólida em Java e estão evoluindo no uso do framework Spring.
+
+No frontend, toda a equipe já possui experiência com **React**, adquirida em projetos anteriores, o que garante familiaridade com a construção de interfaces modernas e componentizadas utilizando TypeScript.
