@@ -40,3 +40,15 @@ Ele oferece recursos como configuração automática, integração com banco de 
 - https://spring.io/projects/spring-boot
 - https://docs.spring.io/spring-boot/index.html
 - https://www.baeldung.com/spring-boot
+
+---
+
+## 🛠️ IDE Utilizada
+
+O projeto utilizará as IDEs **Visual Studio Code** e **IntelliJ IDEA**.
+
+O Visual Studio Code será usado principalmente no desenvolvimento frontend, oferecendo suporte a debug com breakpoints e integração com Git para controle de versão.
+
+Já o IntelliJ IDEA será utilizado no backend com Java e Spring Boot, contando com ferramentas avançadas de debug e integração nativa com Git, facilitando o gerenciamento do código e das versões.
+
+O uso dessas IDEs contribui para maior produtividade e organização no desenvolvimento do projeto.
