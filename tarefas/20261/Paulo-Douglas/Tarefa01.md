@@ -78,3 +78,17 @@ O **GitFlow** é um modelo de organização que define padrões para uso de bran
 Já o **Pull Request (ou Merge Request)** é o processo de enviar alterações de uma branch para outra, geralmente de `feature` para `develop` ou `main`. Ele permite revisar o código antes da integração, garantindo mais qualidade e evitando erros.
 
 Esse fluxo ajuda a manter o projeto organizado, facilitando o trabalho em equipe e o controle de versões.
+
+---
+
+## 🔢 Versionamento Semântico (SemVer)
+
+O Versionamento Semântico (SemVer) é um padrão para definir versões de software no formato **X.Y.Z**, onde cada número possui um significado específico:
+
+- **X (MAJOR)**: mudanças incompatíveis com versões anteriores  
+- **Y (MINOR)**: adição de novas funcionalidades sem quebrar compatibilidade  
+- **Z (PATCH)**: correções de bugs sem alterar funcionalidades  
+
+Esse modelo ajuda a organizar a evolução do software e facilita o gerenciamento de dependências, evitando problemas de compatibilidade entre versões.
+
+🔗 Link oficial: https://semver.org/lang/pt-BR/
