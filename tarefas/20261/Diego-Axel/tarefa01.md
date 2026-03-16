@@ -183,3 +183,8 @@ A mensagem deve seguir este formato:
 - Versionamento: Facilita decidir se a próxima versão do software será Major, Minor ou Patch.
 
 - Comunicação: Torna o histórico do projeto muito mais fácil de ler e entender por outros desenvolvedores.
+
+## **9.i:**
+
+### **Casdastrar um feedback no sistema https://labens.dct.ufrn.br/academicflow/:**
+Feito!
