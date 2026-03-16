@@ -27,3 +27,16 @@ O projeto será desenvolvido utilizando **Java com Spring Boot** no backend e **
 No backend, a equipe possui um nível **intermediário** de domínio. O integrante Mosiah Adam já possui experiência prática com **Java e Spring Boot**, enquanto os demais membros já têm base sólida em Java e estão evoluindo no uso do framework Spring.
 
 No frontend, toda a equipe já possui experiência com **React**, adquirida em projetos anteriores, o que garante familiaridade com a construção de interfaces modernas e componentizadas utilizando TypeScript.
+
+---
+
+## ⚙️ Framework Utilizado
+
+O projeto utilizará o **Spring Boot** no backend. Esse framework Java facilita a criação de aplicações web e APIs REST, reduzindo configurações manuais e acelerando o desenvolvimento.
+
+Ele oferece recursos como configuração automática, integração com banco de dados e suporte a segurança, sendo amplamente utilizado no desenvolvimento de sistemas modernos e escaláveis.
+
+🔗 Links úteis:
+- https://spring.io/projects/spring-boot
+- https://docs.spring.io/spring-boot/index.html
+- https://www.baeldung.com/spring-boot
