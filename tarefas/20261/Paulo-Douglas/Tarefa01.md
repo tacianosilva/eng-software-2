@@ -52,3 +52,13 @@ O Visual Studio Code será usado principalmente no desenvolvimento frontend, ofe
 Já o IntelliJ IDEA será utilizado no backend com Java e Spring Boot, contando com ferramentas avançadas de debug e integração nativa com Git, facilitando o gerenciamento do código e das versões.
 
 O uso dessas IDEs contribui para maior produtividade e organização no desenvolvimento do projeto.
+
+---
+
+## 📚 Tutorial de CRUD
+
+Um exemplo de tutorial para criação de um CRUD utilizando Spring Boot pode ser encontrado no link abaixo:
+
+🔗 https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
+
+Esse tutorial ensina passo a passo como criar uma API REST com operações de CRUD (Create, Read, Update e Delete) utilizando Spring Boot, Spring Data JPA e banco de dados como MySQL ou PostgreSQL. Ele aborda desde a configuração do projeto até a implementação de entidades, repositórios e controllers para manipulação dos dados. :contentReference[oaicite:0]{index=0}
