@@ -84,3 +84,31 @@ Link para vídeo no YouTube: [CRUD com Django](https://www.youtube.com/watch?v=-
 
 **Resumo do vídeo:**
 este vídeo ensina iniciantes a criar um sistema de cadastro de usuários do zero usando Python e o framework Django (0:01). O tutorial cobre desde a instalação, criação do projeto e aplicativo, até a configuração do banco de dados, a criação de formulários HTML estilizados com Bootstrap e a listagem dos usuários cadastrados (1:15, 12:51, 32:45).
+
+## **9.f:**
+
+### **Um pouco sobre branches e pull request:**
+
+**1. Branches (Ramificações)** Uma branch é como uma "linha do tempo" paralela do seu código. Ela permite que você trabalhe em uma nova funcionalidade ou corrija um erro sem estragar a versão do sistema que já está funcionando para os usuários.
+
+**No modelo GitFlow, as branches são divididas por função:**
+- Main (ou Master): Contém o código que está em produção (o que o usuário final vê). É sagrada e nunca deve ser editada diretamente.
+
+- Develop: É onde a mágica acontece. O código aqui é o que será lançado na próxima versão.
+
+- Feature Branches: Branches temporárias criadas a partir da develop para desenvolver uma tarefa específica (ex: feature/login-social).
+
+- Hotfix: Criada a partir da main para corrigir erros críticos em produção que não podem esperar o próximo lançamento.
+
+**2. Pull Request (ou Merge Request)** Embora os nomes variem (Pull Request no GitHub e Merge Request no GitLab), o conceito é o mesmo: é um pedido de integração de código.
+
+Quando você termina seu trabalho em uma feature branch, você não simplesmente joga ela na develop. Você abre um Pull Request.
+
+**Por que ele é importante?**
+- Code Review: Outros desenvolvedores olham o seu código para sugerir melhorias ou encontrar erros antes da integração.
+
+- Testes Automáticos: O GitHub pode rodar testes automaticamente no PR para garantir que sua mudança não "quebrou" nada.
+
+- Histórico: Fica registrado o motivo da alteração, quem aprovou e quais discussões ocorreram.
+
+- Resumo prático: Você cria uma Branch para trabalhar isolado e envia um Pull Request para que sua equipe revise e autorize a união (merge) desse trabalho ao projeto principal.
