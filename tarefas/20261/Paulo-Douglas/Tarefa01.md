@@ -92,3 +92,22 @@ O Versionamento Semântico (SemVer) é um padrão para definir versões de softw
 Esse modelo ajuda a organizar a evolução do software e facilita o gerenciamento de dependências, evitando problemas de compatibilidade entre versões.
 
 🔗 Link oficial: https://semver.org/lang/pt-BR/
+
+---
+
+## 📝 Conventional Commits
+
+O Conventional Commits é uma convenção para padronizar mensagens de commit, tornando o histórico do projeto mais organizado e fácil de entender.
+
+Ele define um formato padrão para as mensagens:
+
+`tipo(escopo opcional): descrição`
+
+Alguns tipos comuns são:
+- `feat`: nova funcionalidade  
+- `fix`: correção de erro  
+- `docs`: alterações na documentação  
+
+Essa padronização facilita a leitura do histórico, melhora a comunicação entre desenvolvedores e permite automatizar processos como geração de changelog e versionamento do projeto. :contentReference[oaicite:0]{index=0}
+
+🔗 Link oficial: https://www.conventionalcommits.org/pt-br/v1.0.0/
