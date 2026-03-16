@@ -1,5 +1,9 @@
 <h1 align="center">Atividade 01 - Git e GitHub com Markdown</h1>
 
+| Nome | GitHub | Email |
+|------|--------|--------|
+| Paulo Douglas Martins Dias | [Paulo-Douglas](https://github.com/Paulo-Douglas) | paulo.matins.132@ufrn.edu.br |
+
 ## 📌 Sobre o projeto
 
 **Touchfy** é uma plataforma de streaming de música que permite aos usuários descobrir, ouvir e organizar suas faixas favoritas em um só lugar. Com recursos como criação de conta, curtidas em músicas e a possibilidade de seguir artistas, o sistema oferece uma experiência personalizada para acompanhar lançamentos, explorar novos sons e manter playlists sempre atualizadas.
