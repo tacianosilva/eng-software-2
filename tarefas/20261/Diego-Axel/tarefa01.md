@@ -75,3 +75,12 @@ O VS Code já vem com suporte nativo ao Git, o que torna o gerenciamento de vers
 - Indicadores de Alteração: No próprio código, ele exibe barras coloridas na lateral (azul para editado, verde para novo, vermelho para deletado) para você saber o que mudou em relação ao último commit.
 
 - Merge Conflict: Quando duas pessoas editam a mesma linha, o VS Code abre uma interface visual que permite escolher qual versão manter com apenas um clique.
+
+## **9.e:**
+
+### **Tutorial para fazer um CRUD com Django no YT e resumo:**
+
+Link para vídeo no YouTube: [CRUD com Django](https://www.youtube.com/watch?v=-m5ywU8SW9E)
+
+**Resumo do vídeo:**
+este vídeo ensina iniciantes a criar um sistema de cadastro de usuários do zero usando Python e o framework Django (0:01). O tutorial cobre desde a instalação, criação do projeto e aplicativo, até a configuração do banco de dados, a criação de formulários HTML estilizados com Bootstrap e a listagem dos usuários cadastrados (1:15, 12:51, 32:45).
