@@ -142,3 +142,44 @@ Quando você termina seu trabalho em uma feature branch, você não simplesmente
 
 **4. Objetivo**
 O objetivo principal é que o número da versão transmita significado. Ao olhar para a mudança de 2.1.5 para 3.0.0, o desenvolvedor sabe instantaneamente que precisará fazer alterações no código dele para que a atualização funcione, economizando tempo e evitando erros inesperados em sistemas grandes.
+
+## **9.h:**
+
+### **Conventional Commits (Convenções para Mensagens de Commits):**
+
+O Conventional Commits é uma convenção simples para mensagens de commit, projetada para criar um histórico explícito e facilitar a automação (como a geração de logs de mudanças e a definição de versões no SemVer).
+
+**1. Estrutura da Mensagem**
+
+A mensagem deve seguir este formato:
+
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+
+**2. Elementos Principais**
+- fix: Usado quando se corrige um erro (correlaciona-se ao PATCH no SemVer).
+
+- feat: Usado quando se adiciona uma nova funcionalidade (correlaciona-se ao MINOR no SemVer).
+
+- BREAKING CHANGE: Indica uma mudança que quebra a compatibilidade da API (correlaciona-se ao MAJOR no SemVer). Pode ser indicada por um ! após o tipo/escopo ou por um texto no rodapé.
+
+- Outros tipos: Embora a norma foque em fix e feat, recomenda-se o uso de outros como build:, chore:, ci:, docs:, style:, refactor:, perf: e test:.
+
+**3. Regras de Escrita**
+- Escopo: Um substantivo entre parênteses para dar contexto (ex: feat(login):).
+
+- Descrição: Um resumo curto e claro da alteração.
+
+- Corpo: Descrição detalhada das mudanças (opcional).
+
+- Rodapé: Usado para listar quebras de compatibilidade ou referenciar tickets/tarefas (ex: Refs #123).
+
+**4. Por que usar?**
+- Automação: Permite gerar automaticamente o arquivo CHANGELOG.
+
+- Versionamento: Facilita decidir se a próxima versão do software será Major, Minor ou Patch.
+
+- Comunicação: Torna o histórico do projeto muito mais fácil de ler e entender por outros desenvolvedores.
