@@ -61,4 +61,20 @@ Um exemplo de tutorial para criação de um CRUD utilizando Spring Boot pode ser
 
 🔗 https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
 
-Esse tutorial ensina passo a passo como criar uma API REST com operações de CRUD (Create, Read, Update e Delete) utilizando Spring Boot, Spring Data JPA e banco de dados como MySQL ou PostgreSQL. Ele aborda desde a configuração do projeto até a implementação de entidades, repositórios e controllers para manipulação dos dados. :contentReference[oaicite:0]{index=0}
+Esse tutorial ensina passo a passo como criar uma API REST com operações de CRUD (Create, Read, Update e Delete) utilizando Spring Boot, Spring Data JPA e banco de dados como MySQL ou PostgreSQL. Ele aborda desde a configuração do projeto até a implementação de entidades, repositórios e controllers para manipulação dos dados.
+
+---
+
+## 🌿 Branches e Pull Request com GitFlow
+
+No Git, **branches** são ramificações do código que permitem desenvolver novas funcionalidades ou correções sem alterar a versão principal do projeto.
+
+O **GitFlow** é um modelo de organização que define padrões para uso de branches, como:
+- `main`: versão estável do projeto
+- `develop`: integração das funcionalidades
+- `feature/*`: desenvolvimento de novas funcionalidades
+- `hotfix/*`: correções urgentes
+
+Já o **Pull Request (ou Merge Request)** é o processo de enviar alterações de uma branch para outra, geralmente de `feature` para `develop` ou `main`. Ele permite revisar o código antes da integração, garantindo mais qualidade e evitando erros.
+
+Esse fluxo ajuda a manter o projeto organizado, facilitando o trabalho em equipe e o controle de versões.
