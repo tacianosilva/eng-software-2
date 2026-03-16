@@ -112,3 +112,33 @@ Quando você termina seu trabalho em uma feature branch, você não simplesmente
 - Histórico: Fica registrado o motivo da alteração, quem aprovou e quais discussões ocorreram.
 
 - Resumo prático: Você cria uma Branch para trabalhar isolado e envia um Pull Request para que sua equipe revise e autorize a união (merge) desse trabalho ao projeto principal.
+
+## **9.g:**
+
+### **Um pouco sobre Versionamento Semântico:**
+
+**1. O Formato Principal (X.Y.Z)**
+- O número da versão deve ser composto por três números inteiros: MAIOR.MENOR.CORREÇÃO (ou Major.Minor.Patch).
+
+- MAIOR (Major): Você aumenta esse número quando faz mudanças na API que não são compatíveis com as versões anteriores (ex: mudar o nome de uma função obrigatória).
+
+- MENOR (Minor): Você aumenta esse número quando adiciona novas funcionalidades, mas garante que tudo o que já existia continue funcionando.
+
+- CORREÇÃO (Patch): Você aumenta esse número quando faz apenas correções de bugs (bug fixes) que não alteram a forma como o programa é usado.
+
+**2. Regras Fundamentais**
+- API Pública: Para usar o SemVer, você deve declarar o que é a sua "API pública" (quais funções ou serviços os outros podem usar).
+
+- Imutabilidade: Uma vez que uma versão é lançada, o código dela nunca deve ser alterado. Qualquer mudança exige um novo número de versão.
+
+- Versão Zero (0.y.z): É usada para o desenvolvimento inicial. Nesse estágio, a API não é considerada estável e tudo pode mudar a qualquer momento.
+
+- Estabilidade (1.0.0): A versão 1.0.0 define que o software está pronto para produção e que a API agora é estável.
+
+**3. Extensões (Sufixos)**
+- Pré-lançamento: Pode-se adicionar um hífen e um texto após a correção (ex: 1.0.0-alpha, 1.0.0-beta.1). Isso indica que a versão é instável.
+
+- Metadados de Construção: Pode-se adicionar um sinal de "mais" para informações extras de build (ex: 1.0.0+20130313). Isso não altera a ordem de importância da versão.
+
+**4. Objetivo**
+O objetivo principal é que o número da versão transmita significado. Ao olhar para a mudança de 2.1.5 para 3.0.0, o desenvolvedor sabe instantaneamente que precisará fazer alterações no código dele para que a atualização funcione, economizando tempo e evitando erros inesperados em sistemas grandes.
