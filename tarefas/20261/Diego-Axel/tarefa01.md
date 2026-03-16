@@ -22,5 +22,15 @@ O sistema importa ou integra as listas de participantes já inscritos em cada at
 Diêgo Axel, Nathan Lopes, Vitória, Tomé Galileu e Hildenberg.
 
 ### **Link para repositórios:**
+[[Backend](https://github.com/SIGAEX/backend)] < / > [[Frontend](https://github.com/SIGAEX/frontend)]
 
-[[Backend](https://github.com/SIGAEX/backend)] | [[Frontend](https://github.com/SIGAEX/frontend)]
+---
+
+## **9.b:**
+
+### **Linguagens de Programação utilizadas:**
+A aplicação é desenvolvida com backend em Django, responsável pela API e regras de negócio, frontend em Vue 3 com TypeScript, responsável pela interface e interação com os usuários, e utiliza PostgreSQL como sistema de gerenciamento de banco de dados para armazenamento e processamento das informações.
+
+
+### **Domínio da Equipe com as Tecnologias:**
+Nossa equipe está familiarizada com essas tecnologias, pois na disciplina de Engenharia de Software I, foram usadas essas mesmas stacks. Além do mais, temos membros da equipe que tem experiencia com essas tecnologias em mercado de trabalho. Como o meu caso (Diêgo) com o PostgreSQL e TypeScript e Hildenberg com Vue e  Django.
