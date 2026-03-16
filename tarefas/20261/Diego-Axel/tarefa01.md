@@ -188,3 +188,8 @@ A mensagem deve seguir este formato:
 
 ### **Casdastrar um feedback no sistema https://labens.dct.ufrn.br/academicflow/:**
 Feito!
+
+## **9.j:**
+
+### **Casdastrar a equipe de desenvolvimento no sistema https://labens.dct.ufrn.br/academicflow/:**
+Feito!
