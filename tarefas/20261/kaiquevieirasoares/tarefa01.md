@@ -23,3 +23,8 @@ No Backend, utilizaremos o **NestJS**, que fornece uma estrutura organizada e ba
 Utilizaremos o **VS Code (Visual Studio Code)**.
 A IDE é leve e conta com ferramentas de **debug** integradas para inspecionar a execução tanto da API quanto do app mobile. O controle de versão é gerenciado nativamente, permitindo realizar commits, visualização de branches e resolução de conflitos de forma visual e simples.
 
+
+## 5. Tutorial CRUD
+[CRUD with NestJS](https://youtu.be/P-bUX8XQHwc?si=OmAHryKHqzh3KxHS)
+**Descrição:** Este tutorial ensina como construir uma aplicação completa, desde a criação da API com NestJS até a integração com uma interface mobile em React Native, cobrindo todas as operações básicas de um CRUD.
+
