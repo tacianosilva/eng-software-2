@@ -19,3 +19,7 @@ A escolha da linguagem foi feita pensando na colaboração da equipe; por ser um
 ## 3. Framework
 No Backend, utilizaremos o **NestJS**, que fornece uma estrutura organizada e baseada em módulos, ideal para lidar com as regras de negócio de uma plataforma de serviços. No Mobile, utilizaremos o **React Native com Expo Go**, permitindo que a equipe desenvolva uma aplicação nativa para Android e iOS com uma única base de código, agilizando o ciclo de testes.
 
+## 4. IDE (Ambiente de Desenvolvimento)
+Utilizaremos o **VS Code (Visual Studio Code)**.
+A IDE é leve e conta com ferramentas de **debug** integradas para inspecionar a execução tanto da API quanto do app mobile. O controle de versão é gerenciado nativamente, permitindo realizar commits, visualização de branches e resolução de conflitos de forma visual e simples.
+
