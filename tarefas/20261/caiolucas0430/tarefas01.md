@@ -53,3 +53,6 @@
     - fix: Corrige um bug (corresponde ao CORREÇÃO no SemVer).
     - docs: Alterações apenas na documentação.
     - chore: Mudanças em ferramentas de build ou bibliotecas que não afetam o código.
+
+## 9i. Feedback no sistema do Labens
+- **Feedback feito !**
