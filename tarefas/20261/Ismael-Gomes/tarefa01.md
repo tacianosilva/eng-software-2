@@ -25,3 +25,12 @@
 ## Tutorial CRUD
 - **Link:** [Construindo um CRUD com NestJS e Prisma](https://docs.nestjs.com/recipes/prisma)
 - **Descrição:** Este guia oficial mostra como configurar uma API robusta e implementar as operações fundamentais de persistência.
+
+## GitFlow: Branches e Pull Request
+O GitFlow organiza o fluxo em Main (produção), Develop (integração) e Feature branches. O **Pull Request (PR)** é o processo de revisão antes do merge.
+
+## Versionamento Semântico (SemVer)
+Baseado no formato `MAJOR.MINOR.PATCH` para indicar quebras de compatibilidade, novas funções ou correções.
+
+## Conventional Commits
+Padronização de mensagens (ex: `feat:`, `fix:`, `docs:`) para facilitar a automação e clareza do histórico.
