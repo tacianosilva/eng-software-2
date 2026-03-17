@@ -44,3 +44,12 @@
     - **MENOR (Minor):** Incrementado quando são adicionadas novas funcionalidades, mantendo a compatibilidade (retrocompatibilidade).
     - **CORREÇÃO (Patch):** Incrementado quando são feitas apenas correções de bugs, sem adicionar novas funções.
 - **Objetivo:** Facilitar a gestão de dependências e comunicar de forma clara o impacto das atualizações para outros desenvolvedores. 
+
+## 9h. Conventional Commits
+- **Resumo:** É uma convenção para mensagens de commit que fornece um conjunto de regras para criar um histórico de commits explícito. Ela baseia-se na especificação do SemVer, ajudando a identificar se uma mudança introduz uma quebra de compatibilidade, uma nova funcionalidade ou uma correção.
+- **Estrutura básica:** <tipo>[escopo opcional]: <descrição>
+- **Principais tipos:**
+    - feat: Introduz uma nova funcionalidade (corresponde ao MENOR no SemVer).
+    - fix: Corrige um bug (corresponde ao CORREÇÃO no SemVer).
+    - docs: Alterações apenas na documentação.
+    - chore: Mudanças em ferramentas de build ou bibliotecas que não afetam o código.
