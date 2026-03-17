@@ -28,3 +28,10 @@ A IDE é leve e conta com ferramentas de **debug** integradas para inspecionar a
 [CRUD with NestJS](https://youtu.be/P-bUX8XQHwc?si=OmAHryKHqzh3KxHS)
 **Descrição:** Este tutorial ensina como construir uma aplicação completa, desde a criação da API com NestJS até a integração com uma interface mobile em React Native, cobrindo todas as operações básicas de um CRUD.
 
+## 6. GitFlow: Branches e Pull Requests
+Utilizaremos o modelo **GitFlow** para organizar o código:
+* **Main:** Branch com a versão estável e testada.
+* **Develop:** Onde a integração das funcionalidades acontece.
+* **Feature branches:** Criadas especificamente para cada nova tarefa (ex: `feature/busca-profissionais`).
+* **Pull Request (PR):** Processo onde as alterações de uma branch são revisadas pela equipe antes de serem mescladas, garantindo a qualidade do código.
+
