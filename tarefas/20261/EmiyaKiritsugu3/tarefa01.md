@@ -24,3 +24,10 @@ A IDE utilizada será o Visual Studio Code (VS Code). O VS Code possui um sistem
 **e. Tutorial CRUD**
 * **Link:** https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/
 * **Descrição:** Este tutorial prático do freeCodeCamp ensina como construir uma aplicação full-stack utilizando Next.js e Firebase. Ele aborda desde a configuração do projeto e integração do SDK até a implementação de autenticação e operações no banco de dados Cloud Firestore.
+
+---
+
+## Pesquisas Teóricas
+
+**f. GitFlow, Branches e Pull Requests**
+O GitFlow é um modelo de ramificação (branching) robusto para Git que ajuda a organizar o ciclo de vida do desenvolvimento. Ele isola o trabalho em branches específicas: a branch `main` reflete o código estável em produção, enquanto a `develop` serve como base para novas implementações. Novas funcionalidades são desenvolvidas em branches chamadas `feature`. Quando uma funcionalidade está pronta, abre-se um Pull Request (ou Merge Request), que é um pedido formal para revisão do código antes de ele ser integrado (merge) de volta à branch principal.
