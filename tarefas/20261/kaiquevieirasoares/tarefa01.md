@@ -16,3 +16,6 @@
 Utilizaremos **TypeScript**.
 A escolha da linguagem foi feita pensando na colaboração da equipe; por ser uma linguagem amplamente utilizada e com sintaxe clara, o TypeScript facilitará o desenvolvimento e a integração de todos os integrantes no projeto. Além disso, sua tipagem estática ajuda a prevenir erros comuns, tornando o aprendizado e a manutenção mais fluidos para o grupo.
 
+## 3. Framework
+No Backend, utilizaremos o **NestJS**, que fornece uma estrutura organizada e baseada em módulos, ideal para lidar com as regras de negócio de uma plataforma de serviços. No Mobile, utilizaremos o **React Native com Expo Go**, permitindo que a equipe desenvolva uma aplicação nativa para Android e iOS com uma única base de código, agilizando o ciclo de testes.
+
