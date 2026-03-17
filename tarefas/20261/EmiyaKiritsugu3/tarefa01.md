@@ -37,3 +37,6 @@ O Versionamento Semântico é um conjunto de regras para atribuir números de ve
 
 **h. Conventional Commits**
 Os Conventional Commits representam uma convenção padronizada para a escrita de mensagens de commit, tornando-as compreensíveis tanto para humanos quanto para máquinas. A estrutura básica exige um tipo e uma descrição, como `<tipo>[escopo opcional]: <descrição>`. Os tipos mais comuns são `feat` (para novas funcionalidades) e `fix` (para correção de bugs). O uso dessa convenção facilita a geração automática de changelogs e se alinha perfeitamente com o Versionamento Semântico.
+
+**i. AcademicDevFlow - Conta**
+Conta e feedback cadastrados no sistema AcademicDevFlow.
