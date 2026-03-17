@@ -12,3 +12,7 @@
 **Equipe:** Kaique Vieira Soares, Ismael Gomes da Silva, Isaque Guimarraes Carreiro, Caio Lucas Lopes, Eduardo Nascimento Santos e Luiz Henrique Felix
 **Repositório:** Front-end: https://github.com/LuizFelixDev/iservice-app Back-end: https://github.com/LuizFelixDev/iservice-api
 
+## 2. Linguagem de Programação
+Utilizaremos **TypeScript**.
+A escolha da linguagem foi feita pensando na colaboração da equipe; por ser uma linguagem amplamente utilizada e com sintaxe clara, o TypeScript facilitará o desenvolvimento e a integração de todos os integrantes no projeto. Além disso, sua tipagem estática ajuda a prevenir erros comuns, tornando o aprendizado e a manutenção mais fluidos para o grupo.
+
