@@ -34,3 +34,6 @@ O GitFlow é um modelo de ramificação (branching) robusto para Git que ajuda a
 
 **g. Versionamento Semântico (SemVer)**
 O Versionamento Semântico é um conjunto de regras para atribuir números de versão a softwares, utilizando o formato `MAJOR.MINOR.PATCH` (por exemplo, 2.1.4). O número `MAJOR` é incrementado quando ocorrem mudanças incompatíveis na API; o `MINOR` avança quando novas funcionalidades são adicionadas mantendo a compatibilidade retroativa; e o `PATCH` é alterado para correções de bugs que não afetam as funcionalidades já existentes.
+
+**h. Conventional Commits**
+Os Conventional Commits representam uma convenção padronizada para a escrita de mensagens de commit, tornando-as compreensíveis tanto para humanos quanto para máquinas. A estrutura básica exige um tipo e uma descrição, como `<tipo>[escopo opcional]: <descrição>`. Os tipos mais comuns são `feat` (para novas funcionalidades) e `fix` (para correção de bugs). O uso dessa convenção facilita a geração automática de changelogs e se alinha perfeitamente com o Versionamento Semântico.
