@@ -17,3 +17,11 @@
 ## Framework
 - **Framework:** NestJS.
 - **Sobre:** O NestJS é um framework Node.js progressivo para a construção de aplicativos do lado do servidor eficientes e escaláveis. Ele usa TypeScript por padrão e combina elementos de POO e Programação Funcional Reativa.
+
+## IDE e Ferramentas
+- **IDE:** VS Code (Visual Studio Code).
+- **Recursos:** Integração nativa com Git e suporte avançado ao TypeScript. Utiliza ferramentas de debug integradas para inspecionar variáveis em tempo de execução.
+
+## Tutorial CRUD
+- **Link:** [Construindo um CRUD com NestJS e Prisma](https://docs.nestjs.com/recipes/prisma)
+- **Descrição:** Este guia oficial mostra como configurar uma API robusta e implementar as operações fundamentais de persistência.
