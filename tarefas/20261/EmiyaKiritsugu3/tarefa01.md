@@ -20,3 +20,7 @@ O framework principal que utilizarei é o Next.js, uma ferramenta robusta basead
 
 **d. IDE e Ferramentas**
 A IDE utilizada será o Visual Studio Code (VS Code). O VS Code possui um sistema de Git integrado que me permite realizar commits, gerenciar branches e sincronizar diretamente com o reposiro remoto. Além disso, conta com um Debugger nativo (Node.js/Chrome) extremamente poderoso, que permite a inserção de breakpoints, inspeção de variáveis e depuração visual direta nos componentes do projeto.
+
+**e. Tutorial CRUD**
+* **Link:** https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/
+* **Descrição:** Este tutorial prático do freeCodeCamp ensina como construir uma aplicação full-stack utilizando Next.js e Firebase. Ele aborda desde a configuração do projeto e integração do SDK até a implementação de autenticação e operações no banco de dados Cloud Firestore.
