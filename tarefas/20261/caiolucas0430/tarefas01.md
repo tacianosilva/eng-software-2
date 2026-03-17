@@ -37,3 +37,10 @@
     - develop: Integração das novas funcionalidades.
     - feature/: Para o desenvolvimento de tarefas específicas.
     - hotfix/: Para correções rápidas em produção.
+
+## 9g. Versionamento Semântico (SemVer)
+- **Resumo:** O Versionamento Semântico utiliza um conjunto de regras para atribuir números de versão no formato X.Y.Z (MAIOR.MENOR.CORREÇÃO):
+    - **MAIOR (Major):** Incrementado quando são feitas alterações que quebram a compatibilidade com as versões anteriores (mudanças na API).
+    - **MENOR (Minor):** Incrementado quando são adicionadas novas funcionalidades, mantendo a compatibilidade (retrocompatibilidade).
+    - **CORREÇÃO (Patch):** Incrementado quando são feitas apenas correções de bugs, sem adicionar novas funções.
+- **Objetivo:** Facilitar a gestão de dependências e comunicar de forma clara o impacto das atualizações para outros desenvolvedores. 
