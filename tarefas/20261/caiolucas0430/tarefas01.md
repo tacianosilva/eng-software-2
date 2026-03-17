@@ -25,3 +25,7 @@
 - **IDE:** VS Code (Visual Studio Code).
 - **Recursos:** Integração nativa com Git e suporte avançado ao TypeScript. Utiliza ferramentas de debug integradas para inspecionar variáveis em tempo de execução e possui extensões essenciais para formatação de código.
 
+## 9e. Tutorial para CRUD (NestJS)
+- **Link do Tutorial:** [NestJS CRUD Tutorial - Build a REST API](https://www.youtube.com/watch?v=2n3xS89pLzY)
+- **Descrição do Conteúdo:** O tutorial ensina a criar uma API REST completa utilizando o NestJS. Ele aborda a criação de módulos, controladores e serviços, além de demonstrar como implementar as quatro operações básicas (Create, Read, Update e Delete) com validação de dados usando DTOs (Data Transfer Objects).
+
