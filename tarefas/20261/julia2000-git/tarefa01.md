@@ -34,3 +34,13 @@ Há também a ferramenta de controle de versão do VS Code. Ela é nativa e inte
 
 * Link de tutorial de CRUD com Python e Django: Seu primeiro CRUD com DJANGO - <https://youtu.be/ZXli2MJyRyk?si=zI3jxAvGKXGdpTIo>
 * O vídeo acima busca ensinar como fazer um CRUD simples utilizando Python e Django. Explica sobre como usar templates do Django de forma mais básica, métodos de requisição e funções de CRUD, com design simples de interface.
+
+### Item f.
+
+* **Branches**: As branches são ramificações independentes da linha principal de desenvolvimento de um software. Essa parte principal do projeto é conhecida como *main*, que também é uma branch, mas que contém o código e as branches são utilizadas para criar novas funcionalidades, correção de erros e realização de testes, entre outras atividades, de forma isolada, sem precisar alterar o código principal (main). Assim, por meio das branches, os integrantes da equipe de desenvolvimento podem trabalhar em conjunto e simultaneamente, sem que cada um faça modificações no trabalho do outro e sem alterar a main. 
+
+* **Pull requests**: Um *pull request* pode ser entendido como uma forma de solicitar a avaliação e integração das alterações feitas em uma branch, para que sejam incorporadas à main, em um repositório remoto (GitHub). Quando um pull request é aberto, isso significa que alguém da equipe (o líder, algum revisor, etc) deverá avaliar se tudo o que foi desenvolvido naquela branch está correto, sem erros, estável e ponto para ser integrado ao código principal, e então, depois que o pull request é aprovado, uma *merge* (mescla) é feita e todas as mudanças desenvolvidas passarão a fazer parte da main. 
+
+* Branches e pull requests fazem parte do **Git**, que é um sistema de controle de versão distribuído de código aberto que é instalado na máquina do usuário. O Git é geralmente utilizado junto com o **GitHub**, uma plataforma online que armazena repositórios de forma remota. Juntos, proporcionam a integração de repositórios remotos com repositórios locais, incluindo gerencionamento de versões e do fluxo de desenvolvimento.
+
+* O **Git Flow** é uma estratégia de hierarquia de ramificação específica e estruturada baseada nos comandos do Git, orientando fluxos de trabalho de projetos quanto a recursos de ramificação, e mesclagens. Dessa forma, um projeto de desenvolvimento de software pode combinar os recursos do Git com o uso da plataforma do GitHub seguindo estruturas do Git Flow.
