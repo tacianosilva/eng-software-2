@@ -16,3 +16,7 @@
 ## 9b. Tecnologia e Linguagem
 - **Linguagem:** TypeScript.
 - **Domínio da Equipe:** A equipe possui experiência sólida em TypeScript, utilizando sua tipagem estática para garantir segurança e escalabilidade tanto no Front-end quanto no Back-end.
+
+## 9c. Framework
+- **Framework:** NestJS.
+- **Sobre:** O NestJS é um framework Node.js progressivo para a construção de aplicativos do lado do servidor eficientes e escaláveis. Ele usa TypeScript por padrão e combina elementos de POO e Programação Funcional Reativa.
