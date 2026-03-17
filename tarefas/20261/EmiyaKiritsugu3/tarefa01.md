@@ -40,3 +40,6 @@ Os Conventional Commits representam uma convenção padronizada para a escrita d
 
 **i. AcademicDevFlow - Conta**
 Conta e feedback cadastrados no sistema AcademicDevFlow.
+
+**j. AcademicDevFlow - Projeto**
+Projeto criado e líder técnico vinculado no sistema AcademicDevFlow.
