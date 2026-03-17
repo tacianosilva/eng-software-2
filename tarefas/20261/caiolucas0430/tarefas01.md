@@ -20,3 +20,8 @@
 ## 9c. Framework
 - **Framework:** NestJS.
 - **Sobre:** O NestJS é um framework Node.js progressivo para a construção de aplicativos do lado do servidor eficientes e escaláveis. Ele usa TypeScript por padrão e combina elementos de POO e Programação Funcional Reativa.
+
+## 9d. IDE e Ferramentas
+- **IDE:** VS Code (Visual Studio Code).
+- **Recursos:** Integração nativa com Git e suporte avançado ao TypeScript. Utiliza ferramentas de debug integradas para inspecionar variáveis em tempo de execução e possui extensões essenciais para formatação de código.
+
