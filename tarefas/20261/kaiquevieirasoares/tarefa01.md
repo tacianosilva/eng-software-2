@@ -40,3 +40,10 @@ Seguiremos o padrão `MAJOR.MINOR.PATCH`:
 * **MAJOR:** Alterações que quebram a compatibilidade com versões anteriores.
 * **MINOR:** Adição de novas funcionalidades de forma retrocompatível.
 * **PATCH:** Correções de bugs e melhorias menores.
+
+## 8. Conventional Commits
+As mensagens de commit seguirão padrões para manter o histórico organizado:
+* `feat`: Nova funcionalidade (ex: tela de login).
+* `fix`: Correção de bugs.
+* `docs`: Alterações em documentação ou README.
+* `style`: Ajustes visuais ou de formatação que não alteram a lógica.
