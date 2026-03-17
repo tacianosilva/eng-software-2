@@ -35,3 +35,8 @@ Utilizaremos o modelo **GitFlow** para organizar o código:
 * **Feature branches:** Criadas especificamente para cada nova tarefa (ex: `feature/busca-profissionais`).
 * **Pull Request (PR):** Processo onde as alterações de uma branch são revisadas pela equipe antes de serem mescladas, garantindo a qualidade do código.
 
+## 7. Versionamento Semântico (SemVer)
+Seguiremos o padrão `MAJOR.MINOR.PATCH`:
+* **MAJOR:** Alterações que quebram a compatibilidade com versões anteriores.
+* **MINOR:** Adição de novas funcionalidades de forma retrocompatível.
+* **PATCH:** Correções de bugs e melhorias menores.
