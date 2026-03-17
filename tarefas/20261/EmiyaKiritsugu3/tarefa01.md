@@ -17,3 +17,6 @@ O projeto será construído principalmente em TypeScript. Meu domínio com a lin
 
 **c. Frameworks**
 O framework principal que utilizarei é o Next.js, uma ferramenta robusta baseada em React que facilita a renderização no lado do servidor e possui um sistema de rotas unificadas. Para a estilização e criação de interfaces responsivas, utilizo o Tailwind CSS em conjunto com a biblioteca de componentes Shadcn UI.
+
+**d. IDE e Ferramentas**
+A IDE utilizada será o Visual Studio Code (VS Code). O VS Code possui um sistema de Git integrado que me permite realizar commits, gerenciar branches e sincronizar diretamente com o reposiro remoto. Além disso, conta com um Debugger nativo (Node.js/Chrome) extremamente poderoso, que permite a inserção de breakpoints, inspeção de variáveis e depuração visual direta nos componentes do projeto.
