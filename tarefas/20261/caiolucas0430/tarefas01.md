@@ -29,3 +29,11 @@
 - **Link do Tutorial:** [NestJS CRUD Tutorial - Build a REST API](https://www.youtube.com/watch?v=2n3xS89pLzY)
 - **Descrição do Conteúdo:** O tutorial ensina a criar uma API REST completa utilizando o NestJS. Ele aborda a criação de módulos, controladores e serviços, além de demonstrar como implementar as quatro operações básicas (Create, Read, Update e Delete) com validação de dados usando DTOs (Data Transfer Objects).
 
+## 9f. Branches, Pull Request e GitFlow
+- **Branches:** São ramificações do código que permitem desenvolver novas funcionalidades ou corrigir bugs em paralelo, sem alterar a versão estável do projeto.
+- **Pull Request (ou Merge Request):** É uma solicitação enviada para que as alterações feitas em uma branch sejam revisadas e integradas (merge) à branch principal. No GitHub, é o espaço onde a equipe discute o código antes de aprová-lo.
+- **GitFlow:** É um modelo de organização de branches que define fluxos específicos:
+    - main: Versão de produção (estável).
+    - develop: Integração das novas funcionalidades.
+    - feature/: Para o desenvolvimento de tarefas específicas.
+    - hotfix/: Para correções rápidas em produção.
