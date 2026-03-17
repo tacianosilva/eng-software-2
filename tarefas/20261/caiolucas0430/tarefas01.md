@@ -12,3 +12,7 @@
 **Equipe:** Kaique Vieira Soares, Ismael Gomes da Silva, Isaque Guimarraes Carreiro, Caio Lucas Lopes, Eduardo Nascimento Santos e Luiz Henrique Felix
 
 **Repositório:** Front-end: https://github.com/LuizFelixDev/iservice-app Back-end: https://github.com/LuizFelixDev/iservice-api
+
+## 9b. Tecnologia e Linguagem
+- **Linguagem:** TypeScript.
+- **Domínio da Equipe:** A equipe possui experiência sólida em TypeScript, utilizando sua tipagem estática para garantir segurança e escalabilidade tanto no Front-end quanto no Back-end.
