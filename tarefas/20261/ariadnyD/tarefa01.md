@@ -11,3 +11,5 @@ E-mail: ariadny.dantas.716@ufrn.edu.br
 **Equipe:** Ariadny Dantas, Riam Stefesom, José Salustiano.
 **Repositório:** [Acesso ao projeto no GitHub](https://github.com/eng-softw4re/oficina-mecanica.git)
 
+## 2. Tecnologias e Linguagens
+O projeto será desenvolvido utilizando as linguagens **Python** e **JavaScript**. A equipe possui domínio e experiência prévia com essa stack de tecnologias, uma vez que a base de estruturação e o início do desenvolvimento deste sistema foram estabelecidos no semestre passado.
