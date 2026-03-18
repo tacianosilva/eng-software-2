@@ -50,3 +50,15 @@ Esses recursos ajudam a aumentar a produtividade e facilitam o desenvolvimento d
 
 **Descrição:**
 O tutorial ensina a criar uma aplicação CRUD utilizando Django. Ele aborda a criação de modelos, views, templates e rotas, além de mostrar como realizar operações de criação, leitura, atualização e exclusão de dados no sistema.
+
+## Branches e Pull Request (GitFlow)
+
+Branches são ramificações do código principal que permitem desenvolver funcionalidades de forma isolada, sem afetar o código principal.
+
+O GitFlow é um modelo de organização que utiliza diferentes tipos de branches, como:
+
+* main: versão final do projeto
+* develop: versão em desenvolvimento
+* feature: novas funcionalidades
+
+Pull Request é uma solicitação para juntar alterações de uma branch em outra, permitindo revisão de código antes da integração.
