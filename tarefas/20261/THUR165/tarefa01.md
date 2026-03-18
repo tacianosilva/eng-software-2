@@ -62,3 +62,24 @@ O GitFlow é um modelo de organização que utiliza diferentes tipos de branches
 * feature: novas funcionalidades
 
 Pull Request é uma solicitação para juntar alterações de uma branch em outra, permitindo revisão de código antes da integração.
+
+## Versionamento Semântico
+
+O Versionamento Semântico (SemVer) é um padrão utilizado para organizar as versões de um software de forma clara e padronizada. Ele segue o formato:
+
+**MAJOR.MINOR.PATCH**  
+Exemplo: **1.0.0**
+
+Cada número possui um significado específico:
+
+- **MAJOR :** é alterado quando o sistema sofre mudanças grandes que quebram a compatibilidade com versões anteriores. Ou seja, quando algo que funcionava antes deixa de funcionar na nova versão.
+- **MINOR :** é alterado quando novas funcionalidades são adicionadas ao sistema, mas sem quebrar o que já existia.
+- **PATCH :** é alterado quando são feitas apenas correções de erros (bugs), sem adicionar novas funcionalidades e sem alterar o funcionamento principal do sistema.
+
+Exemplo prático:
+- Versão 1.0.0 → primeira versão estável do sistema
+- Versão 1.1.0 → foi adicionada uma nova funcionalidade (ex: cadastro de usuários)
+- Versão 1.1.1 → foi corrigido um erro no login
+- Versão 2.0.0 → mudança grande no sistema que altera a forma como ele funciona
+
+O Versionamento Semântico é muito importante porque ajuda os desenvolvedores a entender rapidamente o tipo de alteração feita em cada versão.
