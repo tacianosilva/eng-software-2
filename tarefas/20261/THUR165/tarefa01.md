@@ -24,3 +24,9 @@ https://github.com/expeditofranca/ProjetoEngenharia1.git
 A linguagem escolhida para o projeto é o **Python**.
 
 A equipe possui conhecimento básico a intermediário na linguagem, com experiência em lógica de programação e desenvolvimento de aplicações. O Python foi escolhido por ser uma linguagem simples, legível e muito utilizada no desenvolvimento web, além de possuir uma grande quantidade de bibliotecas e frameworks.
+
+## Framework
+
+O framework escolhido é o **Django**.
+
+O Django é um framework web de alto nível escrito em Python, que facilita o desenvolvimento rápido e seguro de aplicações web. Ele já vem com diversas funcionalidades prontas, como sistema de autenticação, painel administrativo e ORM para banco de dados, o que agiliza bastante o desenvolvimento.
