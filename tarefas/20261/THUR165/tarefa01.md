@@ -43,3 +43,10 @@ O uso do VS Code para o projeto foi principalmente por oferecer diversas ferrame
 * Terminal integrado
 
 Esses recursos ajudam a aumentar a produtividade e facilitam o desenvolvimento do projeto.
+
+## Tutorial CRUD
+
+**Link:** https://www.youtube.com/watch?v=Q2tEqNfgIXM
+
+**Descrição:**
+O tutorial ensina a criar uma aplicação CRUD utilizando Django. Ele aborda a criação de modelos, views, templates e rotas, além de mostrar como realizar operações de criação, leitura, atualização e exclusão de dados no sistema.
