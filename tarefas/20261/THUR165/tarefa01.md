@@ -30,3 +30,16 @@ A equipe possui conhecimento básico a intermediário na linguagem, com experiê
 O framework escolhido é o **Django**.
 
 O Django é um framework web de alto nível escrito em Python, que facilita o desenvolvimento rápido e seguro de aplicações web. Ele já vem com diversas funcionalidades prontas, como sistema de autenticação, painel administrativo e ORM para banco de dados, o que agiliza bastante o desenvolvimento.
+
+## IDE utilizada
+
+A IDE utilizada é o **Visual Studio Code (VS Code)**.
+
+O uso do VS Code para o projeto foi principalmente por oferecer diversas ferramentas importantes para o desenvolvimento, como:
+
+* Debug integrado
+* Suporte a extensões (como Python e Django)
+* Integração com Git
+* Terminal integrado
+
+Esses recursos ajudam a aumentar a produtividade e facilitam o desenvolvimento do projeto.
