@@ -18,3 +18,9 @@ Arthur Medeiros, Expedito Luiz, Ivyson Wanderson, José Gean, Júlia Lilian
 
 **Repositório do projeto:**
 https://github.com/expeditofranca/ProjetoEngenharia1.git
+
+## Linguagem de programação
+
+A linguagem escolhida para o projeto é o **Python**.
+
+A equipe possui conhecimento básico a intermediário na linguagem, com experiência em lógica de programação e desenvolvimento de aplicações. O Python foi escolhido por ser uma linguagem simples, legível e muito utilizada no desenvolvimento web, além de possuir uma grande quantidade de bibliotecas e frameworks.
