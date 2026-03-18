@@ -83,3 +83,29 @@ Exemplo prático:
 - Versão 2.0.0 → mudança grande no sistema que altera a forma como ele funciona
 
 O Versionamento Semântico é muito importante porque ajuda os desenvolvedores a entender rapidamente o tipo de alteração feita em cada versão.
+
+## Conventional Commits
+
+Conventional Commits é uma convenção utilizada para padronizar as mensagens de commit em um projeto. O objetivo principal é deixar o histórico do Git mais organizado e fácil de entender.
+
+A estrutura básica de um commit usando essa convenção é:
+
+**descrição da alteração**
+
+Exemplo:
+- feat: adiciona sistema de login
+- fix: corrige erro no cadastro de usuários
+- docs: atualiza documentação do projeto
+- style: ajusta formatação do código
+- refactor: melhora o código sem alterar funcionalidade
+
+Os tipos mais utilizados são:
+
+- **feat:** usado quando uma nova funcionalidade é adicionada ao sistema
+- **fix:** usado quando um erro é corrigido
+- **docs:** usado quando algo relacionado à documentação é alterado
+- **style:** usado quando apenas a formatação do código é alterada (sem mudar funcionamento)
+- **refactor:** usado quando o código é reorganizado ou melhorado sem alterar o comportamento do sistema
+- **test:** usado quando são adicionados ou alterados testes
+
+Além de organizar o histórico, o Conventional Commits também facilita o controle de versões, pois ele pode ser utilizado junto com o Versionamento Semântico para indicar automaticamente quando uma versão deve ser atualizada.
