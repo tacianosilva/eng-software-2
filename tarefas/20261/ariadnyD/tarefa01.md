@@ -27,3 +27,7 @@ Adotaremos o **Visual Studio Code (VS Code)** como nossa IDE principal, devido �
 ## 5. Referência Prática: Operações Básicas
 **Tutorial em vídeo:** [CRUD em Python - Python e MySQL (Hashtag Programação)](https://youtu.be/_q3j25ACmQ4)
 O vídeo demonstra de maneira prática e direta como implementar as quatro operações fundamentais em um banco de dados (Create, Read, Update, Delete). Ele ensina como conectar o Python a um banco MySQL e criar as interações enviando os comandos SQL pelo código, servindo como uma excelente base lógica para o gerenciamento dos dados da oficina.
+
+## 6. Fluxo de Trabalho e Controle de Versão (GitFlow)
+Utilizaremos o modelo **GitFlow** para organizar o versionamento no GitHub. Nesse formato, o desenvolvimento ocorre em ramificações isoladas chamadas **Branches** (ex: `feature/cadastro-cliente` ou `bugfix/erro-estoque`), mantendo o código oficial da branch principal intacto.
+Ao finalizar o desenvolvimento em uma branch, abriremos um **Pull Request (PR)**. O PR é um pedido formal para fundir (*merge*) o código novo na branch principal. Ele funciona como um ponto de verificação onde os outros membros da equipe podem revisar o código, discutir as mudanças e garantir a qualidade antes da integração final.
