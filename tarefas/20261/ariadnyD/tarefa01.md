@@ -31,3 +31,9 @@ O vídeo demonstra de maneira prática e direta como implementar as quatro opera
 ## 6. Fluxo de Trabalho e Controle de Versão (GitFlow)
 Utilizaremos o modelo **GitFlow** para organizar o versionamento no GitHub. Nesse formato, o desenvolvimento ocorre em ramificações isoladas chamadas **Branches** (ex: `feature/cadastro-cliente` ou `bugfix/erro-estoque`), mantendo o código oficial da branch principal intacto.
 Ao finalizar o desenvolvimento em uma branch, abriremos um **Pull Request (PR)**. O PR é um pedido formal para fundir (*merge*) o código novo na branch principal. Ele funciona como um ponto de verificação onde os outros membros da equipe podem revisar o código, discutir as mudanças e garantir a qualidade antes da integração final.
+
+## 7. Versionamento Semântico (SemVer)
+Adotaremos o padrão de [Versionamento Semântico](https://semver.org/lang/pt-BR/), que categoriza o estágio do software através da numeração `MAJOR.MINOR.PATCH` (ex: `1.0.0` ou `2.1.4`).
+* **MAJOR:** Incrementado quando há mudanças estruturais incompatíveis com versões anteriores.
+* **MINOR:** Incrementado quando novas funcionalidades (como uma nova tela de relatórios) são adicionadas, mantendo a compatibilidade do sistema.
+* **PATCH:** Incrementado quando o foco é puramente a correção de bugs (ex: um erro de cálculo nas ordens de serviço).
