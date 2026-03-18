@@ -37,3 +37,9 @@ Adotaremos o padrão de [Versionamento Semântico](https://semver.org/lang/pt-BR
 * **MAJOR:** Incrementado quando há mudanças estruturais incompatíveis com versões anteriores.
 * **MINOR:** Incrementado quando novas funcionalidades (como uma nova tela de relatórios) são adicionadas, mantendo a compatibilidade do sistema.
 * **PATCH:** Incrementado quando o foco é puramente a correção de bugs (ex: um erro de cálculo nas ordens de serviço).
+
+## 8. Padrão de Mensagens (Conventional Commits)
+Para manter o histórico do repositório limpo e compreensível, seguiremos as regras do [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/). Ele estipula que cada commit siga o formato `<tipo>: <descrição breve>`. Os principais tipos são:
+* `feat:` para a introdução de uma nova funcionalidade (ex: `feat: adiciona controle de estoque`).
+* `fix:` para correções de falhas (ex: `fix: corrige o calculo total da ordem de serviço`).
+* `docs:` para atualizações nos arquivos de documentação e Markdown.
