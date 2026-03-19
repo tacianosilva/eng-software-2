@@ -62,3 +62,25 @@ Cada parte segue uma regra clara:
 MAJOR — incrementado quando há mudanças incompatíveis com versões anteriores (breaking changes). Exemplo: remover um endpoint que outros sistemas usavam.
 MINOR — incrementado quando novas funcionalidades são adicionadas de forma retrocompatível. Exemplo: adicionar um novo endpoint de busca.
 PATCH — incrementado quando há correções de bugs retrocompatíveis. Exemplo: corrigir uma validação de e-mail.
+
+# Conventional Commits
+Fonte: https://www.conventionalcommits.org/pt-br/v1.0.0/
+
+Conventional Commits é uma convenção para padronizar as mensagens de commit, tornando o histórico do repositório legível por humanos e ferramentas automatizadas. A estrutura básica é:
+```
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+```
+### Tipos principais:
+
+* feat: Nova funcionalidade adicionada
+* fix: Correção de bug
+* chore: Tarefas de configuração, setup, dependências
+* docs: Alterações apenas na documentação
+* test: Adição ou correção de testes
+* refactor: Refatoração sem mudança de comportamento
+* style: Formatação, espaçamento (sem mudança de lógica)
+* ci: Alterações em pipelines de CI/CD
