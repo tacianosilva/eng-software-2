@@ -15,3 +15,10 @@ O projeto utiliza duas linguagens principais:
 **Python** no backend, com experiência prévia da equipe em disciplinas de programação e scripts acadêmicos. Python foi escolhido pela legibilidade, pela vasta documentação e por ser a linguagem nativa do Django. Guilherme é o principal responsável pelo backend e já possui familiaridade com a linguagem.
 
 **JavaScript** (com TypeScript implícito via JSX) no frontend, por meio do React + Vite. Kaio é o responsável pelo frontend e tem contato com JavaScript no contexto de desenvolvimento web. A equipe reconhece que o domínio de JavaScript ainda está em consolidação, mas a escolha é justificada pela popularidade do ecossistema React e pela quantidade de material de apoio disponível.
+
+# Framework Utilizado
+
+Django REST Framework (DRF) é o principal framework do projeto, utilizado no backend.
+Construído sobre o Django, o DRF é uma biblioteca que facilita a criação de APIs RESTful em Python. Ele fornece componentes prontos como serializers (para converter objetos Python em JSON e vice-versa), viewsets (para agrupar operações CRUD em uma única classe), routers (para gerar URLs automaticamente) e um sistema de autenticação plugável.
+
+No frontend, o framework utilizado é o React com Vite, responsável por toda a interface do usuário. O Vite substitui o Create React App como ferramenta de build, oferecendo tempo de inicialização e hot reload significativamente mais rápidos.
