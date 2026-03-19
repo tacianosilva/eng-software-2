@@ -22,3 +22,14 @@ Django REST Framework (DRF) é o principal framework do projeto, utilizado no ba
 Construído sobre o Django, o DRF é uma biblioteca que facilita a criação de APIs RESTful em Python. Ele fornece componentes prontos como serializers (para converter objetos Python em JSON e vice-versa), viewsets (para agrupar operações CRUD em uma única classe), routers (para gerar URLs automaticamente) e um sistema de autenticação plugável.
 
 No frontend, o framework utilizado é o React com Vite, responsável por toda a interface do usuário. O Vite substitui o Create React App como ferramenta de build, oferecendo tempo de inicialização e hot reload significativamente mais rápidos.
+
+# IDE Utilizada
+A equipe utiliza o Visual Studio Code (VS Code), editor gratuito da Microsoft e um dos mais populares para desenvolvimento web e Python.
+
+Ferramentas de debug integradas:
+O VS Code possui um depurador nativo que permite adicionar breakpoints diretamente no código Python, inspecionar variáveis, acompanhar a pilha de chamadas e executar o programa passo a passo. Para projetos Django, basta configurar o arquivo launch.json com o comando manage.py runserver e o depurador se conecta automaticamente ao servidor de desenvolvimento.
+
+No frontend, o debug é feito via integração com o DevTools do navegador. A extensão React Developer Tools permite inspecionar a árvore de componentes e o estado em tempo real diretamente no Chrome ou Firefox.
+
+Controle de versão integrado:
+O VS Code possui um painel de controle de versão nativo (aba Source Control) que exibe arquivos modificados, permite fazer stage, commit e push sem sair do editor. Também mostra o histórico de alterações linha a linha com o recurso de gutter indicators (marcações coloridas nas laterais do código).
