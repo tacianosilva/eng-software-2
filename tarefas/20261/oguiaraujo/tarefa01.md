@@ -8,3 +8,10 @@ O Linkhub é uma plataforma web voltada para o ambiente acadêmico que conecta e
 Equipe: Guilherme & Kaio
 
 Organização: [Linkhub](https://github.com/linkhub-org)
+
+# Linguagem de Programação
+O projeto utiliza duas linguagens principais:
+
+**Python** no backend, com experiência prévia da equipe em disciplinas de programação e scripts acadêmicos. Python foi escolhido pela legibilidade, pela vasta documentação e por ser a linguagem nativa do Django. Guilherme é o principal responsável pelo backend e já possui familiaridade com a linguagem.
+
+**JavaScript** (com TypeScript implícito via JSX) no frontend, por meio do React + Vite. Kaio é o responsável pelo frontend e tem contato com JavaScript no contexto de desenvolvimento web. A equipe reconhece que o domínio de JavaScript ainda está em consolidação, mas a escolha é justificada pela popularidade do ecossistema React e pela quantidade de material de apoio disponível.
