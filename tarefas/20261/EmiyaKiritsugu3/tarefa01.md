@@ -11,6 +11,11 @@
 * **Descrição:** Um sistema completo de gestão para academias. Ele possui um Painel Administrativo para gerenciar alunos, matrículas e métricas financeiras, além de um Portal do Aluno gamificado onde os usuários podem acompanhar seus treinos, gerar rotinas com IA e visualizar o progresso.
 * **Equipe:** Projeto individual (desenvolvido apenas por mim).
 * **Repositório:** https://github.com/EmiyaKiritsugu3/PWeb_Project
+* **Documentação do Projeto:**
+    * [Documento de Visão](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/docs/doc-visao.md)
+    * [Documento de Modelos](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/docs/doc-modelos.md)
+    * [Plano de Iteração e Release](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/docs/doc-iteracao.md)
+    * [Lista de User Stories](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/docs/doc-userstories.md)
 
 **b. Linguagem de Programação e Experiência**
 O projeto será construído principalmente em TypeScript. Meu domínio com a linguagem atual é de nível iniciante. O desenvolvimento deste sistema servirá justamente como um laboratório prático para aprofundar meus conhecimentos na linguagem e entender conceitos como tipagem estática, React Hooks e integração com banco de dados em tempo real.
