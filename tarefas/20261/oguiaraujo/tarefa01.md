@@ -37,3 +37,19 @@ O VS Code possui um painel de controle de versão nativo (aba Source Control) qu
 # Tutorial de CRUD na Tecnologia Escolhida
 Link: https://github.com/gabrielstork/rest-api-crud
 Descrição: Tutorial em português que ensina passo a passo como criar uma REST API com operações CRUD usando Django e Django REST Framework. Cobre desde a criação do projeto Django até a definição de models, serializers, viewsets e routers, exatamente a estrutura utilizada no Linkhub.
+
+# Branches, Pull Requests e GitFlow
+**Branches** são ramificações independentes do histórico de commits. Elas permitem que diferentes funcionalidades sejam desenvolvidas em paralelo sem interferir no código principal. Cada branch carrega seu próprio conjunto de commits e pode ser mesclada (merged) de volta à branch principal quando o trabalho estiver concluído.
+GitFlow é uma estratégia de organização de branches criada por Vincent Driessen que define papéis claros para cada tipo de branch:
+
+**main** — contém apenas código em produção, estável e testado. Cada merge nessa branch representa uma versão entregável.
+
+**develop** — branch de integração. Todas as features concluídas são mescladas aqui antes de irem para a main.
+
+feature/* — criada a partir da develop para desenvolver uma funcionalidade específica. Exemplo: feature/autenticacao-jwt.
+
+release/* — criada quando a develop está pronta para virar uma versão. Permite ajustes finais sem bloquear novas features.
+
+hotfix/* — criada a partir da main para corrigir bugs críticos em produção com urgência.
+
+Pull Request (PR) — também chamado de Merge Request no GitLab — é o mecanismo pelo qual um desenvolvedor solicita a integração de sua branch em outra. No GitHub, ao abrir um PR é possível revisar as alterações linha a linha, adicionar comentários, solicitar mudanças e aprovar o código antes do merge. 
