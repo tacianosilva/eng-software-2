@@ -53,3 +53,12 @@ release/* — criada quando a develop está pronta para virar uma versão. Permi
 hotfix/* — criada a partir da main para corrigir bugs críticos em produção com urgência.
 
 Pull Request (PR) — também chamado de Merge Request no GitLab — é o mecanismo pelo qual um desenvolvedor solicita a integração de sua branch em outra. No GitHub, ao abrir um PR é possível revisar as alterações linha a linha, adicionar comentários, solicitar mudanças e aprovar o código antes do merge. 
+
+# Versionamento Semântico
+Fonte: https://semver.org/lang/pt-BR/
+O Versionamento Semântico (SemVer) é uma convenção para atribuir significado aos números de versão de um software no formato MAJOR.MINOR.PATCH (exemplo: 2.4.1).
+Cada parte segue uma regra clara:
+
+MAJOR — incrementado quando há mudanças incompatíveis com versões anteriores (breaking changes). Exemplo: remover um endpoint que outros sistemas usavam.
+MINOR — incrementado quando novas funcionalidades são adicionadas de forma retrocompatível. Exemplo: adicionar um novo endpoint de busca.
+PATCH — incrementado quando há correções de bugs retrocompatíveis. Exemplo: corrigir uma validação de e-mail.
