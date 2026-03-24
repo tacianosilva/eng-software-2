@@ -41,3 +41,21 @@ hot reload significativamente mais rápidos.
 No backend, o framework utilizado é o **Django REST Framework (DRF)**, que
 facilita a criação de APIs RESTful em Python, fornecendo serializers,
 viewsets, routers e um sistema de autenticação plugável.
+
+## IDE Utilizada
+
+A equipe utiliza o **Visual Studio Code (VS Code)**, editor gratuito da
+Microsoft e um dos mais populares para desenvolvimento web e Python.
+
+**Ferramentas de debug:**
+O VS Code possui um depurador nativo que permite adicionar breakpoints
+diretamente no código, inspecionar variáveis e acompanhar a pilha de chamadas.
+No frontend, o debug é feito via integração com o DevTools do navegador.
+A extensão **React Developer Tools** permite inspecionar a árvore de
+componentes e o estado em tempo real diretamente no Chrome ou Firefox.
+
+**Controle de versão:**
+O VS Code possui um painel de controle de versão nativo (aba Source Control)
+que exibe arquivos modificados, permite fazer stage, commit e push sem sair
+do editor. Também mostra o histórico de alterações linha a linha com o recurso
+de gutter indicators.
