@@ -15,3 +15,17 @@ relevância no feed de cada usuário.
 **Equipe:** Guilherme & Kaio
 
 **Organização:** [Linkhub](https://github.com/linkhub-org)
+
+## Linguagem de Programação
+
+O projeto utiliza duas linguagens principais:
+
+**JavaScript** no frontend, por meio do React + Vite. Sou o responsável pelo
+frontend e tenho contato com JavaScript no contexto de desenvolvimento web.
+A equipe reconhece que o domínio de JavaScript ainda está em consolidação,
+mas a escolha é justificada pela popularidade do ecossistema React e pela
+quantidade de material de apoio disponível.
+
+**Python** no backend, com experiência prévia da equipe em disciplinas de
+programação e scripts acadêmicos. Python foi escolhido pela legibilidade,
+pela vasta documentação e por ser a linguagem nativa do Django.
