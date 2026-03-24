@@ -59,3 +59,12 @@ O VS Code possui um painel de controle de versão nativo (aba Source Control)
 que exibe arquivos modificados, permite fazer stage, commit e push sem sair
 do editor. Também mostra o histórico de alterações linha a linha com o recurso
 de gutter indicators.
+
+## Tutorial de CRUD na Tecnologia Escolhida
+
+**Link:** https://github.com/gabrielstork/rest-api-crud
+
+**Descrição:** Tutorial em português que ensina passo a passo como criar uma
+REST API com operações CRUD usando Django e Django REST Framework. Cobre desde
+a criação do projeto Django até a definição de models, serializers, viewsets
+e routers, exatamente a estrutura utilizada no Linkhub.
