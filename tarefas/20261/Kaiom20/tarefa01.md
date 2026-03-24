@@ -88,3 +88,14 @@ O **Pull Request (PR)** é o mecanismo pelo qual um desenvolvedor solicita a
 integração de sua branch em outra. No GitHub, ao abrir um PR é possível
 revisar as alterações linha a linha, adicionar comentários e aprovar o código
 antes do merge.
+
+## Versionamento Semântico
+
+Fonte: https://semver.org/lang/pt-BR/
+
+O Versionamento Semântico (SemVer) é uma convenção para atribuir significado
+aos números de versão no formato **MAJOR.MINOR.PATCH** (exemplo: 2.4.1).
+
+- **MAJOR** — incrementado quando há mudanças incompatíveis com versões anteriores.
+- **MINOR** — incrementado quando novas funcionalidades são adicionadas de forma retrocompatível.
+- **PATCH** — incrementado quando há correções de bugs retrocompatíveis.
