@@ -68,3 +68,23 @@ de gutter indicators.
 REST API com operações CRUD usando Django e Django REST Framework. Cobre desde
 a criação do projeto Django até a definição de models, serializers, viewsets
 e routers, exatamente a estrutura utilizada no Linkhub.
+
+## Branches, Pull Requests e GitFlow
+
+**Branches** são ramificações independentes do histórico de commits. Elas
+permitem que diferentes funcionalidades sejam desenvolvidas em paralelo sem
+interferir no código principal.
+
+O **GitFlow** é uma estratégia de organização de branches criada por Vincent
+Driessen que define papéis claros para cada tipo de branch:
+
+- **main** — contém apenas código em produção, estável e testado.
+- **develop** — branch de integração, onde todas as features concluídas são mescladas.
+- **feature/*** — criada a partir da develop para desenvolver uma funcionalidade específica.
+- **release/*** — criada quando a develop está pronta para virar uma versão.
+- **hotfix/*** — criada a partir da main para corrigir bugs críticos em produção.
+
+O **Pull Request (PR)** é o mecanismo pelo qual um desenvolvedor solicita a
+integração de sua branch em outra. No GitHub, ao abrir um PR é possível
+revisar as alterações linha a linha, adicionar comentários e aprovar o código
+antes do merge.
