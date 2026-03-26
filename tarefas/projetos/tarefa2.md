@@ -17,7 +17,7 @@ Cada membro, no papel de **Analista de Sistemas**, deve detalhar o User Story so
 - **Modelo de Dados Relacionado:** Um trecho do diagrama (fragmento) ou descrição das tabelas impactadas por este US.
 - **Lista de Testes de Aceitação:** Critérios objetivos para validar se a funcionalidade está pronta (Ex: "Dado que o usuário preencheu o campo X, quando clicar em enviar, então o registro deve ser salvo no banco").
 
-Utilize o formado apresentado no documento [Lista de User Story](docs/doc-userstories.md).
+Utilize o formado apresentado no documento [Lista de User Story](/docs/doc-userstories.md).
 
 ## 3. Documento de Arquitetura do Software
 
@@ -34,7 +34,7 @@ Criar um documento `/docs/arquitetura.md` contendo:
 
 - **Implantação (Opcional):** Pequena descrição de como o sistema será publicado ou executado (ex: Docker Compose).
 
-Utilize o formado apresentado no documento [Projeto Arquitetural e Implantação](docs/doc-arquitetura.md).
+Utilize o formado apresentado no documento [Projeto Arquitetural e Implantação](/docs/doc-arquitetura.md).
 
 ## 4. Padronização e Repositório
 
