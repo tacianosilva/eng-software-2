@@ -21,13 +21,13 @@ O documento deve ser criado em Markdown na pasta `/docs` e conter:
 - **Perfis de Usuários:** Quem são os atores que interagem com o sistema.
 - **Tabela de Riscos:** Identificação de possíveis impedimentos e ações de mitigação.
 
-Utilize o formado apresentado no modelo do [Documento de Visão](docs/doc-visao.md).
+Utilize o formado apresentado no modelo do [Documento de Visão](/docs/doc-visao.md).
 
 ## 3. Modelagem de Dados e Persistência
 - **Diagrama de Entidades:** Criar um **Diagrama de Classes UML** ou **Diagrama Entidade-Relacionamento (DER)** utilizando a sintaxe **Mermaid** diretamente no Markdown.
 - **Dicionário de Dados:** Documento detalhando os atributos (nome, tipo, restrições) das entidades para persistência.
 
-Utilize o formado apresentado no modelo do [Documento de Modelo de Dados](docs/doc-modelos.md).
+Utilize o formado apresentado no modelo do [Documento de Modelo de Dados](/docs/doc-modelos.md).
 
 ## 4. Lista de User Stories (Versão 1)
 Tabela contendo o planejamento inicial das funcionalidades:
@@ -37,7 +37,7 @@ Tabela contendo o planejamento inicial das funcionalidades:
 | US01 | Manter Cadastro de Usuários | RF01, RF02 | Nome do Membro A |
 | US02 | Gerenciar Estoque | RF03, RF04 | Nome do Membro B |
 
-- Utilize o formado apresentado no documento [Lista de User Story](docs/doc-userstories.md):
+- Utilize o formado apresentado no documento [Lista de User Story](/docs/doc-userstories.md):
 
 ## 5. Entrega
 - Link do repositório com o histórico de commits seguindo o padrão de **Conventional Commits**.
