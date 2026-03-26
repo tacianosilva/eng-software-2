@@ -21,13 +21,13 @@ O documento deve ser criado em Markdown na pasta `/docs` e conter:
 - **Perfis de Usuários:** Quem são os atores que interagem com o sistema.
 - **Tabela de Riscos:** Identificação de possíveis impedimentos e ações de mitigação.
 
-Utilize o formado apresentado no modelo do [Documento de Visão](docs/doc-visao.md):
+Utilize o formado apresentado no modelo do [Documento de Visão](docs/doc-visao.md).
 
 ## 3. Modelagem de Dados e Persistência
 - **Diagrama de Entidades:** Criar um **Diagrama de Classes UML** ou **Diagrama Entidade-Relacionamento (DER)** utilizando a sintaxe **Mermaid** diretamente no Markdown.
 - **Dicionário de Dados:** Documento detalhando os atributos (nome, tipo, restrições) das entidades para persistência.
 
-Utilize o formado apresentado no modelo do [Documento de Modelo de Dados](docs/doc-modelos.md):
+Utilize o formado apresentado no modelo do [Documento de Modelo de Dados](docs/doc-modelos.md).
 
 ## 4. Lista de User Stories (Versão 1)
 Tabela contendo o planejamento inicial das funcionalidades:
