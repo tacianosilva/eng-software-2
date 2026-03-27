@@ -54,3 +54,8 @@ O Versionamento Semântico (SemVer) é um padrão utilizado para definir versõe
 
 Nesse modelo, o número MAJOR é incrementado quando há mudanças incompatíveis (breaking changes), o MINOR quando novas funcionalidades são adicionadas sem quebrar compatibilidade, e o PATCH quando são feitas apenas correções de bugs. Além disso, uma vez que uma versão é publicada, ela não deve ser alterada, garantindo consistência e confiabilidade no uso do software.
 
+## Conventional Commits
+
+O Conventional Commits é uma convenção para padronizar as mensagens de commit no Git, tornando o histórico mais organizado e fácil de entender. Ele define um formato estruturado, como tipo(escopo): descrição, onde o tipo indica a natureza da mudança (por exemplo, feat para novas funcionalidades e fix para correções). Essa padronização permite que tanto desenvolvedores quanto ferramentas automatizadas compreendam rapidamente o que foi alterado no projeto.
+
+Além de melhorar a comunicação na equipe, o Conventional Commits facilita a automação de tarefas, como geração de changelogs e integração com o Versionamento Semântico (SemVer). Ele também ajuda a identificar mudanças importantes, como aquelas que quebram compatibilidade (usando BREAKING CHANGE). Com isso, o projeto mantém um histórico mais claro, previsível e útil para manutenção e evolução do software.
