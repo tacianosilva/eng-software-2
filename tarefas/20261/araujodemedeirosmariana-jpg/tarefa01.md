@@ -36,4 +36,6 @@ Pull Request é usado para revisar e integrar mudanças ao repositório principa
 ##  Versionamento Semântico
 O Versionamento Semântico (SemVer) é um padrão que define como numerar versões de software no formato MAJOR.MINOR.PATCH. A versão MAJOR muda quando há alterações incompatíveis, a MINOR quando são adicionadas funcionalidades compatíveis e a PATCH quando são feitas correções de erros. Esse modelo ajuda a evitar problemas com dependências, permitindo que desenvolvedores entendam facilmente o impacto das mudanças entre versões e mantenham a compatibilidade dos sistemas.
 
+##  Conventional Commits
+O Conventional Commits é uma convenção para padronizar mensagens de commit, utilizando um formato estruturado como tipo: descrição (ex: feat, fix, docs). É um padrão para mensagens de commit. Onde feat representar nova funcionalidade, fix representar correção de erro e  docs representar documentação. Ajuda na organização e leitura do histórico do projeto.
 
