@@ -32,3 +32,12 @@ O Visual Studio Code é uma IDE leve e bastante popular, desenvolvida pela Micro
 
 Em relação ao debug, o VS Code permite o uso de breakpoints para pausar a execução do código e inspecionar variáveis, facilitando a identificação de erros. Já no controle de versão, ele possui integração nativa com o Git, permitindo realizar commits, visualizar alterações, resolver conflitos e gerenciar branches diretamente pela interface, sem necessidade de usar o terminal.
 
+## CRUD Exemplo
+
+Um exemplo de CRUD com SpringBoot pode ser observado [aqui](https://www.rocketseat.com.br/blog/artigos/post/crud-java-spring-boot-guia-completo).
+
+Basicamente, uma vez que tenha criado um projeto spring, o desenvolvedor vai precisar criar uma `Entity` (entidade), que represente o modelo de dados do CRUD (a tabela). No exemplo, o tutorial usa uma entidade de produtos, que é uma classe que mapeia as colunas do banco de dados e que possue as anotações `@Entity` e de colunas.
+
+Após isso, o tutorial mostra que é preciso criar um `Repository`, que nada mais é do que uma interface que extende de outra interface, `JpaRepository`. Essa interface define os principais métodos de interação com o banco de dados, como métodos de salvar, atualizar, buscar, etc. Aqui é importante associar uma entidade à interface, para tipar corretamente.
+
+Por fim, o tutorial mostra a criação de um controller, que é uma classe que expõe as rotas da API do Spring e recebe a requisição. Aqui, o controller só repassa a requisição para o repositório do produto ou usa ele para retornar algo.
