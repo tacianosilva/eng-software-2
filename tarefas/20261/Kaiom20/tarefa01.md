@@ -1,0 +1,127 @@
+# Tarefa 01 - Git e GitHub com Markdown
+**Nome:** Kaio Marcio Araujo Cavalcante Lira
+**Usuário GitHub:** Kaiom20
+**E-mail:** kaio.lira.080@ufrn.edu.br
+
+## Descrição do Projeto
+
+O Linkhub é uma plataforma web voltada para o ambiente acadêmico que conecta
+estudantes universitários a projetos de extensão, pesquisa e iniciação científica
+dentro de suas próprias instituições. O sistema permite que criadores publiquem
+projetos com vagas, estudantes se candidatem e recebam notificações sobre o
+andamento de suas candidaturas — tudo isolado por instituição, garantindo
+relevância no feed de cada usuário.
+
+**Equipe:** Guilherme & Kaio
+
+**Organização:** [Linkhub](https://github.com/linkhub-org)
+
+## Linguagem de Programação
+
+O projeto utiliza duas linguagens principais:
+
+**JavaScript** no frontend, por meio do React + Vite. Sou o responsável pelo
+frontend e tenho contato com JavaScript no contexto de desenvolvimento web.
+A equipe reconhece que o domínio de JavaScript ainda está em consolidação,
+mas a escolha é justificada pela popularidade do ecossistema React e pela
+quantidade de material de apoio disponível.
+
+**Python** no backend, com experiência prévia da equipe em disciplinas de
+programação e scripts acadêmicos. Python foi escolhido pela legibilidade,
+pela vasta documentação e por ser a linguagem nativa do Django.
+
+## Framework Utilizado
+
+O framework principal do frontend é o **React com Vite**, responsável por toda
+a interface do usuário. O React é uma biblioteca JavaScript para construção de
+interfaces baseadas em componentes reutilizáveis. O Vite substitui o Create
+React App como ferramenta de build, oferecendo tempo de inicialização e
+hot reload significativamente mais rápidos.
+
+No backend, o framework utilizado é o **Django REST Framework (DRF)**, que
+facilita a criação de APIs RESTful em Python, fornecendo serializers,
+viewsets, routers e um sistema de autenticação plugável.
+
+## IDE Utilizada
+
+A equipe utiliza o **Visual Studio Code (VS Code)**, editor gratuito da
+Microsoft e um dos mais populares para desenvolvimento web e Python.
+
+**Ferramentas de debug:**
+O VS Code possui um depurador nativo que permite adicionar breakpoints
+diretamente no código, inspecionar variáveis e acompanhar a pilha de chamadas.
+No frontend, o debug é feito via integração com o DevTools do navegador.
+A extensão **React Developer Tools** permite inspecionar a árvore de
+componentes e o estado em tempo real diretamente no Chrome ou Firefox.
+
+**Controle de versão:**
+O VS Code possui um painel de controle de versão nativo (aba Source Control)
+que exibe arquivos modificados, permite fazer stage, commit e push sem sair
+do editor. Também mostra o histórico de alterações linha a linha com o recurso
+de gutter indicators.
+
+## Tutorial de CRUD na Tecnologia Escolhida
+
+**Link:** https://github.com/gabrielstork/rest-api-crud
+
+**Descrição:** Tutorial em português que ensina passo a passo como criar uma
+REST API com operações CRUD usando Django e Django REST Framework. Cobre desde
+a criação do projeto Django até a definição de models, serializers, viewsets
+e routers, exatamente a estrutura utilizada no Linkhub.
+
+## Branches, Pull Requests e GitFlow
+
+**Branches** são ramificações independentes do histórico de commits. Elas
+permitem que diferentes funcionalidades sejam desenvolvidas em paralelo sem
+interferir no código principal.
+
+O **GitFlow** é uma estratégia de organização de branches criada por Vincent
+Driessen que define papéis claros para cada tipo de branch:
+
+- **main** — contém apenas código em produção, estável e testado.
+- **develop** — branch de integração, onde todas as features concluídas são mescladas.
+- **feature/*** — criada a partir da develop para desenvolver uma funcionalidade específica.
+- **release/*** — criada quando a develop está pronta para virar uma versão.
+- **hotfix/*** — criada a partir da main para corrigir bugs críticos em produção.
+
+O **Pull Request (PR)** é o mecanismo pelo qual um desenvolvedor solicita a
+integração de sua branch em outra. No GitHub, ao abrir um PR é possível
+revisar as alterações linha a linha, adicionar comentários e aprovar o código
+antes do merge.
+
+## Versionamento Semântico
+
+Fonte: https://semver.org/lang/pt-BR/
+
+O Versionamento Semântico (SemVer) é uma convenção para atribuir significado
+aos números de versão no formato **MAJOR.MINOR.PATCH** (exemplo: 2.4.1).
+
+- **MAJOR** — incrementado quando há mudanças incompatíveis com versões anteriores.
+- **MINOR** — incrementado quando novas funcionalidades são adicionadas de forma retrocompatível.
+- **PATCH** — incrementado quando há correções de bugs retrocompatíveis.
+
+## Conventional Commits
+
+Fonte: https://www.conventionalcommits.org/pt-br/v1.0.0/
+
+Conventional Commits é uma convenção para padronizar as mensagens de commit,
+tornando o histórico do repositório legível por humanos e ferramentas
+automatizadas. A estrutura básica é:
+```
+<tipo>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+```
+
+Tipos principais:
+
+- **feat:** Nova funcionalidade adicionada
+- **fix:** Correção de bug
+- **chore:** Tarefas de configuração, setup, dependências
+- **docs:** Alterações apenas na documentação
+- **test:** Adição ou correção de testes
+- **refactor:** Refatoração sem mudança de comportamento
+- **style:** Formatação, espaçamento (sem mudança de lógica)
+- **ci:** Alterações em pipelines de CI/CD
