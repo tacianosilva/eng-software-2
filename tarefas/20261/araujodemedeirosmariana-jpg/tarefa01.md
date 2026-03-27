@@ -29,12 +29,11 @@ CRUD em Python - Python e MySQL
 Link: https://www.youtube.com/watch?v=_q3j25ACmQ4
 O tutorial explica o conceito de CRUD em Python, que envolve as operações de criar, ler, atualizar e excluir dados em um banco de dados. Também demonstra como integrar o Python com um banco de dados e executar comandos SQL para manipular informações.
 
-##  GitFlow (Branches e Pull Request)
-GitFlow é um modelo de organização de branches no Git.
-Utiliza branches como:
-- main (produção)
-- develop (desenvolvimento)
-- feature (novas funcionalidades)
-
+##  Branches e Pull Request
+Uma branch (ramificação) é uma cópia independente do código principal do projeto. Ela permite que os desenvolvedores trabalhem em novas funcionalidades, correções ou testes sem alterar diretamente a versão principal.
 Pull Request é usado para revisar e integrar mudanças ao repositório principal.
+
+##  Versionamento Semântico
+O Versionamento Semântico (SemVer) é um padrão que define como numerar versões de software no formato MAJOR.MINOR.PATCH. A versão MAJOR muda quando há alterações incompatíveis, a MINOR quando são adicionadas funcionalidades compatíveis e a PATCH quando são feitas correções de erros. Esse modelo ajuda a evitar problemas com dependências, permitindo que desenvolvedores entendam facilmente o impacto das mudanças entre versões e mantenham a compatibilidade dos sistemas.
+
 
