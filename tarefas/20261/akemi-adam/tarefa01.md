@@ -26,3 +26,9 @@ O Angular, mantido pela Google, é um framework front-end baseado em TypeScript 
 
 O Spring Boot, do ecossistema da VMware, é um framework back-end em Java voltado para a criação de APIs e sistemas robustos. Ele simplifica a configuração do Spring e permite desenvolver aplicações rapidamente, sendo muito utilizado em projetos corporativos e de microserviços.
 
+## IDE
+
+O Visual Studio Code é uma IDE leve e bastante popular, desenvolvida pela Microsoft, que oferece suporte a diversas linguagens por meio de extensões. Ele possui uma interface simples e altamente personalizável, além de um ecossistema rico que permite integrar ferramentas essenciais ao desenvolvimento, como linters, formatadores e suporte a frameworks modernos.
+
+Em relação ao debug, o VS Code permite o uso de breakpoints para pausar a execução do código e inspecionar variáveis, facilitando a identificação de erros. Já no controle de versão, ele possui integração nativa com o Git, permitindo realizar commits, visualizar alterações, resolver conflitos e gerenciar branches diretamente pela interface, sem necessidade de usar o terminal.
+
