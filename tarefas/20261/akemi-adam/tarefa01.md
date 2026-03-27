@@ -41,3 +41,10 @@ Basicamente, uma vez que tenha criado um projeto spring, o desenvolvedor vai pre
 Após isso, o tutorial mostra que é preciso criar um `Repository`, que nada mais é do que uma interface que extende de outra interface, `JpaRepository`. Essa interface define os principais métodos de interação com o banco de dados, como métodos de salvar, atualizar, buscar, etc. Aqui é importante associar uma entidade à interface, para tipar corretamente.
 
 Por fim, o tutorial mostra a criação de um controller, que é uma classe que expõe as rotas da API do Spring e recebe a requisição. Aqui, o controller só repassa a requisição para o repositório do produto ou usa ele para retornar algo.
+
+## GitFlow
+
+O Git é um sistema de controle de versão distribuído que permite o uso de branches, que são ramificações do código principal usadas para desenvolver funcionalidades de forma isolada. No modelo GitFlow, existem branches bem definidas, como main (produção), develop (integração), além de branches de feature, release e hotfix. Esse padrão organiza o desenvolvimento, permitindo que novas funcionalidades sejam criadas sem impactar diretamente o código estável, facilitando a manutenção e a colaboração em equipe.
+
+Já no GitHub, os pull requests (ou merge requests) são utilizados para solicitar a integração de uma branch em outra, geralmente de uma feature para develop ou main. Eles permitem revisão de código, discussão entre desenvolvedores e execução de testes antes da junção, aumentando a qualidade do software. Dentro do GitFlow, os pull requests são essenciais para garantir que todas as alterações passem por validação antes de serem incorporadas ao fluxo principal do projeto.
+
