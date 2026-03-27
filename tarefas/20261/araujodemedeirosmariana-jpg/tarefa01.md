@@ -16,3 +16,10 @@ A equipe possui conhecimento básico/intermediário, com experiência em desenvo
 
 ##  Framework
 O framework escolhido para o desenvolvimento do projeto é o FastAPI, utilizado no backend da aplicação em conjunto com a linguagem Python. O FastAPI é um framework moderno e de alta performance, projetado para a criação de APIs de forma rápida e eficiente. Ele se destaca por utilizar recursos atuais do Python, como tipagem de dados, o que permite validação automática das informações e geração de documentação interativa de forma simples. No contexto deste projeto, o FastAPI será responsável por estruturar o backend, gerenciar as rotas da aplicação, processar as requisições dos usuários e realizar a comunicação com o banco de dados SQLite.
+
+##  IDE
+A IDE utilizada será o Visual Studio Code.
+Ela possui:
+- Debug integrado
+- Extensões
+- Integração com Git (commit, push, pull)
