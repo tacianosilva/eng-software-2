@@ -20,3 +20,9 @@ Por sua vez, o Java é uma linguagem compilada, fortemente e estaticamente tipad
 
 Todos os membros da equipe possuem conhecimento em Java. Alguns tiveram uma boa experiência com a linguagem por fazerem curso técnico no IFRN. Já o typescript vai ser uma experiência nova para a maioria da equipe; porém, por já estarem habituados com javascript e com os conceitos de POO, não será um desafio.
 
+## Tecnologias
+
+O Angular, mantido pela Google, é um framework front-end baseado em TypeScript usado para criar aplicações web modernas. Ele utiliza uma arquitetura de componentes, possui recursos como roteamento, injeção de dependência e integração com APIs, facilitando o desenvolvimento de interfaces organizadas e escaláveis.
+
+O Spring Boot, do ecossistema da VMware, é um framework back-end em Java voltado para a criação de APIs e sistemas robustos. Ele simplifica a configuração do Spring e permite desenvolver aplicações rapidamente, sendo muito utilizado em projetos corporativos e de microserviços.
+
