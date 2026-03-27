@@ -23,3 +23,8 @@ Ela possui:
 - Debug integrado
 - Extensões
 - Integração com Git (commit, push, pull)
+
+##  Tutorial CRUD
+CRUD em Python - Python e MySQL
+Link: https://www.youtube.com/watch?v=_q3j25ACmQ4
+O tutorial explica o conceito de CRUD em Python, que envolve as operações de criar, ler, atualizar e excluir dados em um banco de dados. Também demonstra como integrar o Python com um banco de dados e executar comandos SQL para manipular informações.
