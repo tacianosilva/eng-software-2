@@ -28,3 +28,13 @@ Ela possui:
 CRUD em Python - Python e MySQL
 Link: https://www.youtube.com/watch?v=_q3j25ACmQ4
 O tutorial explica o conceito de CRUD em Python, que envolve as operações de criar, ler, atualizar e excluir dados em um banco de dados. Também demonstra como integrar o Python com um banco de dados e executar comandos SQL para manipular informações.
+
+##  GitFlow (Branches e Pull Request)
+GitFlow é um modelo de organização de branches no Git.
+Utiliza branches como:
+- main (produção)
+- develop (desenvolvimento)
+- feature (novas funcionalidades)
+
+Pull Request é usado para revisar e integrar mudanças ao repositório principal.
+
