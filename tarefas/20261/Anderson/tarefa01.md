@@ -43,3 +43,20 @@ Após isso, o tutorial mostra que é preciso criar um `Repository`, que nada mai
 
 Por fim, o tutorial mostra a criação de um controller, que é uma classe que expõe as rotas da API do Spring e recebe a requisição. Aqui, o controller só repassa a requisição para o repositório do produto ou usa ele para retornar algo.
 
+## GitFlow
+
+O Git é um sistema de controle de versão distribuído que permite o uso de branches, que são ramificações do código principal usadas para desenvolver funcionalidades de forma isolada. No modelo GitFlow, existem branches bem definidas, como main (produção), develop (integração), além de branches de feature, release e hotfix. Esse padrão organiza o desenvolvimento, permitindo que novas funcionalidades sejam criadas sem impactar diretamente o código estável, facilitando a manutenção e a colaboração em equipe.
+
+Já no GitHub, os pull requests (ou merge requests) são utilizados para solicitar a integração de uma branch em outra, geralmente de uma feature para develop ou main. Eles permitem revisão de código, discussão entre desenvolvedores e execução de testes antes da junção, aumentando a qualidade do software. Dentro do GitFlow, os pull requests são essenciais para garantir que todas as alterações passem por validação antes de serem incorporadas ao fluxo principal do projeto.
+
+## SemVer
+
+O Versionamento Semântico (SemVer) é um padrão utilizado para definir versões de software de forma clara e previsível. Ele utiliza o formato MAJOR.MINOR.PATCH (ex: 1.2.3), onde cada número indica o tipo de alteração realizada no sistema. O objetivo principal é facilitar o entendimento das mudanças e evitar problemas de compatibilidade, especialmente em projetos com dependências entre sistemas.
+
+Nesse modelo, o número MAJOR é incrementado quando há mudanças incompatíveis (breaking changes), o MINOR quando novas funcionalidades são adicionadas sem quebrar compatibilidade, e o PATCH quando são feitas apenas correções de bugs. Além disso, uma vez que uma versão é publicada, ela não deve ser alterada, garantindo consistência e confiabilidade no uso do software.
+
+## Conventional Commits
+
+O Conventional Commits é uma convenção para padronizar as mensagens de commit no Git, tornando o histórico mais organizado e fácil de entender. Ele define um formato estruturado, como tipo(escopo): descrição, onde o tipo indica a natureza da mudança (por exemplo, feat para novas funcionalidades e fix para correções). Essa padronização permite que tanto desenvolvedores quanto ferramentas automatizadas compreendam rapidamente o que foi alterado no projeto.
+
+Além de melhorar a comunicação na equipe, o Conventional Commits facilita a automação de tarefas, como geração de changelogs e integração com o Versionamento Semântico (SemVer). Ele também ajuda a identificar mudanças importantes, como aquelas que quebram compatibilidade (usando BREAKING CHANGE). Com isso, o projeto mantém um histórico mais claro, previsível e útil para manutenção e evolução do software.
