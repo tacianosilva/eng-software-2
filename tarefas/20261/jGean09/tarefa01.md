@@ -68,3 +68,21 @@ release: preparação para uma nova versão
 hotfix: correções urgentes em produção
 
 Com o GitFlow, o uso de branches e pull requests fica mais estruturado, facilitando o trabalho em equipe, o controle de versões e a manutenção do código.
+
+### g) Versionamento Semântico (SemVer)
+
+📄 Resumo sobre Versionamento Semântico (SemVer)
+
+O Versionamento Semântico (SemVer) é um padrão utilizado para organizar as versões de um software de forma clara e previsível. Ele surgiu para evitar problemas como o “inferno das dependências”, onde atualizações quebram o funcionamento de sistemas que dependem de determinadas versões.
+
+Esse modelo utiliza três números no formato:
+
+MAJOR.MINOR.PATCH (ex: 1.2.3)
+
+Cada parte tem um significado específico:
+
+MAJOR (versão maior): mudanças que quebram compatibilidade com versões anteriores
+MINOR (versão menor): adição de novas funcionalidades sem quebrar o sistema
+PATCH (correção): correções de erros ou bugs, sem alterar funcionalidades
+
+Com isso, o versionamento semântico facilita o entendimento das mudanças no software, ajudando desenvolvedores a decidir quando podem atualizar com segurança e quando precisam fazer ajustes no código.
