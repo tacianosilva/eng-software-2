@@ -113,3 +113,7 @@ Além disso, o Conventional Commits pode ser integrado ao Versionamento Semânti
 📄 Feedback sobre o sistema AcademicDevFlow
 
 Achei o sistema AcademicDevFlow interessante e útil para auxiliar na organização e acompanhamento das atividades acadêmicas. A interface é relativamente simples e fácil de entender, o que facilita a navegação mesmo para quem está utilizando pela primeira vez.
+
+### j) Projeto no Sistema
+
+O projeto foi criado com sucesso pelo Líder Técnico. No entanto, ainda falta adicionar todos os membros à equipe para que o processo esteja completamente finalizado.
