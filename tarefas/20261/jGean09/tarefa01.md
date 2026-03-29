@@ -86,3 +86,6 @@ MINOR (versão menor): adição de novas funcionalidades sem quebrar o sistema
 PATCH (correção): correções de erros ou bugs, sem alterar funcionalidades
 
 Com isso, o versionamento semântico facilita o entendimento das mudanças no software, ajudando desenvolvedores a decidir quando podem atualizar com segurança e quando precisam fazer ajustes no código.
+
+### h) Conventional Commits
+
