@@ -89,3 +89,27 @@ Com isso, o versionamento semântico facilita o entendimento das mudanças no so
 
 ### h) Conventional Commits
 
+📄 Resumo sobre Conventional Commits
+
+O Conventional Commits é uma convenção para padronizar as mensagens de commits em projetos de software. Ele define um formato específico para escrever commits, tornando o histórico mais organizado, fácil de entender e até utilizável por ferramentas automatizadas.
+
+A estrutura básica de um commit é:
+<tipo>[escopo opcional]: <descrição>
+
+Os principais tipos utilizados são:
+
+feat: adiciona uma nova funcionalidade
+fix: corrige um erro
+docs: alterações na documentação
+refactor: mudanças no código sem alterar funcionalidade
+test: criação ou alteração de testes
+
+Essa padronização ajuda a entender rapidamente o que foi feito em cada commit, facilita o trabalho em equipe e permite automatizar tarefas como geração de changelog e controle de versões.
+
+Além disso, o Conventional Commits pode ser integrado ao Versionamento Semântico, indicando se uma mudança é uma correção, nova funcionalidade ou quebra de compatibilidade.
+
+### i) AcademicDevFlow
+
+📄 Feedback sobre o sistema AcademicDevFlow
+
+Achei o sistema AcademicDevFlow interessante e útil para auxiliar na organização e acompanhamento das atividades acadêmicas. A interface é relativamente simples e fácil de entender, o que facilita a navegação mesmo para quem está utilizando pela primeira vez.
