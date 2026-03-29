@@ -50,3 +50,21 @@ O tutorial apresenta o desenvolvimento de um sistema CRUD completo utilizando o 
 Inicialmente, são apresentados os pré-requisitos e a regra de negócio do projeto. Em seguida, é mostrado como integrar a aplicação com um bot do Telegram, incluindo a criação do bot e geração de credenciais.
 
 Depois disso, o foco passa para o desenvolvimento do back-end, onde são implementadas as funcionalidades principais do CRUD, permitindo criar, visualizar, atualizar e excluir dados. Por fim, o tutorial demonstra testes da aplicação e apresenta o resultado final do sistema funcionando.
+
+### f) Branches e Pull Requests com GitFlow
+
+📄 Resumo sobre Branches, Pull Request e GitFlow
+
+No Git, uma branch (ramificação) é uma linha separada de desenvolvimento dentro do projeto. Ela permite que novas funcionalidades ou correções sejam feitas sem alterar diretamente a versão principal do sistema. A branch mais comum é a main (ou master), que geralmente contém a versão estável do projeto.
+
+O Pull Request (PR) — também chamado de Merge Request — é um mecanismo usado em plataformas como GitHub para propor a junção de uma branch com outra. Ele permite que outros desenvolvedores revisem o código antes de integrar as mudanças, garantindo mais qualidade e organização no projeto.
+
+Já o GitFlow é um modelo de organização de branches que define padrões para o desenvolvimento. Nesse modelo, existem algumas branches principais:
+
+main: versão estável do sistema
+develop: onde as novas funcionalidades são integradas
+feature: usadas para desenvolver novas funcionalidades
+release: preparação para uma nova versão
+hotfix: correções urgentes em produção
+
+Com o GitFlow, o uso de branches e pull requests fica mais estruturado, facilitando o trabalho em equipe, o controle de versões e a manutenção do código.
