@@ -42,3 +42,9 @@ A IDE possui integração nativa com Git, permitindo realizar commits, criar bra
 O vídeo mostra como criar uma aplicação básica em Django, ensinando a criar modelos e implementar as operações de CRUD (criar, ler, atualizar e deletar). Também demonstra como conectar o sistema ao banco de dados e utilizar as funcionalidades do Django para gerenciar informações de forma simples e prática.
 
 [Tutorial](https://youtu.be/ZXli2MJyRyk?si=ql6IMoWnVdquHdK9)
+
+
+### Branchs e Pull Requests
+Branches no Git permitem desenvolver funcionalidades separadamente, e no GitFlow elas são organizadas em tipos como feature, develop e main.
+
+Os Pull Requests no GitHub servem para revisar e aprovar mudanças antes de juntar uma branch ao projeto principal, garantindo mais qualidade e organização no desenvolvimento.
