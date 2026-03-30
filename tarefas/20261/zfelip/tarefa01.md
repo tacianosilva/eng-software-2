@@ -28,3 +28,11 @@ A equipe possui bom domínio dessas linguagens, pois já as utilizou anteriormen
 No backend será utilizado o Django, um framework que segue o padrão MTV. Ele oferece diversas funcionalidades prontas, como autenticação e ORM, o que acelera o desenvolvimento e garante maior segurança.
 
 No frontend será utilizado o React Native, que permite o desenvolvimento de aplicativos móveis utilizando JavaScript e conceitos do React.
+
+### IDE
+A IDE que será utilizada será o Visual Studio Code, devido à sua leveza, flexibilidade e experiência da equipe.
+
+- **Debug:** O VS Code possui ferramentas integradas de debug que permitem executar o código passo a passo, definir breakpoints, inspecionar variáveis e acompanhar a execução em tempo real, tanto para Python quanto para JavaScript.
+
+- **Controle de versão**:
+A IDE possui integração nativa com Git, permitindo realizar commits, criar branches, resolver conflitos e sincronizar com repositórios remotos sem sair do ambiente de desenvolvimento.
