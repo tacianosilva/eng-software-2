@@ -35,5 +35,17 @@ Será utilizado o **Django**.
 
 Django é um framework web de alto nível para Python que facilita o desenvolvimento rápido e seguro de aplicações web. Ele já possui recursos prontos como autenticação, ORM para banco de dados e painel administrativo.
 
+---
+
+## 🧠 IDE
+
+A IDE utilizada será o **Visual Studio Code**.
+
+Recursos:
+- Debug integrado para Python
+- Integração com Git
+- Terminal embutido
+- Extensões como Python, Pylance e Prettier
+
 
 
