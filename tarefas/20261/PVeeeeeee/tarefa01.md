@@ -47,5 +47,15 @@ Recursos:
 - Terminal embutido
 - Extensões como Python, Pylance e Prettier
 
+---
+
+## 🔗 Tutorial CRUD
+
+Link:  
+https://www.youtube.com/watch?v=F5mRW0jo-U4
+
+Descrição:  
+O tutorial mostra passo a passo como criar um sistema CRUD usando Django. Ele ensina a configurar o projeto, criar modelos (models), definir as views, configurar rotas (urls) e criar templates para interface. Também aborda integração com banco de dados e operações básicas de cadastro, listagem, edição e exclusão de dados.
+
 
 
