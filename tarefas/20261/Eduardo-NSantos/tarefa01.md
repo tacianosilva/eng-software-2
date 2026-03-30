@@ -39,3 +39,34 @@ O framework escolhido para o frontend do projeto React Native utilizando Expo.
 
 ---
 
+## 4. IDE que será utilizada
+
+A IDE/editor que será utilizado no projeto é o **Visual Studio Code (VS Code)**.
+
+O VS Code é bastante popular no desenvolvimento web por ser leve, extensível e possuir suporte para diversas linguagens.
+
+- Debug integrado para várias linguagens
+- Possibilidade de configurar breakpoints
+- Inspeção de variáveis
+- Execução passo a passo do código
+
+- Integração nativa com Git
+- Visualização de arquivos modificados
+- Commit, push, pull e merge pela interface gráfica
+- Histórico de alterações
+- Extensões para GitHub, como GitHub Pull Requests and Issues
+
+---
+
+## 5. Tutorial para fazer CRUD na tecnologia escolhida
+
+Um bom tutorial para CRUD com NestJS é:
+
+**Link:**  
+https://www.youtube.com/playlist?list=PLR8JXremim5AdjhggWtqzgSXPYZ_V9x2b
+
+**Descrição:**  
+Esse tutorial apresenta a criação de uma aplicação CRUD completa com NestJS, mostrando como configurar rotas, controllers, models, migrations e views para cadastrar, listar, editar e remover registros.
+
+---
+
