@@ -48,3 +48,8 @@ O vídeo mostra como criar uma aplicação básica em Django, ensinando a criar 
 Branches no Git permitem desenvolver funcionalidades separadamente, e no GitFlow elas são organizadas em tipos como feature, develop e main.
 
 Os Pull Requests no GitHub servem para revisar e aprovar mudanças antes de juntar uma branch ao projeto principal, garantindo mais qualidade e organização no desenvolvimento.
+
+### Versionamento Semântico
+O Versionamento Semântico é um padrão utilizado para definir versões de software de forma clara e previsível, usando o formato MAJOR.MINOR.PATCH.
+
+De forma resumida, ele indica o tipo de mudança feita: **MAJOR** para alterações incompatíveis, **MINOR** para novas funcionalidades compatíveis e **PATCH** para correções de erros, facilitando o controle de versões e evitando problemas com dependências.
