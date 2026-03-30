@@ -32,3 +32,10 @@ O domínio da equipe com JavaSript é intermediário, pois alguns integrantes j�
 
 ---
 
+## 3. Framework que será utilizado
+
+O framework escolhido para o backend do projeto é o **NestJS**.
+O framework escolhido para o frontend do projeto React Native utilizando Expo.
+
+---
+
