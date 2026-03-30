@@ -70,4 +70,17 @@ No GitFlow, temos:
 
 O Pull Request é utilizado para enviar alterações de uma branch para outra, permitindo revisão de código antes da integração.
 
+---
+
+## 🔢 Versionamento Semântico
+
+O versionamento semântico é um padrão para definir versões de software no formato:
+
+MAJOR.MINOR.PATCH
+
+- MAJOR: mudanças que quebram compatibilidade
+- MINOR: adição de novas funcionalidades sem quebrar o sistema
+- PATCH: correções de bugs
+
+Exemplo: 1.2.0
 
