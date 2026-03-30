@@ -70,3 +70,81 @@ Esse tutorial apresenta a criação de uma aplicação CRUD completa com NestJS,
 
 ---
 
+## 6. Branches, Pull Request e GitFlow
+
+### Branches
+Branches são ramificações do código principal de um repositório. Elas permitem que novas funcionalidades, correções ou experimentos sejam desenvolvidos de forma isolada, sem afetar diretamente a branch principal.
+
+### Pull Request
+O Pull Request (PR) é uma solicitação para que as alterações feitas em uma branch sejam revisadas e integradas em outra branch, geralmente a `main` ou `develop`. No GitHub, o PR facilita revisão de código, comentários, testes e discussão antes da mesclagem.
+
+### GitFlow
+O GitFlow é uma estratégia de organização de branches no Git. Ele normalmente utiliza:
+- `main`: versão estável do sistema
+- `develop`: branch de desenvolvimento
+- `feature/*`: novas funcionalidades
+- `release/*`: preparação de versões
+- `hotfix/*`: correções urgentes em produção
+
+Essa abordagem ajuda equipes a trabalharem de forma organizada e controlada, especialmente em projetos com várias pessoas.
+
+---
+
+## 7. Versionamento Semântico (SemVer)
+
+O Versionamento Semântico (SemVer) é uma convenção para numerar versões de software no formato:
+
+`MAJOR.MINOR.PATCH`
+
+Exemplo: `2.4.1`
+
+- **MAJOR**: mudanças incompatíveis com versões anteriores
+- **MINOR**: novas funcionalidades compatíveis
+- **PATCH**: correções de bugs compatíveis
+
+O SemVer ajuda a entender o impacto de uma atualização e facilita o controle de dependências em projetos de software.
+
+**Referência:**  
+https://semver.org/lang/pt-BR/
+
+---
+
+## 8. Resumo sobre Conventional Commits
+
+Conventional Commits é uma convenção para padronizar mensagens de commit, tornando o histórico do projeto mais claro, organizado e fácil de entender.
+
+A estrutura mais comum é:
+
+`tipo: descrição da alteração`
+
+### Exemplos:
+- `feat: adiciona tela de login`
+- `fix: corrige erro no cadastro de alunos`
+- `docs: adiciona documentação inicial`
+- `refactor: reorganiza controller de autenticação`
+
+### Tipos mais comuns:
+- **feat** → nova funcionalidade
+- **fix** → correção de bug
+- **docs** → alterações na documentação
+- **style** → ajustes de formatação (sem alterar lógica)
+- **refactor** → refatoração de código
+- **test** → adição ou ajuste de testes
+- **chore** → tarefas de manutenção/configuração
+
+### Vantagens do Conventional Commits:
+- Histórico mais legível
+- Facilita revisão de mudanças
+- Ajuda na automação de changelog
+- Pode ser integrado com versionamento automático
+- Padroniza o trabalho da equipe
+
+No contexto desta atividade, um exemplo de commit seguindo essa convenção seria:
+
+`feat: adiciona descrição do projeto #12`
+
+**Referência:**  
+[Conventional Commits PT-BR](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+
+---
+
