@@ -66,3 +66,6 @@ Existem diferentes tipos de commits. Um commit do tipo 'feat' indica que foi des
 * Cadastro na plataforma realizado.
 * Feedback postado na plataforma -> Título: Primeiras Impressões; Tipo: Experiência do usuário; Descrição: "A plataforma possui uma navegação simples e fácil para utilização; possui um design modesto e amigável, e suas funcionalidades relacionadas a equipes e projetos são bastante úteis e importantes para o acompanhamento e gestão de projetos de software."
 
+# Item j - Cadastro do Projeto no AcademicDevFlow pelo Líder Técnico
+
+Tarefa de responsabilidade do líder técnico da equipe: Expedito Luiz.
