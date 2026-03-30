@@ -53,3 +53,8 @@ Os Pull Requests no GitHub servem para revisar e aprovar mudanças antes de junt
 O Versionamento Semântico é um padrão utilizado para definir versões de software de forma clara e previsível, usando o formato MAJOR.MINOR.PATCH.
 
 De forma resumida, ele indica o tipo de mudança feita: **MAJOR** para alterações incompatíveis, **MINOR** para novas funcionalidades compatíveis e **PATCH** para correções de erros, facilitando o controle de versões e evitando problemas com dependências.
+
+### Conventional Commits
+O Conventional Commits é uma convenção para padronizar mensagens de commits no Git, utilizando um formato estruturado como tipo: descrição
+
+Esse padrão facilita o entendimento das mudanças, automatiza geração de changelogs e integra-se ao Versionamento Semântico, indicando se as alterações são pequenas, novas funcionalidades ou mudanças que quebram compatibilidade.
