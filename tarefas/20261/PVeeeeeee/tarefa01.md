@@ -84,3 +84,20 @@ MAJOR.MINOR.PATCH
 
 Exemplo: 1.2.0
 
+---
+
+## 📝 Conventional Commits
+
+Conventional Commits é um padrão para organizar mensagens de commit.
+
+Formato:
+tipo: descrição
+
+Principais tipos:
+- feat: nova funcionalidade
+- fix: correção de bug
+- docs: documentação
+- style: formatação
+- refactor: refatoração de código
+
+Esse padrão ajuda a manter o histórico organizado e facilita o entendimento das mudanças.
