@@ -18,3 +18,8 @@ Elder Bruno, Felipe Erik e Pedro Vitor
 ### Links para os repositórios
 - [Frontend](https://github.com/veraxqy/finance-cookie-frontend)
 - [Backend](https://github.com/veraxqy/finance-cookie-backend)
+
+### Linguagem de programação e Experiência da equipe
+O projeto utilizará principalmente Python no back-end, por meio do framework Django, e JavaScript no front-end com React Native. O Python é uma linguagem conhecida por sua simplicidade, legibilidade e ampla adoção em desenvolvimento web, ciência de dados e automação. Já o JavaScript é amplamente utilizado no desenvolvimento de interfaces, especialmente em aplicações web e mobile.
+
+A equipe possui bom domínio dessas linguagens, pois já as utilizou anteriormente em projetos, incluindo um projeto recente na disciplina de Engenharia de Software I.
