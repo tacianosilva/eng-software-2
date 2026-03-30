@@ -57,5 +57,17 @@ https://www.youtube.com/watch?v=F5mRW0jo-U4
 Descrição:  
 O tutorial mostra passo a passo como criar um sistema CRUD usando Django. Ele ensina a configurar o projeto, criar modelos (models), definir as views, configurar rotas (urls) e criar templates para interface. Também aborda integração com banco de dados e operações básicas de cadastro, listagem, edição e exclusão de dados.
 
+---
+
+## 🌿 GitFlow, Branches e Pull Requests
+
+Branches são usadas para desenvolver funcionalidades separadamente sem afetar o código principal.
+
+No GitFlow, temos:
+- main: versão final do sistema
+- develop: versão em desenvolvimento
+- feature: onde novas funcionalidades são criadas
+
+O Pull Request é utilizado para enviar alterações de uma branch para outra, permitindo revisão de código antes da integração.
 
 
