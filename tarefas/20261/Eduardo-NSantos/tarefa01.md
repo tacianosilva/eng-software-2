@@ -24,3 +24,11 @@ https://github.com/LuizFelixDev/iservice-api/
 
 ---
 
+## 2. Linguagem de programação do projeto
+
+A linguagem de programação escolhida para o projeto é **JavaScript**, por ser amplamente utilizada no desenvolvimento web e possuir grande compatibilidade com frameworks modernos.
+
+O domínio da equipe com JavaSript é intermediário, pois alguns integrantes já possuem experiência com desenvolvimento de APIs, autenticação, banco de dados e uso dos frameworks. Além disso, a linguagem possui boa documentação e uma comunidade bastante ativa, o que facilita o aprendizado e a resolução de problemas durante o desenvolvimento do projeto.
+
+---
+
