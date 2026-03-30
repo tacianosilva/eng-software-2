@@ -101,3 +101,15 @@ Principais tipos:
 - refactor: refatoração de código
 
 Esse padrão ajuda a manter o histórico organizado e facilita o entendimento das mudanças.
+
+---
+
+## 🧪 AcademicDevFlow
+
+Foi acessado o sistema AcademicDevFlow:
+https://labens.dct.ufrn.br/academicflow/
+
+Foi criada uma conta e registrado pelo menos um feedback no sistema.
+
+O líder técnico deve criar o projeto e vincular os membros da equipe à plataforma.
+
