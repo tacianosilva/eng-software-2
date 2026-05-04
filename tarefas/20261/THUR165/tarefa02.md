@@ -138,3 +138,20 @@ Além das operações básicas de CRUD, o sistema implementa regras de negócio 
 - Impedimento de pagamentos com valores inválidos (TA03.03)
 - Bloqueio de pagamentos superiores ao valor da dívida (TA03.04)
 - Atualização do status da dívida para "quitada" quando o valor total é atingido (TA03.06)
+
+Foram implementados testes de unidade para validar as funcionalidades da User Story US03 – Controlar Pagamento.
+
+Os testes foram baseados diretamente nos critérios definidos nos Testes de Aceitação (TA03.xx), garantindo que as regras de negócio fossem corretamente implementadas.
+
+Os principais cenários testados incluem:
+
+- Registro de pagamento válido (TA03.01)
+- Atualização do saldo da dívida após pagamento parcial (TA03.02)
+- Validação de valores inválidos (TA03.03)
+- Impedimento de pagamento maior que a dívida (TA03.04)
+- Registro de múltiplos pagamentos parciais (TA03.05)
+- Atualização do status da dívida para "quitada" (TA03.06)
+
+Os testes foram implementados utilizando a classe TestCase do Django, permitindo executar cada cenário de forma isolada e garantindo a integridade das regras de negócio.
+
+A experiência de implementar os testes foi dificil ja que foi minha primeira vez que fazia testes usando o TestCase,mas foi fundamental para compreender melhor o comportamento do sistema, principalmente na validação da lógica de atualização da dívida e controle de pagamentos parciais.
