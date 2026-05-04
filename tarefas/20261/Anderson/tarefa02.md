@@ -25,3 +25,7 @@ A IDE utilizada é o Visual Studio Code (VS Code), um editor de código fonte gr
 ## Tutorial para CRUD com Testes
 
 Um tutorial recomendado é "Building a RESTful Web Service with Spring Boot" do site oficial do Spring, disponível em [Spring Boot REST Tutorial](https://spring.io/guides/tutorials/rest/). Este tutorial demonstra como criar uma aplicação CRUD (Create, Read, Update, Delete) usando Spring Boot para serviços RESTful, incluindo a implementação de testes de unidade com JUnit e mocks com Mockito. Ele cobre desde a configuração inicial até a execução de testes, mostrando como validar endpoints e lógica de negócio. O conteúdo inclui exemplos práticos de código, explicações passo a passo e boas práticas para testes em aplicações Spring.
+
+## Mock Objects em Testes de Unidade
+
+Mock objects são objetos simulados que substituem dependências reais durante os testes de unidade, permitindo isolar a unidade testada e controlar seu comportamento. Eles são essenciais para testar componentes que interagem com bancos de dados, APIs externas ou outros serviços, evitando testes lentos ou instáveis. Em Java, frameworks como Mockito facilitam a criação de mocks, definindo retornos esperados e verificando interações. Resumo: Mocks promovem testes rápidos, confiáveis e focados, seguindo princípios como o de responsabilidade única e isolamento de dependências.
