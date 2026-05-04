@@ -17,3 +17,12 @@ Testes de software são práticas utilizadas para verificar se um sistema funcio
 A linguagem utilizada no projeto é TypeScript, utilizando o framework NestJS no desenvolvimento backend. A stack também inclui Node.js como ambiente de execução e pode utilizar bibliotecas como Express (internamente no NestJS), além de ferramentas como npm para gerenciamento de dependências.
 
 ---
+
+### c) Framework de Testes de Unidade
+Um framework bastante utilizado no ecossistema do NestJS é o Jest.
+
+O Jest permite criar testes automatizados de forma simples, rápida e eficiente. Ele oferece recursos como mocks, testes assíncronos e cobertura de código, sendo amplamente utilizado em aplicações Node.js.
+
+Link: https://jestjs.io/
+
+---
