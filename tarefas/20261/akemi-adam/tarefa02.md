@@ -47,3 +47,16 @@ O IntelliJ é uma IDE bastante poderosa para desenvolvimento em Java, que oferec
 - Integração com Spring Boot
 - Execução de testes diretamente pela interface
 
+**Ferramentas de debug:**
+
+O IntelliJ possui um debugger integrado bastante completo, que permite:
+
+- Definir breakpoints
+- Inspecionar variáveis em tempo de execução
+- Executar o código passo a passo (step over, step into, step out)
+- Avaliar expressões em tempo real
+
+Essas ferramentas facilitam muito a identificação e correção de bugs.
+
+---
+
