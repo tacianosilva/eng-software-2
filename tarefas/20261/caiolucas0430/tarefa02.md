@@ -23,7 +23,11 @@ O framework escolhido para o projeto foi o **[Jest](https://jestjs.io/pt-BR/)**.
 A IDE utilizada para o desenvolvimento deste projeto é o **Visual Studio Code (VS Code)**. Ele possui um excelente suporte nativo para TypeScript e Node.js. 
 
 **Ferramentas de Debug:** O VS Code possui um *debugger* (depurador) integrado extremamente poderoso. As principais ferramentas que utilizo nele incluem:
-*   **Breakpoints (Pontos de interrupção):** Permitem pausar a execução do código em uma linha específica para investigar problemas.
-*   **Aba Variables/Watch:** Permite inspecionar o valor das variáveis em tempo real enquanto o código está pausado, sem a necessidade de espalhar `console.log` pelo código.
-*   **Call Stack (Pilha de chamadas):** Mostra o caminho exato e a ordem das funções que foram executadas até chegar ao ponto de erro ou pausa.
-*   **Step Over/Step Into:** Controles que permitem avançar a execução do código linha por linha, facilitando o entendimento do fluxo de dados da aplicação.
+ **Breakpoints (Pontos de interrupção):** Permitem pausar a execução do código em uma linha específica para investigar problemas.
+ **Aba Variables/Watch:** Permite inspecionar o valor das variáveis em tempo real enquanto o código está pausado, sem a necessidade de espalhar `console.log` pelo código.
+ **Call Stack (Pilha de chamadas):** Mostra o caminho exato e a ordem das funções que foram executadas até chegar ao ponto de erro ou pausa.
+ **Step Over/Step Into:** Controles que permitem avançar a execução do código linha por linha, facilitando o entendimento do fluxo de dados da aplicação.
+
+**e. Tutorial de CRUD com Testes em NestJS**
+  **Link:** [Construindo uma API CRUD com NestJS e Testes Unitários com Jest](https://docs.nestjs.com/fundamentals/testing) *(Referência baseada na documentação oficial e práticas da comunidade).*
+  **Resumo:** O material demonstra como construir os módulos básicos de um CRUD (Inserir, Consultar, Atualizar e Deletar) utilizando a arquitetura de *Controllers* e *Services* do NestJS. O ponto central em relação aos testes é a demonstração de como utilizar o módulo de testes nativo do framework (`@nestjs/testing`) em conjunto com o Jest. O tutorial explica como isolar as regras de negócio no *Service* e criar simulações (Mocks) do repositório de dados para garantir que os testes de unidade sejam executados de forma rápida e sem conexão com um banco de dados real.
