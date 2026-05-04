@@ -1,4 +1,4 @@
-### 9a) Testes de Unidade
+## 9a) Testes de Unidade
 
 Testes de Unidade (ou *Unit Testing*) são a camada mais fundamental e "granular" dos testes de software. Eles consistem em verificar o comportamento de uma unidade isolada do código — a menor parte testável, como uma função, um método ou uma classe. O objetivo é garantir que cada uma dessas partes funcione exatamente como o esperado, independentemente do resto do sistema. Um bom teste de unidade se destaca por três características principais, que trazem benefícios diretos para o desenvolvimento :
 
@@ -35,3 +35,25 @@ Atualmente, a automação é a regra. Os frameworks de teste fornecem a estrutur
 | **xUnit / NUnit** | .NET (C#, F#, VB.NET) |
 
 -----
+
+### 9b) Linguagem de programação e stack para o projeto da disciplina
+
+Para o desenvolvimento do projeto da disciplina "Sistema de Assistência Técnica", foi escolhida a seguinte stack tecnológica:
+
+**Backend:**
+- **Python 3.12+** – linguagem principal
+- **FastAPI** – framework web moderno e de alta performance
+- **Uvicorn** – servidor ASGI para execução da aplicação
+- **SQLite 3.37.2** – banco de dados relacional leve e embarcado
+
+**Frontend:**
+- **HTML5** – estrutura das páginas
+- **Jinja2** – template engine para renderização dinâmica
+- **Bootstrap 5** – framework CSS para design responsivo
+- **JavaScript (ES6)** – interatividade e chamadas assíncronas à API
+
+**Ambiente e ferramentas:**
+- **WSL2 (Ubuntu 22.04.5 LTS)** – ambiente de desenvolvimento
+- **Virtualenv (.venv)** – isolamento de dependências Python
+- **Git & GitHub** – versionamento de código
+- **VS Code** – IDE de desenvolvimento
