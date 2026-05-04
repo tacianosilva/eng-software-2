@@ -71,3 +71,8 @@ Ele utiliza uma entidade de empregado (employee) como exemplo, construindo um `E
 
 ---
 
+### 6. Mock Objects em Testes de Unidade
+
+Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais. Eles são úteis quando não é viável ou desejável utilizar implementações reais, como acesso a banco de dados ou chamadas externas.
+
+Com mocks, é possível controlar o comportamento das dependências, tornando os testes mais rápidos, previsíveis e isolados. Em Java, uma biblioteca bastante utilizada para isso é o Mockito.
