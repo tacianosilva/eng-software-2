@@ -46,3 +46,8 @@ Tutorial encontrado: https://docs.nestjs.com/first-steps
 O tutorial apresenta a criação de uma aplicação básica com NestJS, incluindo a estrutura de um CRUD. Também mostra como configurar e executar testes automatizados utilizando Jest, abordando boas práticas no desenvolvimento de aplicações backend.
 
 ---
+
+### f) Mock Objects
+Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais, como banco de dados ou APIs externas.
+
+Eles permitem testar partes específicas do sistema de forma isolada, garantindo maior controle sobre os resultados dos testes. No contexto do NestJS, o Jest oferece suporte nativo para criação de mocks, facilitando a simulação de dependências.
