@@ -60,3 +60,14 @@ Essas ferramentas facilitam muito a identificação e correção de bugs.
 
 ---
 
+### 5. Tutorial de CRUD com Testes
+
+**Link do tutorial:**
+https://www.geeksforgeeks.org/software-testing/crud-junit-tests-for-spring-data-jpa/
+
+O tutorial apresenta a construção de um CRUD utilizando Spring Data JPA e mostra como criar testes de unidade com JUnit para validar as operações básicas (Create, Read, Update, Delete). Ele demonstra como estruturar testes para repositórios e garantir que as operações no banco de dados estejam funcionando corretamente.
+
+Ele utiliza uma entidade de empregado (employee) como exemplo, construindo um `EmployeeService` e uma classe de testes para esse service, além de testar o repository também.
+
+---
+
