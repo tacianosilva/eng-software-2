@@ -1,9 +1,9 @@
 # Tarefa 02 - Teste de Unidade
 
-**Nome:** Felipe Iago Dantas
-**GitHub:** Felipe-Dantas31
-**E-mail:** (coloque seu e-mail)
-**Repositório do Projeto:** https://github.com/suelitonx/chaves_es2
+**Nome:** Felipe Iago Dantas  
+**GitHub:** Felipe-Dantas31  
+**E-mail:** dantas.f.iago@gmail.com
+**Repositório do Projeto:** https://github.com/suelitonx/chaves_es2  
 
 ---
 
@@ -21,7 +21,7 @@ Os **Testes de Unidade** têm como objetivo testar pequenas partes do sistema de
 
 O projeto foi desenvolvido utilizando a linguagem **Dart** com o framework **Flutter**.
 
-O Flutter é um SDK desenvolvido pelo Google para criação de aplicações multiplataforma (Android, iOS, Web e Desktop) utilizando uma única base de código, oferecendo alto desempenho e uma rica interface gráfica.
+O Flutter é um SDK desenvolvido pelo Google para criação de aplicações multiplataforma (Android, iOS, Web e Desktop) utilizando uma única base de código.
 
 ---
 
@@ -29,18 +29,16 @@ O Flutter é um SDK desenvolvido pelo Google para criação de aplicações mult
 
 O framework utilizado foi o **flutter_test**, que já vem integrado ao Flutter.
 
-Ele permite criar testes de unidade e testes de widgets, sendo bastante eficiente para validar a lógica de negócio da aplicação.
+Ele permite criar testes de unidade e testes de widgets, sendo eficiente para validar a lógica da aplicação.
 
 Características:
-
-* Fácil integração com Flutter
-* Suporte a testes assíncronos
-* Execução simples com o comando `flutter test`
+- Fácil integração com Flutter  
+- Suporte a testes assíncronos  
+- Execução com o comando `flutter test`  
 
 Links:
-
-* https://docs.flutter.dev/testing
-* https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html
+- https://docs.flutter.dev/testing  
+- https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html  
 
 ---
 
@@ -48,31 +46,28 @@ Links:
 
 A IDE utilizada foi o **Visual Studio Code (VS Code)**.
 
-Ela oferece suporte completo ao Flutter por meio de extensões, incluindo:
-
-* Debug com breakpoints
-* Inspeção de variáveis
-* Hot Reload
-* Terminal integrado
-
-Essas ferramentas facilitam o desenvolvimento e a identificação de erros.
+Ela oferece:
+- Debug com breakpoints  
+- Inspeção de variáveis  
+- Hot Reload  
+- Terminal integrado  
 
 ---
 
 ### e) Tutorial de CRUD com testes
 
-Tutorial utilizado:
-https://docs.flutter.dev/cookbook/testing/unit/introduction
+Tutorial utilizado:  
+https://docs.flutter.dev/cookbook/testing/unit/introduction  
 
-O tutorial apresenta como criar testes de unidade em Flutter, mostrando como validar funções e lógica de negócio. Ele demonstra como estruturar e executar testes dentro do ambiente Flutter.
+O tutorial mostra como criar testes de unidade em Flutter e validar funções da aplicação.
 
 ---
 
 ### f) Mock Objects
 
-Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais, como banco de dados ou APIs externas.
+Mock Objects são objetos simulados usados em testes para substituir dependências reais, como banco de dados ou APIs.
 
-Eles permitem testar partes isoladas do sistema, tornando os testes mais rápidos, previsíveis e confiáveis.
+Eles permitem testar partes isoladas do sistema, tornando os testes mais rápidos e confiáveis.
 
 ---
 
@@ -86,48 +81,64 @@ O projeto implementa um CRUD para gerenciamento de usuários utilizando o modelo
 
 Como administrador do sistema, desejo cadastrar, visualizar, atualizar e remover usuários, para gerenciar as informações e permissões dentro da aplicação.
 
-Operações implementadas:
+Operações:
 
-* **Inserir usuário:** criação de um novo usuário com dados como nome, email, matrícula e senha
-* **Consultar usuários:** listagem de usuários cadastrados
-* **Atualizar usuário:** alteração de dados como nome, foto, email e permissões (role)
-* **Deletar usuário:** remoção de um usuário do sistema
+- Inserir usuário  
+- Consultar usuários  
+- Atualizar usuário  
+- Deletar usuário  
 
-O modelo `UsuariosModel` representa a estrutura dos dados, contendo atributos como id, nome, email, matrícula, role, lista de locais e datas de criação e atualização.
+O modelo `UsuariosModel` possui atributos como id, nome, email, matrícula, role, locais e datas de criação e atualização.
 
 ---
 
 ### b) Testes de Unidade
 
-Foram implementados testes de unidade para validar o comportamento do modelo `UsuariosModel`.
+Foram implementados testes de unidade para validar o modelo `UsuariosModel`.
 
 Os testes verificam:
 
-* Criação de usuário
-* Conversão de JSON para objeto (`fromJson`)
-* Conversão de objeto para JSON (`toJson`)
-* Atualização de dados com `copyWith`
-* Criação de objeto vazio com `empty()`
+- Criação de usuário  
+- Conversão de JSON (`fromJson`)  
+- Conversão para JSON (`toJson`)  
+- Atualização com `copyWith`  
+- Criação com `empty()`  
 
-Os testes foram implementados utilizando o framework `flutter_test`.
+Exemplo de teste:
 
-Durante o desenvolvimento, foi possível perceber que os testes ajudam a garantir o funcionamento correto das funcionalidades e facilitam a manutenção do código.
+```dart
+import 'package:flutter_test/flutter_test.dart';
+import 'package:chaves_es2/models/usuarios_model.dart';
 
-Link dos testes: https://github.com/suelitonx/chaves_es2/blob/main/test/usuarios_model_test.dart
+void main() {
+  test('Deve criar usuário corretamente', () {
+    final user = UsuariosModel(
+      password: '123',
+      tokenKey: 'abc',
+      matricula: '2021001',
+      nome: 'Felipe',
+    );
+
+    expect(user.nome, 'Felipe');
+  });
+}
+```
+
+Link dos testes: https://github.com/suelitonx/chaves_es2/blob/main/test/usuarios_model_test.dart  
 
 ---
 
 ### c) Testes de Integração
 
-Os Testes de Integração verificam a comunicação entre diferentes partes do sistema, como interface, lógica de negócio e banco de dados.
+Testes de Integração verificam a comunicação entre diferentes partes do sistema.
 
-Já os Testes de Unidade focam em partes isoladas do sistema.
+Já os Testes de Unidade testam partes isoladas.
 
-Neste projeto, foram utilizados Testes de Unidade, pois o objetivo foi validar o comportamento do modelo e suas funções de forma isolada.
+Neste projeto foram utilizados Testes de Unidade.
 
 Diferença:
 
-* **Testes de Unidade:** testam partes individuais
-* **Testes de Integração:** testam o sistema funcionando em conjunto
+- Testes de Unidade → partes isoladas  
+- Testes de Integração → sistema completo funcionando  
 
 ---
