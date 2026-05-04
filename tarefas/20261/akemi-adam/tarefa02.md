@@ -24,3 +24,15 @@ O Java é uma linguagem amplamente utilizada no desenvolvimento backend, conheci
 
 ---
 
+### 3. Framework de Testes de Unidade
+
+O framework escolhido é o **JUnit**.
+
+O JUnit é um dos frameworks mais populares para testes em Java. Ele permite a criação de testes automatizados de forma simples, utilizando anotações como `@Test`, `@BeforeEach` e `@AfterEach`. Também oferece suporte a assertions (verificações), que ajudam a validar se os resultados estão corretos.
+
+**Links:**
+- https://junit.org/junit5/
+- https://github.com/junit-team/junit5
+
+---
+
