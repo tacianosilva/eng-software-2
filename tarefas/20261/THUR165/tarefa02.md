@@ -45,3 +45,26 @@ A stack utilizada é composta por:
 - typing_extensions (4.15.0): Fornece suporte a tipagem avançada no Python, contribuindo para a organização e manutenção do código.
 
 Essa combinação de tecnologias permite o desenvolvimento de aplicações web modernas, organizadas e escaláveis, seguindo boas práticas de engenharia de software.
+
+# framework de Testes de Unidade
+
+O framework de testes escolhido foi o Pytest, amplamente utilizado na comunidade Python devido à sua simplicidade e flexibilidade.
+
+O Pytest permite a criação de testes de forma clara e objetiva, utilizando funções simples e assertivas. Além disso, oferece recursos avançados como:
+
+- Fixtures: permitem configurar estados iniciais para testes
+- Parametrização de testes
+- Integração com bibliotecas de mocks
+- Execução automática de múltiplos cenários
+
+No contexto do Django, o Pytest pode ser utilizado juntamente com plugins como pytest-django, facilitando a integração com modelos, views e banco de dados.
+
+As principais vantagens do Pytest são:
+- Sintaxe simples e legível
+- Facilidade de manutenção
+- Alta cobertura de testes
+- Comunidade ativa
+
+Link oficial:
+https://docs.pytest.org/en/stable/
+
