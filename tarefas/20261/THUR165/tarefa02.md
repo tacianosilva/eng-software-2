@@ -120,3 +120,21 @@ As principais vantagens do uso de Mock Objects são:
 - Facilidade de simular cenários específicos (erros, retornos inesperados, etc.)
 
 No Python, mocks podem ser implementados utilizando a biblioteca unittest.mock, que permite substituir funções e objetos durante a execução dos testes.
+
+### User Story
+
+como usuário do sistema, desejo registrar pagamentos de uma dívida (total ou parcial), para manter o controle atualizado dos valores devidos pelos clientes.
+
+### Operações implementadas
+
+- Inserir pagamento: permite registrar um pagamento associado a uma dívida existente
+- Consultar pagamentos: permite visualizar os pagamentos realizados
+- Atualizar pagamento: permite editar um pagamento registrado
+- Remover pagamento: permite excluir um pagamento do sistema
+
+Além das operações básicas de CRUD, o sistema implementa regras de negócio importantes, como:
+
+- Atualização automática do saldo da dívida após o pagamento (TA03.02)
+- Impedimento de pagamentos com valores inválidos (TA03.03)
+- Bloqueio de pagamentos superiores ao valor da dívida (TA03.04)
+- Atualização do status da dívida para "quitada" quando o valor total é atingido (TA03.06)
