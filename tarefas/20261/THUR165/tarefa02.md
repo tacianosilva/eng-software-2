@@ -68,3 +68,19 @@ As principais vantagens do Pytest são:
 Link oficial:
 https://docs.pytest.org/en/stable/
 
+# IDE utilizada no desenvolvimento
+
+A IDE utilizada no desenvolvimento foi o Visual Studio Code (VS Code), uma das ferramentas mais populares atualmente.
+
+O VS Code oferece diversas funcionalidades que auxiliam no desenvolvimento e depuração (debug), tais como:
+
+- Execução passo a passo do código (step over, step into, step out)
+- Breakpoints para análise de trechos específicos
+- Inspeção de variáveis em tempo de execução
+- Integração com terminal
+- Suporte a extensões para Python e Django
+- Integração com Git
+
+Essas ferramentas permitem identificar erros de forma mais eficiente, analisar o comportamento do sistema e melhorar a produtividade no desenvolvimento.
+
+Além disso, o VS Code possui extensões específicas para testes, permitindo rodar e visualizar resultados diretamente na interface.
