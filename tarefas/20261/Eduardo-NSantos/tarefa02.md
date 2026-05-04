@@ -39,3 +39,10 @@ Ela possui diversas ferramentas de debug integradas, como:
 Além disso, o VS Code possui extensões que melhoram ainda mais a produtividade no desenvolvimento com NestJS e TypeScript.
 
 ---
+
+### e) Tutorial de CRUD com Testes
+Tutorial encontrado: https://docs.nestjs.com/first-steps
+
+O tutorial apresenta a criação de uma aplicação básica com NestJS, incluindo a estrutura de um CRUD. Também mostra como configurar e executar testes automatizados utilizando Jest, abordando boas práticas no desenvolvimento de aplicações backend.
+
+---
