@@ -17,3 +17,7 @@ Para o desenvolvimento do projeto da disciplina, utilizaremos a linguagem de pro
 ## Framework de Testes de Unidade
 
 Para testes de unidade em Java, o framework escolhido é o JUnit. JUnit é um framework open-source amplamente utilizado para escrever e executar testes automatizados em Java, facilitando a verificação de unidades de código de forma isolada. Ele suporta anotações como @Test, @BeforeEach, e asserções para validar comportamentos esperados. Resumo: JUnit promove práticas de TDD (Test-Driven Development), integra-se bem com Spring Boot e possui uma comunidade ativa. Link: [JUnit](https://junit.org/junit5/).
+
+## IDE Utilizada
+
+A IDE utilizada é o Visual Studio Code (VS Code), um editor de código fonte gratuito e open-source desenvolvido pela Microsoft. É leve, altamente customizável e suporta uma vasta gama de linguagens de programação através de extensões. Para Java, utilizo a extensão Java Pack, que inclui suporte para compilação, execução e depuração. As ferramentas de debug integradas incluem: configuração de breakpoints visuais, step over/in/out para navegação no código, inspeção de variáveis locais e globais, watch expressions para monitorar valores em tempo real, e um console de debug para executar comandos durante a sessão. Essas ferramentas facilitam a identificação e correção de bugs de forma eficiente.
