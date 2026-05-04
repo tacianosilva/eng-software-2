@@ -36,7 +36,7 @@ Atualmente, a automação é a regra. Os frameworks de teste fornecem a estrutur
 
 -----
 
-### 9b) Linguagem de programação e stack para o projeto da disciplina
+## 9b) Linguagem de programação e stack para o projeto da disciplina
 
 Para o desenvolvimento do projeto da disciplina "Sistema de Assistência Técnica", foi escolhida a seguinte stack tecnológica:
 
@@ -57,3 +57,28 @@ Para o desenvolvimento do projeto da disciplina "Sistema de Assistência Técnic
 - **Virtualenv (.venv)** – isolamento de dependências Python
 - **Git & GitHub** – versionamento de código
 - **VS Code** – IDE de desenvolvimento
+
+----
+
+## 9c) Framework de Testes de Unidade para a linguagem escolhida
+
+O framework de testes de unidade escolhido para o projeto foi o **pytest**.
+
+## Sobre o pytest
+
+O pytest é o framework de testes mais popular do ecossistema Python. Ele é conhecido por sua sintaxe simples, poderosa e "pythônica", tornando a escrita de testes mais rápida e legível.
+
+## Principais Características
+
+- **Sintaxe simplificada** – usa o `assert` nativo do Python
+- **Fixtures** – gerenciam setup e teardown de recursos (banco de dados, clientes HTTP, etc.)
+- **Testes parametrizados** – executam o mesmo teste com múltiplas entradas
+- **Plugins** – extensível com pytest-cov (cobertura), pytest-asyncio (async), etc.
+- **Integração com FastAPI** – funciona perfeitamente com o `TestClient`
+
+## Links
+
+- **Site oficial:** https://pytest.org/
+- **GitHub:** https://github.com/pytest-dev/pytest
+
+----
