@@ -26,3 +26,16 @@ O Jest permite criar testes automatizados de forma simples, rápida e eficiente.
 Link: https://jestjs.io/
 
 ---
+
+### d) IDE utilizada
+A IDE utilizada é o Visual Studio Code (VS Code).
+
+Ela possui diversas ferramentas de debug integradas, como:
+- Breakpoints (pontos de parada)
+- Execução passo a passo
+- Inspeção de variáveis
+- Console de debug
+
+Além disso, o VS Code possui extensões que melhoram ainda mais a produtividade no desenvolvimento com NestJS e TypeScript.
+
+---
