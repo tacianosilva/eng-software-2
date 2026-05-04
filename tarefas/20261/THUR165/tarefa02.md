@@ -139,6 +139,8 @@ Além das operações básicas de CRUD, o sistema implementa regras de negócio 
 - Bloqueio de pagamentos superiores ao valor da dívida (TA03.04)
 - Atualização do status da dívida para "quitada" quando o valor total é atingido (TA03.06)
 
+# Testes De Unidades Testadas
+
 Foram implementados testes de unidade para validar as funcionalidades da User Story US03 – Controlar Pagamento.
 
 Os testes foram baseados diretamente nos critérios definidos nos Testes de Aceitação (TA03.xx), garantindo que as regras de negócio fossem corretamente implementadas.
@@ -155,3 +157,13 @@ Os principais cenários testados incluem:
 Os testes foram implementados utilizando a classe TestCase do Django, permitindo executar cada cenário de forma isolada e garantindo a integridade das regras de negócio.
 
 A experiência de implementar os testes foi dificil ja que foi minha primeira vez que fazia testes usando o TestCase,mas foi fundamental para compreender melhor o comportamento do sistema, principalmente na validação da lógica de atualização da dívida e controle de pagamentos parciais.
+
+# Teste Unitário ou Integração
+
+Os testes de unidade são responsáveis por validar partes isoladas do sistema, como métodos e regras de negócio específicas, garantindo que cada componente funcione corretamente de forma independente.
+
+Já os testes de integração verificam a interação entre diferentes partes do sistema, como a comunicação entre models, views e banco de dados.
+
+Neste projeto, foram utilizados testes de unidade, pois o foco foi validar individualmente as regras de negócio da User Story US03, como o cálculo do saldo da dívida e a validação de pagamentos.
+
+A principal diferença entre os dois está no nível de abrangência: testes de unidade são mais rápidos e específicos, enquanto testes de integração avaliam o comportamento do sistema como um todo.
