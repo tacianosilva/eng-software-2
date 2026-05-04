@@ -13,3 +13,8 @@ Testes de software são práticas sistemáticas para garantir que um sistema fun
 
 **b. Linguagem de programação e stack**
 Para o projeto da disciplina, a linguagem de programação escolhida foi o **TypeScript**, executado no ambiente **Node.js**. A stack também conta com **Docker** e **Docker Compose** para a criação de um ambiente de desenvolvimento isolado e padronizado.
+
+**c. Framework de Testes de Unidade**
+O framework escolhido para o projeto foi o **[Jest](https://jestjs.io/pt-BR/)**. Desenvolvido e mantido pela Meta, ele é um dos frameworks de testes mais populares para o ecossistema JavaScript e Node.js. 
+
+**Resumo:** O Jest se destaca por ter uma configuração "zero-config" para a maioria dos projetos, sendo extremamente rápido devido à execução paralela de testes. Ele já inclui nativamente um *test runner* (executor), uma biblioteca de asserções (para validar se o resultado é o esperado) e ferramentas robustas para *Mocking* (simulação de funções e módulos). Para que ele funcione perfeitamente com a tipagem da nossa stack, utilizamos a extensão `ts-jest`, que compila o TypeScript em tempo real durante a execução dos testes.
