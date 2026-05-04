@@ -12,3 +12,8 @@
 Testes de software são práticas utilizadas para verificar se um sistema funciona corretamente e atende aos requisitos definidos. Os testes de unidade focam em validar pequenas partes do código, como funções ou métodos, de forma isolada. Esse tipo de teste permite identificar erros rapidamente, facilita a manutenção do sistema e aumenta a confiabilidade da aplicação.
 
 ---
+
+### b) Linguagem e Stack do Projeto
+A linguagem utilizada no projeto é TypeScript, utilizando o framework NestJS no desenvolvimento backend. A stack também inclui Node.js como ambiente de execução e pode utilizar bibliotecas como Express (internamente no NestJS), além de ferramentas como npm para gerenciamento de dependências.
+
+---
