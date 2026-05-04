@@ -84,3 +84,18 @@ O VS Code oferece diversas funcionalidades que auxiliam no desenvolvimento e dep
 Essas ferramentas permitem identificar erros de forma mais eficiente, analisar o comportamento do sistema e melhorar a produtividade no desenvolvimento.
 
 Além disso, o VS Code possui extensões específicas para testes, permitindo rodar e visualizar resultados diretamente na interface.
+
+ # Tutoriais utilizados:
+
+
+Foram selecionados dois tutoriais complementares utilizando Django.
+
+Vídeo 1:
+https://www.youtube.com/watch?v=Q2tEqNfgIXM&t=71s
+
+O primeiro tutorial apresenta a construção de uma aplicação utilizando Django, abordando a criação de um sistema CRUD (Create, Read, Update e Delete). O conteúdo mostra como estruturar o projeto, definir models, criar views e configurar rotas, permitindo a manipulação completa de dados no sistema.
+
+Vídeo 2:
+https://www.youtube.com/watch?v=pZvhZ-Lr-PE
+
+O segundo tutorial ensina a implementação de testes automatizados no python. Ele demonstra como validar funcionalidades da aplicação, garantindo que o sistema continue funcionando corretamente após modificações.
