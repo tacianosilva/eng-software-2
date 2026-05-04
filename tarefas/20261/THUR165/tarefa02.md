@@ -23,3 +23,25 @@ A importância dos testes de unidade está em:
 - Servir como documentação do comportamento esperado do sistema
 
 Em projetos modernos, como os desenvolvidos com Django, os testes de unidade são essenciais para garantir a estabilidade da aplicação, principalmente em sistemas que possuem múltiplas regras de negócio.
+
+## Linguagem de programação e stack utilizada
+
+O projeto foi desenvolvido utilizando a linguagem Python, juntamente com o framework Django, que permite o desenvolvimento rápido e organizado de aplicações web.
+
+A stack utilizada é composta por:
+
+- Django (5.2.7): Framework principal responsável pela estrutura do sistema, incluindo gerenciamento de rotas, regras de negócio e integração com o banco de dados. O Django segue o padrão MVT (Model-View-Template).
+
+- Django REST Framework (3.16.1): Extensão do Django utilizada para a construção de APIs RESTful, permitindo a criação de endpoints que retornam dados em formato JSON e facilitam a comunicação com aplicações frontend.
+
+- SQLite: Banco de dados utilizado durante o desenvolvimento, escolhido por ser leve e de fácil configuração.
+
+- django-cors-headers (4.9.0): Biblioteca responsável por permitir requisições entre diferentes origens, sendo essencial para integração entre frontend e backend.
+
+- asgiref (3.9.2): Biblioteca que fornece suporte à comunicação assíncrona no Django, baseada no padrão ASGI.
+
+- sqlparse (0.5.3): Utilizada internamente pelo Django para manipulação de consultas SQL.
+
+- typing_extensions (4.15.0): Fornece suporte a tipagem avançada no Python, contribuindo para a organização e manutenção do código.
+
+Essa combinação de tecnologias permite o desenvolvimento de aplicações web modernas, organizadas e escaláveis, seguindo boas práticas de engenharia de software.
