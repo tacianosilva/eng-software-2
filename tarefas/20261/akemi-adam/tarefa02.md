@@ -36,3 +36,14 @@ O JUnit é um dos frameworks mais populares para testes em Java. Ele permite a c
 
 ---
 
+### 4. IDE Utilizada
+
+A IDE utilizada é o **IntelliJ IDEA**.
+
+O IntelliJ é uma IDE bastante poderosa para desenvolvimento em Java, que oferece diversas funcionalidades para aumentar a produtividade. Entre elas, destacam-se:
+
+- Autocomplete inteligente
+- Refatoração automática
+- Integração com Spring Boot
+- Execução de testes diretamente pela interface
+
