@@ -21,3 +21,7 @@ Para testes de unidade em Java, o framework escolhido é o JUnit. JUnit é um fr
 ## IDE Utilizada
 
 A IDE utilizada é o Visual Studio Code (VS Code), um editor de código fonte gratuito e open-source desenvolvido pela Microsoft. É leve, altamente customizável e suporta uma vasta gama de linguagens de programação através de extensões. Para Java, utilizo a extensão Java Pack, que inclui suporte para compilação, execução e depuração. As ferramentas de debug integradas incluem: configuração de breakpoints visuais, step over/in/out para navegação no código, inspeção de variáveis locais e globais, watch expressions para monitorar valores em tempo real, e um console de debug para executar comandos durante a sessão. Essas ferramentas facilitam a identificação e correção de bugs de forma eficiente.
+
+## Tutorial para CRUD com Testes
+
+Um tutorial recomendado é "Building a RESTful Web Service with Spring Boot" do site oficial do Spring, disponível em [Spring Boot REST Tutorial](https://spring.io/guides/tutorials/rest/). Este tutorial demonstra como criar uma aplicação CRUD (Create, Read, Update, Delete) usando Spring Boot para serviços RESTful, incluindo a implementação de testes de unidade com JUnit e mocks com Mockito. Ele cobre desde a configuração inicial até a execução de testes, mostrando como validar endpoints e lógica de negócio. O conteúdo inclui exemplos práticos de código, explicações passo a passo e boas práticas para testes em aplicações Spring.
