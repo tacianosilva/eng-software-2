@@ -99,3 +99,24 @@ Vídeo 2:
 https://www.youtube.com/watch?v=pZvhZ-Lr-PE
 
 O segundo tutorial ensina a implementação de testes automatizados no python. Ele demonstra como validar funcionalidades da aplicação, garantindo que o sistema continue funcionando corretamente após modificações.
+
+# Mocks Objects
+
+Mock Objects são objetos simulados utilizados em testes de unidade para representar dependências externas do sistema.
+
+Eles são especialmente úteis quando o código depende de elementos como:
+- Banco de dados
+- APIs externas
+- Serviços de terceiros
+
+Ao utilizar mocks, é possível isolar completamente a unidade que está sendo testada, garantindo que o teste seja rápido, previsível e independente de fatores externos.
+
+Por exemplo, ao invés de acessar um banco de dados real, um mock pode simular o retorno esperado de uma consulta.
+
+As principais vantagens do uso de Mock Objects são:
+- Redução da complexidade dos testes
+- Maior velocidade na execução
+- Isolamento completo das funcionalidades
+- Facilidade de simular cenários específicos (erros, retornos inesperados, etc.)
+
+No Python, mocks podem ser implementados utilizando a biblioteca unittest.mock, que permite substituir funções e objetos durante a execução dos testes.
