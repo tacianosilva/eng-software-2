@@ -13,3 +13,7 @@ Os testes de software são práticas essenciais no desenvolvimento para garantir
 ## Linguagem de Programação e Stack para o Projeto da Disciplina
 
 Para o desenvolvimento do projeto da disciplina, utilizaremos a linguagem de programação Java, conhecida por sua robustez, portabilidade e ampla utilização no mercado. A stack inclui o framework Spring, especialmente o Spring Boot, para o backend web, que facilita a criação de aplicações seguras, escaláveis e de rápida configuração, seguindo uma arquitetura organizada em camadas. Para o banco de dados, optaremos por PostgreSQL, devido à sua robustez, confiabilidade e suporte a dados complexos. Ferramentas adicionais incluem Git para controle de versão e VS Code como ambiente de desenvolvimento.
+
+## Framework de Testes de Unidade
+
+Para testes de unidade em Java, o framework escolhido é o JUnit. JUnit é um framework open-source amplamente utilizado para escrever e executar testes automatizados em Java, facilitando a verificação de unidades de código de forma isolada. Ele suporta anotações como @Test, @BeforeEach, e asserções para validar comportamentos esperados. Resumo: JUnit promove práticas de TDD (Test-Driven Development), integra-se bem com Spring Boot e possui uma comunidade ativa. Link: [JUnit](https://junit.org/junit5/).
