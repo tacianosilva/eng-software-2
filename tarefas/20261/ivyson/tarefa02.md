@@ -58,3 +58,10 @@ Link do repositório: https://github.com/hemanth-sp/django_rest_curd
 
 ### F) Mock Objects
 Mock objects são objetos simulados utilizados em testes de unidade para imitar o comportamento de dependências reais do sistema. Eles permitem testar uma unidade de forma isolada, substituindo componentes externos ou complexos, como acesso a banco de dados ou APIs externas. Dessa forma, facilitam a execução dos testes e tornam os resultados mais controlados, previsíveis e independentes do ambiente real.
+
+
+## Questão 10
+### A) Descrição do CRUD
+O CRUD de Dívida foi implementado utilizando views baseadas em função no Django. A operação de inserção (Create) ocorre na função divida_manager, quando uma nova dívida é cadastrada por meio de um formulário. A consulta (Read) é realizada na função get_dividas, que permite listar e filtrar dívidas por critérios como CPF do cliente, status e valor.
+
+A atualização (Update) também ocorre na função divida_manager, ao editar uma dívida existente a partir do parâmetro cod_divida. Já a exclusão (Delete) é realizada na mesma função, quando a requisição POST contém a ação de excluir. Esse CRUD foi implementado utilizando formulários do Django e renderização de templates HTML, caracterizando uma abordagem tradicional baseada em views e não em API REST.
