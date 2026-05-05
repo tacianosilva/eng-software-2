@@ -18,3 +18,13 @@ O projeto foi desenvolvido utilizando:
 O PyTest é um framework de testes de código aberto para a linguagem pytohn, utilizado para criar testes pequenos e legíveis, e também escaláveis para aplicações complexas.
 
 [Link para artigo](https://didatica.tech/tudo-sobre-a-biblioteca-pytest-aprenda-na-pratica/)
+
+## IDE Utilizada
+
+A IDE que utilizo é o VS Code, que possui diversas ferramentas de debug integradas:
+- Breakpoints
+- Inspeção de variáveis
+- Execução passo a passo
+- Console de depuração
+
+Essas ferramentas ajudam a identidicar o erro e entender o fluxo do código durante o desenvolvimento.
