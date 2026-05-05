@@ -38,3 +38,7 @@ Exemplifica de forma didática e fácil a construção de um CRUD simples com o 
 [Link para o Tutorial de Testes](https://youtu.be/cEXt8hDyKQw?si=DVWTExGll_HFbFGY)
 
 Exibi como podemos criar Testes de Unidade nos apps criados no Django, através de implementações já existentes.
+
+## Mock Objects
+
+Mock Objects são objetos simulados em testes de unidade para imitar o comportamento de dependências reais. Eles permitem testar partes isoladas do sistema sem depender de outros componentes.
