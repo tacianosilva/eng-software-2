@@ -31,3 +31,7 @@ O Jest é uma ferramenta amplamente utilizada no ecossistema JavaScript, oferece
 Ele permite testar funções de forma isolada, garantindo que cada unidade do sistema funcione corretamente sem depender de outras partes da aplicação.
 
 Link: [https://jestjs.io/](https://jestjs.io/)
+
+## 9-D: 
+
+* A IDE utilizada foi o Visual Studio Code. Ela possui diversas ferramentas integradas que auxiliam no desenvolvimento, como: Debug (depuração), Breakpoints, Inspeção de variáveis e Execução passo a passo. Esses recursos facilitam a identificação de erros e o entendimento do fluxo da aplicação durante o desenvolvimento e testes.
