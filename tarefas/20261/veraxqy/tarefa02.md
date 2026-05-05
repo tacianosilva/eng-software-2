@@ -1,0 +1,64 @@
+# Tarefa 02 - Teste de Unidade
+Elder Bruno Lopes da Silva
+github: @veraxqy
+e-mail: elder.silva.711@ufrn.edu.br
+[Link para o repositório]()
+
+## Testes de Software
+Testes de software sõa técnicas utilizadas para verificar se um sistema funciona corretamente, atendendo todos os requisios especificados. Eles focam em validar pequenas partes do sistema garantidno que cada componente funcione corretamente.
+
+## Linguagem de Programação e Stack
+O projeto foi desenvolvido utilizando:
+
+- Linguagem: Python
+- Backend: Django
+- Frontend: React Native
+
+## Framework de Teste
+O PyTest é um framework de testes de código aberto para a linguagem pytohn, utilizado para criar testes pequenos e legíveis, e também escaláveis para aplicações complexas.
+
+[Link para artigo](https://didatica.tech/tudo-sobre-a-biblioteca-pytest-aprenda-na-pratica/)
+
+## IDE Utilizada
+
+A IDE que utilizo é o VS Code, que possui diversas ferramentas de debug integradas:
+- Breakpoints
+- Inspeção de variáveis
+- Execução passo a passo
+- Console de depuração
+
+Essas ferramentas ajudam a identidicar o erro e entender o fluxo do código durante o desenvolvimento.
+
+## Tutorial CRUD com Django
+[Link para o Tutorial de CRUD](https://youtu.be/ZXli2MJyRyk?si=P_zbyRyiS6wsQNqw)
+
+Exemplifica de forma didática e fácil a construção de um CRUD simples com o Framework Django
+
+## Testes de Unidade com Django
+[Link para o Tutorial de Testes](https://youtu.be/cEXt8hDyKQw?si=DVWTExGll_HFbFGY)
+
+Exibi como podemos criar Testes de Unidade nos apps criados no Django, através de implementações já existentes.
+
+## Mock Objects
+
+Mock Objects são objetos simulados em testes de unidade para imitar o comportamento de dependências reais. Eles permitem testar partes isoladas do sistema sem depender de outros componentes.
+
+## Descrição do Repositório
+
+### CRUD Implementado
+User Story: O sistema deve permitir manter o cadastro de produtos. Para cadastro, os atributos são: Nome, Descrição e Valor. Os produtos poderam ser incluídos, alterados, listados, visualizados e excluídos.
+
+| RF05                      | Manter Produto |
+
+Operações:
+- Inserir: cadastrar um novo produto
+- Consultar: visualizar produtos cadastrados
+- Atualizar: editar um produto
+- Deletar: remover um produto
+
+## Teste de Integração
+Os testes de Integração verificam o funcionamento conjunto de diferentes partes do sistema, como a comunicação da API com o bando de dados.
+
+Diferença:
+- Teste de Unidade: testa partes isoladas
+- Teste de Integração: testa o sistema funcionando junto
