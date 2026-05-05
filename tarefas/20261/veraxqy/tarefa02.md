@@ -13,3 +13,8 @@ O projeto foi desenvolvido utilizando:
 - Linguagem: Python
 - Backend: Django
 - Frontend: React Native
+
+## Framework de Teste
+O PyTest é um framework de testes de código aberto para a linguagem pytohn, utilizado para criar testes pequenos e legíveis, e também escaláveis para aplicações complexas.
+
+[Link para artigo](https://didatica.tech/tudo-sobre-a-biblioteca-pytest-aprenda-na-pratica/)
