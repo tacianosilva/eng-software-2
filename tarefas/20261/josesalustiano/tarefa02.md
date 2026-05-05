@@ -13,3 +13,6 @@ Testes de software são etapas fundamentais para garantir a qualidade, seguranç
 
 **b. Linguagem e Stack do Projeto:**
 O projeto da oficina está sendo desenvolvido utilizando a linguagem **Python**. Como framework web para o backend, estamos utilizando o **Django** em conjunto com o **Django REST Framework (DRF)** para a construção e roteamento da nossa API.
+
+**c. Framework de Testes:**
+Para realizar os testes no nosso backend, utilizei a classe `APITestCase` fornecida pelo próprio Django REST Framework. Por baixo dos panos, ela herda as funcionalidades da biblioteca nativa `unittest` do Python e adiciona um cliente de testes (`APIClient`) específico para fazer requisições HTTP na nossa API, além de criar um banco de dados temporário na memória para rodar os testes com segurança.
