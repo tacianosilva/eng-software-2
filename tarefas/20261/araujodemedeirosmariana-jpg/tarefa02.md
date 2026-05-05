@@ -137,4 +137,29 @@ O projeto demonstra:
 
 ----
 
+## 9f) Mock Objects em Testes de Unidade
+
+Mock Objects (objetos simulados) são objetos falsos que substituem dependências reais durante a execução de um teste de unidade. Eles permitem isolar completamente a unidade de código que está sendo testada, controlando seu comportamento externo e verificando interações.Em testes de unidade, a classe ou função sendo testada frequentemente depende de outros componentes (banco de dados, APIs externas, sistemas de arquivos, etc.). Usar essas dependências reais tornaria o teste:
+
+- **Lento** – acessar banco de dados ou rede demanda tempo
+- **Frágil** – falhas na dependência afetariam o teste
+- **Difícil de configurar** – ambiente complexo para reproduzir cenários
+
+## Vantagens e Limitações
+
+**Vantagens:**
+
+- Testes mais rápidos e determinísticos
+- Isolamento garantido (falha aponta para a unidade testada)
+- Simulação de cenários difíceis (erros de banco, exceções)
+- Verificação de interações entre objetos
+
+**Limitações:**
+
+- Excesso de mocks pode tornar a manutenção dos testes trabalhosa
+- Testes podem ficar acoplados à implementação
+- Não garantem que a integração com o objeto real funcionará
+
+----
+
 
