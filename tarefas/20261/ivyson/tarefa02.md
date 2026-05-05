@@ -67,9 +67,15 @@ O CRUD de Dívida foi implementado utilizando views baseadas em função no Djan
 A atualização (Update) também ocorre na função divida_manager, ao editar uma dívida existente a partir do parâmetro cod_divida. Já a exclusão (Delete) é realizada na mesma função, quando a requisição POST contém a ação de excluir. Esse CRUD foi implementado utilizando formulários do Django e renderização de templates HTML, caracterizando uma abordagem tradicional baseada em views e não em API REST.
 
 
-### B) Implementação os testes + mocks objects
+### B) Implementação de Testes e Mock Objects
 Foram implementados testes de unidade para as operações de CRUD da entidade Dívida, incluindo criação, leitura, atualização e remoção de registros utilizando a classe TestCase do Django. Além dos testes diretos com banco de dados, também foram utilizados Mock Objects por meio do unittest.mock.patch para simular comportamentos de métodos do modelo, como create, count, save e delete, permitindo testar as funcionalidades de forma isolada.
 
 A principal dificuldade encontrada foi na utilização de Mock Objects e na configuração do ambiente de testes e depuração no Django, especialmente no entendimento de como isolar corretamente as dependências. Após essa etapa inicial, a implementação dos testes se tornou mais clara e eficiente para validar o comportamento do sistema.
 
 Link para os testes: https://github.com/ivyson0/ProjetoEngenharia1/blob/main/antiveaco/tests.py
+
+
+### C) Testes Unitários vs Testes de Integração
+Testes de integração verificam se diferentes partes do sistema funcionam corretamente em conjunto, como a interação entre models, banco de dados e regras de negócio. Diferente dos testes unitários, que testam partes isoladas do código, os testes de integração validam o comportamento do sistema com seus componentes integrados.
+
+No meu caso, foram implementados principalmente testes de unidade utilizando a classe TestCase do Django e Mock Objects com unittest.mock.patch. Os testes com banco de dados utilizam um ambiente de testes isolado do Django, enquanto os mocks foram usados para simular comportamentos de métodos como create, count, save e delete, permitindo validar partes do sistema de forma isolada.
