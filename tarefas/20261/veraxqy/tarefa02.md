@@ -28,3 +28,13 @@ A IDE que utilizo é o VS Code, que possui diversas ferramentas de debug integra
 - Console de depuração
 
 Essas ferramentas ajudam a identidicar o erro e entender o fluxo do código durante o desenvolvimento.
+
+## Tutorial CRUD com Django
+[Link para o Tutorial de CRUD](https://youtu.be/ZXli2MJyRyk?si=P_zbyRyiS6wsQNqw)
+
+Exemplifica de forma didática e fácil a construção de um CRUD simples com o Framework Django
+
+## Testes de Unidade com Django
+[Link para o Tutorial de Testes](https://youtu.be/cEXt8hDyKQw?si=DVWTExGll_HFbFGY)
+
+Exibi como podemos criar Testes de Unidade nos apps criados no Django, através de implementações já existentes.
