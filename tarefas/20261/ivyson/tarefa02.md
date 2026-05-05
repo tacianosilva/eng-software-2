@@ -45,3 +45,12 @@ Link: https://docs.python.org/3/library/unittest.html
 A ferramenta utilizada é o Visual Studio Code (VS Code). Embora não seja originalmente uma IDE completa, pode ser configurado como tal por meio de extensões, oferecendo suporte para diversas linguagens e facilitando o desenvolvimento de software.
 
 Em relação à depuração, o VS Code possui ferramentas integradas que permitem acompanhar a execução do código, definir pontos de parada (breakpoints) e analisar o comportamento do programa durante sua execução, o que facilita a identificação e correção de erros.
+
+
+### E) Tutorial de CRUD com Testes
+O tutorial demonstra como implementar operações de CRUD no Django REST Framework utilizando diferentes abordagens, como funções, APIView e ModelViewSet. Também apresenta o uso de roteadores para automatizar a criação de rotas da API.
+
+A parte de testes é apresentada no repositório do projeto no GitHub associado ao tutorial, onde são implementados testes automatizados para validar os endpoints e garantir o correto funcionamento das operações de criação, leitura, atualização e remoção de dados.
+
+Link do artigo: https://medium.com/djangotube/django-rest-api-curd-example-61c3a29b22ed  
+Link do repositório: https://github.com/hemanth-sp/django_rest_curd
