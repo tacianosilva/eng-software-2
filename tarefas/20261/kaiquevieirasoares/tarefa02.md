@@ -43,5 +43,14 @@ Testes de unidade visam verificar a menor unidade de código testável de forma 
 
 * Criei o crud inicial de usuário, Criar, Atualizar, Buscar e Deletar. Adicionei também o cadastro via login com o Google, isso foi feito inicialmente para facilitar a utilização dos outros desenvolvedores no projeto.
 
+## 10 - Letra B
+
+* Fiz os testes de unidade de Jobs, como cadastro, busca dos meus trabalhos e busca pelo funcionario por serviços na cidade, como não era teste de integração, foi feito os testes de unidade utilizando mocks, apenas validando o cénario especifico.
+
+
+* [Pull Request](https://github.com/LuizFelixDev/iservice-api/pull/43)
+
+* [Link do Teste de Unidade](https://github.com/LuizFelixDev/iservice-api/blob/main/src/jobs/jobs.service.spec.ts)
+
 
 
