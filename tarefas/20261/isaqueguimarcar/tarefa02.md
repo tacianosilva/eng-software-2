@@ -40,9 +40,13 @@ Link: [https://jestjs.io/](https://jestjs.io/)
 
 Tutorial utilizado: https://nextjs.org/docs/pages/guides/testing/jest
 
-Ele aborda: Instalação e configuração do Jest no projeto
+* Ele aborda: Instalação e configuração do Jest no projeto
 Criação de testes automatizados
 Execução dos testes
-Uso de bibliotecas auxiliares como React Testing Library
+Uso de bibliotecas auxiliares como React Testing Library. O conteúdo demonstra como validar funcionalidades de forma isolada, o que é essencial para a implementação de testes em operações CRUD.
 
-O conteúdo demonstra como validar funcionalidades de forma isolada, o que é essencial para a implementação de testes em operações CRUD.
+## 9-F: 
+
+* Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais do sistema, como banco de dados ou APIs externas Eles permitem que os testes sejam executados de forma isolada, garantindo que apenas a unidade em teste seja avaliada. O uso de mocks é importante porque: Evita dependência de recursos externos,
+Aumenta a velocidade dos testes,
+Permite simular diferentes cenários (sucesso, erro, exceções). No Jest, é possível criar mocks utilizando funções como jest.fn() e jest.mock().
