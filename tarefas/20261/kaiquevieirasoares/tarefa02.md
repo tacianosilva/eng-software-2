@@ -34,4 +34,8 @@ Testes de unidade visam verificar a menor unidade de código testável de forma 
 * Link: [Tutorial](https://youtu.be/dXOfOgFFKuY?si=IW4HHfjmG7OgqCIR) 
 
 
+## 9 - Letra F
+
+* No ecossistema NestJS/Jest, Mocks são objetos que substituem as dependências reais (como Repositories ou outros Services) injetadas via Injeção de Dependência. Usamos funções como jest.fn() ou bibliotecas como @golevelup/ts-jest para simular o retorno de chamadas ao banco de dados, garantindo que o teste de unidade valide apenas a lógica da função testada, sem efeitos colaterais externos.
+
 
