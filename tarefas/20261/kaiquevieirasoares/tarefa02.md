@@ -16,3 +16,10 @@ Testes de unidade visam verificar a menor unidade de código testável de forma 
 ## 9 - Letra B
 
 * O projeto será desenvolvido utilizando TypeScript com o framework NestJS. O TypeScript adiciona tipagem estática ao JavaScript, reduzindo erros em tempo de desenvolvimento, enquanto o NestJS fornece uma arquitetura baseada em módulos, provedores e controladores, altamente inspirada no Angular.
+
+## 9 - Letra C
+
+* O framework utilizado é o Jest. Ele é o padrão recomendado pelo NestJS e vem pré-configurado ao criar um novo projeto. O Jest é conhecido por sua velocidade, facilidade de configuração e por incluir ferramentas de code coverage e mocking nativamente.
+
+* Links: [NestJS Testing Guide](https://docs.nestjs.com/fundamentals/testing) | [Jest Documentation](https://jestjs.io/)
+
