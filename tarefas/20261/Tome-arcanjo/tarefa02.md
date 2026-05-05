@@ -26,7 +26,7 @@ Para o **banco de dados**, é adotado o **PostgreSQL**, um sistema de gerenciame
 
 Essa combinação de tecnologias proporciona uma arquitetura sólida, escalável e adequada para o desenvolvimento do projeto da disciplina, permitindo boa separação de responsabilidades entre backend, frontend e persistência de dados.
 
-## 🧪 Vitest
+## Vitest
 
 O **Vitest** é um framework moderno de testes de unidade para aplicações JavaScript e TypeScript, especialmente popular em projetos que utilizam **Vite**.
 
@@ -48,3 +48,22 @@ Seu principal objetivo é facilitar a criação de testes de unidade eficientes,
 ### Links
 https://vitest.dev/guide/why.html
 https://medium.com/@joalisonpereira/vitest-uma-evolu%C3%A7%C3%A3o-do-jest-49db62c50cc5
+
+## IDE Utilizada
+
+A IDE utilizada no desenvolvimento do projeto é o **Visual Studio Code (VS Code)**. Trata-se de um editor de código leve, gratuito e altamente extensível, amplamente utilizado para desenvolvimento web e backend.
+
+O VS Code oferece suporte a diversas linguagens, incluindo **Python**, **TypeScript** e **JavaScript**, além de possuir uma grande variedade de extensões que facilitam o desenvolvimento com tecnologias como Django e Vue.
+
+### Ferramentas de Debug
+
+O VS Code possui ferramentas de depuração (debug) integradas que permitem analisar e identificar problemas no código de forma eficiente. Entre os principais recursos, destacam-se:
+
+- **Breakpoints (pontos de parada):** permitem pausar a execução do código em linhas específicas para inspeção.
+- **Step over / step into / step out:** controle detalhado da execução linha por linha.
+- **Inspeção de variáveis:** visualização em tempo real dos valores das variáveis durante a execução.
+- **Call stack:** exibe a pilha de chamadas, ajudando a entender o fluxo do programa.
+- **Watch:** permite monitorar expressões e variáveis específicas.
+- **Debug Console:** execução de comandos e avaliação de expressões durante a depuração.
+
+Além disso, o VS Code possui integração com depuradores para diferentes linguagens, como Python (via extensão oficial) e Node.js, permitindo uma experiência completa de desenvolvimento e análise de código.
