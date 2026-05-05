@@ -31,3 +31,11 @@ A stack utilizada no projeto é composta principalmente por:
 O Django é um framework web em Python que acelera o desenvolvimento de aplicações robustas e seguras, oferecendo funcionalidades como autenticação, roteamento de URLs e integração com banco de dados.
 
 Além disso, o Django utiliza o padrão ORM (Object-Relational Mapping), que permite interagir com o banco de dados sem a necessidade de escrever SQL diretamente na maioria dos casos.
+
+
+### C) Framework de Testes
+O framework de testes utilizado na linguagem Python é o unittest, que faz parte da biblioteca padrão da linguagem. Ele permite a criação de testes automatizados para verificar unidades isoladas do código, garantindo que cada parte do sistema funcione corretamente de forma independente. 
+
+O Django utiliza o unittest como base para seu sistema de testes, adicionando recursos específicos para aplicações web, como a criação de um banco de dados separado durante a execução dos testes, o que evita qualquer impacto nos dados da aplicação em produção. Além disso, o framework permite organizar os testes em classes, o que facilita a manutenção, a leitura e a execução automatizada dos testes.
+
+Link: https://docs.python.org/3/library/unittest.html
