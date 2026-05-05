@@ -35,3 +35,14 @@ Link: [https://jestjs.io/](https://jestjs.io/)
 ## 9-D: 
 
 * A IDE utilizada foi o Visual Studio Code. Ela possui diversas ferramentas integradas que auxiliam no desenvolvimento, como: Debug (depuração), Breakpoints, Inspeção de variáveis e Execução passo a passo. Esses recursos facilitam a identificação de erros e o entendimento do fluxo da aplicação durante o desenvolvimento e testes.
+
+## 9-E: 
+
+Tutorial utilizado: https://nextjs.org/docs/pages/guides/testing/jest
+
+Ele aborda: Instalação e configuração do Jest no projeto
+Criação de testes automatizados
+Execução dos testes
+Uso de bibliotecas auxiliares como React Testing Library
+
+O conteúdo demonstra como validar funcionalidades de forma isolada, o que é essencial para a implementação de testes em operações CRUD.
