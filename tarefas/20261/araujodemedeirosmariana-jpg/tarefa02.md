@@ -82,3 +82,59 @@ O pytest é o framework de testes mais popular do ecossistema Python. Ele é con
 - **GitHub:** https://github.com/pytest-dev/pytest
 
 ----
+
+## 9d) IDE utilizada e ferramentas de debug
+
+A IDE utilizada no desenvolvimento do projeto é o **Visual Studio Code (VS Code)** executado sobre **WSL2 (Ubuntu 22.04.5 LTS)**.
+
+##  VS Code
+
+O VS Code foi escolhido por ser leve, altamente customizável, gratuito e ter excelente suporte para Python e FastAPI, especialmente quando integrado ao WSL2.
+
+## Ferramentas de debug integradas
+
+O VS Code possui um depurador (debugger) poderoso que permite:
+
+| Ferramenta | Descrição |
+| :--- | :--- |
+| **Breakpoints** | Pontos de parada que pausam a execução. Suporta breakpoints condicionais, logpoints (sem pausar) e breakpoints por exceção |
+| **Step Over (F10)** | Executa a linha atual e para na próxima, sem entrar em funções |
+| **Step Into (F11)** | Entra dentro da função/método chamado na linha atual |
+| **Step Out (Shift + F11)** | Sai da função atual e retorna ao chamador |
+| **Watch** | Monitora expressões e variáveis específicas em tempo real |
+| **Call Stack** | Visualiza a pilha de chamadas para entender o fluxo de execução |
+| **Debug Console** | Executa comandos Python interativamente durante a pausa |
+| **Variable Explorer** | Exibe todas as variáveis no escopo atual com seus valores |
+| **Conditional Breakpoints** | Pausa apenas quando uma condição é verdadeira (ex: `i == 5`) |
+| **Inline Values** | Mostra o valor das variáveis diretamente na linha do código |
+| **Debug Remoto** | Permite conectar a aplicações rodando em containers Docker ou WSL |
+
+----
+
+## 9e) Tutorial para CRUD e Testes de Software
+
+## Tutorial Escolhido
+
+**Título:** *Testing a FastAPI CRUD API using Pytest* [citation:2]
+
+**Autor:** Pytest-with-Eric
+
+**Link:** https://github.com/Pytest-with-Eric/pytest-fastapi-crud-example
+
+## Descrição do Conteúdo
+
+Este tutorial apresenta um exemplo prático e completo de uma API CRUD (Create, Read, Update, Delete) desenvolvida com **FastAPI** e **SQLite**, com foco especial na escrita de testes automatizados usando **pytest**.
+
+O projeto demonstra:
+
+| Tópico | Descrição |
+|--------|-----------|
+| **API de Usuários** | Implementa um CRUD completo para gerenciamento de usuários |
+| **Arquitetura Limpa** | Separação clara entre camada de API, serviço e banco de dados |
+| **Modelos Pydantic** | Validação de dados de entrada e saída |
+| **SQLAlchemy ORM** | Persistência de dados com SQLite |
+| **Testes com Pytest** | Testes de unidade para as funções da camada de serviço |
+
+----
+
+
