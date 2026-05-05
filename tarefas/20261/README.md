@@ -1,7 +1,3 @@
-# Tarefas da Turma de Engenharia de Software II - 2026.1
+# Link para tarefa02
 
-## Tarefas
-
-* [Tarefa 01 - Git e GitHub com Markdown](https://docs.google.com/document/d/1q9hlwDocYs0m5-Ten2IKnQt40guTnoeatkNqxERE84Y/edit?usp=sharing)
-
-* [Tarefa 02 - Teste de Unidade](https://docs.google.com/document/d/1nJKfcevbVgvE3vZwHHNedzD3Z-nPS-0Ze4hyVcrpzR8/edit?usp=sharing)
+**Link: https://github.com/Tome-arcanjo/eng-software-2/blob/tarefa-2-%23532/tarefas/20261/tarefa02.md**
