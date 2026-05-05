@@ -6,3 +6,10 @@ e-mail: elder.silva.711@ufrn.edu.br
 
 ## Testes de Software
 Testes de software sõa técnicas utilizadas para verificar se um sistema funciona corretamente, atendendo todos os requisios especificados. Eles focam em validar pequenas partes do sistema garantidno que cada componente funcione corretamente.
+
+## Linguagem de Programação e Stack
+O projeto foi desenvolvido utilizando:
+
+- Linguagem: Python
+- Backend: Django
+- Frontend: React Native
