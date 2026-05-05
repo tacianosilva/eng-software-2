@@ -23,3 +23,9 @@ Testes de unidade visam verificar a menor unidade de código testável de forma 
 
 * Links: [NestJS Testing Guide](https://docs.nestjs.com/fundamentals/testing) | [Jest Documentation](https://jestjs.io/)
 
+## 9 - Letra D
+
+* Utilizo o Visual Studio Code (VS Code). Para debug, a IDE conta com o Debugger for Chrome/Node.js integrado, permitindo a criação de arquivos launch.json para interceptar a execução do código, inspecionar variáveis através do Debug Console e utilizar conditional breakpoints.
+
+
+
