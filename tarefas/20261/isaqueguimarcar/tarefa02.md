@@ -62,9 +62,11 @@ Permite simular diferentes cenários (sucesso, erro, exceções). No Jest, é po
 
 ## 10-B:
 
+* Foram implementados testes de unidade para cada operação do CRUD de trabalhadores, utilizando o framework Jest. Os testes foram aplicados diretamente na camada de serviço (WorkersService), garantindo que cada funcionalidade fosse testada de forma isolada.
 
+* As operações testadas incluem: Criação de trabalhador, Listagem de trabalhadores, Busca por ID, Atualização de dados,Remoção de trabalhador. Além disso, foram testados cenários de erro, como a tentativa de buscar ou remover um trabalhador inexistente, garantindo maior robustez da aplicação.
 
-
+* A experiência de implementar os testes foi positiva, pois permitiu validar o funcionamento correto das operações e reforçar a importância de testar unidades individuais do sistema.
 
 ## 10-C: 
 
