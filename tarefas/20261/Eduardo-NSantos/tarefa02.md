@@ -69,3 +69,15 @@ Foram implementados testes de unidade para cada uma das operações do CRUD. Os 
 A experiência de implementar os testes foi importante para entender melhor o isolamento das camadas da aplicação. O uso de mocks facilitou o foco apenas na lógica do serviço, sem depender de banco de dados ou outras integrações.
 
 ---
+
+### c) Testes de Integração vs Testes de Unidade
+
+Os **Testes de Integração** têm como objetivo validar a comunicação entre diferentes partes do sistema, como controllers, services e banco de dados. Eles verificam se os módulos funcionam corretamente quando integrados.
+
+Já os **Testes de Unidade**, que foram os utilizados neste projeto, testam partes isoladas do código, como métodos específicos de um service, geralmente utilizando mocks para simular dependências.
+
+A principal diferença é que:
+- Testes unitários focam em **isolamento e lógica interna**
+- Testes de integração focam na **comunicação entre componentes reais**
+
+Neste projeto utilizei **Testes de Unidade**, pois o objetivo foi validar apenas a lógica do módulo Jobs sem depender de integrações externas.
