@@ -50,3 +50,24 @@ Uso de bibliotecas auxiliares como React Testing Library. O conteúdo demonstra 
 * Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais do sistema, como banco de dados ou APIs externas Eles permitem que os testes sejam executados de forma isolada, garantindo que apenas a unidade em teste seja avaliada. O uso de mocks é importante porque: Evita dependência de recursos externos,
 Aumenta a velocidade dos testes,
 Permite simular diferentes cenários (sucesso, erro, exceções). No Jest, é possível criar mocks utilizando funções como jest.fn() e jest.mock().
+
+## 10-A: 
+
+
+* Foi implementada uma funcionalidade de gerenciamento de trabalhadores (workers), seguindo o padrão CRUD (Create, Read, Update, Delete).
+
+* Essa funcionalidade permite: Inserir trabalhadores: por meio de requisições POST, permitindo cadastrar um novo trabalhador com nome e função, Consultar trabalhadores: através de requisições GET, sendo possível listar todos os trabalhadores ou buscar um trabalhador específico pelo seu identificador, Atualizar trabalhadores: utilizando requisições PATCH, permitindo alterar os dados de um trabalhador existente, Remover trabalhadores: através de requisições DELETE, possibilitando excluir um trabalhador do sistema.
+
+
+
+## 10-B:
+
+
+
+
+
+## 10-C: 
+
+
+
+
