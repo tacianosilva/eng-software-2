@@ -65,3 +65,11 @@ Mock objects são objetos simulados utilizados em testes de unidade para imitar 
 O CRUD de Dívida foi implementado utilizando views baseadas em função no Django. A operação de inserção (Create) ocorre na função divida_manager, quando uma nova dívida é cadastrada por meio de um formulário. A consulta (Read) é realizada na função get_dividas, que permite listar e filtrar dívidas por critérios como CPF do cliente, status e valor.
 
 A atualização (Update) também ocorre na função divida_manager, ao editar uma dívida existente a partir do parâmetro cod_divida. Já a exclusão (Delete) é realizada na mesma função, quando a requisição POST contém a ação de excluir. Esse CRUD foi implementado utilizando formulários do Django e renderização de templates HTML, caracterizando uma abordagem tradicional baseada em views e não em API REST.
+
+
+### B) Implementação os testes + mocks objects
+Foram implementados testes de unidade para as operações de CRUD da entidade Dívida, incluindo criação, leitura, atualização e remoção de registros utilizando a classe TestCase do Django. Além dos testes diretos com banco de dados, também foram utilizados Mock Objects por meio do unittest.mock.patch para simular comportamentos de métodos do modelo, como create, count, save e delete, permitindo testar as funcionalidades de forma isolada.
+
+A principal dificuldade encontrada foi na utilização de Mock Objects e na configuração do ambiente de testes e depuração no Django, especialmente no entendimento de como isolar corretamente as dependências. Após essa etapa inicial, a implementação dos testes se tornou mais clara e eficiente para validar o comportamento do sistema.
+
+Link para os testes: https://github.com/ivyson0/ProjetoEngenharia1/blob/main/antiveaco/tests.py
