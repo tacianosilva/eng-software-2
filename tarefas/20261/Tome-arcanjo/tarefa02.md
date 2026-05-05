@@ -73,3 +73,20 @@ Além disso, o VS Code possui integração com depuradores para diferentes lingu
 **https://vitest.dev/guide/learn/async.html**
 
 Os tutoriais acima ensinam como desenvolver um crud em vue, ensinando o funcionamento básico da linguagem com typescript, esinando como instalar o vue e suas dependências na máquina e ensinando a criar rotas. No teste de unidade, o tutorial ensina toda a formação do código e suas funções, explicando como cada uma se comporta e como cada elemento interage ao ser executado.
+
+## Mock Objects em Testes de Unidade
+
+Mock Objects são objetos simulados utilizados em testes de unidade para imitar o comportamento de componentes reais do sistema, como serviços externos, banco de dados ou APIs.
+
+Eles são usados para isolar a unidade que está sendo testada, garantindo que o teste foque apenas na lógica daquela parte do código, sem depender de outros elementos que podem ser complexos, lentos ou instáveis.
+
+### Objetivo
+O principal objetivo dos mocks é controlar o ambiente de teste, permitindo simular respostas específicas (como sucesso ou erro) e verificar como a unidade reage a diferentes cenários.
+
+### Vantagens
+- Isolamento da unidade testada  
+- Maior velocidade na execução dos testes  
+- Facilidade para simular cenários difíceis de reproduzir  
+- Redução de dependências externas  
+
+Dessa forma, os Mock Objects contribuem para testes mais confiáveis, previsíveis e fáceis de manter.
