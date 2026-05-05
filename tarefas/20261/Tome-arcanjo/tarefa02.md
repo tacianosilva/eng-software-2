@@ -25,3 +25,26 @@ No **frontend**, a aplicação é desenvolvida com **TypeScript**, utilizando o 
 Para o **banco de dados**, é adotado o **PostgreSQL**, um sistema de gerenciamento relacional robusto, responsável pelo armazenamento, organização e processamento das informações.
 
 Essa combinação de tecnologias proporciona uma arquitetura sólida, escalável e adequada para o desenvolvimento do projeto da disciplina, permitindo boa separação de responsabilidades entre backend, frontend e persistência de dados.
+
+## 🧪 Vitest
+
+O **Vitest** é um framework moderno de testes de unidade para aplicações JavaScript e TypeScript, especialmente popular em projetos que utilizam **Vite**.
+
+Ele foi criado para ser rápido e simples, aproveitando a mesma infraestrutura do Vite para executar testes com alta performance. Além disso, possui uma sintaxe muito semelhante ao Jest, o que facilita sua adoção.
+
+### Principais Características
+- Execução rápida de testes
+- Suporte nativo a TypeScript
+- Integração direta com projetos Vue 3
+- API compatível com Jest (describe, it, expect)
+- Ambiente de teste com simulação de navegador (jsdom)
+
+### Uso com Vue
+O Vitest é frequentemente utilizado em conjunto com o Vue Test Utils, permitindo testar componentes Vue de forma isolada, verificando renderização, eventos e comportamento.
+
+### Objetivo
+Seu principal objetivo é facilitar a criação de testes de unidade eficientes, ajudando a garantir a qualidade do código e a prevenir erros durante o desenvolvimento.
+
+### Links
+https://vitest.dev/guide/why.html
+https://medium.com/@joalisonpereira/vitest-uma-evolu%C3%A7%C3%A3o-do-jest-49db62c50cc5
