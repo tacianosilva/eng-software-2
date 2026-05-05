@@ -42,3 +42,16 @@ Exibi como podemos criar Testes de Unidade nos apps criados no Django, através 
 ## Mock Objects
 
 Mock Objects são objetos simulados em testes de unidade para imitar o comportamento de dependências reais. Eles permitem testar partes isoladas do sistema sem depender de outros componentes.
+
+## Descrição do Repositório
+
+### CRUD Implementado
+User Story: O sistema deve permitir manter o cadastro de produtos. Para cadastro, os atributos são: Nome, Descrição e Valor. Os produtos poderam ser incluídos, alterados, listados, visualizados e excluídos.
+
+| RF05                      | Manter Produto |
+
+Operações:
+- Inserir: cadastrar um novo produto
+- Consultar: visualizar produtos cadastrados
+- Atualizar: editar um produto
+- Deletar: remover um produto
