@@ -27,5 +27,11 @@ Testes de unidade visam verificar a menor unidade de código testável de forma 
 
 * Utilizo o Visual Studio Code (VS Code). Para debug, a IDE conta com o Debugger for Chrome/Node.js integrado, permitindo a criação de arquivos launch.json para interceptar a execução do código, inspecionar variáveis através do Debug Console e utilizar conditional breakpoints.
 
+## 9 - Letra E
+
+* Este guia oficial demonstra como criar um CRUD completo integrando o TypeORM e, crucialmente, como escrever testes de unidade para os serviços, garantindo que a lógica de persistência esteja isolada.
+
+* Link: [Tutorial](https://youtu.be/dXOfOgFFKuY?si=IW4HHfjmG7OgqCIR) 
+
 
 
