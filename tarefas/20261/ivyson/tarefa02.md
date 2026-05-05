@@ -39,3 +39,9 @@ O framework de testes utilizado na linguagem Python é o unittest, que faz parte
 O Django utiliza o unittest como base para seu sistema de testes, adicionando recursos específicos para aplicações web, como a criação de um banco de dados separado durante a execução dos testes, o que evita qualquer impacto nos dados da aplicação em produção. Além disso, o framework permite organizar os testes em classes, o que facilita a manutenção, a leitura e a execução automatizada dos testes.
 
 Link: https://docs.python.org/3/library/unittest.html
+
+
+### D) IDE e ferramentas de depuração
+A ferramenta utilizada é o Visual Studio Code (VS Code). Embora não seja originalmente uma IDE completa, pode ser configurado como tal por meio de extensões, oferecendo suporte para diversas linguagens e facilitando o desenvolvimento de software.
+
+Em relação à depuração, o VS Code possui ferramentas integradas que permitem acompanhar a execução do código, definir pontos de parada (breakpoints) e analisar o comportamento do programa durante sua execução, o que facilita a identificação e correção de erros.
