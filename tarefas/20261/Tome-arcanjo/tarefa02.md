@@ -67,3 +67,9 @@ O VS Code possui ferramentas de depuração (debug) integradas que permitem anal
 - **Debug Console:** execução de comandos e avaliação de expressões durante a depuração.
 
 Além disso, o VS Code possui integração com depuradores para diferentes linguagens, como Python (via extensão oficial) e Node.js, permitindo uma experiência completa de desenvolvimento e análise de código.
+
+## Tutorial Vue 
+**Link: https://medium.com/@crisnaxtha/crud-operation-with-vue-js-composite-api-vue-router-and-a-json-server-for-beginner-822cb47693b2**
+**https://vitest.dev/guide/learn/async.html**
+
+Os tutoriais acima ensinam como desenvolver um crud em vue, ensinando o funcionamento básico da linguagem com typescript, esinando como instalar o vue e suas dependências na máquina e ensinando a criar rotas. No teste de unidade, o tutorial ensina toda a formação do código e suas funções, explicando como cada uma se comporta e como cada elemento interage ao ser executado.
