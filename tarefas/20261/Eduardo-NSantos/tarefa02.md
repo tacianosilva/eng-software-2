@@ -61,3 +61,11 @@ Eles permitem testar partes específicas do sistema de forma isolada, garantindo
 No projeto implementei um CRUD no módulo **Jobs**, que representa o vínculo entre o cliente e o prestador de serviço dentro da plataforma. Um Job é criado quando um cliente solicita um serviço e um prestador é associado para executá-lo.
 
 ---
+
+### b) Testes de Unidade do CRUD
+
+Foram implementados testes de unidade para cada uma das operações do CRUD. Os testes foram feitos de forma isolada, utilizando Mock Objects para simular o comportamento do repositório e dependências externas.
+
+A experiência de implementar os testes foi importante para entender melhor o isolamento das camadas da aplicação. O uso de mocks facilitou o foco apenas na lógica do serviço, sem depender de banco de dados ou outras integrações.
+
+---
