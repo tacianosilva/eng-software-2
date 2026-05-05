@@ -55,3 +55,10 @@ Operações:
 - Consultar: visualizar produtos cadastrados
 - Atualizar: editar um produto
 - Deletar: remover um produto
+
+## Teste de Integração
+Os testes de Integração verificam o funcionamento conjunto de diferentes partes do sistema, como a comunicação da API com o bando de dados.
+
+Diferença:
+- Teste de Unidade: testa partes isoladas
+- Teste de Integração: testa o sistema funcionando junto
