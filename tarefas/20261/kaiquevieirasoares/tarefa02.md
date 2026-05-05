@@ -52,5 +52,15 @@ Testes de unidade visam verificar a menor unidade de código testável de forma 
 
 * [Link do Teste de Unidade](https://github.com/LuizFelixDev/iservice-api/blob/main/src/jobs/jobs.service.spec.ts)
 
+## 10 - Letra C 
 
+Os Testes de Integração têm como objetivo verificar se os diferentes módulos ou serviços da aplicação funcionam corretamente quando combinados. Enquanto o teste de unidade olha para o componente isolado, o de integração foca na comunicação, validando se os dados fluem corretamente entre a lógica de negócio, o banco de dados e APIs externas.  Para este projeto e em minha experiência profissional, implementei tanto Testes Unitários quanto de Integração. No trabalho e no desenvolvimento do meu projeto, utilizo testes unitários para garantir que cada função ou método se comporte conforme o esperado em cenários isolados. Já os testes de integração são aplicados para assegurar que as rotas da API (Controllers) consigam salvar e recuperar informações do banco de dados real (ou um banco de testes como H2 ou containers Docker) sem erros de mapeamento ou de conexão.  
+
+As principais diferenças são:  
+
+* Escopo: O teste unitário foca na menor unidade de código (uma classe ou método), enquanto o de integração foca no conjunto e na interação entre esses componentes.  
+
+* Dependências: Testes unitários utilizam Mock Objects para substituir dependências externas e ganhar velocidade. Testes de integração utilizam componentes reais (como o banco de dados) para garantir que a infraestrutura esteja configurada corretamente.  
+
+* Velocidade e Custo: Testes unitários são extremamente rápidos e baratos de executar. Testes de integração são mais lentos e complexos, pois exigem que o ambiente (banco, mensageria, etc.) esteja disponível.  
 
