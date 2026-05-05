@@ -16,3 +16,6 @@ O projeto da oficina está sendo desenvolvido utilizando a linguagem **Python**.
 
 **c. Framework de Testes:**
 Para realizar os testes no nosso backend, utilizei a classe `APITestCase` fornecida pelo próprio Django REST Framework. Por baixo dos panos, ela herda as funcionalidades da biblioteca nativa `unittest` do Python e adiciona um cliente de testes (`APIClient`) específico para fazer requisições HTTP na nossa API, além de criar um banco de dados temporário na memória para rodar os testes com segurança.
+
+**d. IDE utilizada e o processo de Debug:**
+Eu utilizo o **Visual Studio Code (VS Code)**. O processo de debug (depuração) nele é bastante intuitivo. Para inspecionar o código, basta clicar ao lado da numeração da linha para adicionar um *Breakpoint* (uma bolinha vermelha). Em seguida, inicio o projeto usando a opção "Run and Debug" (ou F5). Quando o código atinge aquela linha, a execução é pausada, permitindo que eu navegue passo a passo e visualize os valores reais das variáveis e dos objetos naquele exato momento, facilitando a identificação de erros lógicos.
