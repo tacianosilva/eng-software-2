@@ -54,3 +54,7 @@ A parte de testes é apresentada no repositório do projeto no GitHub associado 
 
 Link do artigo: https://medium.com/djangotube/django-rest-api-curd-example-61c3a29b22ed  
 Link do repositório: https://github.com/hemanth-sp/django_rest_curd
+
+
+### F) Mock Objects
+Mock objects são objetos simulados utilizados em testes de unidade para imitar o comportamento de dependências reais do sistema. Eles permitem testar uma unidade de forma isolada, substituindo componentes externos ou complexos, como acesso a banco de dados ou APIs externas. Dessa forma, facilitam a execução dos testes e tornam os resultados mais controlados, previsíveis e independentes do ambiente real.
