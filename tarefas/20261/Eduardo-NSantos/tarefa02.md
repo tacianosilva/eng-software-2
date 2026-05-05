@@ -51,3 +51,13 @@ O tutorial apresenta a criação de uma aplicação básica com NestJS, incluind
 Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais, como banco de dados ou APIs externas.
 
 Eles permitem testar partes específicas do sistema de forma isolada, garantindo maior controle sobre os resultados dos testes. No contexto do NestJS, o Jest oferece suporte nativo para criação de mocks, facilitando a simulação de dependências.
+
+---
+
+## 10 - Descrição do Repositório do Projeto
+
+### a) CRUD implementado (User Story - Jobs)
+
+No projeto implementei um CRUD no módulo **Jobs**, que representa o vínculo entre o cliente e o prestador de serviço dentro da plataforma. Um Job é criado quando um cliente solicita um serviço e um prestador é associado para executá-lo.
+
+---
