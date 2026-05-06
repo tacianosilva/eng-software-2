@@ -33,3 +33,8 @@ O Linkhub é uma plataforma de colaboração técnica para conectar estudantes a
 ## 8. CRUD Implementado (User Story)
 "Como usuário, desejo gerenciar meu perfil para ser encontrado por colaboradores."
 * Operações: Cadastro (Insert), Visualização de perfil (Read), Edição de Bio/Skills (Update) e Recuperação de acesso.
+
+## 9. Implementação dos Testes
+Foram implementados testes para validar o fluxo de registro (sucesso, domínio bloqueado e e-mail duplicado) e o isolamento de perfis públicos.
+* **Experiência:** O uso do `APIClient` permitiu validar não só a lógica do banco, mas também se as restrições de segurança (403/404) estavam funcionando.
+* [Link para o tests.py no Linkhub](Chttps://github.com/linkhub-org/linkhub-backend/blob/feat/2-autenticacao-ger-usuario/users/tests.py)
