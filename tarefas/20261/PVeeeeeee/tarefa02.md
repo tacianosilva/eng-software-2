@@ -21,7 +21,13 @@ Utilizamos o **pytest** junto com o plugin **pytest-django**.
 
 ### d. IDE e Ferramentas de Debug
 O desenvolvimento é feito no **Visual Studio Code (VS Code)**.
-* **Debug:** O depurador do VS Code permite pausar a execução da aplicação em pontos específicos (*breakpoints*). No contexto deste sistema financeiro, utilizo a aba "Watch" e "Variables" para inspecionar em tempo real o cálculo do "Valor Total" durante o registro de vendas ou entradas, garantindo que descontos e fretes estejam sendo somados e subtraídos corretamente antes de persistirem no banco.
+persistirem no banco.
+
+### e. Tutorial de CRUD com Testes
+* **Link:** [Django Testing Tutorial - Test-Driven Development](https://testdriven.io/courses/tdd-django/)
+* **Resumo:** Este material foca no desenvolvimento guiado por testes (TDD) utilizando Python e Django. O tutorial ensina a configurar o ambiente de testes, criar *fixtures* de dados e escrever testes unitários e de integração para operações CRUD de modelos e rotas.
+
+
 
 
 
