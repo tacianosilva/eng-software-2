@@ -36,3 +36,7 @@ O vídeo mostra como criar uma aplicação básica em Django, ensinando a criar 
 Já no vídeo seguinte, é mostrado como fazer testes de unidade utilizando pytest do Django
 
 [Testes](https://youtu.be/i82yiSj6wIA?si=BajkDA8pIBcPHKqT)
+
+### Mocks Objetcs
+
+Mock Objects são simulações de componentes reais usadas em testes de unidade para isolar o código, controlar resultados e tornar os testes mais rápidos e confiáveis.
