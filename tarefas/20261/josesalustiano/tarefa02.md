@@ -29,3 +29,7 @@ Eu utilizo o **Visual Studio Code (VS Code)**. O processo de debug (depuração)
 
 **a. O CRUD Implementado:**
 O CRUD testado foi o de **Clientes** (Referente à US02 - Manter Cliente). A implementação gerencia o cadastro dos clientes da oficina e conta com as operações completas: Cadastrar cliente (POST), Consultar cliente específico e Listagem geral (GET), Atualizar dados do cliente (PUT) e Excluir cliente de forma lógica (DELETE), mudando o status de `is_active` para falso.
+
+**b. Experiência de implementação e Link do arquivo:**
+A experiência de implementar os testes automatizados foi bastante enriquecedora. Foi possível entender na prática como o Django cria um banco de dados temporário para validar as requisições sem afetar os dados reais. Consegui implementar um teste para cada operação do CRUD. O maior desafio e aprendizado foi lidar com as permissões de acesso, pois a rota exigia um usuário administrador, o que me fez pesquisar e aplicar o mock de autenticação (`force_authenticate`) no método `setUp`.
+* **Link do arquivo de testes:** [https://github.com/josesalustiano/oficina/blob/main/backend/clientes/tests.py]
