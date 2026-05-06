@@ -162,4 +162,14 @@ Mock Objects (objetos simulados) são objetos falsos que substituem dependência
 
 ----
 
+## 10a) CRUD Funcionario
+Permite ao usuário administrativo gerenciar funcionários, incluindo cadastro, atualização, consulta e desativação, com classificação em Técnico ou Administrativo.
 
+----
+
+## 10b) Implementar os testes de unidade para o CRUD de funcionários foi uma experiência desafiadora e enriquecedora.
+
+* [Link](https://github.com/araujodemedeirosmariana-jpg/assistencia-tecnica-adm/blob/main/backend/tests/test_funcionarios.py)
+
+## 10c) O que são Testes de Integração?
+Testes de Integração verificam se múltiplos componentes do sistema funcionam corretamente quando integrados. Diferente dos testes unitários (que isolam uma função), os testes de integração utilizam componentes reais como banco de dados, API, autenticação, etc. Foi utilizados os Testes de Unidade - Implementados para todas as operações do CRUD de Funcionários.
