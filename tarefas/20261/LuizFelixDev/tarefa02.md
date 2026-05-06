@@ -62,3 +62,14 @@ Os Mock Objects são objetos simulados usados em testes de unidade para imitar o
 *   **ButtonsContainer:** Gerencia os gatilhos para autenticação manual e integrações sociais.
 *   **Estilização:** Utilização de `loginStyles.tsx` e `singStyles.tsx` para garantir uma experiência de usuário consistente e responsiva.
 
+# 10.B: Link com os testes unitários 
+
+Link: https://github.com/LuizFelixDev/iservice-app/commit/4c859ed5a5deeafca15d17aa029c0a580e144062
+
+# 10.C: Testes de Integração
+
+Os testes de integração verificam se diferentes partes do sistema funcionam corretamente juntas, ou seja, testam a comunicação entre módulos, serviços ou camadas (por exemplo: API + banco de dados, ou backend + frontend). Diferente dos testes de unidade, aqui não se testa algo isolado, mas sim o fluxo real da aplicação, incluindo dependências reais como o banco PostgreSQL ou requisições HTTP. O objetivo é encontrar erros que só aparecem quando os componentes interagem, como falhas de integração, problemas de dados ou incompatibilidades entre partes do sistema.
+
+Teste Unitário ou de Integração?
+
+No seu caso (pelos exemplos com Jest e foco em funções isoladas), o que foi feito foi teste unitário, pois você testou partes específicas do código sem depender de elementos externos, muitas vezes usando mocks. Já o teste de integração envolveria, por exemplo, testar uma rota completa do Next.js salvando dados de verdade no banco e retornando a resposta.
