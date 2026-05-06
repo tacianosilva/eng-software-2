@@ -24,3 +24,8 @@ Eu utilizo o **Visual Studio Code (VS Code)**. O processo de debug (depuração)
 *Mock Objects* (Objetos Falsos ou Simulados) são instâncias que imitam o comportamento de objetos ou funções reais de um sistema de forma controlada. Em testes de unidade, eles são usados para isolar o código que está sendo testado. Por exemplo, se uma função precisa fazer uma requisição externa ou exigir um login complexo, nós "mockamos" esse comportamento para que o teste foque apenas na lógica principal, ganhando velocidade e evitando erros externos. No meu projeto, usei o `force_authenticate` para "mockar" um usuário administrador, permitindo testar o CRUD sem precisar gerar tokens reais a cada execução.
 
 ---
+
+## Questão 10 (Implementação Prática)
+
+**a. O CRUD Implementado:**
+O CRUD testado foi o de **Clientes** (Referente à US02 - Manter Cliente). A implementação gerencia o cadastro dos clientes da oficina e conta com as operações completas: Cadastrar cliente (POST), Consultar cliente específico e Listagem geral (GET), Atualizar dados do cliente (PUT) e Excluir cliente de forma lógica (DELETE), mudando o status de `is_active` para falso.
