@@ -26,3 +26,10 @@ Utilizo o **VS Code**. Ele possui integração nativa com o debugger do Python, 
 
 ## 6. Mock Objects
 Mocks são objetos que simulam o comportamento de componentes reais. São usados para isolar a unidade testada, evitando chamadas reais a serviços externos como APIs de terceiros ou envio de e-mails.
+
+## 7. Descrição do Repositório
+O Linkhub é uma plataforma de colaboração técnica para conectar estudantes a projetos. O repositório contém a lógica de backend para gerenciar esses perfis e conexões.
+
+## 8. CRUD Implementado (User Story)
+"Como usuário, desejo gerenciar meu perfil para ser encontrado por colaboradores."
+* Operações: Cadastro (Insert), Visualização de perfil (Read), Edição de Bio/Skills (Update) e Recuperação de acesso.
