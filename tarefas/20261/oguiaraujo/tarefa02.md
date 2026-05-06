@@ -19,3 +19,10 @@ Utilizo o framework nativo do Django (`django.test.TestCase`), que estende o `un
 
 ## 4. IDE e Debug
 Utilizo o **VS Code**. Ele possui integração nativa com o debugger do Python, permitindo inspecionar variáveis, definir breakpoints e analisar o fluxo de execução linha a linha.
+
+## 5. Tutorial de CRUD com Testes
+* [Tutorial: Testing a DRF API](https://testdriven.io/blog/drf-views-part-1/)
+* O tutorial aborda a criação de uma API completa seguindo a metodologia TDD (Test Driven Development), ensinando a validar rotas de criação e consulta.
+
+## 6. Mock Objects
+Mocks são objetos que simulam o comportamento de componentes reais. São usados para isolar a unidade testada, evitando chamadas reais a serviços externos como APIs de terceiros ou envio de e-mails.
