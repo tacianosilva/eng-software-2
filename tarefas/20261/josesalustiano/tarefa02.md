@@ -33,3 +33,8 @@ O CRUD testado foi o de **Clientes** (Referente à US02 - Manter Cliente). A imp
 **b. Experiência de implementação e Link do arquivo:**
 A experiência de implementar os testes automatizados foi bastante enriquecedora. Foi possível entender na prática como o Django cria um banco de dados temporário para validar as requisições sem afetar os dados reais. Consegui implementar um teste para cada operação do CRUD. O maior desafio e aprendizado foi lidar com as permissões de acesso, pois a rota exigia um usuário administrador, o que me fez pesquisar e aplicar o mock de autenticação (`force_authenticate`) no método `setUp`.
 * **Link do arquivo de testes:** [https://github.com/josesalustiano/oficina/blob/main/backend/clientes/tests.py]
+
+**c. Teste Unitário vs. Teste de Integração:**
+O **Teste Unitário** testa apenas um fragmento de código (como uma função de cálculo) de forma 100% isolada, sem interagir com o banco de dados, rede ou outros arquivos, usando Mocks para qualquer dependência externa. 
+Já o **Teste de Integração** tem como objetivo verificar se vários componentes do sistema funcionam bem juntos. 
+**O que eu fiz:** Os testes que implementei se aproximam mais de **Testes de Integração**. Embora utilize ferramentas clássicas de testes de unidade (como o `unittest`), os testes que escrevi no `tests.py` fazem a requisição na View, que passa pelo Serializer, que por fim salva e consulta os dados em um banco de dados relacional de testes (SQLite). Ou seja, estou testando a integração completa de várias camadas da arquitetura do Django ao mesmo tempo.
