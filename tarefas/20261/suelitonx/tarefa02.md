@@ -112,12 +112,75 @@ O tutorial guia o leitor por todos os passos para conectar um app Flutter ao Poc
 
 ---
 
-## 6. Mock Objects em Testes de Unidade
+## 1. CRUD implementado
 
-Um mock object é um objeto que se comporta como um substituto mais conveniente que o objeto real. Ele resolve uma dependência importante para que um teste de unidade possa ser executado, mantendo o máximo de isolamento. Em alguns casos, o uso do mock também permite evitar acessos a recursos mais demorados, como bancos de dados ou recursos na rede, permitindo que os testes sejam executados rapidamente e de forma mais previsível.
+Eu implementei o CRUD de chaves no sistema de locação para manter o controle das chaves ligadas aos setores e locais.
 
-O problema é que para testar certas classes precisamos de serviços externos, como APIs remotas ou bancos de dados. Isso é ruim por dois motivos: o escopo do teste ficará maior do que uma única unidade de código, e o teste ficará mais lento. A solução consiste em criar um objeto que emula o objeto real, mas apenas para permitir o teste do programa — esse tipo de objeto é chamado de mock (ou stub).
+### User Story
+Como usuário autorizado, eu quero cadastrar, consultar, atualizar e excluir chaves para organizar o fluxo de uso e manter os registros sempre atualizados.
 
-No contexto Flutter + PocketBase, isso significa que ao testar uma classe de serviço que chama `pb.collection('items').getList()`, você **mocka** a instância do PocketBase para não precisar de um servidor real rodando durante os testes.
+### Operações do CRUD
+- **Inserir / cadastrar**: criar uma nova chave com nome, descrição, setor, tags e ícone.
+- **Consultar / listar**: ver as chaves cadastradas e filtrar quando precisar encontrar um registro específico.
+- **Atualizar**: alterar dados de uma chave já existente, como nome, descrição, tags ou estado de locação.
+- **Deletar / excluir**: remover uma chave quando ela não for mais usada.
 
-**Resumo:** Mocks são "dublês" de objetos reais (banco de dados, APIs, sensores) que simulam respostas controladas e previsíveis nos testes. No Flutter, o pacote `mockito` ou `mocktail` é usado para criar esses mocks, permitindo testar a lógica do app de forma totalmente isolada e rápida.
+### Onde isso aparece no código
+- Repositório: [ChavesRepository](https://github.com/suelitonx/chaves_es2/blob/main/lib/repositories/chaves_repository.dart)
+- Modelo: [ChavesModel](https://github.com/suelitonx/chaves_es2/blob/main/lib/models/chaves_model.dart)
+
+---
+
+## 2. Testes de unidade e experiência de implementação
+
+Os testes ficaram divididos entre modelo, estado e repositório. Para chaves, eu testei a criação do objeto, a conversão de JSON, a atualização com `copyWith` e o fluxo completo do CRUD.
+
+### Arquivos de teste relacionados às chaves
+- Cadastro da chave: [chaves_model_create_test.dart](https://github.com/suelitonx/chaves_es2/blob/main/test/chaves_model_create_test.dart)
+- Conversão de JSON: [chaves_fromjson_test.dart](https://github.com/suelitonx/chaves_es2/blob/main/test/chaves_fromjson_test.dart)
+- Atualização com `copyWith`: [chaves_copywith_test.dart](https://github.com/suelitonx/chaves_es2/blob/main/test/chaves_copywith_test.dart)
+- CRUD fake do repositório: [chaves_repository_integration_fake_test.dart](https://github.com/suelitonx/chaves_es2/blob/main/test/chaves_repository_integration_fake_test.dart)
+- Teste real do repositório: [chaves_repository_real_test.dart](https://github.com/suelitonx/chaves_es2/blob/main/test/chaves_repository_real_test.dart)
+
+### Resumo da experiência
+A parte mais tranquila foi testar os modelos, porque eles têm comportamento simples e não dependem de rede. Já os testes do repositório exigiram mais cuidado, porque o `BaseRepository` conversa com o `PbService` e com o PocketBase.
+
+Na prática, eu usei dois caminhos:
+- testes fake, com `FakePb`, para validar create, update, delete e list sem depender de servidor;
+- testes reais, para confirmar a integração com o PocketBase quando a variável `PB_INTEGRATION=1` está ativa.
+
+Isso deixou o processo mais rápido no dia a dia e ainda permitiu validar o comportamento real quando necessário.
+
+---
+
+## 3. Testes de integração, diferença para unitários e o que foi feito
+
+### Diferença entre teste de unidade e teste de integração
+- **Teste de unidade**: valida uma parte pequena do sistema isoladamente, normalmente com mocks, fakes ou stubs.
+- **Teste de integração**: valida se várias partes funcionam juntas, por exemplo repositório, rede e persistência.
+
+### O que foi feito no projeto
+No projeto, eu usei os dois tipos:
+- **Testes de unidade** para modelos e estado, como `toJson`, `fromJson`, `copyWith` e filtros.
+- **Testes de integração fake** para o CRUD, usando `FakePb`.
+- **Testes de integração reais** para `ChavesRepository`, `SetoresRepository`, `LocaisRepository` e `UsuariosRepository`, com PocketBase de verdade.
+
+### Observação importante
+Os testes reais ficam desligados por padrão e só rodam quando a variável de ambiente `PB_INTEGRATION=1` está definida.
+
+Exemplo no PowerShell:
+
+```powershell
+$env:PB_INTEGRATION="1"
+$env:PB_TEST_URL="https://chaves.ufrn.me"
+flutter test test/chaves_repository_real_test.dart
+flutter test test/setores_repository_real_test.dart
+flutter test test/locais_repository_real_test.dart
+flutter test test/usuarios_repository_real_test.dart
+```
+
+---
+
+## Conclusão
+
+O CRUD de chaves ficou completo com inserir, consultar, atualizar e excluir. Além disso, eu deixei os testes cobrindo tanto o comportamento dos modelos quanto o repositório fake e a integração real com PocketBase.
