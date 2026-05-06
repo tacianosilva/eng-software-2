@@ -14,3 +14,5 @@ normalmente representa uma função ou método. Ele foi projetado para verificar
 ## O que são testes de interação
 Os testes de de interação é uma etapa do desevolvimento de software em que módulos ou componentes são combinados e testados em grupo. Esse tipo de teste é realizando em fases, começando com os módulos mais complexos. Além disso, ele pode ser realizado de forma manual ou autoomatizada.
 
+## O que é mock
+O termo é utilizado para descrever um caso especial de objetos quando eles são reais para teste. Esses mocks objects são bastantes na comnunidade e métodologias ágeis, visto que, utilizando o xp que faz uso constante de testes através da técnica Test-Driven Development (TDD) que prega teste antes da implementação. Ainda assim, os mock objects possuem pouca na literatura de forma geral. Com isso, é possível simular alguns objetos no intuido de conseguir testar o código.
