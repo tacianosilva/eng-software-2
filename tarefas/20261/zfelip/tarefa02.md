@@ -40,3 +40,15 @@ Já no vídeo seguinte, é mostrado como fazer testes de unidade utilizando pyte
 ### Mocks Objetcs
 
 Mock Objects são simulações de componentes reais usadas em testes de unidade para isolar o código, controlar resultados e tornar os testes mais rápidos e confiáveis.
+
+### Descrição de CRUD
+User Story: O sistema deve permitir o gerenciamento de saídas financeiras, possibilitando ao administrador registrar, visualizar, alterar, listar e excluir saídas. Cada saída possui os seguintes atributos: Data, Valor Total, Descrição, Forma de Pagamento e Tipo da Saída. O sistema deve garantir o controle adequado dessas informações para apoiar a gestão financeira da empresa.
+
+Requisitos envolvidos:
+RF03        |         Manter saída
+
+Operações:
+- Inserir: Insere uma nova saída
+- Consultar: visualiza saídas 
+- Atualizar: edita uma saída
+- Deletar: remove uma saída
