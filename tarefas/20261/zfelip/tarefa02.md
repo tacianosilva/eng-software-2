@@ -22,3 +22,8 @@ O pytest é uma ferramenta para testar código em Python. Ele é fácil de usar,
 É uma ferramenta prática e poderosa para garantir a qualidade do código, sendo amplamente utilizada no desenvolvimento moderno em Python.
 
 [Framework](https://youtu.be/zXxA45nswQk?si=BxMFcpGyNyUx3vAs)
+
+### IDE
+A IDE que utilizo é o Visual Studio Code, devido à sua leveza, flexibilidade e experiência da equipe.
+
+- **Debug:** O VS Code possui ferramentas integradas de debug que permitem executar o código passo a passo, definir breakpoints, inspecionar variáveis e acompanhar a execução em tempo real, tanto para Python quanto para JavaScript.
