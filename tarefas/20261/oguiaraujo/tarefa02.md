@@ -38,3 +38,7 @@ O Linkhub é uma plataforma de colaboração técnica para conectar estudantes a
 Foram implementados testes para validar o fluxo de registro (sucesso, domínio bloqueado e e-mail duplicado) e o isolamento de perfis públicos.
 * **Experiência:** O uso do `APIClient` permitiu validar não só a lógica do banco, mas também se as restrições de segurança (403/404) estavam funcionando.
 * [Link para o tests.py no Linkhub](Chttps://github.com/linkhub-org/linkhub-backend/blob/feat/2-autenticacao-ger-usuario/users/tests.py)
+
+## 10. Testes de Integração vs Unidade
+Testes unitários isolam a lógica. Testes de integração verificam a comunicação entre componentes (ex: View + Banco de Dados). 
+Os testes que realizei no Django são, tecnicamente, **Testes de Integração de API**, pois validam o fluxo completo desde a requisição até a persistência no banco.
