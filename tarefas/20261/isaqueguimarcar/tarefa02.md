@@ -62,6 +62,10 @@ Permite simular diferentes cenários (sucesso, erro, exceções). No Jest, é po
 
 ## 10-B:
 
+Link do arquivo de teste:
+https://github.com/LuizFelixDev/iservice-api/blob/feature/user-story-workers/src/workers/workers.service.spec.ts
+
+
 * Foram implementados testes de unidade para cada operação do CRUD de trabalhadores, utilizando o framework Jest. Os testes foram aplicados diretamente na camada de serviço (WorkersService), garantindo que cada funcionalidade fosse testada de forma isolada.
 
 * As operações testadas incluem: Criação de trabalhador, Listagem de trabalhadores, Busca por ID, Atualização de dados,Remoção de trabalhador. Além disso, foram testados cenários de erro, como a tentativa de buscar ou remover um trabalhador inexistente, garantindo maior robustez da aplicação.
@@ -70,6 +74,11 @@ Permite simular diferentes cenários (sucesso, erro, exceções). No Jest, é po
 
 ## 10-C: 
 
+* Testes de unidade e testes de integração possuem objetivos diferentes no processo de validação de software. Os testes de unidade verificam partes isoladas do sistema, como funções ou métodos, sem depender de outros componentes. Eles são rápidos, focados e ajudam a identificar erros diretamente na lógica da aplicação.
+
+* Já os testes de integração têm como objetivo validar a interação entre diferentes partes do sistema, como controller, service e banco de dados, garantindo que os componentes funcionem corretamente em conjunto.
+
+* Neste projeto, foram implementados testes de unidade, pois o foco foi validar a lógica do serviço de forma isolada. Não foram realizados testes de integração.
 
 
 
