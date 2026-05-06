@@ -15,3 +15,10 @@ mais confiável e fácil de manter.
 ### Linguagens e Stack
 
 O projeto utilizará principalmente Python no back-end, por meio do framework Django, e JavaScript no front-end com React Native. O Python é uma linguagem conhecida por sua simplicidade, legibilidade e ampla adoção em desenvolvimento web, ciência de dados e automação. Já o JavaScript é amplamente utilizado no desenvolvimento de interfaces, especialmente em aplicações web e mobile.
+
+### Framework Teste de Unidade
+
+O pytest é uma ferramenta para testar código em Python. Ele é fácil de usar, rápido e ajuda a encontrar erros, garantindo que o programa funcione corretamente.
+É uma ferramenta prática e poderosa para garantir a qualidade do código, sendo amplamente utilizada no desenvolvimento moderno em Python.
+
+[Framework](https://youtu.be/zXxA45nswQk?si=BxMFcpGyNyUx3vAs)
