@@ -27,3 +27,12 @@ O pytest é uma ferramenta para testar código em Python. Ele é fácil de usar,
 A IDE que utilizo é o Visual Studio Code, devido à sua leveza, flexibilidade e experiência da equipe.
 
 - **Debug:** O VS Code possui ferramentas integradas de debug que permitem executar o código passo a passo, definir breakpoints, inspecionar variáveis e acompanhar a execução em tempo real, tanto para Python quanto para JavaScript.
+
+### CRUD e Testes
+O vídeo mostra como criar uma aplicação básica em Django, ensinando a criar modelos e implementar as operações de CRUD (criar, ler, atualizar e deletar). Também demonstra como conectar o sistema ao banco de dados e utilizar as funcionalidades do Django para gerenciar informações de forma simples e prática.
+
+[CRUD](https://youtu.be/ZXli2MJyRyk?si=ql6IMoWnVdquHdK9)
+
+Já no vídeo seguinte, é mostrado como fazer testes de unidade utilizando pytest do Django
+
+[Testes](https://youtu.be/i82yiSj6wIA?si=BajkDA8pIBcPHKqT)
