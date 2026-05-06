@@ -1,16 +1,13 @@
 {
-  "name": "vitoria31032003",
+  "name": "user-management",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "jest": "^30.3.0"
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-jest": "^29.0.0",
+    "@types/jest": "^29.0.0",
+    "jest": "^30.0.0"
   }
 }
