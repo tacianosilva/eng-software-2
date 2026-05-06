@@ -9,7 +9,12 @@ Pedro.santos.142@ufrn.edu.br
 ## 9. Pesquisa e Ferramentas
 
 ### a. Testes de Software e Testes de Unidade
-Testes de software são práticas utilizadas para verificar se um sistema atende aos requisitos especificados (como as User Stories) e garantir que não existam falhas lógicas. Os **Testes de Unidade** consistem em testar a menor parte isolada do código (como um método ou uma função) independentemente do resto do sistema. Eles garantem que regras de negócio específicas funcionem conforme o esperado antes da integração completa do módulo.
+Eles garantem que regras de negócio específicas funcionem conforme o esperado antes da integração completa do módulo.
+
+### b. Linguagem e Stack do Projeto
+O sistema de gestão financeira e vendas está sendo desenvolvido em **Python** utilizando o framework **Django**. Essa stack foi escolhida pela robustez do ORM do Django, que facilita a modelagem de entidades complexas (como Vendas, Entradas e Saídas) e agiliza a implementação de regras de negócio, além de possuir excelente integração para construção de APIs REST e sistemas web seguros.
+
+
 
 
 
