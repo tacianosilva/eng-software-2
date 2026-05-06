@@ -52,3 +52,6 @@ Operações:
 - Consultar: visualiza saídas 
 - Atualizar: edita uma saída
 - Deletar: remove uma saída
+
+### Testes de Integração vs Testes de Unidade
+Testes de Integração verificam se diferentes módulos funcionam bem juntos, enquanto Testes Unitários validam partes isoladas do código. A principal diferença está no nível de abrangência: unitário é mais específico, integração é mais amplo.
