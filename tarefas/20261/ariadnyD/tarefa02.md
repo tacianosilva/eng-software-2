@@ -39,3 +39,21 @@ O VS Code possui ferramentas de **debug integradas** muito completas. Na aba "Ru
 **Mock Objects** (Objetos Simulados) são "dublês" ou clones falsos usados durante a escrita de testes de unidade. Quando a função ou classe que estamos testando depende de algo externo que é lento, de difícil acesso ou que tem efeitos colaterais reais (como chamar uma API de pagamento externa, enviar um e-mail ou conectar no banco de dados da nuvem), nós inserimos um Mock no lugar dessa dependência.
 A vantagem do Mock é que ele permite simular comportamentos controlados (ex: "simular que a API retornou o código HTTP 404") para ver como a sua função reage a erros. Ele também rastreia interações, possibilitando que o desenvolvedor crie asserções do tipo *"A função de enviar e-mail foi chamada pelo menos uma vez com o destinatário correto?"*, sem que o e-mail precise ser enviado de verdade. Isso mantém os testes de unidade rápidos, isolados e confiáveis.
 
+### Descreva o repositório do seu projeto.
+
+**a. Descreva um CRUD (User Story) que você tenha implementado.**
+**User Story - Módulo de Veículos:** 
+"Como usuário do sistema (atendente/mecânico), quero cadastrar, consultar, atualizar e excluir (desativar) veículos e vinculá-los aos seus respectivos clientes, para que eu possa manter o registro da frota atualizado e gerenciar os serviços atrelados a cada automóvel de forma organizada."
+*Operações implementadas:* O CRUD possui as 4 operações básicas, validando a obrigatoriedade dos campos (Marca, Modelo, Tipo, Cor e Placa) e garantindo a relação de cardinalidade 1:N (Um cliente tem vários veículos, mas um veículo pertence a apenas um cliente).
+
+**b. Implemente pelo menos um Teste de Unidade para cada operação do CRUD.**
+*   **Experiência com os testes:** A implementação dos testes revelou-se fundamental para garantir que as respostas e validações personalizadas da API funcionassem como o esperado. A parte mais interessante foi a utilização de *Mock Objects* (`unittest.mock.patch`). Em vez de criar instabilidades reais no servidor para testar tratamentos de erro, utilizei o Mock para interceptar e simular uma falha (Exception) na hora da deleção do banco. Isso permitiu atestar que o código captura a falha e emite a mensagem "MS06 - Falha na Exclusão" com o status 500 corretamente, mantendo o teste rápido e isolado.
+*   **Link para o arquivo de teste:** [Clique aqui para acessar o tests.py no repositório](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/backend/veiculos/tests.py)
+
+**c. Fale sobre Testes de Integração. E diga se você fez Teste Unitário ou Integração. Fale qual a diferença!**
+A principal diferença entre os dois conceitos está no escopo do que está sendo avaliado:
+*   **Teste Unitário:** Isola a menor parte do código (uma função ou método) de suas dependências (banco de dados, internet, outras classes). Se a função depende de algo externo, usamos *Mocks* (dublês) para fingir que esse externo existe.
+*   **Teste de Integração:** Avalia se diferentes módulos do sistema funcionam bem **juntos**. Por exemplo, testar se a *View* do Django consegue se comunicar com sucesso com o banco de dados real e retornar os dados através do *Serializer*.
+
+**O que eu fiz:** Na prática, fiz uma **abordagem híbrida**, comum no ecossistema Django. 
+A maior parte dos testes implementados com `APITestCase` atua como **Testes de Integração**, pois eles levantam um banco de dados de teste (em memória) e passam por toda a cadeia: Roteador -> View -> Serializer -> Banco de Dados -> Resposta. Porém, na operação de **Deleção (Exclusão)**, eu implementei um **Teste Unitário puro**, isolando o banco de dados através da biblioteca de Mocks (`@patch`). Ao "mockar" o método `perform_destroy`, isolei o método `destroy` da View, comprovando o conceito de teste de unidade exigido.
