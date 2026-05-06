@@ -20,6 +20,11 @@ Para realizar os testes no nosso backend, utilizei a classe `APITestCase` fornec
 **d. IDE utilizada e o processo de Debug:**
 Eu utilizo o **Visual Studio Code (VS Code)**. O processo de debug (depuração) nele é bastante intuitivo. Para inspecionar o código, basta clicar ao lado da numeração da linha para adicionar um *Breakpoint* (uma bolinha vermelha). Em seguida, inicio o projeto usando a opção "Run and Debug" (ou F5). Quando o código atinge aquela linha, a execução é pausada, permitindo que eu navegue passo a passo e visualize os valores reais das variáveis e dos objetos naquele exato momento, facilitando a identificação de erros lógicos.
 
+
+**e. Tutorial de Testes no Django:**
+**Link:**https://www.youtube.com/watch?v=Q2tEqNfgIXM
+**Resumo:**Esse tutorial ensina a criar um projeto em Django com uma API REST utilizando o Django REST Framework, mostrando a estrutura básica do projeto (apps, settings, models, views e rotas), além de implementar um CRUD completo para usuários e grupos. Ele também demonstra como testar a API usando ferramentas como APIClient e classes de teste do próprio framework, permitindo validar requisições HTTP (GET, POST, PUT, DELETE) e verificar se os dados estão sendo corretamente criados, listados, atualizados e removidos.
+
 **f. Mock Objects:**
 *Mock Objects* (Objetos Falsos ou Simulados) são instâncias que imitam o comportamento de objetos ou funções reais de um sistema de forma controlada. Em testes de unidade, eles são usados para isolar o código que está sendo testado. Por exemplo, se uma função precisa fazer uma requisição externa ou exigir um login complexo, nós "mockamos" esse comportamento para que o teste foque apenas na lógica principal, ganhando velocidade e evitando erros externos. No meu projeto, usei o `force_authenticate` para "mockar" um usuário administrador, permitindo testar o CRUD sem precisar gerar tokens reais a cada execução.
 
