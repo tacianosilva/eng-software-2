@@ -12,3 +12,10 @@ Testes de Software visam garantir a qualidade e o comportamento esperado do sist
 
 ## 2. Linguagem e Stack do Projeto
 O projeto utiliza **Python** com o framework **Django** e **Django REST Framework** para a construção da API, utilizando banco de dados relacional.
+
+## 3. Framework de Testes
+Utilizo o framework nativo do Django (`django.test.TestCase`), que estende o `unittest` do Python, permitindo simular requisições à API e gerenciar um banco de dados de teste isolado.
+* [Link: Django Testing](https://docs.djangoproject.com/en/stable/topics/testing/)
+
+## 4. IDE e Debug
+Utilizo o **VS Code**. Ele possui integração nativa com o debugger do Python, permitindo inspecionar variáveis, definir breakpoints e analisar o fluxo de execução linha a linha.
