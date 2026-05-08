@@ -23,6 +23,8 @@ erDiagram
         Int nivel
         Int exp
         Int streakDiasSeguidos
+        Int treinosNoMes
+        DateTime ultimoTreinoData
     }
 
     PLANO {
@@ -85,3 +87,9 @@ erDiagram
     TREINO ||--o{ HISTORICO_TREINO : gera
     HISTORICO_TREINO ||--|{ SERIE_EXECUTADA : contem
 ```
+
+## 2. Gamification Engine (Mecânica de Banco de Dados)
+
+O sistema de Gamificação atualiza os atributos da entidade `ALUNO` (`exp`, `nivel`, `streakDiasSeguidos`, `treinosNoMes`, `ultimoTreinoData`) de forma estritamente vinculada ao registro na entidade `HISTORICO_TREINO`.
+
+- **Transação Atômica:** Quando um `HISTORICO_TREINO` é inserido, a lógica de Gamificação calcula as recompensas. O novo registro de histórico e o update no aluno são executados juntos por meio de uma transação serial (`Serializable`), assegurando que não haja condições de corrida que corrompam os valores de *XP* e *Nível*.

@@ -51,3 +51,30 @@ A arquitetura do NextGym é monolítica, baseada no conceito *server-first* do N
 
 ## 3. Segurança e Padrões (Hard Guards)
 Toda comunicação entre o Frontend e as Server Actions valida a sessão do usuário (Auth Guards) na primeira linha de execução antes de invocar o `Prisma` ou `Genkit`, garantindo uma arquitetura robusta contra manipulações indevidas vindas do cliente.
+
+## 4. Zoom in: Gamification Engine (C4 Component)
+
+O sistema de Gamificação opera de forma isolada do frontend, garantindo que o XP e nível do aluno só possam ser alterados pelo próprio sistema mediante a confirmação e validação do registro de um Treino.
+
+```mermaid
+C4Component
+    title Diagrama de Componentes - Gamification Engine
+
+    Container(frontend, "Frontend", "React / Next.js", "Aciona a gravação do treino concluído.")
+    
+    System_Boundary(actions, "Camada de Negócio (Server Actions)") {
+        Component(treinosAction, "Treinos Action", "TypeScript", "Recebe o payload do treino, valida com Zod e orquestra a transação e a gamificação.")
+        Component(gamificationService, "Gamification Service", "TypeScript", "Funções puras que calculam bônus de XP, nível e streak baseados na consistência do aluno.")
+        Component(prismaTx, "Prisma Transaction", "Prisma Client", "Executa as operações de DB de forma atômica garantindo consistência.")
+    }
+
+    ContainerDb(supabase, "Supabase Database", "PostgreSQL", "Armazena históricos e atributos do aluno (XP, nível).")
+    
+    Rel(frontend, treinosAction, "Envia dados do Treino (RPC)")
+    Rel(treinosAction, gamificationService, "Chama lógica de cálculo de recompensas")
+    Rel(gamificationService, treinosAction, "Retorna diff de XP, Lvl e Streak")
+    Rel(treinosAction, prismaTx, "Inicia transação serial (Historico + Aluno)")
+    Rel(prismaTx, supabase, "Efetua UPDATE e INSERT")
+
+    UpdateElementStyle(actions, $bgColor="#1E293B", $fontColor="#F8FAFC", $borderColor="#334155")
+```
