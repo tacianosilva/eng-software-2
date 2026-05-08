@@ -90,3 +90,46 @@ O principal objetivo dos mocks é controlar o ambiente de teste, permitindo simu
 - Redução de dependências externas  
 
 Dessa forma, os Mock Objects contribuem para testes mais confiáveis, previsíveis e fáceis de manter.
+
+## Descrevendo repositório do projeto e testes de unidade
+
+## CRUD — Módulo de Cadastro de Eventos
+
+O módulo de Cadastro de Eventos permite que organizadores realizem o gerenciamento completo dos eventos do sistema através das operações de CRUD (Create, Read, Update e Delete).
+
+### Create (Criar)
+Permite cadastrar novos eventos informando dados como título, tipo, datas, local, vagas, carga horária e responsável. O sistema valida as informações antes de salvar.
+
+### Read (Consultar)
+Permite visualizar a lista de eventos cadastrados, consultar detalhes específicos e realizar buscas por título ou status.
+
+### Update (Atualizar)
+Permite editar informações de eventos existentes, mantendo as regras de validação e consistência dos dados.
+
+### Delete (Excluir)
+Permite remover eventos do sistema, desde que não existam restrições relacionadas a inscrições ou registros vinculados.
+
+### Regras de Negócio
+- Eventos possuem status como Rascunho, Inscrições Abertas e Encerrado.
+- Apenas eventos com inscrições abertas permitem participação.
+- O sistema valida datas e quantidade de vagas antes de salvar alterações.
+
+
+## Experiência com testes
+
+### A experiência com testes na verdade foi bem estressante e chata porque é uma coisa totalmente nova para mim e teve que ser feito no backend, devido a necessidade de ser em CRUD. A criação do teste em código por si não é o mais complicado, o mais complicado é pensar em um teste que faça sentido para o projeto e que possa ser usado de garantia para o escalonamento do software.
+
+**Link para testes: https://github.com/SIGAEX/backend/blob/feat/issue30/eventos/testes.py**
+
+## Testes de integração e testes unitários
+
+### Testes de integração são aqueles que percorrem toda a arquitetura por trás do funcionamento do componente em questão. Ele pode passar pelas rotas, pelo serializer, pelo banco de dados, etc.
+
+### Os testes unitários são aqueles que só testam a lógica específica de uma funcionalidade, nada mais.
+
+### No meu projeto tem os dois tipos de teste, mas eu só fiz testes de integração, a partir do testeAPiEventos.
+
+
+
+
+
