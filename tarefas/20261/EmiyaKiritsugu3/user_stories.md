@@ -18,7 +18,7 @@ Este documento consolida as especificações ágeis de requisitos sob a perspect
 - **Como** Aluno.
 - **Quero** ganhar Pontos de Experiência (XP) ao registrar a conclusão de um treino diário.
 - **Para** visualizar minha evolução de forma gamificada na tela inicial do sistema, subir de nível (Level Up) e manter meu *streak* de ofensiva alto, garantindo minha motivação e combatendo a evasão.
-- **Status:** Em desenvolvimento (Detalhado nesta iteração).
+- **Status:** Implementado, Coberto por Testes e Validado.
 
 #### Regras de Negócio:
 1. **[RN01 - Ganho Base]** Cada `HistoricoTreino` registrado validamente confere ao aluno uma quantidade fixa de 50 XP.
