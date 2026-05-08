@@ -113,3 +113,14 @@ Permite remover eventos do sistema, desde que não existam restrições relacion
 - Eventos possuem status como Rascunho, Inscrições Abertas e Encerrado.
 - Apenas eventos com inscrições abertas permitem participação.
 - O sistema valida datas e quantidade de vagas antes de salvar alterações.
+
+
+##Experiência com testes
+
+### A experiência com testes na verdade foi bem estressante e chata porque é uma coisa totalmente nova para mim e teve que ser feito no backend, devido a necessidade de ser em CRUD. A criação do teste em código por si não é o mais complicado, o mais complicado é pensar em um teste que faça sentido para o projeto e que possa ser usado de garantia para o escalonamento do software.
+
+**Link para testes: https://github.com/SIGAEX/backend/blob/feat/issue30/eventos/testes.py**
+
+
+
+
