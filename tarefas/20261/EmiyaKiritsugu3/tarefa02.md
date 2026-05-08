@@ -54,11 +54,14 @@ O código fonte do projeto e os testes implementados podem ser encontrados em:
 
 ## 9. Implementação dos Testes de Unidade
 
-Foram implementados testes de unidade para as operações de Create, Update e Delete no arquivo de Server Actions de alunos.
+Foram implementados testes de unidade para:
+1. **CRUD de Alunos:** Operações de Create, Update e Delete.
+2. **Engine de Gamificação (US02):** Lógica de cálculo de XP, níveis, streaks e prevenção de fraude (intervalo de 12h).
 
-- **Link para os Testes:** [src/lib/actions/alunos.test.ts](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/src/lib/actions/alunos.test.ts)
+- **Link para Testes (Alunos):** [src/lib/actions/alunos.test.ts](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/src/lib/actions/alunos.test.ts)
+- **Link para Testes (Gamificação):** [src/lib/actions/treinos.test.ts](https://github.com/EmiyaKiritsugu3/PWeb_Project/blob/main/src/lib/actions/treinos.test.ts)
 
-Os testes utilizam mocks para o `prisma`, `getUser` (autenticação) e `revalidatePath`.
+Os testes utilizam mocks para o `prisma`, `getUser` (autenticação), `revalidatePath` e o `gamificationService`.
 
 ## 10. Teste de Unidade vs Teste de Integração
 
