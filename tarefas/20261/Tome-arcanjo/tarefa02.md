@@ -90,3 +90,26 @@ O principal objetivo dos mocks é controlar o ambiente de teste, permitindo simu
 - Redução de dependências externas  
 
 Dessa forma, os Mock Objects contribuem para testes mais confiáveis, previsíveis e fáceis de manter.
+
+## Descrevendo repositório do projeto e testes de unidade
+
+## CRUD — Módulo de Cadastro de Eventos
+
+O módulo de Cadastro de Eventos permite que organizadores realizem o gerenciamento completo dos eventos do sistema através das operações de CRUD (Create, Read, Update e Delete).
+
+### Create (Criar)
+Permite cadastrar novos eventos informando dados como título, tipo, datas, local, vagas, carga horária e responsável. O sistema valida as informações antes de salvar.
+
+### Read (Consultar)
+Permite visualizar a lista de eventos cadastrados, consultar detalhes específicos e realizar buscas por título ou status.
+
+### Update (Atualizar)
+Permite editar informações de eventos existentes, mantendo as regras de validação e consistência dos dados.
+
+### Delete (Excluir)
+Permite remover eventos do sistema, desde que não existam restrições relacionadas a inscrições ou registros vinculados.
+
+### Regras de Negócio
+- Eventos possuem status como Rascunho, Inscrições Abertas e Encerrado.
+- Apenas eventos com inscrições abertas permitem participação.
+- O sistema valida datas e quantidade de vagas antes de salvar alterações.
