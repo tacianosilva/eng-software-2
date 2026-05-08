@@ -115,11 +115,20 @@ Permite remover eventos do sistema, desde que não existam restrições relacion
 - O sistema valida datas e quantidade de vagas antes de salvar alterações.
 
 
-##Experiência com testes
+## Experiência com testes
 
 ### A experiência com testes na verdade foi bem estressante e chata porque é uma coisa totalmente nova para mim e teve que ser feito no backend, devido a necessidade de ser em CRUD. A criação do teste em código por si não é o mais complicado, o mais complicado é pensar em um teste que faça sentido para o projeto e que possa ser usado de garantia para o escalonamento do software.
 
 **Link para testes: https://github.com/SIGAEX/backend/blob/feat/issue30/eventos/testes.py**
+
+## Testes de integração e testes unitários
+
+### Testes de integração são aqueles que percorrem toda a arquitetura por trás do funcionamento do componente em questão. Ele pode passar pelas rotas, pelo serializer, pelo banco de dados, etc.
+
+### Os testes unitários são aqueles que só testam a lógica específica de uma funcionalidade, nada mais.
+
+### No meu projeto tem os dois tipos de teste, mas eu só fiz testes de integração, a partir do testeAPiEventos.
+
 
 
 
