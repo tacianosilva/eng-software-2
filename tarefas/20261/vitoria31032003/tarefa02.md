@@ -1,8 +1,11 @@
 ## Tarefa 02 - Teste de Unidade
 
 **Nome:** Vitória Geovanna de Assis Pereira
+
 **GitHub:** vitoria31032003
+
 **E-mail:** vitoria.assis.067@ufrn.edu.br
+
 **Repositório do projeto:** https://github.com/SIGAEX  
 
 ## O que são testes de unidades
