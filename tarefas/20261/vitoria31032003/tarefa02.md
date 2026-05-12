@@ -30,4 +30,7 @@ Como criar uma API em Django - Criando um CRUD - Aula Completa: (https://www.you
 **Resumo:** Esse tutorial mostra como criar uma API REST utilizando o framework Django na linguagem Python, tendo parte no vídeo de configuração inicial como a criação do ambiente 
 vitual.
 
-## Descrição da implementação
+## O que é Mock Objects
+O termo é utilizado para descrever um caso especial de objetos quando eles são reais para teste. Esses mocks objects são bastantes na comnunidade e métodologias ágeis, visto que, utilizando o xp que faz uso constante de testes através da técnica Test-Driven Development (TDD) que prega teste antes da implementação. Ainda assim, os mock objects possuem pouca na literatura de forma geral. Com isso, é possível simular alguns objetos no intuido de conseguir testar o código.
+
+## Descrição da implementação do user stories - módulo: cadastro de eventos
