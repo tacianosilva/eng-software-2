@@ -34,3 +34,10 @@ vitual.
 O termo é utilizado para descrever um caso especial de objetos quando eles são reais para teste. Esses mocks objects são bastantes na comnunidade e métodologias ágeis, visto que, utilizando o xp que faz uso constante de testes através da técnica Test-Driven Development (TDD) que prega teste antes da implementação. Ainda assim, os mock objects possuem pouca na literatura de forma geral. Com isso, é possível simular alguns objetos no intuido de conseguir testar o código.
 
 ## Descrição da implementação do user stories - módulo: cadastro de eventos
+O sistema deve permitir o preenchimento de um formulário para cadastrar um novo evento, possibilitando ao organizador criar, visualizar a lista de eventos, editar detalhes de um evento, configurar status e visibilidade do evento. Cada saída tem os seguintes atributos: Título, Tipo de evento, local, vagas, carga horária, responsável, status **Inscrições abertas ou fechadas**, data início e data termino. O sistema deve garantir o cadastro correto dessas informações para apoiar a gestão de eventos.
+
+Operações:
+- Criar: crie um novo evento
+- Visualiza: visualiza a lista de eventos já criados
+- Atualizar: edita detalhes de um evento
+- Excluir: exclui eventos já criados
