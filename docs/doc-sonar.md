@@ -65,7 +65,7 @@ Adicione o diretório `<INSTALL_DIRECTORY>/bin` ao seu path.
 
 Verifique sua instalação abrindo um novo terminal e executando o comando sonar-scanner -h, ou sonar-scanner.bat -h no Windows. Você deve obter uma saída como esta:
 
-```console
+```zsh
 usage: sonar-scanner [options]
 Options:
 -D,--define <arg> Define property
@@ -80,7 +80,7 @@ Execute o seguinte comando a partir do diretório base do projeto para iniciar a
 
 #### Cenário 1: Se você já adicionou o bin ao seu PATH (Recomendado)
 
-```console
+```bash
 sonar-scanner \
   -Dsonar.host.url="http://labens.dct.ufrn.br/sonarqube" \
   -Dsonar.token="TOKEN_PROJETO"
@@ -90,7 +90,7 @@ sonar-scanner \
 
 Se você apenas extraiu o .zip e quer rodar direto sem configurar variáveis de ambiente, vá até a raiz da pasta do seu projeto e aponte para o executável dentro da pasta onde o arquivo foi extraído:
 
-```console
+```zsh
 /caminho/para/sonar-scanner-versao/bin/sonar-scanner \
   -Dsonar.host.url="http://labens.dct.ufrn.br/sonarqube" \
   -Dsonar.token="TOKEN_PROJETO"
