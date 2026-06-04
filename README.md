@@ -11,17 +11,9 @@ Neste repositório teremos a lista de tarefas para a disciplina e os modelos de 
 * Modelo do [Documento de Modelos](docs/doc-modelos.md)
 * Modelo do [Documento de User Stories](docs/doc-userstories.md)
 
-## Cronograma dos Projetos por Período
+## Projetos por Período
 
-No página [Projetos por Período](projetos/README.md) listamos os projetos realizados por grupos de alunos durante a disciplina de Engenharia de Software II.
-
-### Semestre Letivo 2026.1
-* Cronograma das [Iterações 2026.1](projetos/20261/plano-iteracoes.md)
-
-### Cronograma de Iterações - Semestre Anteriores
-* Cronograma das [Iterações 2023.1](projetos/20231/cronograma.md)
-* Cronograma das [Iterações 2022.1](projetos/20221/cronograma.md)
-* Cronograma das [Iterações 2021.1](projetos/20211/iteracao.md)
+Na página [Projetos por Período](projetos/README.md) listamos os projetos realizados por grupos de alunos durante a disciplina, com seus cronogramas de iterações.
 
 ## Informações Úteis
 
@@ -37,4 +29,9 @@ No página [Projetos por Período](projetos/README.md) listamos os projetos real
 
 ## Como contribuir
 
-Em construção!!!
+Os discentes podem contribuir abrindo **issues** para relatar problemas ou sugerir
+melhorias, e enviando **Pull Requests** para resolvê-las.
+
+Apenas o professor Taciano Morais Silva pode revisar e aprovar os PRs.
+
+Veja [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes.
