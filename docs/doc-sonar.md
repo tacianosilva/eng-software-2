@@ -38,9 +38,16 @@ coverage run manage.py test
 coverage xml
 ```
 
-## Passo 2: Criar conta no servidor do sonar no LABENS
+## Passo 2: Acessar o SonarQube com sua conta GitHub
 
-Criar conta no nosso servidor sonar: http://labens.dct.ufrn.br/sonarqube.
+Antes de acessar o SonarQube, certifique-se de que você é membro da organização
+[EngSoft-BSI-Hub](https://github.com/EngSoft-BSI-Hub).
+
+Acesse https://labens.dct.ufrn.br/sonarqube/ e clique em **Log in with GitHub**.
+Autorize o acesso com sua conta do GitHub.
+
+Após o primeiro login, você será adicionado ao grupo `es2-users`, que concede
+permissão para executar a análise com o SonarScanner.
 
 ## Passo 3: Criar token de acesso do projeto
 
