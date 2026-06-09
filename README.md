@@ -20,7 +20,7 @@ Na página [Projetos por Período](projetos/README.md) listamos os projetos real
 * Página com resumo de [Comandos Git](docs/github.md)
 * Página com resumo do _nosso_ [GitFlow](docs/doc-gitflow.md)
 * Página com [Guia de Uso do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
-* Página de configuração do [SonarQube](docs/doc-sonar.md)
+* Página de configuração do [SonarQube](docs/sonarqube/README.md)
 
 ## Outros links
 
