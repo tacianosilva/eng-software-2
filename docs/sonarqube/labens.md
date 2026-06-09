@@ -54,12 +54,46 @@ permissão para executar a análise com o SonarScanner.
 Os líderes técnicos devem criar o Token de acesso no seu perfil no sonar.
 O TOKEN_PROJETO é criado na sua conta em **My Account --> Security**.
 
-## Passo 4: 
+## Passo 4: Executar a análise
 
-O TOKEN_PROJETO é criado na sua conta em *My Account --> Security".
-A PASTA_PROJETO é o caminho do diretório do projeto onde o arquivo sonar-project.properties fica.
+A PASTA_PROJETO é o caminho do diretório do projeto onde o arquivo
+sonar-project.properties está localizado.
+
+### Opção 1: Utilizando Docker
 
 ```bash
 docker run --rm -e SONAR_HOST_URL="http://labens.dct.ufrn.br/sonarqube" \
            -v "PASTA_PROJETO:/usr/src" sonarsource/sonar-scanner-cli -Dsonar.login=TOKEN_PROJETO
 ```
+
+### Opção 2: Utilizando o executável do SonarScanner (sem Docker)
+
+Baixe o zip com o sonar-scanner na página
+[Docs SonarSource](https://docs.sonarsource.com/sonarqube-server/10.8/analyzing-source-code/scanners/sonarscanner).
+Extraia o arquivo no diretório de sua preferência e adicione
+`<INSTALL_DIR>/bin` ao seu PATH.
+
+Verifique a instalação:
+
+```
+sonar-scanner -h
+```
+
+Execute a análise na raiz do projeto:
+
+**Com o bin no PATH (recomendado):**
+```bash
+sonar-scanner \
+  -Dsonar.host.url="http://labens.dct.ufrn.br/sonarqube" \
+  -Dsonar.token="TOKEN_PROJETO"
+```
+
+**Sem adicionar ao PATH:**
+```bash
+/caminho/para/sonar-scanner-X.X/bin/sonar-scanner \
+  -Dsonar.host.url="http://labens.dct.ufrn.br/sonarqube" \
+  -Dsonar.token="TOKEN_PROJETO"
+```
+
+Alternativamente, defina a variável de ambiente `SONAR_TOKEN` com o token
+antes de executar.
