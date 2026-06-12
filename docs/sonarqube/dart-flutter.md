@@ -71,3 +71,10 @@ sonar-scanner
 Caso enfrente problemas, informe seu sistema operacional (Docker vs.
 máquina local), a versão do SonarQube e os logs de erro do scanner
 para auxiliar na resolução.
+
+## Referências
+
+- [How to run SonarQube for Flutter code analysis with a self hosted
+  SonarQube server](https://medium.com/@gavaskar96/how-to-run-sonarqube-for-flutter-code-analysis-with-a-self-hosted-sonarqube-server-d1a5c00488d1)
+  — demonstra o uso do Dart analyzer com SonarScanner e um script Python
+  para enviar os resultados ao SonarQube no formato Generic Issue Data.
