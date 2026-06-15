@@ -74,6 +74,8 @@ para auxiliar na resolução.
 
 ## Referências
 
+- [insideapp-oss/sonar-flutter](https://github.com/insideapp-oss/sonar-flutter)
+  — Plugin comunitário para análise de Dart/Flutter no SonarQube.
 - [How to run SonarQube for Flutter code analysis with a self hosted
   SonarQube server](https://medium.com/@gavaskar96/how-to-run-sonarqube-for-flutter-code-analysis-with-a-self-hosted-sonarqube-server-d1a5c00488d1)
   — demonstra o uso do Dart analyzer com SonarScanner e um script Python

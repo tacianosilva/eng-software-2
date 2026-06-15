@@ -95,6 +95,24 @@ networks:
     external: true
     name: labens-network
 ```
+## Gerenciamento de dados
+
+### Copiando arquivos com docker cp
+
+O comando `docker cp` permite copiar arquivos e diretórios entre o host e
+os contêineres, útil para popular volumes ou extrair dados.
+
+```bash
+# Copiar do host para o contêiner
+docker cp /caminho/local/arquivo.txt nome-container:/caminho/no/container/
+
+# Copiar do contêiner para o host
+docker cp nome-container:/caminho/no/container/arquivo.txt /caminho/local/
+
+# Copiar para um volume montado no contêiner
+docker cp dados.csv meu-container:/var/lib/postgresql/data/
+```
+
 ## 🛑 Correção de Erro 403 Forbidden nos Arquivos Estáticos/Mídia (Apache + Django + SELinux)
 
 ### 📋 Descrição do Problema
