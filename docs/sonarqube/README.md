@@ -7,3 +7,4 @@ na disciplina Engenharia de Software II.
 
 - [Análise com o servidor SonarQube do LABENS](labens.md)
 - [Dart e Flutter](dart-flutter.md)
+- [Plugins](plugins.md)

@@ -1,6 +1,9 @@
 
 # Configuração do SonarQube
 
+**Versão:** SonarQube Community Build v25.12.0.117093
+([atualizar](plugins.md#vers%C3%A3o-do-servidor-no-labens))
+
 ## Passo 1: Criar o arquivo sonar-project.properties
 
 Crie um arquivo sonar-project.properties na raiz do projeto. Com o seguinte conteúdo mínimo:
@@ -69,7 +72,7 @@ docker run --rm -e SONAR_HOST_URL="http://labens.dct.ufrn.br/sonarqube" \
 ### Opção 2: Utilizando o executável do SonarScanner (sem Docker)
 
 Baixe o zip com o sonar-scanner na página
-[Docs SonarSource](https://docs.sonarsource.com/sonarqube-server/10.8/analyzing-source-code/scanners/sonarscanner).
+[Docs SonarSource](https://docs.sonarsource.com/sonarqube-community-build/analyzing-source-code/scanners/sonarscanner).
 Extraia o arquivo no diretório de sua preferência e adicione
 `<INSTALL_DIR>/bin` ao seu PATH.
 
