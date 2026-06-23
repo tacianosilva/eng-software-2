@@ -54,3 +54,12 @@ O VS Code foi escolhido por ser uma ferramenta leve, flexível e bastante adapt�
 Outro ponto importante é a presença do terminal integrado e do sistema de depuração, que ajudam tanto na execução quanto na identificação de erros durante o desenvolvimento. Isso torna o fluxo de trabalho mais contínuo, sem a necessidade de alternar entre várias ferramentas.
 
 De forma geral, a IDE contribui para um desenvolvimento mais eficiente e organizado do projeto.
+
+## E) Tutorial de CRUD
+
+Link utilizado:
+https://www.geeksforgeeks.org/python/build-a-django-application-to-perform-crud-operations/
+
+O tutorial apresenta a construção de uma aplicação web utilizando Django para implementar operações de CRUD (criar, listar, atualizar e excluir registros). Ele mostra, de forma prática, como configurar um projeto Django desde a criação do app até a definição de modelos, views, URLs e templates.
+
+Além disso, o material explica como integrar formulários, manipular dados no banco e estruturar uma interface simples para interação com o usuário. O exemplo utilizado é baseado em um sistema de receitas, mas os conceitos apresentados podem ser aplicados diretamente no nosso projeto, já que também envolve controle de registros e operações de cadastro, edição e remoção de dados.
