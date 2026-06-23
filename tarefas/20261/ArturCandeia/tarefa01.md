@@ -21,12 +21,14 @@ progresso e realizem simulados preparatórios.
 
 ---
 
-## 2. Linguagem de Programação
+## 2. Linguagem de Programação e IDE
 
 A linguagem usada sera Python e o framework sera Django
 
 O motivo é que ja se tem mais experiencia em Python e Django foi escolhido
 pela facilidade de uso e aprendizado e por ser uma ferramenta muito boa e
 bem documentada
+
+IDE:Sera usado do VScode e a versão do git 2.40
 
 ---
