@@ -20,3 +20,13 @@ progresso e realizem simulados preparatórios.
 **Repositório:** [ArturCandeia](https://github.com/ArturCandeia/git-estudos)
 
 ---
+
+## 2. Linguagem de Programação
+
+A linguagem usada sera Python e o framework sera Django
+
+O motivo é que ja se tem mais experiencia em Python e Django foi escolhido
+pela facilidade de uso e aprendizado e por ser uma ferramenta muito boa e
+bem documentada
+
+---
