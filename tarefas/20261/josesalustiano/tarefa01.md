@@ -56,3 +56,10 @@ O **GitFlow** é um modelo de ramificação (*branching model*) que organiza o t
 * `feature/nome-da-tarefa`: Branches temporárias criadas a partir da `develop` para desenvolver uma funcionalidade específica isoladamente.
 
 Quando o trabalho em uma `feature` é finalizado, o desenvolvedor abre um **Pull Request (ou Merge Request)** no GitHub para solicitar que o seu código seja integrado de volta à branch `develop`. O Pull Request é fundamental porque permite que outros membros da equipe revisem o código, aprovem as alterações e garantam que não existam conflitos estruturais antes de a funcionalidade fazer parte do projeto principal.
+
+## g. Versionamento Semântico (SemVer)
+
+O **Versionamento Semântico** é um conjunto de regras para a atribuição de números de versão a um software, ajudando os desenvolvedores a entenderem o impacto de uma atualização. Ele segue o formato estruturado `MAJOR.MINOR.PATCH` (ex: `v2.1.4`):
+1. **MAJOR (Maior):** Incrementado quando são feitas mudanças incompatíveis na API (quebram o funcionamento de versões anteriores).
+2. **MINOR (Menor):** Incrementado quando novas funcionalidades são adicionadas, mas mantendo a compatibilidade com versões anteriores.
+3. **PATCH (Correção):** Incrementado quando são feitas correções de bugs (*bug fixes*) que não alteram as funcionalidades nem quebram a compatibilidade.
