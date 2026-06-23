@@ -44,3 +44,13 @@ A equipe possui conhecimento em nível básico a intermediário na linguagem, co
 O framework adotado no projeto é o Django.
 
 O Django é um framework web de alto nível desenvolvido em Python, bastante utilizado para a criação de aplicações web de forma rápida e organizada. Ele já oferece recursos prontos como autenticação de usuários, painel administrativo e ORM para gerenciamento de banco de dados, o que facilita bastante o desenvolvimento e evita a necessidade de implementar essas funcionalidades do zero.
+
+## D) IDE e Ferramentas
+
+O desenvolvimento do projeto foi realizado utilizando o Visual Studio Code (VS Code) como ambiente principal.
+
+O VS Code foi escolhido por ser uma ferramenta leve, flexível e bastante adaptável a diferentes tipos de projetos. Ele permite o uso de extensões que melhoram o suporte ao Python e ao Django, além de facilitar o versionamento com Git diretamente no editor.
+
+Outro ponto importante é a presença do terminal integrado e do sistema de depuração, que ajudam tanto na execução quanto na identificação de erros durante o desenvolvimento. Isso torna o fluxo de trabalho mais contínuo, sem a necessidade de alternar entre várias ferramentas.
+
+De forma geral, a IDE contribui para um desenvolvimento mais eficiente e organizado do projeto.
