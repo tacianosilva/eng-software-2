@@ -91,3 +91,25 @@ que não afetam a compatibilidade. É apenas uma correção de algo que estava
 errado.
 
 ---
+
+## 6. Conventional Commits
+
+Conventional Commits é uma convenção para padronizar as mensagens de 
+commit, tornando o histórico do projeto mais legível e organizado, tanto 
+para humanos quanto para ferramentas automatizadas. Ela se integra 
+diretamente com o Versionamento Semântico, pois cada tipo de commit 
+corresponde a um nível de versão.
+
+## Tipos e o que significam
+
+| `feat` | Adição de uma nova funcionalidade (relacionado ao MINOR do SemVer) |
+| `fix` | Correção de um bug (relacionado ao PATCH do SemVer) |
+| `docs` | Alterações apenas na documentação |
+| `style` | Formatação, ponto e vírgula, espaços, sem mudança de lógica |
+| `refactor` | Refatoração de código sem adicionar feature ou corrigir bug |
+| `test` | Adição ou correção de testes |
+| `build` | Mudanças no sistema de build ou dependências externas |
+| `chore` | Tarefas gerais que não alteram o código fonte |
+| `BREAKING CHANGE` | Mudança que quebra compatibilidade (relacionado ao MAJOR do SemVer) |
+
+---
