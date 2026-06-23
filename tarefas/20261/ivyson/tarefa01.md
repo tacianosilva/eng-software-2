@@ -32,3 +32,9 @@ O AntiVeaco é um sistema web desenvolvido para auxiliar pequenos estabeleciment
 ### Repositório do Projeto
 
 https://github.com/expeditofranca/ProjetoEngenharia1.git
+
+## B) Linguagem de Programação
+
+A linguagem decidida para o desenvolvimento do projeto foi o Python.
+
+A equipe possui conhecimento em nível básico a intermediário na linguagem, com experiência em lógica de programação e construção de aplicações simples. A escolha do Python se deve à sua sintaxe clara e de fácil compreensão, além de ser amplamente utilizada no desenvolvimento web. Outro fator importante é o seu ecossistema rico, com diversas bibliotecas e frameworks que facilitam a implementação do sistema.
