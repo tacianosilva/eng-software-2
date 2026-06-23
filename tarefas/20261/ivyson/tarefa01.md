@@ -63,3 +63,21 @@ https://www.geeksforgeeks.org/python/build-a-django-application-to-perform-crud-
 O tutorial apresenta a construção de uma aplicação web utilizando Django para implementar operações de CRUD (criar, listar, atualizar e excluir registros). Ele mostra, de forma prática, como configurar um projeto Django desde a criação do app até a definição de modelos, views, URLs e templates.
 
 Além disso, o material explica como integrar formulários, manipular dados no banco e estruturar uma interface simples para interação com o usuário. O exemplo utilizado é baseado em um sistema de receitas, mas os conceitos apresentados podem ser aplicados diretamente no nosso projeto, já que também envolve controle de registros e operações de cadastro, edição e remoção de dados.
+
+## F) Branches e Pull Request com GitFlow
+
+O Git trabalha com o conceito de branches (ramificações), que permitem criar linhas independentes de desenvolvimento dentro do mesmo projeto. Isso possibilita que diferentes funcionalidades, melhorias ou correções sejam feitas separadamente, sem interferir diretamente na versão principal do sistema.
+
+Na prática, isso evita conflitos e ajuda a manter o código mais organizado, já que cada mudança pode ser desenvolvida e testada isoladamente antes de ser integrada ao projeto principal.
+
+Para unir essas alterações ao código principal, utiliza-se o Pull Request (ou Merge Request, em outras plataformas). Ele funciona como uma solicitação de integração, onde as mudanças de uma branch são enviadas para revisão antes de serem incorporadas. Isso permite que outros membros da equipe analisem o código, identifiquem possíveis problemas e aprovem a alteração com mais segurança.
+
+Dentro desse contexto, o GitFlow é um modelo de organização que define como essas branches devem ser estruturadas ao longo do projeto. Em vez de trabalhar de forma desorganizada, ele propõe um fluxo mais padronizado, geralmente envolvendo:
+
+- main: versão estável do sistema
+- develop: branch de desenvolvimento contínuo
+- feature: criação de novas funcionalidades
+- hotfix: correções urgentes
+- release: preparação para novas versões
+
+Esse modelo facilita o trabalho em equipe, melhora o controle de versões e torna o histórico do projeto mais claro e rastreável.
