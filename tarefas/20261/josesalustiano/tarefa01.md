@@ -63,3 +63,14 @@ O **Versionamento Semântico** é um conjunto de regras para a atribuição de n
 1. **MAJOR (Maior):** Incrementado quando são feitas mudanças incompatíveis na API (quebram o funcionamento de versões anteriores).
 2. **MINOR (Menor):** Incrementado quando novas funcionalidades são adicionadas, mas mantendo a compatibilidade com versões anteriores.
 3. **PATCH (Correção):** Incrementado quando são feitas correções de bugs (*bug fixes*) que não alteram as funcionalidades nem quebram a compatibilidade.
+
+## h. Conventional Commits
+
+Os **Conventional Commits** (Convenção para Mensagens de Commits) são um padrão simples para formatar mensagens de commit. Eles ajudam a criar um histórico de projeto limpo, legível por humanos e por máquinas (útil para gerar *changelogs* automáticos). A estrutura básica é: `<tipo>[escopo opcional]: <descrição>`.
+
+Os principais tipos são:
+* `feat:` (Adição de uma nova funcionalidade)
+* `fix:` (Correção de um bug)
+* `docs:` (Alterações na documentação)
+* `chore:` (Tarefas de manutenção, atualização de dependências, etc.)
+* Exemplo prático: `feat: adiciona controle de estoque nas ordens de serviço`
