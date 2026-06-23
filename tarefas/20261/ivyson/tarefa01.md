@@ -109,3 +109,7 @@ Nesse padrão, cada commit segue uma estrutura básica que começa com um tipo o
 Um dos principais pontos dessa convenção é sua relação com o Versionamento Semântico (SemVer). Commits do tipo `fix` normalmente indicam correções que resultam em versões PATCH, enquanto `feat` está associado à adição de funcionalidades e versões MINOR. Já commits com BREAKING CHANGE indicam alterações incompatíveis, relacionadas a versões MAJOR.
 
 Na prática, o uso do Conventional Commits facilita a automação de tarefas como geração de changelogs, controle de versões e integração contínua, além de melhorar a comunicação entre desenvolvedores ao deixar claro o impacto de cada alteração no código.
+
+## AcademicDevFlow (Feedback)
+
+Criei uma conta e acessei a plataforma AcademicDevFlow. A interface é bem organizada e a navegação é simples e intuitiva. O projeto foi criado pelo líder técnico e todos os membros da equipe foram devidamente vinculados, concluindo essa etapa da atividade.
