@@ -81,3 +81,21 @@ Dentro desse contexto, o GitFlow é um modelo de organização que define como e
 - release: preparação para novas versões
 
 Esse modelo facilita o trabalho em equipe, melhora o controle de versões e torna o histórico do projeto mais claro e rastreável.
+
+## G) Versionamento Semântico (SemVer)
+
+O Versionamento Semântico, conhecido como SemVer, é um padrão utilizado para organizar versões de software de maneira clara e consistente. Ele foi criado para facilitar o entendimento das mudanças entre versões e evitar problemas de compatibilidade em sistemas que dependem de bibliotecas ou aplicações externas.
+
+A estrutura segue o formato:
+
+MAJOR.MINOR.PATCH (exemplo: 1.2.3)
+
+Cada parte da versão representa um tipo de alteração no sistema:
+
+- MAJOR: indica mudanças significativas que podem quebrar compatibilidade com versões anteriores
+- MINOR: representa a adição de novas funcionalidades, mantendo compatibilidade com o que já existia
+- PATCH: usado para correções de erros e ajustes internos, sem impacto nas funcionalidades principais
+
+Na prática, esse modelo ajuda a identificar rapidamente o impacto de cada atualização. Por exemplo, mudanças pequenas de correção aumentam apenas o PATCH, enquanto alterações mais estruturais podem exigir uma nova versão MAJOR.
+
+Com isso, o SemVer torna o processo de evolução do software mais organizado e previsível, tanto para quem desenvolve quanto para quem utiliza o sistema.
