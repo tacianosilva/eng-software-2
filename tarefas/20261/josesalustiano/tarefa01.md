@@ -23,4 +23,14 @@ O sistema utiliza uma arquitetura desacoplada e faz uso de duas linguagens princ
 * **Python:** É uma linguagem de alto nível, de sintaxe limpa, fortemente tipada e dinâmica. É amplamente reconhecida pela sua legibilidade e pela robustez do seu ecossistema, o que reduz o tempo de desenvolvimento de lógicas complexas de negócios e garante segurança no tratamento de dados.
 * **JavaScript:** É a linguagem padrão da web para a criação de interfaces dinâmicas, permitindo o processamento de requisições assíncronas no lado do cliente sem a necessidade de recarregar a página a cada ação.
 
-**Domínio e Experiência da Equipe:** A equipe possui domínio intermediário e prático na linguagem Python, consolidado através do desenvolvimento de rotinas de validação de dados, transações de banco de dados e controle de regras restritivas (como a unicidade de registros e controle lógico de exclusão). Em relação ao JavaScript, a equipe possui experiência na manipulação de estados do lado do cliente, integração com APIs REST através de requisições HTTP (com a biblioteca Axios) e estruturação de fluxos de telas responsivas.
+**Domínio e Experiência da Equipe:** Nos possuímos domínio intermediário e prático na linguagem Python, consolidado através do desenvolvimento de rotinas de validação de dados, transações de banco de dados e controle de regras restritivas (como a unicidade de registros e controle lógico de exclusão). Em relação ao JavaScript,  possuímos experiência na manipulação de estados do lado do cliente, integração com APIs REST através de requisições HTTP (com a biblioteca Axios) e estruturação de fluxos de telas responsivas.
+
+## c. Frameworks utilizados no projeto
+
+O projeto utiliza frameworks consolidados em ambas as pontas da aplicação:
+
+* **No Backend (Django e Django REST Framework - DRF):**
+O Django é um framework de alto nível em Python que segue a filosofia *"Batteries Included"*, oferecendo nativamente ferramentas robustas para segurança, um ORM (*Object-Relational Mapping*) poderoso e gerenciamento avançado de permissões de usuários. Juntamente com o DRF, o framework é utilizado para transformar os modelos de dados em uma API RESTful padronizada, que trafega dados puramente em formato JSON de maneira rápida e segura.
+
+* **No Frontend (React):**
+O React é uma biblioteca/framework JavaScript baseada em componentes, utilizada para a construção de interfaces de usuário dinâmicas. Ele gerencia o estado da aplicação de forma eficiente por meio do *Virtual DOM*. No projeto, o React permite criar formulários inteligentes e telas de visualização detalhada que consomem os dados da API em tempo real.
