@@ -34,3 +34,10 @@ O Django é um framework de alto nível em Python que segue a filosofia *"Batter
 
 * **No Frontend (React):**
 O React é uma biblioteca/framework JavaScript baseada em componentes, utilizada para a construção de interfaces de usuário dinâmicas. Ele gerencia o estado da aplicação de forma eficiente por meio do *Virtual DOM*. No projeto, o React permite criar formulários inteligentes e telas de visualização detalhada que consomem os dados da API em tempo real.
+
+## d. IDE e Ferramentas Integradas
+
+A IDE principal a ser utilizada no projeto será o **Visual Studio Code (VS Code)**, por ser leve e altamente customizável tanto para o ecossistema Python quanto para o JavaScript. 
+
+* **Ferramentas de Debug:** O VS Code possui um *debugger* nativo que permite a inserção de *breakpoints* (pontos de parada) no código, inspeção do valor de variáveis em tempo real, visualização da pilha de chamadas (*call stack*) e execução passo a passo do código (tanto no servidor Django quanto na interface React).
+* **Controle de Versão:** A IDE possui forte integração nativa com o Git. Na aba *Source Control*, é possível realizar o *staging* de arquivos, escrever mensagens de commit, alternar entre *branches*, realizar *push/pull* e resolver conflitos de *merge* de forma visual, sem a necessidade de recorrer ao terminal para comandos básicos.
