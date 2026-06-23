@@ -41,3 +41,9 @@ A IDE principal a ser utilizada no projeto será o **Visual Studio Code (VS Code
 
 * **Ferramentas de Debug:** O VS Code possui um *debugger* nativo que permite a inserção de *breakpoints* (pontos de parada) no código, inspeção do valor de variáveis em tempo real, visualização da pilha de chamadas (*call stack*) e execução passo a passo do código (tanto no servidor Django quanto na interface React).
 * **Controle de Versão:** A IDE possui forte integração nativa com o Git. Na aba *Source Control*, é possível realizar o *staging* de arquivos, escrever mensagens de commit, alternar entre *branches*, realizar *push/pull* e resolver conflitos de *merge* de forma visual, sem a necessidade de recorrer ao terminal para comandos básicos.
+
+## e. Tutorial de CRUD
+
+**Link do Tutorial:** [Tutorial Prático de CRUD](https://www.youtube.com/watch?v=RFhtotcSz1A)
+
+**Descrição:** Este tutorial em vídeo aborda de forma prática e direta como desenvolver as quatro operações fundamentais de um sistema: CRUD (Create, Read, Update, Delete). O material ensina o passo a passo para estruturar a criação, leitura, atualização e remoção de registros, servindo como uma excelente base de referência para a construção do fluxo de dados e das funcionalidades principais do nosso projeto.
