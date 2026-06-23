@@ -113,3 +113,11 @@ corresponde a um nível de versão.
 | `BREAKING CHANGE` | Mudança que quebra compatibilidade (relacionado ao MAJOR do SemVer) |
 
 ---
+
+## 9.i Feedback
+
+Feedback Feito
+
+## 9.j Projeto
+
+Projeto Cadastrado
