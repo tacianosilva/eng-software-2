@@ -47,3 +47,10 @@ A IDE principal a ser utilizada no projeto será o **Visual Studio Code (VS Code
 **Link do Tutorial:** [Tutorial Prático de CRUD](https://www.youtube.com/watch?v=RFhtotcSz1A)
 
 **Descrição:** Este tutorial em vídeo aborda de forma prática e direta como desenvolver as quatro operações fundamentais de um sistema: CRUD (Create, Read, Update, Delete). O material ensina o passo a passo para estruturar a criação, leitura, atualização e remoção de registros, servindo como uma excelente base de referência para a construção do fluxo de dados e das funcionalidades principais do nosso projeto.
+
+## f. Branches, Pull Requests e GitFlow
+
+O **GitFlow** é um modelo de ramificação (*branching model*) que organiza o trabalho em equipe definindo papéis estritos para diferentes branches:
+* `main`: Armazena o código de produção, que sempre deve estar funcional.
+* `develop`: Serve como a branch principal de integração. É a partir dela que os desenvolvedores criam suas branches de trabalho.
+* `feature/nome-da-tarefa`: Branches temporárias criadas a partir da `develop` para desenvolver uma funcionalidade específica isoladamente.
