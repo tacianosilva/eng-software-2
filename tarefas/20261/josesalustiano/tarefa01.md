@@ -54,3 +54,5 @@ O **GitFlow** é um modelo de ramificação (*branching model*) que organiza o t
 * `main`: Armazena o código de produção, que sempre deve estar funcional.
 * `develop`: Serve como a branch principal de integração. É a partir dela que os desenvolvedores criam suas branches de trabalho.
 * `feature/nome-da-tarefa`: Branches temporárias criadas a partir da `develop` para desenvolver uma funcionalidade específica isoladamente.
+
+Quando o trabalho em uma `feature` é finalizado, o desenvolvedor abre um **Pull Request (ou Merge Request)** no GitHub para solicitar que o seu código seja integrado de volta à branch `develop`. O Pull Request é fundamental porque permite que outros membros da equipe revisem o código, aprovem as alterações e garantam que não existam conflitos estruturais antes de a funcionalidade fazer parte do projeto principal.
