@@ -38,6 +38,8 @@ IDE:Sera usado do VScode e a versão do git 2.40
 https://www.youtube.com/watch?v=Q2tEqNfgIXM  
 O tutorial ensina  como desenvolver uma API em Python, utilizando o Django framework mostrando passo a passo mostrando quais packs baixar e como organizar o ambiente.
 
+---
+
 ## 4. Branches, Pull Request e GitFlow
 
 ### Branches
@@ -61,3 +63,31 @@ Merge Request.
 GitFlow é um modelo de organização de branches que define um fluxo 
 de trabalho padronizado para equipes. Ele utiliza branches específicas 
 para cada finalidade:`main`,`develop`,`feature/`,`release/`,`hotfix/`
+
+---
+
+## 5. Versionamento Semântico
+
+Versionamento Semântico (SemVer) é um conjunto de regras que define como 
+os números de versão de um software devem ser atribuídos e incrementados 
+ao longo do tempo. Ele foi criado para resolver um problema muito comum no 
+desenvolvimento de software chamado "inferno das dependências", que ocorre 
+quando um sistema cresce e passa a depender de muitos pacotes externos, 
+tornando difícil atualizar ou manter a compatibilidade entre eles.
+
+O SemVer utiliza o formato **X.Y.Z**, onde cada número tem um significado 
+específico:
+
+- **MAJOR (Maior):** incrementado quando são feitas mudanças incompatíveis 
+com versões anteriores. Ou seja, algo que funcionava antes pode deixar de 
+funcionar após essa atualização.
+
+- **MINOR (Menor):** incrementado quando novas funcionalidades são 
+adicionadas mantendo a compatibilidade com versões anteriores. O sistema 
+continua funcionando normalmente, apenas ganhou algo novo.
+
+- **PATCH (Correção):** incrementado quando são feitas correções de bugs 
+que não afetam a compatibilidade. É apenas uma correção de algo que estava 
+errado.
+
+---
