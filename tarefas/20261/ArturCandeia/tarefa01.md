@@ -32,3 +32,8 @@ bem documentada
 IDE:Sera usado do VScode e a versão do git 2.40
 
 ---
+
+## 5. Tutorial de CRUD
+
+https://www.youtube.com/watch?v=Q2tEqNfgIXM  
+O tutorial ensina  como desenvolver uma API em Python, utilizando o Django framework mostrando passo a passo mostrando quais packs baixar e como organizar o ambiente.
