@@ -99,3 +99,13 @@ Cada parte da versão representa um tipo de alteração no sistema:
 Na prática, esse modelo ajuda a identificar rapidamente o impacto de cada atualização. Por exemplo, mudanças pequenas de correção aumentam apenas o PATCH, enquanto alterações mais estruturais podem exigir uma nova versão MAJOR.
 
 Com isso, o SemVer torna o processo de evolução do software mais organizado e previsível, tanto para quem desenvolve quanto para quem utiliza o sistema.
+
+## H) Conventional Commits
+
+O Conventional Commits é uma convenção para padronizar mensagens de commit em projetos que utilizam Git. A ideia principal é tornar o histórico de alterações mais organizado, legível e fácil de interpretar tanto por pessoas quanto por ferramentas automatizadas.
+
+Nesse padrão, cada commit segue uma estrutura básica que começa com um tipo obrigatório, como `feat` (nova funcionalidade) ou `fix` (correção de erro), podendo incluir também um escopo opcional e uma descrição curta do que foi feito. Em alguns casos, podem existir informações adicionais no corpo da mensagem ou em rodapés, como indicações de mudanças que quebram compatibilidade (BREAKING CHANGE).
+
+Um dos principais pontos dessa convenção é sua relação com o Versionamento Semântico (SemVer). Commits do tipo `fix` normalmente indicam correções que resultam em versões PATCH, enquanto `feat` está associado à adição de funcionalidades e versões MINOR. Já commits com BREAKING CHANGE indicam alterações incompatíveis, relacionadas a versões MAJOR.
+
+Na prática, o uso do Conventional Commits facilita a automação de tarefas como geração de changelogs, controle de versões e integração contínua, além de melhorar a comunicação entre desenvolvedores ao deixar claro o impacto de cada alteração no código.
