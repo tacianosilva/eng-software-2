@@ -97,3 +97,23 @@ O **Versionamento Semântico (SemVer)** é um conjunto de regras que dita como o
 * **MAJOR (X):** Incrementado quando são feitas alterações com quebras de compatibilidade na API (breaking changes), onde o software que consome precisa de modificações para funcionar.
 * **MINOR (Y):** Incrementado quando novas funcionalidades são adicionadas mantendo a compatibilidade total com as versões anteriores daquela mesma linha.
 * **PATCH (Z):** Incrementado quando são aplicadas apenas correções de bugs (*bug fixes*) que não quebram e não adicionam novas funções, mantendo total retrocompatibilidade.
+
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 8. Resumo sobre Conventional Commits
+
+A especificação de **Conventional Commits** estabelece uma convenção simples para mensagens de commit, tornando o histórico de versionamento do Git altamente legível para humanos e fácil de ser automatizado por ferramentas externas (como geradores automáticos de CHANGELOGs). A estrutura básica baseia-se em:
+
+> **`<tipo>(<escopo opcional>): <descrição curta>`**
+
+Os principais tipos utilizados incluem:
+
+* `feat`: Introdução de uma nova funcionalidade no código.
+* `fix`: Resolução/correção de um bug técnico.
+* `docs`: Modificações estritamente voltadas a documentações (como arquivos `.md`).
+* `style`: Alterações estéticas ou de formatação de código que não afetam seu comportamento lógico (espaços, ponto e vírgula, etc).
+* `refactor`: Modificação que reconstrói o código interno sem corrigir bugs ou adicionar novas funções.
+* `test`: Adição ou modificação de testes automatizados unitários ou de integração.
+
