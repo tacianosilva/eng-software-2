@@ -86,3 +86,14 @@ O projeto iService utiliza a estratégia de ramificação **GitFlow** para organ
 
 * **Pull Request (ou Merge Request):** É o mecanismo pelo qual um desenvolvedor solicita formalmente que as alterações de sua branch (como uma `feature/*`) sejam revisadas e integradas ao ramo principal (`develop` ou `main`). No ecossistema do GitHub, o Pull Request funciona como uma ferramenta de qualidade: ele ativa a automação do CI/CD via GitHub Actions para realizar rotinas automáticas de Linters, Builds e Testes, bloqueando a integração se houver falhas técnicas ou conflitos.
 
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 7. Resumo sobre Versionamento Semântico (SemVer)
+
+O **Versionamento Semântico (SemVer)** é um conjunto de regras que dita como os números de versão de um software devem ser atribuídos e incrementados, estruturando-se no formato clássico **X.Y.Z** (por exemplo: `0.0.1`):
+
+* **MAJOR (X):** Incrementado quando são feitas alterações com quebras de compatibilidade na API (breaking changes), onde o software que consome precisa de modificações para funcionar.
+* **MINOR (Y):** Incrementado quando novas funcionalidades são adicionadas mantendo a compatibilidade total com as versões anteriores daquela mesma linha.
+* **PATCH (Z):** Incrementado quando são aplicadas apenas correções de bugs (*bug fixes*) que não quebram e não adicionam novas funções, mantendo total retrocompatibilidade.
