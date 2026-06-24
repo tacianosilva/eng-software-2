@@ -47,3 +47,14 @@ No coração do desenvolvimento do Back-end está o **NestJS** (v11.0.1).
 * **Sobre o NestJS:** É um framework Node.js progressivo voltado à construção de aplicativos eficientes, confiáveis e escaláveis no lado do servidor. Ele combina elementos de Programação Orientada a Objetos, Programação Funcional e Programação Reativa.
 * **Justificativa no iService:** Ele impõe uma arquitetura modular rígida através da separação explícita entre *Controllers* (tratamento de rotas e requisições HTTP), *Services* (regras de negócio isoladas) e *Guards* (camada nativa para proteção de rotas com JWT e papéis de acesso). Essa modularidade otimiza a separação de conceitos (SoC) e simplifica os testes automatizados com o ecossistema Jest já nativamente embutido no projeto.
 
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 4. Ambiente de Desenvolvimento (IDE) Escolhido
+
+A IDE padrão recomendada para o desenvolvimento do iService é o **Visual Studio Code (VS Code)**.
+
+* **Ferramenta de Debug Integrada:** O VS Code oferece um depurador nativo excelente para Node.js e TypeScript. Configurando o arquivo `.vscode/launch.json` com o comando `nest start --debug --watch`, os desenvolvedores conseguem anexar pontos de parada (*breakpoints*) diretamente no código-fonte TypeScript. Isso permite inspecionar pilhas de chamadas, variáveis em tempo de execução e analisar o fluxo dos serviços de matchmaking e geolocalização do app sem depender de logs poluídos no console.
+* **Controle de Versão Integrado:** A IDE possui uma interface gráfica dedicada para Git, permitindo visualizar de forma clara arquivos modificados, realizar estágios (*stage*), escrever mensagens de commits e sincronizar alterações com o GitHub. Ela exibe também indicadores visuais diretamente nas linhas modificadas no código (*Git Gutters*) e, combinado com extensões como o *GitLens*, possibilita rastrear o histórico de alterações por linha e por autor de forma ágil.
+
