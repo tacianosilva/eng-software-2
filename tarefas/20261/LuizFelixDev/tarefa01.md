@@ -58,3 +58,13 @@ A IDE padrão recomendada para o desenvolvimento do iService é o **Visual Studi
 * **Ferramenta de Debug Integrada:** O VS Code oferece um depurador nativo excelente para Node.js e TypeScript. Configurando o arquivo `.vscode/launch.json` com o comando `nest start --debug --watch`, os desenvolvedores conseguem anexar pontos de parada (*breakpoints*) diretamente no código-fonte TypeScript. Isso permite inspecionar pilhas de chamadas, variáveis em tempo de execução e analisar o fluxo dos serviços de matchmaking e geolocalização do app sem depender de logs poluídos no console.
 * **Controle de Versão Integrado:** A IDE possui uma interface gráfica dedicada para Git, permitindo visualizar de forma clara arquivos modificados, realizar estágios (*stage*), escrever mensagens de commits e sincronizar alterações com o GitHub. Ela exibe também indicadores visuais diretamente nas linhas modificadas no código (*Git Gutters*) e, combinado com extensões como o *GitLens*, possibilita rastrear o histórico de alterações por linha e por autor de forma ágil.
 
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 5. Tutorial para Implementação de CRUD
+
+Para consolidar as práticas de desenvolvimento no ecossistema NestJS + TypeORM + PostgreSQL adotado no projeto, recomenda-se o seguinte tutorial prático:
+
+* **Link:** [Building a REST API with NestJS and TypeORM (Dev.to)](https://www.google.com/search?q=https://dev.to/ismailcourr/building-a-rest-api-with-nestjs-and-typeorm-4767)
+* **Descrição Curta:** Este tutorial guia o desenvolvedor passo a passo na criação de uma API RESTful utilizando o NestJS integrado ao TypeORM com PostgreSQL. Ele demonstra como gerar recursos modulares usando o Nest CLI, estruturar entidades de banco de dados, expor os endpoints de criação, leitura, atualização e exclusão (CRUD) por meio de Controllers, e injetar serviços para manipular a persistência de dados de forma assíncrona e segura.
