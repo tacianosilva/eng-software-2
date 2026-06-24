@@ -117,3 +117,6 @@ Os principais tipos utilizados incluem:
 * `refactor`: Modificação que reconstrói o código interno sem corrigir bugs ou adicionar novas funções.
 * `test`: Adição ou modificação de testes automatizados unitários ou de integração.
 
+
+
+## Já estou logado no academicdevflow faz tempo!
