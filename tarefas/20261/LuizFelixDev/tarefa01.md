@@ -36,3 +36,14 @@ A linguagem de programação principal adotada no ecossistema do projeto (tanto 
 
 * **Domínio e Experiência da Equipe:** A escolha foi motivada pela tipagem estática rigorosa, que evita erros em tempo de execução e facilita refatorações seguras. A equipe possui competências bem distribuídas: o ecossistema Back-end (Kaique, Ismael e Eduardo) utiliza intensamente os recursos avançados de tipagem do TypeScript integrados a decoradores e injeção de dependência, enquanto o time Front-end/Mobile (Luiz Henrique e Isaque) foca na tipagem de interfaces de usuário, estados e consumo de APIs REST no ecossistema React Native/Expo.
 
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 3. Framework Utilizado
+
+No coração do desenvolvimento do Back-end está o **NestJS** (v11.0.1).
+
+* **Sobre o NestJS:** É um framework Node.js progressivo voltado à construção de aplicativos eficientes, confiáveis e escaláveis no lado do servidor. Ele combina elementos de Programação Orientada a Objetos, Programação Funcional e Programação Reativa.
+* **Justificativa no iService:** Ele impõe uma arquitetura modular rígida através da separação explícita entre *Controllers* (tratamento de rotas e requisições HTTP), *Services* (regras de negócio isoladas) e *Guards* (camada nativa para proteção de rotas com JWT e papéis de acesso). Essa modularidade otimiza a separação de conceitos (SoC) e simplifica os testes automatizados com o ecossistema Jest já nativamente embutido no projeto.
+
