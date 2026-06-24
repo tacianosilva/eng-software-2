@@ -13,11 +13,11 @@ Com base nas informações extraídas dos documentos de documentação (`documen
 * **Descrição:** Desenvolvido para a disciplina de Engenharia de Software II na UFRN, o iService insere-se no contexto da *Gig Economy* (economia sob demanda). Ele funciona como um marketplace geolocalizado em tempo real focado em conectar pessoas com necessidades urgentes de manutenção, reparos ou serviços rápidos a profissionais qualificados geograficamente próximos. A otimização e inteligência espacial são realizadas por meio da extensão PostGIS do PostgreSQL.
 * **Equipe e Papéis:**
 * **Taciano:** Cliente Professor
-* **Kaique:** Líder Técnico e Desenvolvedor Back-end
-* **Luiz Henrique:** Desenvolvedor Mobile / Front-end
+* **Kaique:** Ex Líder Técnico e Desenvolvedor Back-end
+* **Luiz Henrique:** Ex Líder Técnico Desenvolvedor Mobile / Front-end
 * **Ismael Gomes da Silva:** Desenvolvedor Back-end
 * **Caio Lucas Lopes:** Analista de Requisitos
-* **Eduardo Nascimento Santos:** Desenvolvedor Full-stack
+* **Eduardo Nascimento Santos:** Líder técnico Desenvolvedor Full-stack
 * **Isaque Guimaraes:** Desenvolvedor Mobile / Front-end
 
 
@@ -26,4 +26,13 @@ Com base nas informações extraídas dos documentos de documentação (`documen
 * Frontend Mobile App: `https://github.com/luizfelixdev/iservice-app`
 
 
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 2. Linguagem de Programação Utilizada
+
+A linguagem de programação principal adotada no ecossistema do projeto (tanto no front-end quanto no back-end) é o **TypeScript**.
+
+* **Domínio e Experiência da Equipe:** A escolha foi motivada pela tipagem estática rigorosa, que evita erros em tempo de execução e facilita refatorações seguras. A equipe possui competências bem distribuídas: o ecossistema Back-end (Kaique, Ismael e Eduardo) utiliza intensamente os recursos avançados de tipagem do TypeScript integrados a decoradores e injeção de dependência, enquanto o time Front-end/Mobile (Luiz Henrique e Isaque) foca na tipagem de interfaces de usuário, estados e consumo de APIs REST no ecossistema React Native/Expo.
 
