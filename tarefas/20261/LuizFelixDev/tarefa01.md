@@ -68,3 +68,21 @@ Para consolidar as práticas de desenvolvimento no ecossistema NestJS + TypeORM 
 
 * **Link:** [Building a REST API with NestJS and TypeORM (Dev.to)](https://www.google.com/search?q=https://dev.to/ismailcourr/building-a-rest-api-with-nestjs-and-typeorm-4767)
 * **Descrição Curta:** Este tutorial guia o desenvolvedor passo a passo na criação de uma API RESTful utilizando o NestJS integrado ao TypeORM com PostgreSQL. Ele demonstra como gerar recursos modulares usando o Nest CLI, estruturar entidades de banco de dados, expor os endpoints de criação, leitura, atualização e exclusão (CRUD) por meio de Controllers, e injetar serviços para manipular a persistência de dados de forma assíncrona e segura.
+
+
+Com base nas informações extraídas dos documentos de documentação (`documento_visao.md` e `arquitetura.md`) e de configuração (`package.json`) do projeto **iService**, elaborei as seções solicitadas de forma detalhada e contextualizada à realidade da sua equipe:
+
+---
+
+### 6. Fluxo de Trabalho Git com GitFlow: Branches e Pull Requests
+
+O projeto iService utiliza a estratégia de ramificação **GitFlow** para organizar as contribuições da equipe e manter a branch principal protegida:
+
+* **Branches no GitFlow:**
+* `main`: Armazena o código de produção, estável e pronto para entrega.
+* `develop`: Ramo central de integração de novas funcionalidades. É a base das atividades diárias da equipe.
+* `feature/*`: Branches temporárias criadas a partir da `develop` para o desenvolvimento de requisitos ou tarefas específicas (ex: `feature/solicitar-servico`). Uma vez terminada a tarefa, ela é integrada de volta à `develop`.
+
+
+* **Pull Request (ou Merge Request):** É o mecanismo pelo qual um desenvolvedor solicita formalmente que as alterações de sua branch (como uma `feature/*`) sejam revisadas e integradas ao ramo principal (`develop` ou `main`). No ecossistema do GitHub, o Pull Request funciona como uma ferramenta de qualidade: ele ativa a automação do CI/CD via GitHub Actions para realizar rotinas automáticas de Linters, Builds e Testes, bloqueando a integração se houver falhas técnicas ou conflitos.
+
