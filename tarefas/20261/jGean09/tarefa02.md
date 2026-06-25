@@ -65,3 +65,66 @@ Por exemplo: se a sua view do Django precisa consultar uma API externa de pagame
 
 No ecossistema Python, essa técnica é amplamente suportada de forma nativa através da biblioteca unittest.mock (utilizando classes como Mock, MagicMock ou o decorador @patch), permitindo simular qualquer comportamento ou retorno de função com muita facilidade.
 
+## Questão 10 - Repositório do Projeto
+
+**Repositório:** [ProjetoEngenharia1](https://github.com/expeditofranca/ProjetoEngenharia1)
+
+---
+
+### a. CRUD Implementado — US04: Gerar Relatório de Pagamento
+
+O User Story escolhido foi o **US04 - Gerar Relatório de Pagamento**, no qual sou o
+testador responsável. Ele contempla a geração e exibição de um relatório com os
+registros de pagamentos realizados pelos clientes. As operações cobertas pelos testes são:
+
+- **Consultar (listagem):** Acesso à página de relatório de pagamentos via requisição
+  GET, verificando se os dados do pagamento são exibidos corretamente na resposta.
+- **Consultar (sem dados):** Acesso à página quando não há pagamentos cadastrados,
+  verificando se o sistema responde sem erros.
+
+O setUp dos testes cria toda a cadeia de dependências necessária: `Endereco` →
+`Cliente` → `Divida` → `Pagamento`, simulando um cenário real de uso do sistema.
+
+---
+
+### b. Testes de Integração Implementados
+
+Foram implementados **2 testes** para a view de Relatório de Pagamento (US04),
+utilizando o `TestCase` do Django com banco de dados temporário real (SQLite) e
+o client HTTP embutido do Django para simular requisições à view.
+
+**Link para o arquivo de testes:**
+[test_us04_relatorio.py](https://github.com/expeditofranca/ProjetoEngenharia1/blob/main/antiveaco/tests/pagamento/test_us04_relatorio.py)
+
+| Teste | Caso de Aceitação | O que valida |
+|---|---|---|
+| `test_gerar_relatorio_com_sucesso` | TA04.01 | Página carrega com status 200 e exibe nome do cliente e valor pago |
+| `test_gerar_relatorio_sem_dados` | TA04.02 | Página carrega com status 200 mesmo sem pagamentos cadastrados |
+
+**Experiência de implementar os testes:** A principal dificuldade foi montar o `setUp`
+corretamente, já que a entidade `Pagamento` depende de `Endereco`, `Cliente` e `Divida`
+previamente criados. Foi necessário criar toda essa cadeia de objetos antes de cada
+teste para simular um cenário real. O uso do `self.client.get()` do Django permitiu
+testar a view de forma completa, verificando tanto o status HTTP quanto o conteúdo
+HTML retornado com `assertContains`.
+
+---
+
+### c. Testes de Unidade vs. Testes de Integração
+
+**Testes de Integração** verificam se diferentes partes do sistema funcionam
+corretamente *juntas*. Em vez de isolar componentes com mocks, eles testam a cadeia
+completa: a requisição HTTP chega à view, a view consulta o banco via ORM, e a
+resposta HTML é verificada.
+
+**O que foi feito nesta tarefa foram Testes de Integração**, pois os testes
+utilizam `self.client.get()` para disparar uma requisição HTTP real à URL
+`lista_pagamentos`, passando por toda a cadeia — URL → view → ORM → banco →
+template → resposta — sem nenhum mock ou simulação de dependências.
+
+Já um **teste de unidade puro** para o mesmo cenário isolaria a view com
+`unittest.mock`, simulando o retorno do banco e verificando apenas se os métodos
+corretos foram chamados, sem precisar de banco de dados ou template reais. A
+diferença principal é que o teste de unidade aponta exatamente *qual* lógica
+quebrou, enquanto o de integração indica que algo na comunicação entre as partes
+falhou.git 
