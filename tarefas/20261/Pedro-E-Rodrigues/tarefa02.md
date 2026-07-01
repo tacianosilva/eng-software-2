@@ -28,3 +28,24 @@ Utilizo o **Visual Studio Code (VS Code)**, que é um editor de código-fonte le
 
 **f. Pesquise sobre Mocks Objects em Testes de Unidade e faça um pequeno resumo.**
 Em testes de unidade, *Mock Objects* (Objetos Simulados) são objetos falsos criados para imitar o comportamento de dependências reais e complexas do sistema. Eles são usados para isolar a função que está sendo testada de elementos externos, como bancos de dados, APIs ou serviços web. Com os Mocks, podemos simular cenários de sucesso ou falha sem precisar acessar dados reais, o que torna os testes muito mais rápidos e estáveis. No desenvolvimento com Flutter e Dart, pacotes como o `mockito` ou o `mocktail` são os mais populares para essa tarefa.
+
+---
+## Questão 10 - Implementação e Testes do CRUD
+
+**a. Descrição do CRUD (User Story)**
+O CRUD escolhido foi o de **Gerenciamento de Chaves**. A User Story principal abrange o ciclo de vida completo de uma chave no sistema:
+* **Inserir (Create):** O administrador pode cadastrar uma nova chave no sistema informando seu nome, descrição e setor pertencente.
+* **Consultar (Read - US10):** Como Porteiro/Administrador, quero buscar chaves por nome/descrição ou setor, para localizar rapidamente uma chave e ver seu status.
+* **Atualizar (Update):** É possível editar as informações de uma chave existente (ex: mudar o setor caso a fechadura mude).
+* **Deletar (Delete):** Permite a exclusão lógica ou física de uma chave que foi perdida ou inutilizada.
+
+**b. Testes de Unidade com Mock Objects**
+A experiência de implementar os testes de unidade com Mocks no Flutter foi muito esclarecedora. Utilizamos o pacote `mocktail` (ou `mockito`) para "fingir" ser o repositório de chaves e o banco de dados. Isso nos permitiu testar a lógica do `ChavesRepository` (ou do Controller) de forma totalmente isolada, sem precisar de uma conexão real com o servidor ou banco, tornando os testes extremamente rápidos e imunes a falhas de rede.
+
+* **Link para o arquivo de teste:** [Cole o link do GitHub para o seu arquivo de teste aqui depois de fazer o push da Questão 10]
+
+**c. Testes de Integração vs Testes Unitários**
+Nesta atividade, o foco foi a realização de **Testes Unitários**. 
+A diferença principal é o **escopo**: 
+* **Teste Unitário:** Testa uma unidade isolada do código (uma função, um método, uma classe) ignorando o resto do sistema. Por isso usamos Mocks para simular o banco de dados.
+* **Teste de Integração:** Testa como diferentes partes do sistema funcionam juntas. Em um app Flutter, um teste de integração abriria o aplicativo em um emulador real, clicaria nos botões, acessaria um banco de dados de teste real e verificaria se a tela atualizou corretamente, testando o fluxo de ponta a ponta.
