@@ -63,3 +63,15 @@ O Versionamento Semântico é um padrão usado na indústria de software para no
 3.  **PATCH (Correção - ex: 2.1.4):** É incrementado quando são feitas apenas correções de bugs, mantendo tudo 100% compatível com as versões anteriores.
 
 ---
+
+## Conventional Commits
+
+Os Conventional Commits (Commits Convencionais) formam um padrão de escrita para as mensagens que enviamos ao Git. Isso ajuda tanto os desenvolvedores quanto ferramentas automatizadas a entenderem o histórico do projeto. A convenção usa "tipos" no início de cada mensagem. Os mais comuns são:
+
+* **`feat:`** Indica a criação de uma nova funcionalidade (feature).
+* **`fix:`** Indica a correção de um bug.
+* **`docs:`** Indica alterações apenas na documentação (como o README).
+* **`refactor:`** Indica uma mudança de código que não adiciona uma funcionalidade nem corrige um bug (como melhorar a organização do código).
+* **`test:`** Indica a adição ou correção de testes automatizados.
+
+*(Exemplo: `feat: adiciona botão de login na tela inicial`)*
