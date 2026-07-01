@@ -14,3 +14,10 @@
 * **Repositório:** [https://github.com/suelitonx/chaves_es2]
 
 ---
+
+## Linguagem de Programação
+
+A linguagem principal do projeto será **[FLUTTER]**.
+* **Domínio e Experiência:** [...]
+
+---
