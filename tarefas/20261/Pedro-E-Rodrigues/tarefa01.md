@@ -53,3 +53,13 @@ O **GitFlow** é um modelo de trabalho estruturado para o Git. Ele define que o 
 Um **Pull Request** (ou Merge Request) é o pedido que fazemos no GitHub para pegar o código que terminamos na nossa branch isolada e integrá-lo (fazer o merge) em uma branch principal. Ele cria um ambiente onde a equipe pode revisar o código, discutir mudanças e aprovar a tarefa antes que ela vire parte oficial do projeto.
 
 ---
+
+## Versionamento Semântico (SemVer)
+
+O Versionamento Semântico é um padrão usado na indústria de software para nomear as versões dos projetos, facilitando o entendimento do que mudou em cada atualização. Ele segue o formato **MAJOR.MINOR.PATCH** (por exemplo, `2.1.4`):
+
+1.  **MAJOR (Maior - ex: 2.0.0):** É incrementado quando são feitas mudanças drásticas que quebram a compatibilidade. Softwares antigos podem não funcionar com essa nova versão.
+2.  **MINOR (Menor - ex: 2.1.0):** É incrementado quando novas funcionalidades são adicionadas, mas de forma compatível com as versões anteriores.
+3.  **PATCH (Correção - ex: 2.1.4):** É incrementado quando são feitas apenas correções de bugs, mantendo tudo 100% compatível com as versões anteriores.
+
+---
