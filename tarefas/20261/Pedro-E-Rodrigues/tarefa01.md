@@ -21,3 +21,10 @@ A linguagem principal do projeto será **[FLUTTER]**.
 * **Domínio e Experiência:** [...]
 
 ---
+
+## Framework
+
+Utilizaremos o framework **[...]**.
+* **Sobre o Framework:** [...]
+
+---
