@@ -50,6 +50,9 @@ Revisar e atualizar quando necessário:
 
 ## 7. Links e Dicas
 
+- Plano de Iteração 2026.1 — [/projetos/20261/plano-iteracoes.md](/projetos/20261/plano-iteracoes.md)
+- Configuração SonarQube — [/docs/sonarqube/config.md](/docs/sonarqube/config.md)
+- Documento de Deploy — [/docs/doc-deploy.md](/docs/doc-deploy.md)
 - Versionamento Semântico — <https://semver.org/lang/pt-BR/>
 - Conventional Commits — <https://www.conventionalcommits.org/pt-br/v1.0.0/>
 - AcademicDevFlow — <https://labens.dct.ufrn.br/academicflow/>
