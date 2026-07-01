@@ -28,3 +28,11 @@ Utilizaremos o framework **[...]**.
 * **Sobre o Framework:** [...]
 
 ---
+
+## Ambiente de Desenvolvimento (IDE)
+
+A IDE escolhida pela equipe foi o **[Visual Studio Code (VS Code)]**.
+* **Ferramentas de Debug:** [Possui um depurador (debugger) integrado que permite adicionar breakpoints, inspecionar o valor das variáveis em tempo real e executar o código passo a passo, facilitando a identificação de erros.]
+* **Controle de Versão:** [Tem integração nativa com o Git. É possível fazer commits, criar branches, realizar push e pull, e visualizar o histórico de alterações diretamente por uma interface visual, sem depender apenas da linha de comando.]
+
+---
