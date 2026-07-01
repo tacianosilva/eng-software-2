@@ -36,3 +36,10 @@ A IDE escolhida pela equipe foi o **[Visual Studio Code (VS Code)]**.
 * **Controle de Versão:** [Tem integração nativa com o Git. É possível fazer commits, criar branches, realizar push e pull, e visualizar o histórico de alterações diretamente por uma interface visual, sem depender apenas da linha de comando.]
 
 ---
+
+## Tutorial de CRUD
+
+* **Link do Tutorial:** [...]
+* **Descrição do Conteúdo:** Este tutorial demonstra o passo a passo para implementar as quatro operações básicas de um sistema (Create, Read, Update, Delete). Ele aborda desde a conexão com o banco de dados até a criação das rotas e visualização na interface.
+
+---
