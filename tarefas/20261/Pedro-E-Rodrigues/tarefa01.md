@@ -6,3 +6,11 @@
 
 ---
 
+## Informações do Projeto
+
+* **Título do Projeto:** [SigKey]
+* **Descrição:** [Projeto para gerenciamento de chaves]
+* **Equipe:** [Sueliton, Laety, Pedro Emanuel, Felipe]
+* **Repositório:** [https://github.com/suelitonx/chaves_es2]
+
+---
