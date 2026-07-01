@@ -5,6 +5,6 @@ na disciplina Engenharia de Software II.
 
 ## Páginas
 
-- [Análise com o servidor SonarQube do LABENS](labens.md)
+- [Análise com o servidor SonarQube do LABENS](config.md)
 - [Dart e Flutter](dart-flutter.md)
 - [Plugins](plugins.md)
