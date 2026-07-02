@@ -24,6 +24,7 @@
 
 - **Testes de Unidade e/ou Integração:** Implementar testes para os User Stories implementados (feito pelo desenvolvedor).
 - **Testes de Aceitação:** Executar os testes de aceitação e gerar **Relatório de Testes** em Markdown.
+  - Iremos consideram também como **Testes de Sistema**;
   - [Modelo de Relatório de Testes](https://docs.google.com/document/d/11hLKf0FcspQrDRfo3gRMXzuY1028cUeniv_Aob8DX_0/edit?usp=sharing)
 - Cadastrar **issues de bugs** com base no relatório de testes de aceitação e dos testes de unidade.
 
