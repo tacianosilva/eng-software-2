@@ -21,3 +21,13 @@ O iService é uma plataforma desenvolvida para conectar prestadores de serviços
 **Equipe:** (integrantes)
 
 **Repositório:** (link do GitHub)
+
+---
+
+## b) Linguagem de programação
+
+O projeto utiliza TypeScript como linguagem principal.
+
+O TypeScript adiciona tipagem estática ao JavaScript, tornando o desenvolvimento mais seguro, organizado e de fácil manutenção.
+
+Nossa equipe possui experiência com JavaScript e vem adquirindo maior domínio em TypeScript durante o desenvolvimento do projeto.
