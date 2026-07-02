@@ -1,7 +1,9 @@
 # P3 — Implementação e Testes de Unidade (Grupo)
 
 **Disciplina:** Engenharia de Software II — DCT2302
+
 **Iteração:** 2
+
 **Foco:** Desenvolvimento, Testes e Arquitetura
 
 ## 1. Atualização dos Documentos
