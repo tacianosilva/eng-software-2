@@ -51,6 +51,7 @@ Utilize o formado apresentado no documento [Projeto Arquitetural e Implantação
 
 ## 6. Links e Dicas
 
+- Plano de Iteração 2026.1 — [/projetos/20261/plano-iteracoes.md](/projetos/20261/plano-iteracoes.md)
 - Versionamento Semântico (https://semver.org/lang/pt-BR/).
 - Conventional Commits - Convenções para Mensagens de Commits (https://www.conventionalcommits.org/pt-br/v1.0.0/).
 

@@ -1,0 +1,84 @@
+# Tarefa 02 - Teste de Unidade
+
+* Nome: Isaque Guimaraes Carreiro
+
+* Usuario GitHub: isaqueguimarcar
+
+* E-mail: isaqueguimarcar@gmail.com
+
+* Link do Repositorio: https://github.com/LuizFelixDev/iservice-api
+
+
+## Questão 9-A: 
+
+* Testes de software são fundamentais para garantir a qualidade, confiabilidade e funcionamento correto de um sistema. Eles consistem na verificação das funcionalidades da aplicação, assegurando que o comportamento esperado está sendo atendido. qDentro desse contexto, os testes de unidade têm como objetivo validar partes isoladas do sistema, como funções, métodos ou componentes. Esses testes são geralmente automatizados e executados com frequência durante o desenvolvimento. A principal vantagem dos testes de unidade é permitir a identificação rápida de erros, facilitar a manutenção do código e garantir maior segurança em futuras alterações.
+
+## Questão 9-B: 
+
+* O projeto foi desenvolvido utilizando JavaScript com Next.js, um framework baseado em React que permite a construção de aplicações web modernas com suporte a renderização no servidor e criação de APIs. Além disso, o projeto utiliza: API Routes do Next.js para backend. Essa stack permite desenvolver tanto o frontend quanto o backend em um único projeto, facilitando a integração entre as camadas.
+
+## Questão 9-C: 
+
+Para a implementação dos testes de unidade, foi utilizado o framework Jest.
+
+O Jest é uma ferramenta amplamente utilizada no ecossistema JavaScript, oferecendo suporte para:
+
+* Testes automatizados
+* Mock de funções e módulos
+* Testes assíncronos
+* Relatórios de cobertura de código
+
+Ele permite testar funções de forma isolada, garantindo que cada unidade do sistema funcione corretamente sem depender de outras partes da aplicação.
+
+Link: [https://jestjs.io/](https://jestjs.io/)
+
+## 9-D: 
+
+* A IDE utilizada foi o Visual Studio Code. Ela possui diversas ferramentas integradas que auxiliam no desenvolvimento, como: Debug (depuração), Breakpoints, Inspeção de variáveis e Execução passo a passo. Esses recursos facilitam a identificação de erros e o entendimento do fluxo da aplicação durante o desenvolvimento e testes.
+
+## 9-E: 
+
+Tutorial utilizado: https://nextjs.org/docs/pages/guides/testing/jest
+
+* Ele aborda: Instalação e configuração do Jest no projeto
+Criação de testes automatizados
+Execução dos testes
+Uso de bibliotecas auxiliares como React Testing Library. O conteúdo demonstra como validar funcionalidades de forma isolada, o que é essencial para a implementação de testes em operações CRUD.
+
+## 9-F: 
+
+* Mock Objects são objetos simulados utilizados em testes de unidade para substituir dependências reais do sistema, como banco de dados ou APIs externas Eles permitem que os testes sejam executados de forma isolada, garantindo que apenas a unidade em teste seja avaliada. O uso de mocks é importante porque: Evita dependência de recursos externos,
+Aumenta a velocidade dos testes,
+Permite simular diferentes cenários (sucesso, erro, exceções). No Jest, é possível criar mocks utilizando funções como jest.fn() e jest.mock().
+
+## 10-A: 
+
+
+* Foi implementada uma funcionalidade de gerenciamento de trabalhadores (workers), seguindo o padrão CRUD (Create, Read, Update, Delete).
+
+* Essa funcionalidade permite: Inserir trabalhadores: por meio de requisições POST, permitindo cadastrar um novo trabalhador com nome e função, Consultar trabalhadores: através de requisições GET, sendo possível listar todos os trabalhadores ou buscar um trabalhador específico pelo seu identificador, Atualizar trabalhadores: utilizando requisições PATCH, permitindo alterar os dados de um trabalhador existente, Remover trabalhadores: através de requisições DELETE, possibilitando excluir um trabalhador do sistema.
+
+
+
+## 10-B:
+
+Link do arquivo de teste:
+https://github.com/LuizFelixDev/iservice-api/blob/feature/user-story-workers/src/workers/workers.service.spec.ts
+
+
+* Foram implementados testes de unidade para cada operação do CRUD de trabalhadores, utilizando o framework Jest. Os testes foram aplicados diretamente na camada de serviço (WorkersService), garantindo que cada funcionalidade fosse testada de forma isolada.
+
+* As operações testadas incluem: Criação de trabalhador, Listagem de trabalhadores, Busca por ID, Atualização de dados,Remoção de trabalhador. Além disso, foram testados cenários de erro, como a tentativa de buscar ou remover um trabalhador inexistente, garantindo maior robustez da aplicação.
+
+* A experiência de implementar os testes foi positiva, pois permitiu validar o funcionamento correto das operações e reforçar a importância de testar unidades individuais do sistema.
+
+## 10-C: 
+
+* Testes de unidade e testes de integração possuem objetivos diferentes no processo de validação de software. Os testes de unidade verificam partes isoladas do sistema, como funções ou métodos, sem depender de outros componentes. Eles são rápidos, focados e ajudam a identificar erros diretamente na lógica da aplicação.
+
+* Já os testes de integração têm como objetivo validar a interação entre diferentes partes do sistema, como controller, service e banco de dados, garantindo que os componentes funcionem corretamente em conjunto.
+
+* Neste projeto, foram implementados testes de unidade, pois o foco foi validar a lógica do serviço de forma isolada. Não foram realizados testes de integração.
+
+
+
