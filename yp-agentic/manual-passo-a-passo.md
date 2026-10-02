@@ -131,6 +131,6 @@ O YP-Agentic organiza o desenvolvimento em **8 fases** com **iterações de 2 se
 
 ## 8. Referências
 
-- Repositório do processo: `https://github.com/EngSoft-BSI-Hub/yp-agentic` (fonte original).
+- **Processo YP-Agentic (página pública do curso):** [`yp-agentic/`](https://github.com/tacianosilva/engenharia-software/tree/main/yp-agentic)
 - Processo local nesta disciplina: pasta [`yp-agentic/`](../yp-agentic/).
 - Enunciados: [`tarefas/2026.2-TIND/`](../tarefas/2026.2-TIND/).
